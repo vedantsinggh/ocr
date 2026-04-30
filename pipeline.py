@@ -1,21 +1,66 @@
+"""
+pipeline.py
+-----------
+Hybrid receipt OCR pipeline:
+
+  ┌──────────────┐
+  │  Raw image   │
+  └──────┬───────┘
+         │  preprocessor.preprocess()
+         ▼
+  ┌──────────────┐
+  │Preprocessed  │  (deskewed, denoised, upscaled)
+  │   image      │
+  └──────┬───────┘
+         │
+    ┌────┴─────┐
+    │          │
+    ▼          ▼
+Tesseract    Donut
+(store name, (menu items,
+  date)        total)
+    │          │
+    └────┬─────┘
+         │  postprocessor.postprocess()
+         ▼
+  ┌──────────────┐
+  │  result.json │
+  └──────────────┘
+
+Usage:
+    python pipeline.py --input ./images --output ./outputs
+    python pipeline.py --input ./images --output ./outputs --single receipt.jpg
+    python pipeline.py --input ./images --output ./outputs --device cuda
+
+NOTE: Donut is loaded via HuggingFace transformers directly (VisionEncoderDecoderModel)
+      instead of the donut-python library to avoid architecture/checkpoint mismatches.
+"""
+
 import os
-import json
-import argparse
-import logging
-import time
-from pathlib import Path
-from typing import Optional
-
 import re
+import json
+import time
+import logging
+import argparse
+from pathlib import Path
 
+import torch
 import cv2
 import numpy as np
 import pytesseract
 from PIL import Image
 
-from preprocessor import preprocess
-from extractor import extract_all
+# ── Load Donut via transformers directly (bypasses donut-python arch mismatch) ──
+from transformers import (
+    VisionEncoderDecoderModel,
+    DonutProcessor,
+)
 
+from preprocessor import preprocess
+from postprocessor import postprocess  # use_llm kwarg added in updated version
+
+# ── Logging ───────────────────────────────────────────────────────────────────
+os.makedirs('logs', exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
@@ -27,195 +72,241 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 SUPPORTED_EXTS = {'.jpg', '.jpeg', '.png', '.bmp', '.tiff', '.tif', '.webp'}
+MODEL_ID    = "naver-clova-ix/donut-base-finetuned-cord-v2"
+TASK_PROMPT = "<s_cord-v2>"
 
-TESS_CONFIG = r'--oem 3 --psm 6' #TODO: configure
-
-
-def init_reader(languages: list[str] = ['eng']) -> None:
-    lang_str = '+'.join(languages)
-    log.info(f"Tesseract OCR ready (languages: {lang_str})")
-    return lang_str 
+# Tesseract config: treat the image as a single block of text, output UTF-8
+TESS_CONFIG = r'--oem 3 --psm 4'
 
 
-def run_ocr(lang: str, image: np.ndarray) -> tuple[list[str], list[float]]:
-    """Run Tesseract with per-word confidence scores."""
-    pil_img = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
-    data = pytesseract.image_to_data(
-        pil_img, lang=lang, config=TESS_CONFIG,
-        output_type=pytesseract.Output.DICT
-    )
+# ─────────────────────────────────────────────────────────────────────────────
+# Model loading  (transformers VisionEncoderDecoder — no donut-python needed)
+# ─────────────────────────────────────────────────────────────────────────────
 
-    from collections import defaultdict
-    line_words = defaultdict(list)
-    line_confs = defaultdict(list)
-    for i, word in enumerate(data['text']):
-        word = word.strip()
-        if not word:
-            continue
-        conf = int(data['conf'][i])
-        if conf < 0: 
-            continue
-        key = (data['block_num'][i], data['par_num'][i], data['line_num'][i])
-        line_words[key].append(word)
-        line_confs[key].append(conf / 100.0)
+def load_donut(device: str = "cpu"):
+    """
+    Load Donut via transformers.VisionEncoderDecoderModel.
+    This avoids the Swin encoder architecture mismatch that occurs when using
+    the donut-python wrapper (DonutModel.from_pretrained) with mismatched versions.
+    """
+    log.info(f"Loading Donut model ({MODEL_ID}) via transformers")
+    log.info("First run downloads ~800 MB — subsequent runs load from HuggingFace cache.")
 
-    lines, confs = [], []
-    for key in sorted(line_words.keys()):
-        line_text = ' '.join(line_words[key])
-        avg_conf = sum(line_confs[key]) / len(line_confs[key])
-        lines.append(line_text)
-        confs.append(avg_conf)
+    processor = DonutProcessor.from_pretrained(MODEL_ID)
+    model     = VisionEncoderDecoderModel.from_pretrained(MODEL_ID)
 
-    return lines, confs
+    model.to(device)
+    model.eval()
+
+    log.info(f"Donut ready on {device}")
+    return processor, model
 
 
-def process_single(
-    image_path: str,
-    reader: str,
-    output_dir: str,
-    save_preprocessed: bool = False
-) -> dict:
+# ─────────────────────────────────────────────────────────────────────────────
+# Per-image inference
+# ─────────────────────────────────────────────────────────────────────────────
+
+def run_tesseract(preprocessed_img: np.ndarray) -> str:
+    """
+    Run Tesseract on the preprocessed OpenCV image.
+    Converts to PIL RGB for pytesseract (it expects RGB, not BGR).
+    Returns the raw OCR text string.
+    """
+    if len(preprocessed_img.shape) == 2:
+        pil_img = Image.fromarray(preprocessed_img)
+    else:
+        pil_img = Image.fromarray(cv2.cvtColor(preprocessed_img, cv2.COLOR_BGR2RGB))
+
+    text = pytesseract.image_to_string(pil_img, config=TESS_CONFIG)
+    return text
+
+
+def run_donut(processor: DonutProcessor,
+              model: VisionEncoderDecoderModel,
+              image_path: str,
+              device: str = "cpu") -> dict:
+    """
+    End-to-end Donut inference via transformers:
+      image → pixel_values → generated token ids → decoded JSON string → dict
+
+    Returns the parsed CORD prediction dict, or {} on failure.
+    """
+    image = Image.open(image_path).convert("RGB")
+
+    # Prepare inputs exactly as the CORD fine-tune expects
+    pixel_values = processor(image, return_tensors="pt").pixel_values.to(device)
+
+    # Build the decoder prompt
+    decoder_input_ids = processor.tokenizer(
+        TASK_PROMPT,
+        add_special_tokens=False,
+        return_tensors="pt",
+    ).input_ids.to(device)
+
+    with torch.no_grad():
+        outputs = model.generate(
+            pixel_values,
+            decoder_input_ids=decoder_input_ids,
+            max_length=model.decoder.config.max_position_embeddings,
+            early_stopping=True,
+            pad_token_id=processor.tokenizer.pad_token_id,
+            eos_token_id=processor.tokenizer.eos_token_id,
+            use_cache=True,
+            num_beams=1,
+            bad_words_ids=[[processor.tokenizer.unk_token_id]],
+            return_dict_in_generate=True,
+        )
+
+    # Decode token ids → markup string → JSON dict
+    sequence = processor.batch_decode(outputs.sequences)[0]
+    sequence = sequence.replace(processor.tokenizer.eos_token, "")
+    sequence = sequence.replace(processor.tokenizer.pad_token, "")
+    # Strip the task prompt prefix
+    sequence = re.sub(r"<.*?>", "", sequence, count=1).strip()
+
+    try:
+        parsed = processor.token2json(sequence)
+    except Exception as e:
+        log.warning(f"token2json failed ({e}), returning empty dict")
+        parsed = {}
+
+    return parsed
+
+
+def process_single(image_path: str,
+                   processor: DonutProcessor,
+                   model: VisionEncoderDecoderModel,
+                   output_dir: str,
+                   device: str = "cpu",
+                   use_llm: bool = True) -> dict:
+    """
+    Full pipeline for a single receipt image:
+      1. Preprocess (deskew, denoise, upscale)
+      2. Tesseract → store name + date
+      3. Donut → items + total block
+      4. Postprocess (validate, clean, score)
+      5. Write <stem>.json to output_dir
+    """
     start = time.time()
     stem = Path(image_path).stem
-
     result = {
-        "file": os.path.basename(image_path),
-        "status": "ok",
-        "error": None,
-        "data": None,
+        "file":                image_path,
+        "status":              "ok",
+        "error":               None,
+        "data":                None,
         "processing_time_sec": None,
     }
 
     try:
-        img = preprocess(image_path)
+        # ── Step 1: Preprocess ────────────────────────────────────────────
+        log.info(f"  Preprocessing {stem}")
+        preprocessed = preprocess(image_path)
 
-        if save_preprocessed:
-            pre_path = os.path.join(output_dir, f"{stem}_preprocessed.jpg")
-            cv2.imwrite(pre_path, img)
+        # ── Step 2: Tesseract OCR (store name + date) ─────────────────────
+        log.info(f"  Running Tesseract on {stem}")
+        tess_text = run_tesseract(preprocessed)
+        log.debug(f"  Tesseract text:\n{tess_text[:300]}")
 
-        lines, confs = run_ocr(reader, img)  
+        # ── Step 3: Donut inference (items + totals) ──────────────────────
+        log.info(f"  Running Donut on {stem}")
+        donut_raw = run_donut(processor, model, image_path, device)
 
-        if not lines:
-            result["status"] = "empty"
-            result["error"] = "No text detected after preprocessing"
+        if not donut_raw:
+            result.update({
+                "status": "empty",
+                "error":  "Donut returned no predictions",
+            })
             return result
 
-        extracted = extract_all(lines, confs)
-        extracted["raw_text"] = lines  
+        # ── Step 4: Postprocess ───────────────────────────────────────────
+        structured = postprocess(tess_text, donut_raw, use_llm=use_llm)
+        result["data"] = structured
 
-        result["data"] = extracted
-
+        # ── Step 5: Write JSON ────────────────────────────────────────────
         out_path = os.path.join(output_dir, f"{stem}.json")
         with open(out_path, 'w', encoding='utf-8') as f:
             json.dump(result, f, indent=2, ensure_ascii=False)
 
-        log.info(f"✓ {stem} | store={extracted['store_name']['value']} "
-                 f"| total={extracted['total_amount']['value']} "
-                 f"| conf={extracted['overall_confidence']:.2f}")
+        log.info(
+            f"  ✓ {stem} | store={structured['store_name']['value']} "
+            f"| date={structured['date']['value']} "
+            f"| items={len(structured['items'])} "
+            f"| total={structured['total_amount']['value']} "
+            f"| conf={structured['overall_confidence']:.2f} "
+            f"| flagged={structured['flagged_fields']}"
+        )
 
     except Exception as e:
-        result["status"] = "error"
-        result["error"] = str(e)
-        log.error(f"✗ {stem}: {e}")
+        result.update({"status": "error", "error": str(e)})
+        log.error(f"  ✗ {stem}: {e}", exc_info=True)
 
     result["processing_time_sec"] = round(time.time() - start, 2)
     return result
 
 
-def generate_summary(all_results: list[dict]) -> dict:
-    """Generate financial summary across all receipts."""
-    total_spend = 0.0
-    transactions = 0
-    store_spend = {}
-    failed = []
-    low_conf = []
+# ─────────────────────────────────────────────────────────────────────────────
+# Batch runner
+# ─────────────────────────────────────────────────────────────────────────────
 
-    for r in all_results:
-        if r["status"] != "ok" or not r["data"]:
-            failed.append(r["file"])
-            continue
-
-        data = r["data"]
-        transactions += 1
-
-        total_field = data.get("total_amount", {})
-        raw_total = total_field.get("value", "")
-        if raw_total:
-            nums = re.findall(r'\d+\.\d{2}', str(raw_total))
-            if nums:
-                amt = float(nums[0])
-                total_spend += amt
-
-                store = data.get("store_name", {}).get("value") or "Unknown"
-                store_spend[store] = round(store_spend.get(store, 0.0) + amt, 2)
-
-        if data.get("overall_confidence", 1.0) < 0.6:
-            low_conf.append(r["file"])
-
-    return {
-        "total_spend": round(total_spend, 2),
-        "total_transactions": transactions,
-        "failed_images": len(failed),
-        "low_confidence_receipts": low_conf,
-        "spend_per_store": dict(sorted(store_spend.items(), key=lambda x: -x[1])),
-        "average_transaction_value": round(total_spend / transactions, 2) if transactions else 0,
-    }
-
-
-def run_batch(input_dir: str, output_dir: str, languages: list[str] = ['eng']):
-    """Process all receipt images in a directory."""
+def run_batch(input_dir: str, output_dir: str, device: str = "cpu", use_llm: bool = True):
     os.makedirs(output_dir, exist_ok=True)
-    os.makedirs('logs', exist_ok=True)
 
-    images = [
+    images = sorted(
         str(p) for p in Path(input_dir).rglob('*')
         if p.suffix.lower() in SUPPORTED_EXTS
-    ]
-
+    )
     if not images:
-        log.error(f"No images found in {input_dir}")
+        log.error(f"No supported images found in {input_dir}")
         return
 
-    log.info(f"Found {len(images)} images. Starting pipeline...")
-    reader = init_reader(languages)
-
+    log.info(f"Found {len(images)} image(s) in {input_dir}")
+    processor, model = load_donut(device)
     all_results = []
-    for i, path in enumerate(images, 1):
-        log.info(f"[{i}/{len(images)}] Processing: {os.path.basename(path)}")
-        result = process_single(path, reader, output_dir, True)
-        all_results.append(result)
 
-    master_path = os.path.join(output_dir, '_all_results.json')
-    with open(master_path, 'w', encoding='utf-8') as f:
+    for i, path in enumerate(images, 1):
+        log.info(f"[{i}/{len(images)}] {os.path.basename(path)}")
+        all_results.append(
+            process_single(path, processor, model, output_dir, device, use_llm)
+        )
+
+    # Dump combined results
+    combined_path = os.path.join(output_dir, '_all_results.json')
+    with open(combined_path, 'w', encoding='utf-8') as f:
         json.dump(all_results, f, indent=2, ensure_ascii=False)
 
-    summary = generate_summary(all_results)
-    summary_path = os.path.join(output_dir, '_financial_summary.json')
-    with open(summary_path, 'w', encoding='utf-8') as f:
-        json.dump(summary, f, indent=2, ensure_ascii=False)
+    ok    = sum(1 for r in all_results if r["status"] == "ok")
+    error = sum(1 for r in all_results if r["status"] == "error")
+    empty = sum(1 for r in all_results if r["status"] == "empty")
+    log.info(f"DONE | ok={ok} | error={error} | empty={empty} | total={len(all_results)}")
+    log.info(f"Results written to {combined_path}")
 
-    log.info("\n" + "="*50)
-    log.info("PIPELINE COMPLETE")
-    log.info(f"  Processed : {len(all_results)}")
-    log.info(f"  Successful: {sum(1 for r in all_results if r['status']=='ok')}")
-    log.info(f"  Failed    : {sum(1 for r in all_results if r['status']!='ok')}")
-    log.info(f"  Total Spend: {summary['total_spend']}")
-    log.info("="*50)
 
+# ─────────────────────────────────────────────────────────────────────────────
+# CLI entry point
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Receipt OCR Pipeline")
-    parser.add_argument('--input', required=True, help='Input image directory')
-    parser.add_argument('--output', default='./outputs', help='Output JSON directory')
-    parser.add_argument('--lang', nargs='+', default=['eng'], help='OCR languages e.g. --lang en ms')
-    parser.add_argument('--single', default=None, help='Process a single image file')
+    parser = argparse.ArgumentParser(
+        description="Hybrid Tesseract + Donut receipt OCR pipeline"
+    )
+    parser.add_argument('--input',  required=True,
+                        help="Input directory containing receipt images")
+    parser.add_argument('--output', default='./outputs',
+                        help="Output directory for JSON results (default: ./outputs)")
+    parser.add_argument('--device', default='cpu', choices=['cpu', 'cuda'],
+                        help="Device for Donut model (default: cpu)")
+    parser.add_argument('--single', default=None,
+                        help="Process a single image file instead of a directory")
+    parser.add_argument('--no-llm', action='store_true',
+                        help="Disable the LLM correction pass (faster, offline-safe)")
     args = parser.parse_args()
+
+    use_llm = not args.no_llm
 
     if args.single:
         os.makedirs(args.output, exist_ok=True)
-        os.makedirs('logs', exist_ok=True)
-        reader = init_reader(args.lang)
-        result = process_single(args.single, reader, args.output, True)
-        print(json.dumps(result, indent=2))
+        processor, m = load_donut(args.device)
+        result = process_single(args.single, processor, m, args.output, args.device, use_llm)
+        print(json.dumps(result, indent=2, ensure_ascii=False))
     else:
-        run_batch(args.input, args.output, args.lang)
+        run_batch(args.input, args.output, args.device, use_llm)
