@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806692.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806692.txt",
+    "ocr_line_count": 95,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GREATZONE HOUSEHOLD CENTRE SDN BHD",
+  "date": "2018-02-18",
+  "items": [
+    {
+      "name": "200SHEET COMPACT SERVIETTES (NTE)",
+      "qty": 1,
+      "price": "3.30"
+    },
+    {
+      "name": "1.5\" RU8BER BAND",
+      "qty": 1,
+      "price": "3.60"
+    },
+    {
+      "name": "1.5\" RU8BER BAND",
+      "qty": 1,
+      "price": "2.50"
+    },
+    {
+      "name": "18MMX90Y OPP TAPE",
+      "qty": 1,
+      "price": "1.60"
+    },
+    {
+      "name": "911 TAPE DISPENSER",
+      "qty": 1,
+      "price": "8.60"
+    },
+    {
+      "name": "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+      "qty": 1,
+      "price": "49.90"
+    },
+    {
+      "name": "AP-17 APRON PLAIN CLOTH",
+      "qty": 20,
+      "price": "10.90"
+    },
+    {
+      "name": "TALI UKURAN",
+      "qty": 1,
+      "price": "1.00"
+    },
+    {
+      "name": "CC-100 100PC CITE CANDLE",
+      "qty": 1,
+      "price": "22.90"
+    },
+    {
+      "name": "F1502 SCISSOR 08C (CH) (TLC)",
+      "qty": 6,
+      "price": "6.00"
+    },
+    {
+      "name": "2KG HC KITCHEN SCALE",
+      "qty": 1,
+      "price": "19.90"
+    }
+  ],
+  "subtotal": "346.51",
+  "tax": "20.79",
+  "total": "367.30",
+  "currency": "RM",
+  "payment_method": "Credit Card"
+}

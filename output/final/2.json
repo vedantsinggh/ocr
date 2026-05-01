@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/2.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/2.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2020-10-18",
+  "items": [
+    {
+      "name": "OATMEAL",
+      "qty": null,
+      "price": "1.76"
+    },
+    {
+      "name": "MATHLETICS",
+      "qty": null,
+      "price": "24.97"
+    },
+    {
+      "name": "DEXAS 15X20",
+      "qty": null,
+      "price": "12.97"
+    }
+  ],
+  "subtotal": "46.44",
+  "tax": "3.46",
+  "total": "49.90",
+  "currency": "INR",
+  "payment_method": "DEBIT TEND"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005763940.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005763940.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Harvey Norman",
+  "date": "2018-02-11",
+  "items": [
+    {
+      "name": "CANON CART PG-47BK",
+      "qty": null,
+      "price": "39.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.40",
+  "total": "60.00",
+  "currency": "RM",
+  "payment_method": "UOB Terminal"
+}

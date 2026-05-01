@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447859.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447859.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-02-14",
+  "items": [
+    {
+      "name": "100PLUS LIME 325ML",
+      "qty": null,
+      "price": "1.45"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "1.45",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

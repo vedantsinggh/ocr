@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757290.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757290.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IOI PUCHONG",
+  "date": "2018-03-17",
+  "items": [
+    {
+      "name": "STUDENT SOCKS",
+      "qty": 3,
+      "price": "9.50"
+    },
+    {
+      "name": "BELT",
+      "qty": 1,
+      "price": "22.90"
+    },
+    {
+      "name": "PVC MAN PER",
+      "qty": 1,
+      "price": "10.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.43",
+  "total": "42.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

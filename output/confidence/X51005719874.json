@@ -1,0 +1,103 @@
+{
+  "source": "images/X51005719874.jpg",
+  "line_count": 24,
+  "avg_confidence": 0.9654,
+  "lines": [
+    {
+      "text": "NADEJE PRESTIGE SDN BHD",
+      "confidence": 0.964
+    },
+    {
+      "text": "LOT NO.:G1.116A.GROUND FLOOR",
+      "confidence": 0.8868
+    },
+    {
+      "text": "SUNWAY PYRAMID.NO.3.JALAN PJS 11/15,",
+      "confidence": 0.9162
+    },
+    {
+      "text": "BANDAR SUNWAY.4750O PETALING JAYA.",
+      "confidence": 0.9288
+    },
+    {
+      "text": "(1198447-X",
+      "confidence": 0.9544
+    },
+    {
+      "text": "GST ID:000182431744",
+      "confidence": 0.9741
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9808
+    },
+    {
+      "text": "Invoice:000-074020",
+      "confidence": 0.9611
+    },
+    {
+      "text": "Take Out",
+      "confidence": 0.9853
+    },
+    {
+      "text": "Date:2018/02/22 13:34:14",
+      "confidence": 0.9452
+    },
+    {
+      "text": "Original Slice",
+      "confidence": 0.9545
+    },
+    {
+      "text": "2",
+      "confidence": 0.9993
+    },
+    {
+      "text": "RM26.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "DoubleChoc Slice",
+      "confidence": 0.9572
+    },
+    {
+      "text": "1",
+      "confidence": 0.9607
+    },
+    {
+      "text": "RM13.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Grand Tota1 R39.00",
+      "confidence": 0.9941
+    },
+    {
+      "text": "Bil1 Inclusive 0f 6% GST:RM2.21",
+      "confidence": 0.8899
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9984
+    },
+    {
+      "text": "RM50.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9991
+    },
+    {
+      "text": "RM11.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "001-2018/02/22 13:34:27MyTun1",
+      "confidence": 0.9547
+    },
+    {
+      "text": "000-074020[1]",
+      "confidence": 0.9732
+    }
+  ]
+}

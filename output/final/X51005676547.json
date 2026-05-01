@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676547.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676547.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PERNIAGAAN GIN KEE",
+  "date": "2018-01-13",
+  "items": [
+    {
+      "name": "GLOVE 1200 (PER PAIR)",
+      "qty": 6,
+      "price": "2.12"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.72",
+  "total": "12.72",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

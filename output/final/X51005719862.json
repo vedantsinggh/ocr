@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719862.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719862.txt",
+    "ocr_line_count": 26,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPEEDMART",
+  "date": "2018-02-03",
+  "items": [
+    {
+      "name": "LABOOST DRINKING WATER",
+      "qty": null,
+      "price": "50.00"
+    },
+    {
+      "name": "NEOBUN PLASTER",
+      "qty": 10,
+      "price": "3.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.69",
+  "total": "37.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

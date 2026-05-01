@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005444037.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.9552,
+  "lines": [
+    {
+      "text": "Nandos",
+      "confidence": 0.9976
+    },
+    {
+      "text": "PERi-PERI CHICKEN",
+      "confidence": 0.9192
+    },
+    {
+      "text": "Nando's Chickenland Malaysia",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Sdn Bhd",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Nando's 1 Mont Kiara",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Unit G-13, Ground Floor, No.1",
+      "confidence": 0.9695
+    },
+    {
+      "text": "Jln Kiara, Mont Kiara",
+      "confidence": 0.9812
+    },
+    {
+      "text": "50480 Kua1a Lumpur",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Tel: 1300-88-6555 Fax: 603-6203 6355",
+      "confidence": 0.9628
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9799
+    },
+    {
+      "text": "GST ID:000097492992",
+      "confidence": 0.9714
+    },
+    {
+      "text": "4 NANDOS3",
+      "confidence": 0.955
+    },
+    {
+      "text": "76 SYAFIQ 2",
+      "confidence": 0.9783
+    },
+    {
+      "text": "Chk 8660",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Guesto",
+      "confidence": 0.9322
+    },
+    {
+      "text": "28 Mar 18 18:32:36",
+      "confidence": 0.9964
+    },
+    {
+      "text": "1",
+      "confidence": 0.5709
+    },
+    {
+      "text": "DELIVERY CHG",
+      "confidence": 0.9674
+    },
+    {
+      "text": "4.00 s",
+      "confidence": 0.9585
+    },
+    {
+      "text": "4",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1/4 Chic+1sd-T @17.90",
+      "confidence": 0.995
+    },
+    {
+      "text": "71.60 S",
+      "confidence": 0.9911
+    },
+    {
+      "text": "4",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1/4-H",
+      "confidence": 0.9946
+    },
+    {
+      "text": "S",
+      "confidence": 0.5085
+    },
+    {
+      "text": "4",
+      "confidence": 0.981
+    },
+    {
+      "text": "CharGri11 Veg(R)-TC",
+      "confidence": 0.9785
+    },
+    {
+      "text": "S",
+      "confidence": 0.564
+    },
+    {
+      "text": "Gri11Veg-H",
+      "confidence": 0.9916
+    },
+    {
+      "text": "Gri11Veg-H",
+      "confidence": 0.9834
+    },
+    {
+      "text": "Gri11Veg-H",
+      "confidence": 0.9841
+    },
+    {
+      "text": "Gri11Veg-H",
+      "confidence": 0.9794
+    },
+    {
+      "text": "3",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1/4 Chic+1sd-T @17.90",
+      "confidence": 0.9744
+    },
+    {
+      "text": "53.70 S",
+      "confidence": 0.9718
+    },
+    {
+      "text": "3",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1/4-M",
+      "confidence": 0.9909
+    },
+    {
+      "text": "S",
+      "confidence": 0.6902
+    },
+    {
+      "text": "3",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Coleslaw(R)-TC",
+      "confidence": 0.9933
+    },
+    {
+      "text": "s",
+      "confidence": 0.7394
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9502
+    },
+    {
+      "text": "129.30",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Amt Due",
+      "confidence": 0.9928
+    },
+    {
+      "text": "129.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST @6%",
+      "confidence": 0.9996
+    },
+    {
+      "text": "7.30",
+      "confidence": 0.9982
+    },
+    {
+      "text": "How was it for you?",
+      "confidence": 0.9702
+    },
+    {
+      "text": "Your feedback is important,",
+      "confidence": 0.9991
+    },
+    {
+      "text": " so please complete our",
+      "confidence": 0.9656
+    },
+    {
+      "text": "www.howwasit4you-my.net",
+      "confidence": 0.9959
+    },
+    {
+      "text": "A meal for you & 10 friends",
+      "confidence": 0.9366
+    },
+    {
+      "text": "is up for grabs.",
+      "confidence": 0.9899
+    },
+    {
+      "text": "Survey Code:MAL025",
+      "confidence": 0.9967
+    },
+    {
+      "text": "T&C apply.",
+      "confidence": 0.9839
+    },
+    {
+      "text": "For Take Away and Delivery,",
+      "confidence": 0.9995
+    },
+    {
+      "text": "food is best consumed within 2 hours",
+      "confidence": 0.987
+    },
+    {
+      "text": "GSTSummary Amount(RM)",
+      "confidence": 0.9765
+    },
+    {
+      "text": "GST(RM)",
+      "confidence": 0.9701
+    },
+    {
+      "text": "S=GST @6%:",
+      "confidence": 0.995
+    },
+    {
+      "text": "122.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "7.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Z=GST @O%:",
+      "confidence": 0.9416
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    }
+  ]
+}

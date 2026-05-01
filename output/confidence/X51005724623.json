@@ -1,0 +1,303 @@
+{
+  "source": "images/X51005724623.jpg",
+  "line_count": 74,
+  "avg_confidence": 0.9625,
+  "lines": [
+    {
+      "text": "KEDA",
+      "confidence": 0.9804
+    },
+    {
+      "text": "APAN YEW CH JAN",
+      "confidence": 0.9528
+    },
+    {
+      "text": "558085-K)",
+      "confidence": 0.9514
+    },
+    {
+      "text": "LOT276JAIANBANTING",
+      "confidence": 0.9511
+    },
+    {
+      "text": "300DEN",
+      "confidence": 0.9685
+    },
+    {
+      "text": "SELANGOR",
+      "confidence": 0.9914
+    },
+    {
+      "text": "TEL:03-87686092",
+      "confidence": 0.9645
+    },
+    {
+      "text": "FAX03-87686092",
+      "confidence": 0.993
+    },
+    {
+      "text": "GSTID000781500416",
+      "confidence": 0.9904
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9529
+    },
+    {
+      "text": "SUCIALAM JAYA TRANSPORT",
+      "confidence": 0.9415
+    },
+    {
+      "text": "NO 1JALAN AMAN 2",
+      "confidence": 0.9154
+    },
+    {
+      "text": "TAMAN DESA43800",
+      "confidence": 0.9424
+    },
+    {
+      "text": "DENGKSELANGOR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "017",
+      "confidence": 0.9914
+    },
+    {
+      "text": "7",
+      "confidence": 0.6628
+    },
+    {
+      "text": "CS00010612",
+      "confidence": 0.996
+    },
+    {
+      "text": "Date: 0803/2018",
+      "confidence": 0.9441
+    },
+    {
+      "text": "or",
+      "confidence": 0.8454
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Time:14:5800",
+      "confidence": 0.8545
+    },
+    {
+      "text": "person",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Ret",
+      "confidence": 0.6835
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9862
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9838
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9871
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.975
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9886
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9958
+    },
+    {
+      "text": "101756",
+      "confidence": 0.9981
+    },
+    {
+      "text": "10",
+      "confidence": 0.8523
+    },
+    {
+      "text": "1050",
+      "confidence": 0.9559
+    },
+    {
+      "text": "17.49",
+      "confidence": 0.9971
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.9881
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9913
+    },
+    {
+      "text": "SIMEN",
+      "confidence": 0.9451
+    },
+    {
+      "text": "101870",
+      "confidence": 0.9976
+    },
+    {
+      "text": "2",
+      "confidence": 0.999
+    },
+    {
+      "text": "65.00",
+      "confidence": 0.997
+    },
+    {
+      "text": "68.90",
+      "confidence": 0.9784
+    },
+    {
+      "text": "137.80",
+      "confidence": 0.9912
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9924
+    },
+    {
+      "text": "PASIR HALUS (D)",
+      "confidence": 0.907
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9385
+    },
+    {
+      "text": "12",
+      "confidence": 0.9999
+    },
+    {
+      "text": "312.70",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total Sales (Excluding GST):",
+      "confidence": 0.9592
+    },
+    {
+      "text": "295.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9985
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9096
+    },
+    {
+      "text": "17.70",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9532
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Total Sales (Inclusive ofGsT):",
+      "confidence": 0.9444
+    },
+    {
+      "text": "312.70",
+      "confidence": 0.9994
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.879
+    },
+    {
+      "text": "350.00",
+      "confidence": 0.998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.999
+    },
+    {
+      "text": "37.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ST SUMMARY",
+      "confidence": 0.9568
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9971
+    },
+    {
+      "text": "%",
+      "confidence": 0.9711
+    },
+    {
+      "text": "AmtRM",
+      "confidence": 0.9881
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9009
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9947
+    },
+    {
+      "text": "6",
+      "confidence": 0.9987
+    },
+    {
+      "text": "295.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "17.70",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9749
+    },
+    {
+      "text": "295.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "17.70",
+      "confidence": 0.9957
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE.TANK",
+      "confidence": 0.9114
+    }
+  ]
+}

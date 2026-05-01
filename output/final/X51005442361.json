@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442361.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442361.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "organfleld's Home of Stcky Booea",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "Ribs Platter",
+      "qty": null,
+      "price": "SR259.90"
+    },
+    {
+      "name": "Naughty Spare Rib-Fu1l",
+      "qty": null,
+      "price": "SR106.90"
+    },
+    {
+      "name": "Apple-350m",
+      "qty": null,
+      "price": "SR13.90"
+    },
+    {
+      "name": "Sour Apple Mojito",
+      "qty": null,
+      "price": "SR18.90"
+    },
+    {
+      "name": "Berry Easy",
+      "qty": null,
+      "price": "SR18.90"
+    },
+    {
+      "name": "Aust Rib-eye Steak",
+      "qty": null,
+      "price": "SR74.90"
+    },
+    {
+      "name": "Fruity Garden Salad",
+      "qty": null,
+      "price": "SR21.90"
+    },
+    {
+      "name": "Hasahi 1+1/2",
+      "qty": null,
+      "price": "SR77.80"
+    }
+  ],
+  "subtotal": "593.10",
+  "tax": "33.57",
+  "total": "626.67",
+  "currency": "RM",
+  "payment_method": null
+}

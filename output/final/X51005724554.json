@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724554.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724554.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDALPAPAN YEW CHUAN",
+  "date": "2018-02-28",
+  "items": [
+    {
+      "name": "BESI Y 12 (CQ)",
+      "qty": 4,
+      "price": "25.44"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.76",
+  "total": "101.76",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

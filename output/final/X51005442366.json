@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442366.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442366.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Triple Six Point Enterprise",
+  "date": "2018-03-22",
+  "items": [
+    {
+      "name": "VSFUJ|500ml",
+      "qty": 1,
+      "price": "10.00"
+    },
+    {
+      "name": "Apollo cake",
+      "qty": 1,
+      "price": "6.50"
+    },
+    {
+      "name": "TG Cashew nuts mixwd Almond smoke",
+      "qty": 1,
+      "price": "4.20"
+    },
+    {
+      "name": "TG Coated coconut peanuts",
+      "qty": 1,
+      "price": "1.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "22.60",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

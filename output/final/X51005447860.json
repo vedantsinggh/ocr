@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447860.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447860.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AEON",
+  "date": "2018-02-19",
+  "items": [
+    {
+      "name": "SAKUMASHIKIDROP",
+      "qty": 1,
+      "price": "5.90SR"
+    },
+    {
+      "name": "BINDER CLIP -BL",
+      "qty": 1,
+      "price": "5.90SR"
+    },
+    {
+      "name": "150YEN CAR NECK",
+      "qty": null,
+      "price": "5.90SR"
+    }
+  ],
+  "subtotal": "17.70",
+  "tax": "0.99",
+  "total": "18.69",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

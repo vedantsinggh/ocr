@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676540.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676540.txt",
+    "ocr_line_count": 70,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-11",
+  "items": [
+    {
+      "name": "WALL SCRAPER 3\"",
+      "qty": 1,
+      "price": "4.45"
+    },
+    {
+      "name": "4.5KG RENDEROC PLUG",
+      "qty": 1,
+      "price": "10.07"
+    },
+    {
+      "name": "5\" SCRAPER (ADAMARK)",
+      "qty": null,
+      "price": "50.88"
+    }
+  ],
+  "subtotal": "109.70",
+  "tax": "6.58",
+  "total": "116.28",
+  "currency": "RM",
+  "payment_method": "cash"
+}

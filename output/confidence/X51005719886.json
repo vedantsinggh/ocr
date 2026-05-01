@@ -1,0 +1,131 @@
+{
+  "source": "images/X51005719886.jpg",
+  "line_count": 31,
+  "avg_confidence": 0.97,
+  "lines": [
+    {
+      "text": "SUNFISH",
+      "confidence": 0.9936
+    },
+    {
+      "text": "<484297-M>",
+      "confidence": 0.9773
+    },
+    {
+      "text": "22 LRG PERUSAHAAN 4",
+      "confidence": 0.9615
+    },
+    {
+      "text": "KIMPAL INDS.PARK B.CAVES",
+      "confidence": 0.9494
+    },
+    {
+      "text": "TEL : 03-61855688",
+      "confidence": 0.938
+    },
+    {
+      "text": "NO",
+      "confidence": 0.9953
+    },
+    {
+      "text": "10256",
+      "confidence": 0.9979
+    },
+    {
+      "text": "TABLE",
+      "confidence": 0.998
+    },
+    {
+      "text": "SALTED F.RICE",
+      "confidence": 0.9917
+    },
+    {
+      "text": "8.50",
+      "confidence": 0.9971
+    },
+    {
+      "text": "eFRIED EGG",
+      "confidence": 0.9448
+    },
+    {
+      "text": "1.80",
+      "confidence": 0.9918
+    },
+    {
+      "text": "NASI LEMAK DRUMSTICK",
+      "confidence": 0.9311
+    },
+    {
+      "text": "9.80",
+      "confidence": 0.993
+    },
+    {
+      "text": "SOYA CINCAU",
+      "confidence": 0.9844
+    },
+    {
+      "text": "4.30",
+      "confidence": 0.9955
+    },
+    {
+      "text": "LARGE / ICE TEA",
+      "confidence": 0.9954
+    },
+    {
+      "text": "4.30",
+      "confidence": 0.9974
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9977
+    },
+    {
+      "text": "28.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "RM CASH",
+      "confidence": 0.9907
+    },
+    {
+      "text": "100.000",
+      "confidence": 0.9437
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9977
+    },
+    {
+      "text": "71.30",
+      "confidence": 0.9978
+    },
+    {
+      "text": "INC 6%GST",
+      "confidence": 0.9693
+    },
+    {
+      "text": "1.62",
+      "confidence": 0.9984
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9951
+    },
+    {
+      "text": "#001-001-0934-000105/01/201813:30-R",
+      "confidence": 0.9855
+    },
+    {
+      "text": "1",
+      "confidence": 0.6302
+    },
+    {
+      "text": "GST : 002008047616",
+      "confidence": 0.9416
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9904
+    }
+  ]
+}

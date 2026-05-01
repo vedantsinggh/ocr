@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442344.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442344.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "items": [
+    {
+      "name": "1/8-3/412PCS HOLLOW PUNCH SET",
+      "qty": null,
+      "price": "60.00"
+    },
+    {
+      "name": "SR 10WING COMPASS",
+      "qty": null,
+      "price": "50.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.71",
+  "total": "100.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

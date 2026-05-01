@@ -1,0 +1,163 @@
+{
+  "source": "images/X51005719888.jpg",
+  "line_count": 39,
+  "avg_confidence": 0.9774,
+  "lines": [
+    {
+      "text": "POTTERS GARDEN SDN BHD",
+      "confidence": 0.9846
+    },
+    {
+      "text": "(1153774-D)",
+      "confidence": 0.9651
+    },
+    {
+      "text": "Batu 11. Sg Buloh, 47000 Selangor.",
+      "confidence": 0.9935
+    },
+    {
+      "text": "Te1: 016-667 0982, 016-333 3812",
+      "confidence": 0.9292
+    },
+    {
+      "text": "GST Reg No: 000392024064",
+      "confidence": 0.9592
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9989
+    },
+    {
+      "text": "TABLE :01",
+      "confidence": 0.9318
+    },
+    {
+      "text": "POS ID : G",
+      "confidence": 0.919
+    },
+    {
+      "text": "INVN0:G/00002268",
+      "confidence": 0.9379
+    },
+    {
+      "text": "CASHIER: Administrator",
+      "confidence": 0.9731
+    },
+    {
+      "text": "INV DT: 04/01/2018 12:29:18 PM",
+      "confidence": 0.939
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9969
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9974
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9954
+    },
+    {
+      "text": "AAO0OO7 PLASTIC PLATE",
+      "confidence": 0.9198
+    },
+    {
+      "text": "1.00 SR",
+      "confidence": 0.9984
+    },
+    {
+      "text": "AA00022 CHINA POT",
+      "confidence": 0.9143
+    },
+    {
+      "text": "2@7.90",
+      "confidence": 0.9978
+    },
+    {
+      "text": "15.80SR",
+      "confidence": 0.9966
+    },
+    {
+      "text": "AA00016 PLANT",
+      "confidence": 0.982
+    },
+    {
+      "text": "16.00 SR",
+      "confidence": 0.999
+    },
+    {
+      "text": "AA00016 PLANT",
+      "confidence": 0.9697
+    },
+    {
+      "text": "7.00 SR",
+      "confidence": 0.9959
+    },
+    {
+      "text": "5 SUB TOTAL",
+      "confidence": 0.9469
+    },
+    {
+      "text": "39.80",
+      "confidence": 0.9996
+    },
+    {
+      "text": "39.80",
+      "confidence": 0.9987
+    },
+    {
+      "text": "NET TOTAL",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9991
+    },
+    {
+      "text": "40.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.20",
+      "confidence": 0.9988
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Tax Summary",
+      "confidence": 0.9838
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9991
+    },
+    {
+      "text": "SR Inclusive GST 6%",
+      "confidence": 0.9776
+    },
+    {
+      "text": "37.54",
+      "confidence": 0.9994
+    },
+    {
+      "text": "2.26",
+      "confidence": 0.9997
+    },
+    {
+      "text": "*** Thank you Please Come Again ***",
+      "confidence": 0.9568
+    },
+    {
+      "text": "Item So1d are Not Refundable & Exchangeable",
+      "confidence": 0.968
+    }
+  ]
+}

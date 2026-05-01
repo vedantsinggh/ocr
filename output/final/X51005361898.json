@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361898.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361898.txt",
+    "ocr_line_count": 62,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG STATIONERY & BOOKS",
+  "date": "2018-01-17",
+  "items": [
+    {
+      "name": "CBE BADGE CLIP 100PCS",
+      "qty": 24.0,
+      "price": "26.42"
+    },
+    {
+      "name": "NISO A4 LAMINATING FILM",
+      "qty": null,
+      "price": "128.00"
+    }
+  ],
+  "subtotal": "52.00",
+  "tax": "3.12",
+  "total": "55.10",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

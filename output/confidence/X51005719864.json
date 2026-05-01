@@ -1,0 +1,175 @@
+{
+  "source": "images/X51005719864.jpg",
+  "line_count": 42,
+  "avg_confidence": 0.9612,
+  "lines": [
+    {
+      "text": "FUN N CHEER (MALURI)",
+      "confidence": 0.9292
+    },
+    {
+      "text": "LOT37636JALAN6/37A",
+      "confidence": 0.9754
+    },
+    {
+      "text": "TAMAN BUKIT MALURI,",
+      "confidence": 0.9191
+    },
+    {
+      "text": "52100 KUALALUMPUR",
+      "confidence": 0.9595
+    },
+    {
+      "text": "Tel03-62612536",
+      "confidence": 0.9661
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9585
+    },
+    {
+      "text": "GSTIDN.001439154176",
+      "confidence": 0.9819
+    },
+    {
+      "text": "05/01/2018",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Cashier:CS01",
+      "confidence": 0.9519
+    },
+    {
+      "text": "11:44:44S/PMAL",
+      "confidence": 0.9367
+    },
+    {
+      "text": "No:0200419363",
+      "confidence": 0.9803
+    },
+    {
+      "text": "Item/Desc.",
+      "confidence": 0.9834
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Ant.",
+      "confidence": 0.8704
+    },
+    {
+      "text": "KAIN BEBOLA(SSHA BU",
+      "confidence": 0.9274
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9968
+    },
+    {
+      "text": "0412638",
+      "confidence": 0.9932
+    },
+    {
+      "text": "2",
+      "confidence": 0.9981
+    },
+    {
+      "text": "14.90",
+      "confidence": 0.9949
+    },
+    {
+      "text": "29.80",
+      "confidence": 0.9935
+    },
+    {
+      "text": "Total Qty 2",
+      "confidence": 0.9415
+    },
+    {
+      "text": "TOTAL EXCL.GST",
+      "confidence": 0.9534
+    },
+    {
+      "text": "28.11",
+      "confidence": 0.9913
+    },
+    {
+      "text": "1.69",
+      "confidence": 0.9906
+    },
+    {
+      "text": "ADDGST6%On",
+      "confidence": 0.9265
+    },
+    {
+      "text": "29.80",
+      "confidence": 0.9925
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.998
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9949
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9984
+    },
+    {
+      "text": "20.20",
+      "confidence": 0.9959
+    },
+    {
+      "text": "GST summary",
+      "confidence": 0.9424
+    },
+    {
+      "text": "Amount RM",
+      "confidence": 0.9361
+    },
+    {
+      "text": "Tax RM",
+      "confidence": 0.9175
+    },
+    {
+      "text": "SR=",
+      "confidence": 0.978
+    },
+    {
+      "text": "61/4",
+      "confidence": 0.635
+    },
+    {
+      "text": "28.11",
+      "confidence": 0.9941
+    },
+    {
+      "text": "1.69",
+      "confidence": 0.9905
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9427
+    },
+    {
+      "text": "THANK YOUPLEASE COME AGAIN",
+      "confidence": 0.9482
+    }
+  ]
+}

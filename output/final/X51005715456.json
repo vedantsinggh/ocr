@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005715456.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005715456.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KHE ELECTRICAL TRADING",
+  "date": "2013-03-22",
+  "items": [
+    {
+      "name": "1113 E27 PLACE TU8E",
+      "qty": 2,
+      "price": "50.88"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.76",
+  "total": "101.75",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005200931.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005200931.txt",
+    "ocr_line_count": 81,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GOGIANT ENGINEERING (M) SDN BHD",
+  "date": "2018-02-09",
+  "items": [
+    {
+      "name": "ANOUN",
+      "qty": 6783,
+      "price": "3.50"
+    },
+    {
+      "name": "SR CERAMIC CAP",
+      "qty": 2954,
+      "price": "3.80"
+    },
+    {
+      "name": "SR: S/STEEL 1/2\" STREET EL.BOW",
+      "qty": 1760,
+      "price": "55.00"
+    },
+    {
+      "name": "SR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD",
+      "qty": 3496,
+      "price": "33.00"
+    },
+    {
+      "name": "SR:ESICUT 4\" CUTTING DISC (1BOX)-50PCE",
+      "qty": 2460,
+      "price": "43.00"
+    },
+    {
+      "name": "SR: WELDRO PICKLING GEL 1KG",
+      "qty": 9428,
+      "price": "40.00"
+    },
+    {
+      "name": "SR13.5WELDINGGLOVE-GREEN(GS)",
+      "qty": null,
+      "price": "86.00"
+    }
+  ],
+  "subtotal": "411.50",
+  "tax": "24.69",
+  "total": "436.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

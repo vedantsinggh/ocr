@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005255805.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005255805.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SAM SAM TRADING CO",
+  "date": "2017-12-29",
+  "items": [
+    {
+      "name": "UNICORN TWIN SUPER GLUE USG-99",
+      "qty": 1,
+      "price": "5.20"
+    },
+    {
+      "name": "No. Items:",
+      "qty": null,
+      "price": "8.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6% RM 13.30",
+  "total": "RM 14.10",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

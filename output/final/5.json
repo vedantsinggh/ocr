@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/5.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/5.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WHOLE FOODS MARKET",
+  "date": "2021-10-07",
+  "items": [
+    {
+      "name": "KTTL SEA SALT POT CHP",
+      "qty": null,
+      "price": "6.99F"
+    },
+    {
+      "name": "BRAIDED BRIOCHE CHEF PLATE MEAL",
+      "qty": 2,
+      "price": "10.00 ea"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "28.28",
+  "currency": "INR",
+  "payment_method": null
+}

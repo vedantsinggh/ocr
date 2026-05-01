@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719903.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719903.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's",
+  "date": "2018-03-11",
+  "items": [
+    {
+      "name": "ChocTop",
+      "qty": 2,
+      "price": "4.00"
+    },
+    {
+      "name": "McFry",
+      "qty": 4,
+      "price": "0.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.48",
+  "total": "8.50",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

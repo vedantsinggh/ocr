@@ -1,0 +1,243 @@
+{
+  "source": "images/X51005361908.jpg",
+  "line_count": 59,
+  "avg_confidence": 0.9523,
+  "lines": [
+    {
+      "text": "TEO HENG STATIDNERY S BOOKE",
+      "confidence": 0.9105
+    },
+    {
+      "text": "NO. 53; JALAN BESAR, 4560O BATANG BERJUNTA",
+      "confidence": 0.8534
+    },
+    {
+      "text": "EL03-32719872A03-32719487",
+      "confidence": 0.8987
+    },
+    {
+      "text": "GSTNo.000689913856",
+      "confidence": 0.8645
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9565
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Receipt No...",
+      "confidence": 0.8228
+    },
+    {
+      "text": "CS1803/28617",
+      "confidence": 0.9921
+    },
+    {
+      "text": "Date : 15/03/2018",
+      "confidence": 0.9453
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9969
+    },
+    {
+      "text": "IEM",
+      "confidence": 0.8351
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9336
+    },
+    {
+      "text": "UP",
+      "confidence": 0.9758
+    },
+    {
+      "text": "DISC%",
+      "confidence": 0.9484
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.838
+    },
+    {
+      "text": "4974052801334",
+      "confidence": 0.9953
+    },
+    {
+      "text": "48",
+      "confidence": 0.9653
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9998
+    },
+    {
+      "text": "7.41",
+      "confidence": 0.9999
+    },
+    {
+      "text": "120.00 *",
+      "confidence": 0.9698
+    },
+    {
+      "text": "ARTLINE70",
+      "confidence": 0.966
+    },
+    {
+      "text": "Total Qty. :",
+      "confidence": 0.9801
+    },
+    {
+      "text": "48",
+      "confidence": 0.9969
+    },
+    {
+      "text": "120.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SUB-TOTAL (EX)",
+      "confidence": 0.9619
+    },
+    {
+      "text": ":",
+      "confidence": 0.9949
+    },
+    {
+      "text": "120.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9989
+    },
+    {
+      "text": ":",
+      "confidence": 0.9984
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "ROUNDNG",
+      "confidence": 0.9945
+    },
+    {
+      "text": ":",
+      "confidence": 0.9967
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9995
+    },
+    {
+      "text": ":",
+      "confidence": 0.9945
+    },
+    {
+      "text": "127.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.8945
+    },
+    {
+      "text": ":",
+      "confidence": 0.9924
+    },
+    {
+      "text": "127.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9914
+    },
+    {
+      "text": "TAX CODE",
+      "confidence": 0.9309
+    },
+    {
+      "text": "SAMOUNT",
+      "confidence": 0.8805
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9968
+    },
+    {
+      "text": "(RM",
+      "confidence": 0.923
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.7914
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9931
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9156
+    },
+    {
+      "text": "120.00",
+      "confidence": 0.961
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9951
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9834
+    },
+    {
+      "text": "120.00",
+      "confidence": 0.9601
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9468
+    },
+    {
+      "text": "Note:() indicated The Item Sold Has Been Related",
+      "confidence": 0.9285
+    },
+    {
+      "text": "To GST (Goods & Services Tax)",
+      "confidence": 0.97
+    },
+    {
+      "text": "GOODS SOLDARENOTRETURNABLE,",
+      "confidence": 0.9749
+    },
+    {
+      "text": ":.",
+      "confidence": 0.6269
+    },
+    {
+      "text": "THANKYOU.",
+      "confidence": 0.9503
+    }
+  ]
+}

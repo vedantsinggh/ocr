@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005268472.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005268472.txt",
+    "ocr_line_count": 105,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ASIA MART",
+  "date": "2017-12-22",
+  "items": [
+    {
+      "name": "DELICIA CHOCOLATE [50G]",
+      "qty": null,
+      "price": "3.55"
+    },
+    {
+      "name": "GARDENIA ORIGINAL CLASSIC JUMBO [600G)",
+      "qty": null,
+      "price": "1.41"
+    },
+    {
+      "name": "S LIME 50G",
+      "qty": null,
+      "price": "1.51"
+    },
+    {
+      "name": "DOREMON CATCAT JOY 15G",
+      "qty": null,
+      "price": "2.44"
+    },
+    {
+      "name": "MINUTE MAID PULPY [OREN] [350ML]",
+      "qty": null,
+      "price": "2.44"
+    },
+    {
+      "name": "MNUTE MNDFULSY IOREN! [350ML]",
+      "qty": null,
+      "price": "1.60"
+    },
+    {
+      "name": "THNGLEMON DRINIK SUOML",
+      "qty": null,
+      "price": "2.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.65",
+  "total": "32.70",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

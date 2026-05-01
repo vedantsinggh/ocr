@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/8.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/8.txt",
+    "ocr_line_count": 56,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Costco",
+  "date": "2016-01-15",
+  "items": [
+    {
+      "name": "673919 FF BS BREAST",
+      "qty": null,
+      "price": "6.49"
+    },
+    {
+      "name": "633561 KSDICED TOM",
+      "qty": null,
+      "price": "2.97"
+    },
+    {
+      "name": "967596 JACK0RGSALSA",
+      "qty": null,
+      "price": "304.29"
+    },
+    {
+      "name": "878137 18CT EGGS",
+      "qty": null,
+      "price": "6.29"
+    },
+    {
+      "name": "77053 GRAPE TOMATO",
+      "qty": null,
+      "price": "6.49"
+    },
+    {
+      "name": "404609 EC0HALF PAN",
+      "qty": null,
+      "price": "18.47"
+    },
+    {
+      "name": "55992 GRND TURKEY",
+      "qty": null,
+      "price": "3.59"
+    },
+    {
+      "name": "263423 CHPD ONION",
+      "qty": null,
+      "price": "2.10"
+    },
+    {
+      "name": "MONT JACK 2#",
+      "qty": null,
+      "price": "1.01"
+    }
+  ],
+  "subtotal": "85.61",
+  "tax": "3.52",
+  "total": "89.3",
+  "currency": "INR",
+  "payment_method": null
+}

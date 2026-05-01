@@ -1,0 +1,77 @@
+SAINT HeART PASTRY
+(001980264-H)
+29,JLN SJ 17,
+TMN SELAYANG JAYA,
+68100 BATU CAVES
+SELANGOR
+TEL:03-61372830
+GST ID : 001661329408
+SIMPLIFIED TAX INVOICE
+CASH
+Receipt#
+CS00254837
+Table:
+45
+Staff:
+AISHAH
+Date:
+25/03/2018
+Cashier:
+AISHAH
+Time:
+10:56:00
+Prlco
+Aht
+Description
+Qty
+Tax
+(RM)
+(RM)
+JUMBOSAUSAGE CHEESE
+1
+3.10
+3.10
+SR
+JUMBOSAUSAGE CHEESE
+1
+3.10
+3.10
+SR
+GARLIC CHEESE
+1
+2.00
+2.00
+SR
+Total:
+3
+8.20
+Total Sales (Excluding GST) :
+7.74
+Discount :
+0.00
+Service Charge :
+0.00
+Total Gst :
+0.46
+Rounding :
+0.00
+Total Sales (Inclusive of GST)
+8.20
+CASH
+8.20
+CHANGE
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(Rm)
+SR
+6
+7.74
+0.46
+Total :
+7.74
+0.46
+GOODS SOLD ARE NOT RETURNABLE, THANK YOU
+RE-PRINT

@@ -1,0 +1,223 @@
+{
+  "source": "images/X51005741944.jpg",
+  "line_count": 54,
+  "avg_confidence": 0.9795,
+  "lines": [
+    {
+      "text": "TAX INYOICE",
+      "confidence": 0.8289
+    },
+    {
+      "text": "BHPetrol Subang Airport",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Jalan Lapangan Terbang Subang",
+      "confidence": 0.9717
+    },
+    {
+      "text": "47200 Subang",
+      "confidence": 0.996
+    },
+    {
+      "text": "Selangor",
+      "confidence": 0.9916
+    },
+    {
+      "text": "D'Rosh Seryport",
+      "confidence": 0.9773
+    },
+    {
+      "text": "CO. REG. NO: 000948487-V",
+      "confidence": 0.9426
+    },
+    {
+      "text": "GST REG. NO: 000768122880",
+      "confidence": 0.9632
+    },
+    {
+      "text": "18-01-2018 15:44:46",
+      "confidence": 0.9708
+    },
+    {
+      "text": "Cashier: 888",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Invoice No: 1-916166",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Iten",
+      "confidence": 0.8658
+    },
+    {
+      "text": "U\\Price",
+      "confidence": 0.9928
+    },
+    {
+      "text": "Qnty Amount",
+      "confidence": 0.9988
+    },
+    {
+      "text": "16.32",
+      "confidence": 0.9998
+    },
+    {
+      "text": "41.95 S",
+      "confidence": 0.9683
+    },
+    {
+      "text": "in?init! 97 E4MP3 2.570",
+      "confidence": 0.9085
+    },
+    {
+      "text": "TOTAL SALES",
+      "confidence": 0.9989
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9957
+    },
+    {
+      "text": "41.95",
+      "confidence": 0.9998
+    },
+    {
+      "text": "TOTAL AMOUNT PAYABLE",
+      "confidence": 0.993
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9962
+    },
+    {
+      "text": "41.95 r",
+      "confidence": 0.9775
+    },
+    {
+      "text": "EDC MASTER",
+      "confidence": 0.9985
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9981
+    },
+    {
+      "text": "41.95",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9481
+    },
+    {
+      "text": "Amount RM",
+      "confidence": 0.9901
+    },
+    {
+      "text": "Tax RM",
+      "confidence": 0.999
+    },
+    {
+      "text": "S: Standard 6%",
+      "confidence": 0.9989
+    },
+    {
+      "text": "39.58",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.37",
+      "confidence": 0.9998
+    },
+    {
+      "text": "ECARD",
+      "confidence": 0.9981
+    },
+    {
+      "text": "WONG TAI CHIN",
+      "confidence": 0.9806
+    },
+    {
+      "text": "Card Number",
+      "confidence": 0.985
+    },
+    {
+      "text": "7897139011585960",
+      "confidence": 0.992
+    },
+    {
+      "text": "Merchant Number",
+      "confidence": 0.9847
+    },
+    {
+      "text": "000001020138429",
+      "confidence": 0.998
+    },
+    {
+      "text": "Reference Number.",
+      "confidence": 0.9415
+    },
+    {
+      "text": "199258579655",
+      "confidence": 0.9947
+    },
+    {
+      "text": "AWARD",
+      "confidence": 0.9177
+    },
+    {
+      "text": "Balance",
+      "confidence": 0.9736
+    },
+    {
+      "text": "412",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Earned",
+      "confidence": 0.9993
+    },
+    {
+      "text": "41",
+      "confidence": 0.9998
+    },
+    {
+      "text": "New Balance",
+      "confidence": 0.9563
+    },
+    {
+      "text": "453",
+      "confidence": 0.9997
+    },
+    {
+      "text": "EPOINTS Expiry",
+      "confidence": 0.9982
+    },
+    {
+      "text": "24",
+      "confidence": 0.9999
+    },
+    {
+      "text": "31/10/2020",
+      "confidence": 0.9622
+    },
+    {
+      "text": "136",
+      "confidence": 0.9999
+    },
+    {
+      "text": "30/11/2020",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Thank You For Shopping At SHPetromart",
+      "confidence": 0.9708
+    },
+    {
+      "text": "Custcmer Service 1-300-22-2828",
+      "confidence": 0.9881
+    }
+  ]
+}

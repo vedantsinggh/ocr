@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719864.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719864.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "FUN N CHEER",
+  "date": "2018-05-01",
+  "items": [
+    {
+      "name": "KAIN BEBOLA(SSHA BU SR",
+      "qty": 2,
+      "price": "14.90"
+    }
+  ],
+  "subtotal": "28.11",
+  "tax": "1.69",
+  "total": "29.80",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

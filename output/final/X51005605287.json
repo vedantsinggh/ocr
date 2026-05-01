@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605287.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605287.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AEON CO,(M) BHD",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "TOPVALU FLOOR C",
+      "qty": null,
+      "price": "5.60SR"
+    },
+    {
+      "name": "CIF REGULAR 50",
+      "qty": null,
+      "price": "6.65SR"
+    }
+  ],
+  "subtotal": "12.25",
+  "tax": "0.70",
+  "total": "12.25",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719857.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719857.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Salon Du Chocolat",
+  "date": "2018-02-19",
+  "items": [
+    {
+      "name": "Mineral Water",
+      "qty": 1,
+      "price": "2.50"
+    },
+    {
+      "name": "Chocolate Waffle-Half Moon",
+      "qty": 1,
+      "price": "17.90"
+    }
+  ],
+  "subtotal": "20.40",
+  "tax": "1.35",
+  "total": "23.80",
+  "currency": "RM",
+  "payment_method": null
+}

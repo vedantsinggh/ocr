@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745190.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745190.txt",
+    "ocr_line_count": 67,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUPER SEVEN CASH & CARRY",
+  "date": "2018-02-12",
+  "items": [
+    {
+      "name": "LORY F1TTLET 300UP(3)6KG",
+      "qty": null,
+      "price": "63.00"
+    },
+    {
+      "name": "BERAS BIRI-BIRI 1OKG 5% ISTIMEWA",
+      "qty": null,
+      "price": "53.50"
+    },
+    {
+      "name": "SAWANG BESAR INDIA/CINA GUNI",
+      "qty": 2,
+      "price": "17.00"
+    },
+    {
+      "name": "CAHAS CILI 1KG",
+      "qty": null,
+      "price": "19.50"
+    },
+    {
+      "name": "BABAS KARI DAGING 1KG",
+      "qty": null,
+      "price": "17.20"
+    },
+    {
+      "name": "CILI 80H 3KG",
+      "qty": null,
+      "price": "7.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.45",
+  "total": "367.10",
+  "currency": "ZR",
+  "payment_method": "VISA CARD"
+}

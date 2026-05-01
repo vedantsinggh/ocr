@@ -1,0 +1,311 @@
+{
+  "source": "images/X51005587267.jpg",
+  "line_count": 76,
+  "avg_confidence": 0.9429,
+  "lines": [
+    {
+      "text": "MYDIN",
+      "confidence": 0.9726
+    },
+    {
+      "text": "TRI SHAAS SDN BHD (728515-H)",
+      "confidence": 0.9174
+    },
+    {
+      "text": "MYDIN MART SRI MUDA",
+      "confidence": 0.938
+    },
+    {
+      "text": "4-20, Jalan Ria 25/62 Taman Sri Muda",
+      "confidence": 0.9453
+    },
+    {
+      "text": "Saksyen 25, 40400 Shah Alam Selangor",
+      "confidence": 0.9393
+    },
+    {
+      "text": "Te1 : 03-51217970 Fax : 03-51218059",
+      "confidence": 0.9787
+    },
+    {
+      "text": "GST ID: 000429166592",
+      "confidence": 0.9436
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Termina1: 195 - 5505P0S011",
+      "confidence": 0.9034
+    },
+    {
+      "text": "Trans #:261172",
+      "confidence": 0.944
+    },
+    {
+      "text": "Date: 4/02/2017 03:30:27PM",
+      "confidence": 0.9254
+    },
+    {
+      "text": "Sashier : CH107691",
+      "confidence": 0.9569
+    },
+    {
+      "text": "MSM-WERNIE",
+      "confidence": 0.9605
+    },
+    {
+      "text": "MYCLIP BINDER CLIP 12S 25HM 12S EA",
+      "confidence": 0.9711
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8228
+    },
+    {
+      "text": "2901060611145",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1*",
+      "confidence": 0.8908
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "MYCLIP BINDER CLIP 15MM 12S",
+      "confidence": 0.9505
+    },
+    {
+      "text": "CS",
+      "confidence": 0.835
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8172
+    },
+    {
+      "text": "2901060611213",
+      "confidence": 0.9712
+    },
+    {
+      "text": "2*12.00",
+      "confidence": 0.9518
+    },
+    {
+      "text": "24.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "MYCLIP BINDER CLIP 15MM 12S",
+      "confidence": 0.93
+    },
+    {
+      "text": "EA",
+      "confidence": 0.8442
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8434
+    },
+    {
+      "text": "2901060611206",
+      "confidence": 0.9904
+    },
+    {
+      "text": "10*",
+      "confidence": 0.913
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9911
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "PARTNER E/LOPE 4.51NX9.5IN W4292 EA",
+      "confidence": 0.9632
+    },
+    {
+      "text": ".s",
+      "confidence": 0.836
+    },
+    {
+      "text": "9555023304655",
+      "confidence": 0.9934
+    },
+    {
+      "text": "2*",
+      "confidence": 0.7722
+    },
+    {
+      "text": "2.20",
+      "confidence": 0.9943
+    },
+    {
+      "text": "4.40",
+      "confidence": 0.9996
+    },
+    {
+      "text": "QUALITY LFTTER TRAY IT-1196-MIX EA",
+      "confidence": 0.939
+    },
+    {
+      "text": "9555052401196",
+      "confidence": 0.9994
+    },
+    {
+      "text": "S",
+      "confidence": 0.6283
+    },
+    {
+      "text": "3*14.90",
+      "confidence": 0.9443
+    },
+    {
+      "text": "44.70",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Iten Count",
+      "confidence": 0.9486
+    },
+    {
+      "text": "18",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Total",
+      "confidence": 0.8318
+    },
+    {
+      "text": "85.10",
+      "confidence": 0.9736
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9664
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total Af ter Rounding.",
+      "confidence": 0.9485
+    },
+    {
+      "text": "85.10",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Casn",
+      "confidence": 0.8783
+    },
+    {
+      "text": "100.10",
+      "confidence": 0.9988
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9971
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST Rate",
+      "confidence": 0.8696
+    },
+    {
+      "text": "Amt Exc1 GST(RM)",
+      "confidence": 0.8863
+    },
+    {
+      "text": "Tax(RH)",
+      "confidence": 0.9424
+    },
+    {
+      "text": "3=6%",
+      "confidence": 0.8692
+    },
+    {
+      "text": "80.27",
+      "confidence": 0.9982
+    },
+    {
+      "text": "4.83",
+      "confidence": 0.9993
+    },
+    {
+      "text": "=0%",
+      "confidence": 0.9206
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9965
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "* Your Totai Savings 8.00 #",
+      "confidence": 0.9908
+    },
+    {
+      "text": "Points Missed:85",
+      "confidence": 0.9884
+    },
+    {
+      "text": "Join cur Meriah Loyalty Programme today!",
+      "confidence": 0.9714
+    },
+    {
+      "text": "6605505001950000261172",
+      "confidence": 0.9967
+    },
+    {
+      "text": "Print Date: 4/02/2017 03:30:29PM",
+      "confidence": 0.9574
+    },
+    {
+      "text": "Note: Any request for production of fu1l",
+      "confidence": 0.9457
+    },
+    {
+      "text": "tax invoice must be made within 3 months",
+      "confidence": 0.9463
+    },
+    {
+      "text": "from the date of purchase. If the request",
+      "confidence": 0.9411
+    },
+    {
+      "text": "is not made within the prescribed",
+      "confidence": 0.9824
+    },
+    {
+      "text": "tine frame,MyDIN may based on its absolute",
+      "confidence": 0.8832
+    },
+    {
+      "text": "discretion reject the reguest.",
+      "confidence": 0.9504
+    },
+    {
+      "text": "Thank You arid Please Cone Again",
+      "confidence": 0.9701
+    }
+  ]
+}

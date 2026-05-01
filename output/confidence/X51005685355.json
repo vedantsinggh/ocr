@@ -1,0 +1,251 @@
+{
+  "source": "images/X51005685355.jpg",
+  "line_count": 61,
+  "avg_confidence": 0.952,
+  "lines": [
+    {
+      "text": "3180301",
+      "confidence": 0.9999
+    },
+    {
+      "text": "RESTORAN IBRAHIM MAJU SB",
+      "confidence": 0.958
+    },
+    {
+      "text": "NO.2GROUND FLOORJALAN REKO SENTRAL 8",
+      "confidence": 0.9516
+    },
+    {
+      "text": "TAMAN REKO SENTRAL.430OO KAJANG",
+      "confidence": 0.9016
+    },
+    {
+      "text": "SELANGOR DE",
+      "confidence": 0.9824
+    },
+    {
+      "text": "TEL : 03-87342689",
+      "confidence": 0.9519
+    },
+    {
+      "text": "GST ID NO :000696532992",
+      "confidence": 0.9413
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.972
+    },
+    {
+      "text": "INVOICE #",
+      "confidence": 0.9874
+    },
+    {
+      "text": ":1-161696",
+      "confidence": 0.9847
+    },
+    {
+      "text": "TIME",
+      "confidence": 0.999
+    },
+    {
+      "text": "19/03/201803:43:44PM",
+      "confidence": 0.9712
+    },
+    {
+      "text": "CASHIER",
+      "confidence": 0.9982
+    },
+    {
+      "text": "JAHABA R ALI",
+      "confidence": 0.9175
+    },
+    {
+      "text": "SELF SERVICE:1000",
+      "confidence": 0.9509
+    },
+    {
+      "text": "QTY DESCRIPTION",
+      "confidence": 0.9739
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9945
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9944
+    },
+    {
+      "text": "MAKANAN",
+      "confidence": 0.9956
+    },
+    {
+      "text": "2.30",
+      "confidence": 0.9996
+    },
+    {
+      "text": "2.30 S",
+      "confidence": 0.9
+    },
+    {
+      "text": "MAKANAN",
+      "confidence": 0.9961
+    },
+    {
+      "text": "1.40",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1.40S",
+      "confidence": 0.9875
+    },
+    {
+      "text": "MAKANAN",
+      "confidence": 0.9955
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9968
+    },
+    {
+      "text": "1.60 S",
+      "confidence": 0.9489
+    },
+    {
+      "text": "Sub Total Incl. GST",
+      "confidence": 0.9352
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9968
+    },
+    {
+      "text": "5.30",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Round Adjustmt",
+      "confidence": 0.9816
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9964
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9591
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9963
+    },
+    {
+      "text": "5.30",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Payment CASH",
+      "confidence": 0.9677
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9971
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.997
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9989
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9963
+    },
+    {
+      "text": "4.70",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GST 6% Paid",
+      "confidence": 0.9304
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9965
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.999
+    },
+    {
+      "text": "GST ANALYSIS",
+      "confidence": 0.9579
+    },
+    {
+      "text": "AMT (RM)",
+      "confidence": 0.8565
+    },
+    {
+      "text": "TAX RM",
+      "confidence": 0.9148
+    },
+    {
+      "text": "S = 6 %",
+      "confidence": 0.8395
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9989
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Z= 0 %",
+      "confidence": 0.8624
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "19/03/201803:44:03PM",
+      "confidence": 0.9695
+    },
+    {
+      "text": "<THANK YOU >",
+      "confidence": 0.9328
+    },
+    {
+      "text": "<PLEASE COME AGAIN>",
+      "confidence": 0.9395
+    },
+    {
+      "text": "sllnd",
+      "confidence": 0.601
+    },
+    {
+      "text": "KP TeguhJya",
+      "confidence": 0.6243
+    },
+    {
+      "text": "Lau",
+      "confidence": 0.8687
+    },
+    {
+      "text": "wr-",
+      "confidence": 0.7244
+    }
+  ]
+}

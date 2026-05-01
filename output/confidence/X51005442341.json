@@ -1,0 +1,71 @@
+{
+  "source": "images/X51005442341.jpg",
+  "line_count": 16,
+  "avg_confidence": 0.8988,
+  "lines": [
+    {
+      "text": "402078",
+      "confidence": 0.5096
+    },
+    {
+      "text": "RESTAURANT SIN DUS",
+      "confidence": 0.9272
+    },
+    {
+      "text": "K3-113.JL IBRAHIMSULTAN",
+      "confidence": 0.9252
+    },
+    {
+      "text": "80300 JOHOR BAHRU",
+      "confidence": 0.9374
+    },
+    {
+      "text": "JOHOR",
+      "confidence": 0.9941
+    },
+    {
+      "text": "H/P019-7521215",
+      "confidence": 0.9875
+    },
+    {
+      "text": "016-7867868",
+      "confidence": 0.9649
+    },
+    {
+      "text": "09/03/201821:280001",
+      "confidence": 0.9476
+    },
+    {
+      "text": "000000#7259 CASHIER01",
+      "confidence": 0.9402
+    },
+    {
+      "text": "DPI.05",
+      "confidence": 0.7826
+    },
+    {
+      "text": "RM149.00",
+      "confidence": 0.8881
+    },
+    {
+      "text": "DPT.O4",
+      "confidence": 0.7682
+    },
+    {
+      "text": "RH21.00",
+      "confidence": 0.8892
+    },
+    {
+      "text": "CASH.",
+      "confidence": 0.9434
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9877
+    },
+    {
+      "text": "170.00",
+      "confidence": 0.9874
+    }
+  ]
+}

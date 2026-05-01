@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806678.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806678.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KAISON FURNISHING SDN BHD",
+  "date": "2018-01-29",
+  "items": [
+    {
+      "name": "FLOWER BUNCH - ROSE",
+      "qty": 122,
+      "price": "18.90"
+    },
+    {
+      "name": "FLOWER BUNCH - CRYST",
+      "qty": 240,
+      "price": "13.90"
+    },
+    {
+      "name": "FLOWER BUNCH - 7HO P",
+      "qty": 130,
+      "price": "16.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "43.71",
+  "total": "7,838.80",
+  "currency": "RM",
+  "payment_method": "CASH (MYR)"
+}

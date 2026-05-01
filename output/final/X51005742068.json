@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005742068.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005742068.txt",
+    "ocr_line_count": 25,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BHPetro1 Palekbang",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "PPF P1",
+      "qty": 6,
+      "price": "1.000"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "6.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

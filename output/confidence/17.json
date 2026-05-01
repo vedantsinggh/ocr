@@ -1,0 +1,343 @@
+{
+  "source": "images/17.jpg",
+  "line_count": 84,
+  "avg_confidence": 0.9532,
+  "lines": [
+    {
+      "text": "to win $1000",
+      "confidence": 0.911
+    },
+    {
+      "text": "ID#",
+      "confidence": 0.7997
+    },
+    {
+      "text": "7KZGF1SL2FF",
+      "confidence": 0.9521
+    },
+    {
+      "text": "Walmart",
+      "confidence": 0.9938
+    },
+    {
+      "text": "Save money.Live better.",
+      "confidence": 0.9663
+    },
+    {
+      "text": "970259-8755",
+      "confidence": 0.9824
+    },
+    {
+      "text": "MANAGER MIKE NEIDL INGER",
+      "confidence": 0.9486
+    },
+    {
+      "text": "1155 S CAMIN0 DEL RIO",
+      "confidence": 0.8828
+    },
+    {
+      "text": "DURANGO CO81303",
+      "confidence": 0.9398
+    },
+    {
+      "text": "ST# 02270 0P#000144TE#02",
+      "confidence": 0.917
+    },
+    {
+      "text": "TR03080",
+      "confidence": 0.9882
+    },
+    {
+      "text": "BANANAS",
+      "confidence": 0.972
+    },
+    {
+      "text": "000000004011KI",
+      "confidence": 0.9889
+    },
+    {
+      "text": "1.75 1b11b/0.54",
+      "confidence": 0.9331
+    },
+    {
+      "text": "0.95",
+      "confidence": 0.9952
+    },
+    {
+      "text": "R",
+      "confidence": 0.9882
+    },
+    {
+      "text": "BEVERAGE",
+      "confidence": 0.9961
+    },
+    {
+      "text": "003120002133",
+      "confidence": 0.9975
+    },
+    {
+      "text": "F",
+      "confidence": 0.9022
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "R",
+      "confidence": 0.9945
+    },
+    {
+      "text": "OS CRAN POM",
+      "confidence": 0.9352
+    },
+    {
+      "text": "003120027015",
+      "confidence": 0.9976
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "0.96",
+      "confidence": 0.98
+    },
+    {
+      "text": "R",
+      "confidence": 0.9627
+    },
+    {
+      "text": "STRWBRY CC",
+      "confidence": 0.948
+    },
+    {
+      "text": "076471782200",
+      "confidence": 0.997
+    },
+    {
+      "text": "CAMPARI TOM",
+      "confidence": 0.965
+    },
+    {
+      "text": "073447501213",
+      "confidence": 0.9985
+    },
+    {
+      "text": "98",
+      "confidence": 0.965
+    },
+    {
+      "text": "KFT SINGLES",
+      "confidence": 0.9569
+    },
+    {
+      "text": "002100061526",
+      "confidence": 0.9972
+    },
+    {
+      "text": "3.78",
+      "confidence": 0.9935
+    },
+    {
+      "text": "Y",
+      "confidence": 0.9627
+    },
+    {
+      "text": "44500982114",
+      "confidence": 0.9957
+    },
+    {
+      "text": "004450098211",
+      "confidence": 0.9968
+    },
+    {
+      "text": "3.98",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Y",
+      "confidence": 0.9916
+    },
+    {
+      "text": "HARD SALAMI",
+      "confidence": 0.9614
+    },
+    {
+      "text": "020533960343",
+      "confidence": 0.9935
+    },
+    {
+      "text": "3.43",
+      "confidence": 0.9963
+    },
+    {
+      "text": "AVOCADO",
+      "confidence": 0.9936
+    },
+    {
+      "text": "000000004046KI",
+      "confidence": 0.9872
+    },
+    {
+      "text": "4AT1 FOR",
+      "confidence": 0.8641
+    },
+    {
+      "text": "0.44",
+      "confidence": 0.9494
+    },
+    {
+      "text": "1.76",
+      "confidence": 0.9874
+    },
+    {
+      "text": "R",
+      "confidence": 0.9862
+    },
+    {
+      "text": "PILLS WHITE",
+      "confidence": 0.9585
+    },
+    {
+      "text": "068113113619",
+      "confidence": 0.9978
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Y",
+      "confidence": 0.8508
+    },
+    {
+      "text": "SH NYLON COL",
+      "confidence": 0.933
+    },
+    {
+      "text": "007417024836",
+      "confidence": 0.9972
+    },
+    {
+      "text": "2.97",
+      "confidence": 0.9971
+    },
+    {
+      "text": "HAND CLEANER 004125100005",
+      "confidence": 0.953
+    },
+    {
+      "text": "1.67",
+      "confidence": 0.9923
+    },
+    {
+      "text": "X",
+      "confidence": 0.5676
+    },
+    {
+      "text": "INJECTR CLNR 004980710003",
+      "confidence": 0.9623
+    },
+    {
+      "text": "8.87",
+      "confidence": 0.9918
+    },
+    {
+      "text": "X",
+      "confidence": 0.7807
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9952
+    },
+    {
+      "text": "1635",
+      "confidence": 0.6307
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.7417
+    },
+    {
+      "text": "1",
+      "confidence": 0.8884
+    },
+    {
+      "text": "7.900%",
+      "confidence": 0.9502
+    },
+    {
+      "text": "1.07",
+      "confidence": 0.9957
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9961
+    },
+    {
+      "text": "2",
+      "confidence": 0.9941
+    },
+    {
+      "text": "5.000%",
+      "confidence": 0.9839
+    },
+    {
+      "text": "1.14",
+      "confidence": 0.9929
+    },
+    {
+      "text": "TAX6",
+      "confidence": 0.9094
+    },
+    {
+      "text": "2.900%",
+      "confidence": 0.9224
+    },
+    {
+      "text": "0.12",
+      "confidence": 0.9964
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9982
+    },
+    {
+      "text": "38.68",
+      "confidence": 0.9949
+    },
+    {
+      "text": "CASH TEND",
+      "confidence": 0.9449
+    },
+    {
+      "text": "40.68",
+      "confidence": 0.9914
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9541
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "#ITEMS SOLD 16",
+      "confidence": 0.9178
+    },
+    {
+      "text": "TC# 3041 7466 06697952272",
+      "confidence": 0.9371
+    },
+    {
+      "text": "01/15/17",
+      "confidence": 0.998
+    },
+    {
+      "text": "14:26:03",
+      "confidence": 0.9541
+    }
+  ]
+}

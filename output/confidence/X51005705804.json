@@ -1,0 +1,255 @@
+{
+  "source": "images/X51005705804.jpg",
+  "line_count": 62,
+  "avg_confidence": 0.9611,
+  "lines": [
+    {
+      "text": "ASO ELECTRICAL TRADING SDN BHD",
+      "confidence": 0.8706
+    },
+    {
+      "text": "1000131-K",
+      "confidence": 0.9994
+    },
+    {
+      "text": " NO 31G, JALAN SEPADU C 25/C,",
+      "confidence": 0.9902
+    },
+    {
+      "text": "SECTION 25, TAMAN INDUSTRIES,",
+      "confidence": 0.9888
+    },
+    {
+      "text": "AXIS 40400 SHAH ALAM, SELANGOR.",
+      "confidence": 0.9818
+    },
+    {
+      "text": "TEL : 03-51221701. 51313091 FAX: 03-51215716",
+      "confidence": 0.9651
+    },
+    {
+      "text": "GST NO : 000683900928",
+      "confidence": 0.9887
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9899
+    },
+    {
+      "text": "Bill to:",
+      "confidence": 0.9075
+    },
+    {
+      "text": "Receipt#: Cs00093091",
+      "confidence": 0.9819
+    },
+    {
+      "text": "Date: 04/12/2017",
+      "confidence": 0.9767
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Time: 11:29:00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Cashier: USER",
+      "confidence": 0.9953
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.9321
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.821
+    },
+    {
+      "text": " Item.",
+      "confidence": 0.8483
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9656
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9924
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.998
+    },
+    {
+      "text": "102749",
+      "confidence": 0.9999
+    },
+    {
+      "text": "44.40",
+      "confidence": 0.9996
+    },
+    {
+      "text": "47.06",
+      "confidence": 0.9999
+    },
+    {
+      "text": "47.06",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SR: FUJI CONTACTOR, SC-03, 240VAC",
+      "confidence": 0.9876
+    },
+    {
+      "text": "1",
+      "confidence": 0.7617
+    },
+    {
+      "text": "106766",
+      "confidence": 0.9998
+    },
+    {
+      "text": "49.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "51.94",
+      "confidence": 0.9999
+    },
+    {
+      "text": "51.94",
+      "confidence": 0.9994
+    },
+    {
+      "text": "SR: ANLY FLOATLESS RELAY 240V. AFS-",
+      "confidence": 0.9832
+    },
+    {
+      "text": "Tot qty:",
+      "confidence": 0.8277
+    },
+    {
+      "text": "2",
+      "confidence": 0.9997
+    },
+    {
+      "text": "99.00",
+      "confidence": 0.9807
+    },
+    {
+      "text": "(Excluded GST) Sub Total :",
+      "confidence": 0.9564
+    },
+    {
+      "text": "93.40",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9971
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9584
+    },
+    {
+      "text": "5.60",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9932
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9981
+    },
+    {
+      "text": "99.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9973
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9952
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.7871
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9911
+    },
+    {
+      "text": "%",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Arnount",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Gst",
+      "confidence": 0.6249
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9803
+    },
+    {
+      "text": "93.40",
+      "confidence": 0.9973
+    },
+    {
+      "text": "5.60",
+      "confidence": 0.8885
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9948
+    },
+    {
+      "text": "93.40",
+      "confidence": 0.9998
+    },
+    {
+      "text": "5.60",
+      "confidence": 0.9983
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.7232
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9918
+    }
+  ]
+}

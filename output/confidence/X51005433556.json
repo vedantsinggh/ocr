@@ -1,0 +1,311 @@
+{
+  "source": "images/X51005433556.jpg",
+  "line_count": 76,
+  "avg_confidence": 0.9553,
+  "lines": [
+    {
+      "text": "YHM Aeon Tebrau City",
+      "confidence": 0.956
+    },
+    {
+      "text": "S117,Second Floor,",
+      "confidence": 0.9
+    },
+    {
+      "text": "Aeon Tebrau City,",
+      "confidence": 0.9462
+    },
+    {
+      "text": "1Jalan Desa Tebrau",
+      "confidence": 0.9581
+    },
+    {
+      "text": "Taman Desa Tebrau,",
+      "confidence": 0.9516
+    },
+    {
+      "text": "81100 Jahor BahruJohor.",
+      "confidence": 0.9292
+    },
+    {
+      "text": "002105827328",
+      "confidence": 0.9939
+    },
+    {
+      "text": "* TAX INVOICE *",
+      "confidence": 0.9877
+    },
+    {
+      "text": "Order No.",
+      "confidence": 0.9202
+    },
+    {
+      "text": "100024911/03/2013 07:09PM",
+      "confidence": 0.9501
+    },
+    {
+      "text": "Receit No.003-1220845",
+      "confidence": 0.9464
+    },
+    {
+      "text": "Pax:",
+      "confidence": 0.9526
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Cashiar",
+      "confidence": 0.9555
+    },
+    {
+      "text": "Eat In",
+      "confidence": 0.9314
+    },
+    {
+      "text": "Iteni",
+      "confidence": 0.9761
+    },
+    {
+      "text": "aty",
+      "confidence": 0.7525
+    },
+    {
+      "text": "U.Price",
+      "confidence": 0.9763
+    },
+    {
+      "text": "Amount Tax",
+      "confidence": 0.918
+    },
+    {
+      "text": "FG-A00019",
+      "confidence": 0.9801
+    },
+    {
+      "text": "1",
+      "confidence": 0.9458
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9936
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9949
+    },
+    {
+      "text": "Green Tea",
+      "confidence": 0.973
+    },
+    {
+      "text": "FG-Y00030",
+      "confidence": 0.984
+    },
+    {
+      "text": "1",
+      "confidence": 0.8506
+    },
+    {
+      "text": "12.80",
+      "confidence": 0.9919
+    },
+    {
+      "text": "12.80",
+      "confidence": 0.9939
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9759
+    },
+    {
+      "text": "Yakiniku Bowl R",
+      "confidence": 0.8608
+    },
+    {
+      "text": "FG-Y00183",
+      "confidence": 0.9694
+    },
+    {
+      "text": "3",
+      "confidence": 0.5976
+    },
+    {
+      "text": "15.80",
+      "confidence": 0.9192
+    },
+    {
+      "text": "31.60",
+      "confidence": 0.9918
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9825
+    },
+    {
+      "text": "Negi Tama Beef Bow R",
+      "confidence": 0.9068
+    },
+    {
+      "text": "FG-Y00102",
+      "confidence": 0.9638
+    },
+    {
+      "text": "1",
+      "confidence": 0.9935
+    },
+    {
+      "text": "3.80",
+      "confidence": 0.9067
+    },
+    {
+      "text": "3.80",
+      "confidence": 0.9832
+    },
+    {
+      "text": "SR",
+      "confidence": 0.994
+    },
+    {
+      "text": "Miso/Wakame+Green Tea",
+      "confidence": 0.9649
+    },
+    {
+      "text": "FG-Y00264",
+      "confidence": 0.9764
+    },
+    {
+      "text": "000",
+      "confidence": 0.9163
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Miso Soup",
+      "confidence": 0.9505
+    },
+    {
+      "text": "SubTota1",
+      "confidence": 0.9884
+    },
+    {
+      "text": ":",
+      "confidence": 0.9821
+    },
+    {
+      "text": "49.70",
+      "confidence": 0.9916
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9764
+    },
+    {
+      "text": ":",
+      "confidence": 0.9958
+    },
+    {
+      "text": "49.70",
+      "confidence": 0.9985
+    },
+    {
+      "text": "TOTAL:MYR",
+      "confidence": 0.9656
+    },
+    {
+      "text": "49.70",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tota Excluded Tax",
+      "confidence": 0.8986
+    },
+    {
+      "text": ":",
+      "confidence": 0.9796
+    },
+    {
+      "text": "46.90",
+      "confidence": 0.9803
+    },
+    {
+      "text": ":",
+      "confidence": 0.9964
+    },
+    {
+      "text": "2.80",
+      "confidence": 0.9764
+    },
+    {
+      "text": "Payment Details",
+      "confidence": 0.9913
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9957
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9951
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9971
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.9848
+    },
+    {
+      "text": "Tax Sumary",
+      "confidence": 0.9083
+    },
+    {
+      "text": "Tax Code%",
+      "confidence": 0.9323
+    },
+    {
+      "text": "Anount(MYR)",
+      "confidence": 0.853
+    },
+    {
+      "text": "Tax(MYR)",
+      "confidence": 0.9455
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9552
+    },
+    {
+      "text": "6",
+      "confidence": 0.9953
+    },
+    {
+      "text": "46.90",
+      "confidence": 0.9992
+    },
+    {
+      "text": "2.80",
+      "confidence": 0.9884
+    },
+    {
+      "text": "**** Thank You ****",
+      "confidence": 0.9331
+    },
+    {
+      "text": "Please Come Again.",
+      "confidence": 0.9566
+    }
+  ]
+}

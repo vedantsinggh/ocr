@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005715451.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005715451.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "2018-06-02",
+  "items": [
+    {
+      "name": "CORR.PEN ZLI-W",
+      "qty": null,
+      "price": "7.05"
+    },
+    {
+      "name": "PB F/ RINGFILE W/GLI",
+      "qty": null,
+      "price": "6.49"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.83",
+  "total": "14.65",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

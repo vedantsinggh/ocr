@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005712021.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005712021.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HAPPY SNACKS ENTERPRISE",
+  "date": "2018-03-20",
+  "items": [
+    {
+      "name": "FRUIT PLUS-APPLE",
+      "qty": 350,
+      "price": "14.31"
+    },
+    {
+      "name": "LOT100CANDY-ASSORTED",
+      "qty": 300,
+      "price": "12.51"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.52",
+  "total": "26.80",
+  "currency": "INR",
+  "payment_method": null
+}

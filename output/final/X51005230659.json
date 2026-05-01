@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230659.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230659.txt",
+    "ocr_line_count": 35,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-01-08",
+  "items": [
+    {
+      "name": "BEG 1KG",
+      "qty": 30,
+      "price": "8.00"
+    },
+    {
+      "name": "1KG",
+      "qty": 20,
+      "price": "8.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.45",
+  "total": "8.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,65 @@
+2
+.01081
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID:000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No
+: CS00012504
+Date: 02/01/2018
+Cashier
+:USER
+Time: 14:49:00
+Salesperson :
+Ref. :
+Item
+Qty
+S/Price
+Amount
+Tax
+1762
+1
+7.95
+7.95
+SR
+17MM COMB SPANNER
+1041
+2
+15.90
+31.80
+SR
+6X35# CORRUGATED ROOFING SHEET
+Total Qty:
+39.75
+Total Sales (Excluding GST) :
+37.50
+Discount :
+0.00
+Total GST :
+2.25
+Rounding :
+0.00
+Total Salas (Inclusive of GsT) :
+39.75
+CASH :
+39.75
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SR
+6
+37.50
+2 25
+Total :
+37.50
+2.25
+GOODS SOLDARE NOT RETURNABLE,THANK YOU

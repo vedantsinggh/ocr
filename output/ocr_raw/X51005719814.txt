@@ -1,0 +1,50 @@
+KIKU JAPANESE RESTAURANT
+TKDIVISION KITCHEN SDN BHD
+1202152-P
+19-1.JALAN MALINJA 2.TAMAN BUNGA RAYA
+5310O SETAPAK,KUALA LUMPUR.
+TEL: 03-4161 8936
+INVOICE
+Invoice:9722
+Cashier:admin
+POS No:1
+TableD3
+Date:17/1/2018 12:12:21
+Pax:0
+ITEM
+QTY
+U/PRM
+DISC%
+AntRM
+Chicken Katsu Bento
+BEN02
+1
+12.90
+0.00
+12.90
+Omu Curry Fried Rice Set
+Set10
+1
+6.90
+0.00
+6.90
+Katsu Don (Fish)Set
+TS02 Kat
+1
+9.90
+0.00
+9.90
+Sub Total Before Discount
+RM29.70
+Service Charge
+RM0.00
+Total Sales
+RM29.70
+Rounding Ad justment:
+RM0.00
+TOTAL
+RM 29.70
+CASH
+RM 30.00
+CHANGE
+RM 0.30

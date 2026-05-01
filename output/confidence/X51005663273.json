@@ -1,0 +1,235 @@
+{
+  "source": "images/X51005663273.jpg",
+  "line_count": 57,
+  "avg_confidence": 0.9717,
+  "lines": [
+    {
+      "text": "31812012",
+      "confidence": 0.9734
+    },
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.99
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9947
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS.",
+      "confidence": 0.9563
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9896
+    },
+    {
+      "text": "53200, KUALA LUMPUR.",
+      "confidence": 0.977
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9896
+    },
+    {
+      "text": "GST ID : 000750673920",
+      "confidence": 0.9959
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9775
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9964
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9987
+    },
+    {
+      "text": "CS00011983",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Date: 04/12/2017",
+      "confidence": 0.9771
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9995
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9873
+    },
+    {
+      "text": "Time:16:15:00",
+      "confidence": 0.9526
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9589
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9703
+    },
+    {
+      "text": "11.",
+      "confidence": 0.7641
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9974
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9938
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9989
+    },
+    {
+      "text": "1470",
+      "confidence": 0.9716
+    },
+    {
+      "text": "3",
+      "confidence": 0.9994
+    },
+    {
+      "text": "15.90",
+      "confidence": 0.9831
+    },
+    {
+      "text": "47 70",
+      "confidence": 0.9322
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9854
+    },
+    {
+      "text": "25KG SIKA CREAM-88",
+      "confidence": 0.943
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.8908
+    },
+    {
+      "text": "47.70",
+      "confidence": 0.997
+    },
+    {
+      "text": "3",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Total Sales (Excluding GsT)",
+      "confidence": 0.9254
+    },
+    {
+      "text": "45.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9989
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9919
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT) :.",
+      "confidence": 0.9449
+    },
+    {
+      "text": "47.70",
+      "confidence": 0.9997
+    },
+    {
+      "text": "CAsh :",
+      "confidence": 0.6989
+    },
+    {
+      "text": "47.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.8993
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9962
+    },
+    {
+      "text": "%",
+      "confidence": 0.9932
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.8839
+    },
+    {
+      "text": "Tax (RM)",
+      "confidence": 0.9577
+    },
+    {
+      "text": "SR",
+      "confidence": 0.998
+    },
+    {
+      "text": "6",
+      "confidence": 0.9973
+    },
+    {
+      "text": "45.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9958
+    },
+    {
+      "text": "45.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+      "confidence": 0.9755
+    }
+  ]
+}

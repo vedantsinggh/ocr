@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719874.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719874.txt",
+    "ocr_line_count": 24,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "NADEJE PRESTIGE SDN BHD",
+  "date": "2018-02-22",
+  "items": [
+    {
+      "name": "Original Slice",
+      "qty": 2,
+      "price": "RM26.00"
+    },
+    {
+      "name": "DoubleChoc Slice",
+      "qty": 1,
+      "price": "RM13.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM2.21",
+  "total": "RM39.00",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

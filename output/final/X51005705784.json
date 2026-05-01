@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705784.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705784.txt",
+    "ocr_line_count": 82,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "EDAI BUKU NEW ACHEIVERS",
+  "date": "2017-09-15",
+  "items": [
+    {
+      "name": "ON ENVOLOPE 4X9 WINDOW",
+      "qty": 3,
+      "price": "3.20"
+    },
+    {
+      "name": "SEASONSHARD COVER BOOK",
+      "qty": 3,
+      "price": "7.90"
+    },
+    {
+      "name": "P RWT HARDCOVER FOOLSCAP",
+      "qty": 3,
+      "price": "2.73"
+    },
+    {
+      "name": "SHARPIE FINE PERMANENT MARKER",
+      "qty": 2,
+      "price": "2.73"
+    }
+  ],
+  "subtotal": "45.28",
+  "tax": "2.72",
+  "total": "48.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

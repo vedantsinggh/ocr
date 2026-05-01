@@ -1,0 +1,159 @@
+{
+  "source": "images/X51005742110.jpg",
+  "line_count": 38,
+  "avg_confidence": 0.9774,
+  "lines": [
+    {
+      "text": "YONG CEN ENTERPRISE",
+      "confidence": 0.9915
+    },
+    {
+      "text": "9, JALAN SUBANG JASA 3",
+      "confidence": 0.972
+    },
+    {
+      "text": "40150 SHAH ALAM, SELANGOR.",
+      "confidence": 0.995
+    },
+    {
+      "text": "TEL: 012-9719498",
+      "confidence": 0.9656
+    },
+    {
+      "text": "GST NO: 001147981824",
+      "confidence": 0.9935
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9993
+    },
+    {
+      "text": "RECEIPT#: CS00668595 DATE: 06/01/2018",
+      "confidence": 0.987
+    },
+    {
+      "text": "SALESPERSON :",
+      "confidence": 0.9659
+    },
+    {
+      "text": "TIME: 10:47:00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "COUNTER :",
+      "confidence": 0.9278
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9874
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.7766
+    },
+    {
+      "text": "U/P AMOUNT",
+      "confidence": 0.9778
+    },
+    {
+      "text": "9555223500000",
+      "confidence": 1.0
+    },
+    {
+      "text": "24",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.58",
+      "confidence": 0.9999
+    },
+    {
+      "text": "61.99",
+      "confidence": 0.9992
+    },
+    {
+      "text": "SR:CHAMPIGNONS MUSHROOMS 425G(2.5833X",
+      "confidence": 0.9932
+    },
+    {
+      "text": "TOTAL QUANTITy",
+      "confidence": 0.7581
+    },
+    {
+      "text": "24",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9881
+    },
+    {
+      "text": "61.99",
+      "confidence": 1.0
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9927
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9837
+    },
+    {
+      "text": "3.72",
+      "confidence": 0.9997
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9954
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9987
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9982
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9898
+    },
+    {
+      "text": "65.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9994
+    },
+    {
+      "text": "65.70 ",
+      "confidence": 0.9849
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.983
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9413
+    }
+  ]
+}

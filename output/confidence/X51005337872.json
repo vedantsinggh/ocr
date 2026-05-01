@@ -1,0 +1,243 @@
+{
+  "source": "images/X51005337872.jpg",
+  "line_count": 59,
+  "avg_confidence": 0.9689,
+  "lines": [
+    {
+      "text": "SYLROASTEDDELIGHTS SDN.BHD",
+      "confidence": 0.959
+    },
+    {
+      "text": "122703",
+      "confidence": 0.9957
+    },
+    {
+      "text": "75.JALANSS22/19.DAMANSARA JAYA.47400PJ",
+      "confidence": 0.9441
+    },
+    {
+      "text": "TEL:03-77318169",
+      "confidence": 0.9595
+    },
+    {
+      "text": "GD002046390272",
+      "confidence": 0.9795
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9959
+    },
+    {
+      "text": "SO00022185",
+      "confidence": 0.9598
+    },
+    {
+      "text": "TABLE",
+      "confidence": 0.9975
+    },
+    {
+      "text": "A10",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.998
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Date.",
+      "confidence": 0.9255
+    },
+    {
+      "text": "06/03/2018",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Salesperson",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Time:",
+      "confidence": 0.9745
+    },
+    {
+      "text": "12:06:00",
+      "confidence": 0.9201
+    },
+    {
+      "text": "Description",
+      "confidence": 0.998
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9911
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9991
+    },
+    {
+      "text": "(T02BRAISEDPORK",
+      "confidence": 0.9377
+    },
+    {
+      "text": "20",
+      "confidence": 0.9994
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "14 00",
+      "confidence": 0.9117
+    },
+    {
+      "text": "RICEWITHPEANUT",
+      "confidence": 0.9756
+    },
+    {
+      "text": "TPORK-",
+      "confidence": 0.9078
+    },
+    {
+      "text": "1.0",
+      "confidence": 0.9966
+    },
+    {
+      "text": "1200",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1200",
+      "confidence": 0.9977
+    },
+    {
+      "text": "SMALL",
+      "confidence": 0.9979
+    },
+    {
+      "text": "VO2SOUR&SPICY",
+      "confidence": 0.9194
+    },
+    {
+      "text": "1.0",
+      "confidence": 0.9991
+    },
+    {
+      "text": "12.00",
+      "confidence": 0.9963
+    },
+    {
+      "text": "12 00",
+      "confidence": 0.9075
+    },
+    {
+      "text": "MUSTARD",
+      "confidence": 0.9969
+    },
+    {
+      "text": "(B03)JASMINEGREEN",
+      "confidence": 0.9275
+    },
+    {
+      "text": "2.0",
+      "confidence": 0.9951
+    },
+    {
+      "text": "2.30",
+      "confidence": 0.9969
+    },
+    {
+      "text": "4.60",
+      "confidence": 0.9995
+    },
+    {
+      "text": "TEA(HOT)",
+      "confidence": 0.9943
+    },
+    {
+      "text": "(R05) ROAST PORK +",
+      "confidence": 0.8982
+    },
+    {
+      "text": "1.0",
+      "confidence": 0.9796
+    },
+    {
+      "text": "11.90",
+      "confidence": 0.9969
+    },
+    {
+      "text": "11.90",
+      "confidence": 0.9973
+    },
+    {
+      "text": "ROAST CHICKEN RICE",
+      "confidence": 0.9565
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9533
+    },
+    {
+      "text": "7",
+      "confidence": 0.9928
+    },
+    {
+      "text": "51.42",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Total Sales (Excluding GST):",
+      "confidence": 0.9149
+    },
+    {
+      "text": "5142",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9464
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total GST:",
+      "confidence": 0.8672
+    },
+    {
+      "text": "308",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Rounding:",
+      "confidence": 0.9888
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "XW",
+      "confidence": 0.6947
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT).",
+      "confidence": 0.953
+    },
+    {
+      "text": "54.50",
+      "confidence": 0.9944
+    }
+  ]
+}

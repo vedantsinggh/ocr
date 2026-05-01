@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677333.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677333.txt",
+    "ocr_line_count": 71,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-31",
+  "items": [
+    {
+      "name": "W33) 105MM/4' CUTTING DISC",
+      "qty": 2,
+      "price": "29.68"
+    },
+    {
+      "name": "SR MAGIC SANDPAPER",
+      "qty": 10,
+      "price": "3.18"
+    },
+    {
+      "name": "104 COTTON GLOVE (DOZEN)",
+      "qty": 1,
+      "price": "10.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.76",
+  "total": "101.76",
+  "currency": "RM",
+  "payment_method": "CASh"
+}

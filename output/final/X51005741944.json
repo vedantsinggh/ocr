@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005741944.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005741944.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SHPetromart",
+  "date": "2018-01-18",
+  "items": [
+    {
+      "name": "in?init! 97 E4MP3",
+      "qty": null,
+      "price": "2.570"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.37",
+  "total": "41.95",
+  "currency": "RM",
+  "payment_method": null
+}

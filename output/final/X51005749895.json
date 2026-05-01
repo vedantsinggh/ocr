@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005749895.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005749895.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO EXIR ARA DAMANSARA",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "PILLARSINK TAP",
+      "qty": null,
+      "price": "2X23.90"
+    },
+    {
+      "name": "SHIELDTOX FIK BOO IL MP",
+      "qty": null,
+      "price": "1X8.90"
+    },
+    {
+      "name": "SPONGE KOREA-2S",
+      "qty": 4,
+      "price": "X3.00"
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "qty": null,
+      "price": "1X0.20"
+    },
+    {
+      "name": "VANCE LIGHTER-1sVT02",
+      "qty": null,
+      "price": "0.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.07",
+  "total": "71.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

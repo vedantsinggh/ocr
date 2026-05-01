@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757292.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757292.txt",
+    "ocr_line_count": 32,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PP WATER FILTER",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "WATER FILTER CARTRIOGE INDOOR 1S *S WA38 -100",
+      "qty": 2,
+      "price": "6.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.37",
+  "total": "6.97",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,111 @@
+{
+  "source": "images/X51005447852.jpg",
+  "line_count": 26,
+  "avg_confidence": 0.9163,
+  "lines": [
+    {
+      "text": "99SPEEDMART S/B 519537-X)",
+      "confidence": 0.9074
+    },
+    {
+      "text": "LOT P.T.2811JALAN ANGSA",
+      "confidence": 0.931
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9615
+    },
+    {
+      "text": "41150 KLANG,SELANGOR",
+      "confidence": 0.939
+    },
+    {
+      "text": "1249-TMN PANDAN CAHAYA",
+      "confidence": 0.9441
+    },
+    {
+      "text": "GSTID.NO000181747712",
+      "confidence": 0.9674
+    },
+    {
+      "text": "INV0ICENO18314/102/T0422",
+      "confidence": 0.9672
+    },
+    {
+      "text": "06:20PM",
+      "confidence": 0.8549
+    },
+    {
+      "text": "800895",
+      "confidence": 0.8898
+    },
+    {
+      "text": "20-02-18",
+      "confidence": 0.9879
+    },
+    {
+      "text": "8991 NUTRI PLUS TELUR SEGAR",
+      "confidence": 0.9271
+    },
+    {
+      "text": "RM9.90Z",
+      "confidence": 0.91
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.889
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9932
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9099
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9499
+    },
+    {
+      "text": ".10",
+      "confidence": 0.9605
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9095
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.8138
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.8993
+    },
+    {
+      "text": "z=0%.",
+      "confidence": 0.6542
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9945
+    },
+    {
+      "text": "00'",
+      "confidence": 0.7706
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9409
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9573
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "source": "images/X51005712038.jpg",
+  "line_count": 57,
+  "avg_confidence": 0.9619,
+  "lines": [
+    {
+      "text": "SWC ENTERPRISE",
+      "confidence": 0.9761
+    },
+    {
+      "text": "SDNBHD",
+      "confidence": 0.966
+    },
+    {
+      "text": "1125830-V",
+      "confidence": 0.9428
+    },
+    {
+      "text": "5-7JALAN MAHAGONI 7/1",
+      "confidence": 0.9489
+    },
+    {
+      "text": "SEKSYEN 4,BANDAR UTAMA,44300",
+      "confidence": 0.9319
+    },
+    {
+      "text": "BATANG KALI,SELANGOR",
+      "confidence": 0.95
+    },
+    {
+      "text": "03-60571377",
+      "confidence": 0.9944
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9776
+    },
+    {
+      "text": "002017808384",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Tax Inv01ce No00518087100028",
+      "confidence": 0.943
+    },
+    {
+      "text": "005002(BATANGKALI-2)",
+      "confidence": 0.9474
+    },
+    {
+      "text": "8",
+      "confidence": 0.981
+    },
+    {
+      "text": "002",
+      "confidence": 0.9978
+    },
+    {
+      "text": "28/03/2018 10:36:13",
+      "confidence": 0.945
+    },
+    {
+      "text": "OPEN CODE-SR ITEM",
+      "confidence": 0.9444
+    },
+    {
+      "text": "0025679U",
+      "confidence": 0.9831
+    },
+    {
+      "text": "3x8.00",
+      "confidence": 0.9724
+    },
+    {
+      "text": "24.00 S",
+      "confidence": 0.9118
+    },
+    {
+      "text": "0025679 U",
+      "confidence": 0.9268
+    },
+    {
+      "text": "1x7.00",
+      "confidence": 0.9878
+    },
+    {
+      "text": "7.00S",
+      "confidence": 0.9493
+    },
+    {
+      "text": "PD3.20",
+      "confidence": 0.9883
+    },
+    {
+      "text": "-3.80",
+      "confidence": 0.9822
+    },
+    {
+      "text": "Authorize : BATANGKALI-S",
+      "confidence": 0.9248
+    },
+    {
+      "text": "STAR 12X131X180)",
+      "confidence": 0.9279
+    },
+    {
+      "text": "0020323PKT",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1x1.00",
+      "confidence": 0.9725
+    },
+    {
+      "text": "1.00 S",
+      "confidence": 0.8525
+    },
+    {
+      "text": "STAR15X16 AA1X120",
+      "confidence": 0.9549
+    },
+    {
+      "text": "0020324PKT",
+      "confidence": 0.9902
+    },
+    {
+      "text": "1x1.80",
+      "confidence": 0.9578
+    },
+    {
+      "text": "1.80S",
+      "confidence": 0.9613
+    },
+    {
+      "text": "Iten 4",
+      "confidence": 0.9276
+    },
+    {
+      "text": "SubTotal Incl GST",
+      "confidence": 0.9022
+    },
+    {
+      "text": "30.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Qty 6",
+      "confidence": 0.9118
+    },
+    {
+      "text": "Spec.Disc",
+      "confidence": 0.9895
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Saving 3.80",
+      "confidence": 0.9523
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9976
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9964
+    },
+    {
+      "text": "30.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9963
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9984
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.8872
+    },
+    {
+      "text": "Anount(RM)",
+      "confidence": 0.9427
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9183
+    },
+    {
+      "text": "S(6%)",
+      "confidence": 0.9656
+    },
+    {
+      "text": "28.30",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1.70",
+      "confidence": 0.9962
+    },
+    {
+      "text": "28/03/2018 10:36:13",
+      "confidence": 0.9445
+    },
+    {
+      "text": "GOODS SOLD ARE NOT REFUNDABLE",
+      "confidence": 0.9548
+    },
+    {
+      "text": "THANK YOU FOR YOUR KIND SUPPORT",
+      "confidence": 0.9314
+    },
+    {
+      "text": "PLEASE COME AGAIN",
+      "confidence": 0.9556
+    }
+  ]
+}

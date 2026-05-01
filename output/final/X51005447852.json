@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447852.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447852.txt",
+    "ocr_line_count": 26,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPEEDMART",
+  "date": "2018-02-20",
+  "items": [
+    {
+      "name": "NUTRI PLUS TELUR SEGAR",
+      "qty": null,
+      "price": "9.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "9.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

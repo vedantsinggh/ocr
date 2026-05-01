@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442379.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442379.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "Meat+2Vege",
+      "qty": null,
+      "price": "8.70"
+    },
+    {
+      "name": "Add Vegetable",
+      "qty": null,
+      "price": "0.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.52",
+  "total": "9.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

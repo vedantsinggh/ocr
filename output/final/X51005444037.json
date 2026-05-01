@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444037.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444037.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Nandos",
+  "date": "2018-03-28",
+  "items": [
+    {
+      "name": "1/4 Chic+1sd-T @17.90",
+      "qty": 2,
+      "price": "71.60"
+    },
+    {
+      "name": "1/4-M",
+      "qty": 3,
+      "price": "53.70"
+    }
+  ],
+  "subtotal": "129.30",
+  "tax": "7.30",
+  "total": "129.30",
+  "currency": "RM",
+  "payment_method": null
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663273.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663273.txt",
+    "ocr_line_count": 57,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-04",
+  "items": [
+    {
+      "name": "SR 25KG SIKA CREAM-88",
+      "qty": 3,
+      "price": "15.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.70",
+  "total": "47.70",
+  "currency": "INR",
+  "payment_method": "CAsh"
+}

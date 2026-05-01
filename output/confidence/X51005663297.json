@@ -1,0 +1,599 @@
+{
+  "source": "images/X51005663297.jpg",
+  "line_count": 148,
+  "avg_confidence": 0.9704,
+  "lines": [
+    {
+      "text": "31803 014",
+      "confidence": 0.9759
+    },
+    {
+      "text": "BEYOND BROTHERS HARDWARE",
+      "confidence": 0.8944
+    },
+    {
+      "text": "(872981-V)",
+      "confidence": 0.9989
+    },
+    {
+      "text": "LOT 1-0-2, JLN 1/50,",
+      "confidence": 0.9623
+    },
+    {
+      "text": "DIAMOND SQUARE,",
+      "confidence": 0.9829
+    },
+    {
+      "text": "OFF JLN GOMBAK",
+      "confidence": 0.9733
+    },
+    {
+      "text": " 53000 KUALA LUMPUR",
+      "confidence": 0.9881
+    },
+    {
+      "text": "TEL : 03-40211233FAX : 03-402232330",
+      "confidence": 0.9573
+    },
+    {
+      "text": "IVAN_KONG12@HOTMAIL.COM",
+      "confidence": 0.9652
+    },
+    {
+      "text": "GST ID : 001921974272",
+      "confidence": 0.9858
+    },
+    {
+      "text": "TAx InVoICE",
+      "confidence": 0.6305
+    },
+    {
+      "text": "Bill To",
+      "confidence": 0.8886
+    },
+    {
+      "text": "PDP UTEK (M) SDN BHD)",
+      "confidence": 0.9643
+    },
+    {
+      "text": "SEBELAH PETRONAS",
+      "confidence": 0.9936
+    },
+    {
+      "text": "AMPANG",
+      "confidence": 0.9979
+    },
+    {
+      "text": " NEAR TO KPJ HOSPITAL",
+      "confidence": 0.9826
+    },
+    {
+      "text": "019-2616 281 MR.NEO",
+      "confidence": 0.9734
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.9071
+    },
+    {
+      "text": ": CS00067741",
+      "confidence": 0.985
+    },
+    {
+      "text": "Date: 14/03/2018",
+      "confidence": 0.9672
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9925
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9758
+    },
+    {
+      "text": "Time: 16:37:00",
+      "confidence": 0.9874
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.9691
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9802
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9701
+    },
+    {
+      "text": "Item",
+      "confidence": 0.8833
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9737
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9861
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9793
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9881
+    },
+    {
+      "text": "11028",
+      "confidence": 0.9926
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "159.00",
+      "confidence": 0.9943
+    },
+    {
+      "text": "159.00",
+      "confidence": 0.9824
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9908
+    },
+    {
+      "text": "BATU CEMENT (A) 600PCS",
+      "confidence": 0.9777
+    },
+    {
+      "text": "11046",
+      "confidence": 0.9486
+    },
+    {
+      "text": "2",
+      "confidence": 0.9384
+    },
+    {
+      "text": "80.00",
+      "confidence": 0.9945
+    },
+    {
+      "text": "84 80",
+      "confidence": 0.9852
+    },
+    {
+      "text": "169.60",
+      "confidence": 0.9989
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9794
+    },
+    {
+      "text": "PASIR HALUIS",
+      "confidence": 0.9179
+    },
+    {
+      "text": "11000",
+      "confidence": 0.9961
+    },
+    {
+      "text": "16.00",
+      "confidence": 0.9954
+    },
+    {
+      "text": "16 96",
+      "confidence": 0.9734
+    },
+    {
+      "text": "101.76",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9715
+    },
+    {
+      "text": "YTL CEMENT 50KG (NEW PRICE)",
+      "confidence": 0.9508
+    },
+    {
+      "text": "11036",
+      "confidence": 0.9971
+    },
+    {
+      "text": "3 00",
+      "confidence": 0.9863
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1",
+      "confidence": 0.9917
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9933
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9933
+    },
+    {
+      "text": "KAPUR A1",
+      "confidence": 0.9815
+    },
+    {
+      "text": "10012",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2",
+      "confidence": 0.9987
+    },
+    {
+      "text": "3 00",
+      "confidence": 0.9473
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9981
+    },
+    {
+      "text": "6.36",
+      "confidence": 0.9895
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9929
+    },
+    {
+      "text": ": SALUNG TANGAN GETAH (1PAIR)",
+      "confidence": 0.9608
+    },
+    {
+      "text": "1682",
+      "confidence": 0.9788
+    },
+    {
+      "text": "2 00",
+      "confidence": 0.9131
+    },
+    {
+      "text": "2.12",
+      "confidence": 0.9912
+    },
+    {
+      "text": "2.12",
+      "confidence": 0.9935
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8584
+    },
+    {
+      "text": "BENANG NYLON #1B",
+      "confidence": 0.9527
+    },
+    {
+      "text": "2567",
+      "confidence": 0.998
+    },
+    {
+      "text": "16.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "16.96",
+      "confidence": 0.9985
+    },
+    {
+      "text": "16.96",
+      "confidence": 0.9967
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1",
+      "confidence": 0.8312
+    },
+    {
+      "text": "GERMANY SUDU PLASTER",
+      "confidence": 0.9277
+    },
+    {
+      "text": "2564",
+      "confidence": 0.9934
+    },
+    {
+      "text": "1",
+      "confidence": 0.999
+    },
+    {
+      "text": "6.90",
+      "confidence": 0.9928
+    },
+    {
+      "text": "7 31",
+      "confidence": 0.9951
+    },
+    {
+      "text": "7.31",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9965
+    },
+    {
+      "text": " SUDU PLASTER KAYU (NORMAL)",
+      "confidence": 0.9835
+    },
+    {
+      "text": "2686",
+      "confidence": 0.9826
+    },
+    {
+      "text": "1",
+      "confidence": 0.9978
+    },
+    {
+      "text": "4 50",
+      "confidence": 0.9627
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9993
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9962
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9924
+    },
+    {
+      "text": " PAPAN SIMEN (HITAM)",
+      "confidence": 0.9567
+    },
+    {
+      "text": "1521",
+      "confidence": 0.9971
+    },
+    {
+      "text": "19.90",
+      "confidence": 0.9968
+    },
+    {
+      "text": "21.09",
+      "confidence": 0.9987
+    },
+    {
+      "text": "21.09",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9945
+    },
+    {
+      "text": "1",
+      "confidence": 0.9884
+    },
+    {
+      "text": " MiMAN RULE TIMBANG 18\"",
+      "confidence": 0.8624
+    },
+    {
+      "text": "3879",
+      "confidence": 0.9996
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "106.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "106.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9929
+    },
+    {
+      "text": "0KERETA TOLAK H/D (OREN)",
+      "confidence": 0.9176
+    },
+    {
+      "text": "3416",
+      "confidence": 0.9983
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.999
+    },
+    {
+      "text": "1.27",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1.27",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9881
+    },
+    {
+      "text": "1",
+      "confidence": 0.934
+    },
+    {
+      "text": "0 PAKU KAYU 1\" (KECIL)",
+      "confidence": 0.9268
+    },
+    {
+      "text": "3432",
+      "confidence": 0.94
+    },
+    {
+      "text": "1",
+      "confidence": 0.9918
+    },
+    {
+      "text": "0 00",
+      "confidence": 0.9353
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9943
+    },
+    {
+      "text": "MAYBANK-5122 04816723",
+      "confidence": 0.9641
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9433
+    },
+    {
+      "text": "20",
+      "confidence": 0.9758
+    },
+    {
+      "text": "599.43",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Total Sales (Excluding GST)",
+      "confidence": 0.9966
+    },
+    {
+      "text": "565.50",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Discount",
+      "confidence": 0.9304
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "otal GST",
+      "confidence": 0.9681
+    },
+    {
+      "text": "33.93",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9993
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Sales (Inclusive of GsT) :",
+      "confidence": 0.9703
+    },
+    {
+      "text": "599.45",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9237
+    },
+    {
+      "text": "599.45",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9537
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9144
+    },
+    {
+      "text": "%",
+      "confidence": 0.6355
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.963
+    },
+    {
+      "text": "Iax(RM)",
+      "confidence": 0.9746
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9907
+    },
+    {
+      "text": "6",
+      "confidence": 0.998
+    },
+    {
+      "text": "565.50",
+      "confidence": 0.9967
+    },
+    {
+      "text": "33.93",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Tatal :",
+      "confidence": 0.9192
+    },
+    {
+      "text": " 93",
+      "confidence": 0.816
+    }
+  ]
+}

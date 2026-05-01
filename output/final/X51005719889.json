@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719889.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719889.txt",
+    "ocr_line_count": 56,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HENG KEE DEI.IGHTS BAK KUT TEH",
+  "date": "2018-01-04",
+  "items": [
+    {
+      "name": "Bak Kut Teh Soup.",
+      "qty": 2.0,
+      "price": "17.00"
+    },
+    {
+      "name": "White Rice",
+      "qty": 1.0,
+      "price": "4.00"
+    },
+    {
+      "name": "Tofu",
+      "qty": 2.0,
+      "price": "0.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.38",
+  "total": "42.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

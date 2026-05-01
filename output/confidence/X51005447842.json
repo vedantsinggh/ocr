@@ -1,0 +1,171 @@
+{
+  "source": "images/X51005447842.jpg",
+  "line_count": 41,
+  "avg_confidence": 0.9624,
+  "lines": [
+    {
+      "text": "PASARAYA BORONG PINTAR",
+      "confidence": 0.9639
+    },
+    {
+      "text": "SDN BHD",
+      "confidence": 0.9478
+    },
+    {
+      "text": "BRNo.124525-H",
+      "confidence": 0.9366
+    },
+    {
+      "text": "NO 19-G&19-1&19-2JALAN TASIKUTAMA4",
+      "confidence": 0.9662
+    },
+    {
+      "text": "MEDAN NIAGA TASIK DAMAI",
+      "confidence": 0.9259
+    },
+    {
+      "text": "016-5498845,",
+      "confidence": 0.9773
+    },
+    {
+      "text": "GSTNo.",
+      "confidence": 0.95
+    },
+    {
+      "text": "14/03/2018 4:06:34PM",
+      "confidence": 0.954
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9588
+    },
+    {
+      "text": "TRN:CR0008955",
+      "confidence": 0.9622
+    },
+    {
+      "text": "COUNTER3",
+      "confidence": 0.9656
+    },
+    {
+      "text": "CASHIER:1",
+      "confidence": 0.9594
+    },
+    {
+      "text": "QTYUOM",
+      "confidence": 0.9918
+    },
+    {
+      "text": "UNITAmt Exc.Amt Inc.GST",
+      "confidence": 0.9547
+    },
+    {
+      "text": "Price",
+      "confidence": 0.999
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9956
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9605
+    },
+    {
+      "text": "GB CR-CORN",
+      "confidence": 0.9498
+    },
+    {
+      "text": "17",
+      "confidence": 0.6837
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9836
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9969
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9989
+    },
+    {
+      "text": "0.90ZRL",
+      "confidence": 0.9922
+    },
+    {
+      "text": "*TotalQty:1.00",
+      "confidence": 0.9401
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Total Includes GST 0%",
+      "confidence": 0.9297
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Customer's Payment",
+      "confidence": 0.9775
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.998
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9995
+    },
+    {
+      "text": "4.10",
+      "confidence": 0.9983
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9726
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9443
+    },
+    {
+      "text": "Tax (RM)",
+      "confidence": 0.9348
+    },
+    {
+      "text": "ZRL=0%",
+      "confidence": 0.9735
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9963
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9958
+    },
+    {
+      "text": "*Goods sold are not returnable",
+      "confidence": 0.9473
+    },
+    {
+      "text": "Thank you for shopping at PASARAYA",
+      "confidence": 0.9471
+    },
+    {
+      "text": "BORONG PINTAR SDN BHD",
+      "confidence": 0.9311
+    }
+  ]
+}

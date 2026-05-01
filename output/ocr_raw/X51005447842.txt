@@ -1,0 +1,41 @@
+PASARAYA BORONG PINTAR
+SDN BHD
+BRNo.124525-H
+NO 19-G&19-1&19-2JALAN TASIKUTAMA4
+MEDAN NIAGA TASIK DAMAI
+016-5498845,
+GSTNo.
+14/03/2018 4:06:34PM
+TAX INVOICE
+TRN:CR0008955
+COUNTER3
+CASHIER:1
+QTYUOM
+UNITAmt Exc.Amt Inc.GST
+Price
+Tax
+Tax Code
+GB CR-CORN
+17
+WALK
+0.90
+0.90
+0.90ZRL
+*TotalQty:1.00
+0.90
+Total Includes GST 0%
+0.90
+Customer's Payment
+Cash
+5.00
+Change
+4.10
+GST Summary
+Amount (RM)
+Tax (RM)
+ZRL=0%
+0.90
+0.00
+*Goods sold are not returnable
+Thank you for shopping at PASARAYA
+BORONG PINTAR SDN BHD

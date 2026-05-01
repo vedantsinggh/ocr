@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757273.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757273.txt",
+    "ocr_line_count": 33,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MR. D.I.Y.",
+  "date": "2018-12-03",
+  "items": [
+    {
+      "name": "PYEDRAIN CLOG FREE CLDR02 - 1O0OML *S WA05 - 12",
+      "qty": 3,
+      "price": "45.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.55",
+  "total": "45.00",
+  "currency": "RM",
+  "payment_method": "CARD"
+}

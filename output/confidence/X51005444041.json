@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005444041.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.9626,
+  "lines": [
+    {
+      "text": "B.I.G",
+      "confidence": 0.9621
+    },
+    {
+      "text": "BENS INDEPENDENT GROCER SDN.BHD",
+      "confidence": 0.9489
+    },
+    {
+      "text": "(913144-A)",
+      "confidence": 0.9301
+    },
+    {
+      "text": "Lot 6, Jalan Batai,",
+      "confidence": 0.9317
+    },
+    {
+      "text": "Plaza Batai, Damansara Heights",
+      "confidence": 0.9475
+    },
+    {
+      "text": "50490,Kuala Lumpur",
+      "confidence": 0.9862
+    },
+    {
+      "text": "T:03-209373581F:03-20937359",
+      "confidence": 0.9547
+    },
+    {
+      "text": "(GSTREGNO000243941376)",
+      "confidence": 0.949
+    },
+    {
+      "text": "Tax Invoice: BAT01201803080169",
+      "confidence": 0.9306
+    },
+    {
+      "text": "08/03/18",
+      "confidence": 0.9944
+    },
+    {
+      "text": "Cashier: Sharol N",
+      "confidence": 0.937
+    },
+    {
+      "text": "18:20:41",
+      "confidence": 0.9563
+    },
+    {
+      "text": "Dole Pineapple Pcs",
+      "confidence": 0.9311
+    },
+    {
+      "text": "8809069300708",
+      "confidence": 0.9994
+    },
+    {
+      "text": "7.90*3",
+      "confidence": 0.9901
+    },
+    {
+      "text": "23.70Z",
+      "confidence": 0.987
+    },
+    {
+      "text": "Farmhouse Fresh Milk Twin Pack 2x1L",
+      "confidence": 0.9477
+    },
+    {
+      "text": "9556040440548",
+      "confidence": 0.9984
+    },
+    {
+      "text": "19.90*1",
+      "confidence": 0.9907
+    },
+    {
+      "text": "19.90S",
+      "confidence": 0.9744
+    },
+    {
+      "text": "Fresh Cut Hone",
+      "confidence": 0.9436
+    },
+    {
+      "text": "kfruit Peeled 400g",
+      "confidence": 0.9286
+    },
+    {
+      "text": "1430018201",
+      "confidence": 0.9973
+    },
+    {
+      "text": "8.90*3",
+      "confidence": 0.99
+    },
+    {
+      "text": "26.70 Z",
+      "confidence": 0.966
+    },
+    {
+      "text": "Nestle Bliss Yog Drink Strawberry 700g",
+      "confidence": 0.962
+    },
+    {
+      "text": "9556001030290",
+      "confidence": 0.9985
+    },
+    {
+      "text": "5.80*1",
+      "confidence": 0.995
+    },
+    {
+      "text": "5.80S",
+      "confidence": 0.9728
+    },
+    {
+      "text": "Vitagen Assorted 5x125ml",
+      "confidence": 0.9737
+    },
+    {
+      "text": "9557305000118",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.90*1",
+      "confidence": 0.9865
+    },
+    {
+      "text": "4.90 S",
+      "confidence": 0.9475
+    },
+    {
+      "text": "Item 5",
+      "confidence": 0.999
+    },
+    {
+      "text": "Tota! with GST @6%",
+      "confidence": 0.913
+    },
+    {
+      "text": "81.00",
+      "confidence": 0.9965
+    },
+    {
+      "text": "6 Ad",
+      "confidence": 0.5437
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.945
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Total Saving",
+      "confidence": 0.9764
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9932
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9874
+    },
+    {
+      "text": "81.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Tender",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Pmpc(debit)0012App:578149",
+      "confidence": 0.95
+    },
+    {
+      "text": "81.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9992
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "GST Analysis",
+      "confidence": 0.9683
+    },
+    {
+      "text": "Goods",
+      "confidence": 0.997
+    },
+    {
+      "text": "Tax Amount",
+      "confidence": 0.9827
+    },
+    {
+      "text": "S=6%",
+      "confidence": 0.8603
+    },
+    {
+      "text": "28.86",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1.74",
+      "confidence": 0.9932
+    },
+    {
+      "text": "Z =0%",
+      "confidence": 0.8751
+    },
+    {
+      "text": "50.40",
+      "confidence": 0.9984
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "BIG.COM.MY",
+      "confidence": 0.9899
+    },
+    {
+      "text": "FACEBOOK.COM/THEBIGGROUP",
+      "confidence": 0.9936
+    },
+    {
+      "text": "EXCHANGE & REFUND MAY BE ALLOWED",
+      "confidence": 0.9292
+    },
+    {
+      "text": "WITHIN 3DAYS WITH ORIGINAL TAX INVOICE",
+      "confidence": 0.9243
+    },
+    {
+      "text": "THANK YOU,PLEASE COME AGAIN",
+      "confidence": 0.9443
+    },
+    {
+      "text": "BATO",
+      "confidence": 0.9878
+    }
+  ]
+}

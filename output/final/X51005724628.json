@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724628.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724628.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "BESI R5.5 (CQ)",
+      "qty": 10,
+      "price": "8.48"
+    }
+  ],
+  "subtotal": "80.00",
+  "tax": "4.80",
+  "total": "84.80",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568884.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568884.txt",
+    "ocr_line_count": 35,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CHERAS LEISURE MALL",
+  "date": "2017-11-24",
+  "items": [
+    {
+      "name": "BATTERY LRO3-4B AAA 4PCS",
+      "qty": 1,
+      "price": "3.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.22",
+  "total": "4.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

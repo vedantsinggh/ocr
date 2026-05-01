@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005676539.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9821,
+  "lines": [
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.9949
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9988
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS.",
+      "confidence": 0.987
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9972
+    },
+    {
+      "text": "53200,KUALA LUMPUR",
+      "confidence": 0.9535
+    },
+    {
+      "text": "TEL:03-40210276",
+      "confidence": 0.9664
+    },
+    {
+      "text": "GST ID : 000750673920",
+      "confidence": 0.98
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9674
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9957
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9912
+    },
+    {
+      "text": ": CS00012626",
+      "confidence": 0.9827
+    },
+    {
+      "text": "Date: 10/01/2018",
+      "confidence": 0.9924
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9997
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9466
+    },
+    {
+      "text": "Time: 09:20:00",
+      "confidence": 0.9865
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9841
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9514
+    },
+    {
+      "text": "Item",
+      "confidence": 0.985
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9992
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1943",
+      "confidence": 0.999
+    },
+    {
+      "text": "1",
+      "confidence": 0.996
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9997
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9994
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9957
+    },
+    {
+      "text": "HOESSET",
+      "confidence": 0.9956
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9632
+    },
+    {
+      "text": "1",
+      "confidence": 0.998
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9957
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9489
+    },
+    {
+      "text": "22.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9528
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9326
+    },
+    {
+      "text": "1.32",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9923
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT) :",
+      "confidence": 0.9843
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9999
+    },
+    {
+      "text": "cash :",
+      "confidence": 0.8355
+    },
+    {
+      "text": "23.32",
+      "confidence": 1.0
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9974
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9907
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9995
+    },
+    {
+      "text": "%",
+      "confidence": 0.9656
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9141
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9954
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9956
+    },
+    {
+      "text": "6",
+      "confidence": 0.9978
+    },
+    {
+      "text": "22.00",
+      "confidence": 0.9324
+    },
+    {
+      "text": "1.32",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9665
+    },
+    {
+      "text": "22.00",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1.32",
+      "confidence": 0.999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+      "confidence": 0.9713
+    }
+  ]
+}

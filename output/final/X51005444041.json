@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444041.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444041.txt",
+    "ocr_line_count": 63,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "B.I.G BENS INDEPENDENT GROCER",
+  "date": "2018-03-08",
+  "items": [
+    {
+      "name": "Dole Pineapple Pcs",
+      "qty": 3,
+      "price": "7.90"
+    },
+    {
+      "name": "Farmhouse Fresh Milk Twin Pack 2x1L",
+      "qty": 1,
+      "price": "19.90"
+    },
+    {
+      "name": "Fresh Cut Honey fruit Peeled 400g",
+      "qty": 3,
+      "price": "8.90"
+    },
+    {
+      "name": "Nestle Bliss Yog Drink Strawberry 700g",
+      "qty": 1,
+      "price": "5.80"
+    },
+    {
+      "name": "Vitagen Assorted 5x125ml",
+      "qty": 1,
+      "price": "4.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6%",
+  "total": "81.00",
+  "currency": "INR",
+  "payment_method": "debit"
+}

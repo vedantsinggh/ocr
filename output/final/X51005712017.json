@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005712017.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005712017.txt",
+    "ocr_line_count": 33,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "McChicken",
+      "qty": null,
+      "price": "11.10"
+    },
+    {
+      "name": "Coke",
+      "qty": null,
+      "price": "1.00"
+    },
+    {
+      "name": "Fries",
+      "qty": null,
+      "price": "1.00"
+    },
+    {
+      "name": "Small Cone",
+      "qty": 2,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.74",
+  "total": "13.10",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

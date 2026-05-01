@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719895.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719895.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GREEN LANE PHARMACY SON BHD",
+  "date": "2018-08-01",
+  "items": [
+    {
+      "name": "AMOXICAP 50OMG CAPSU",
+      "qty": 1.0,
+      "price": "6.00"
+    },
+    {
+      "name": "NOFLUX TAB 90MG",
+      "qty": 10.0,
+      "price": "4.51"
+    },
+    {
+      "name": "IRUPR0FEN400MG",
+      "qty": 30.0,
+      "price": "2.00"
+    },
+    {
+      "name": "KFEBRIC0L-RX",
+      "qty": 10.0,
+      "price": "10.80"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.51",
+  "total": "34.80",
+  "currency": "INR",
+  "payment_method": "MASTER"
+}

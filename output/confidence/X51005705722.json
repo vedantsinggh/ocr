@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005705722.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9714,
+  "lines": [
+    {
+      "text": "ASO ELECTRICAL TRADING SDN BHD",
+      "confidence": 0.9748
+    },
+    {
+      "text": "1000131-K",
+      "confidence": 0.9995
+    },
+    {
+      "text": "NO 31G, JALAN SEPADU C 25/C",
+      "confidence": 0.9896
+    },
+    {
+      "text": "SECTION 25, TAMAN INDUSTRIES,",
+      "confidence": 0.9712
+    },
+    {
+      "text": "AXIS 40400 SHAH ALAM, SELANGOR.",
+      "confidence": 0.9827
+    },
+    {
+      "text": "TEL : 03-51221701, 51313091 FAX : 03-51215716",
+      "confidence": 0.9891
+    },
+    {
+      "text": "GST NO : 000683900928",
+      "confidence": 0.997
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9501
+    },
+    {
+      "text": " Bill To:",
+      "confidence": 0.9
+    },
+    {
+      "text": "Receipt#: CS00087400",
+      "confidence": 0.9725
+    },
+    {
+      "text": "Date: 27/09/2017",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Time: 10:51:00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Cashler: USER",
+      "confidence": 0.9302
+    },
+    {
+      "text": "(gST)",
+      "confidence": 0.7597
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9189
+    },
+    {
+      "text": " Item",
+      "confidence": 0.9184
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9988
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9941
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9923
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9994
+    },
+    {
+      "text": "107636",
+      "confidence": 0.9998
+    },
+    {
+      "text": "3",
+      "confidence": 0.949
+    },
+    {
+      "text": "78.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "82.68",
+      "confidence": 0.9982
+    },
+    {
+      "text": "248.04",
+      "confidence": 0.9983
+    },
+    {
+      "text": "SR: HAGER TIMER, 24HRS POWER RESERVE",
+      "confidence": 0.97
+    },
+    {
+      "text": "Tot qty:",
+      "confidence": 0.8222
+    },
+    {
+      "text": "3",
+      "confidence": 0.9993
+    },
+    {
+      "text": "248.04",
+      "confidence": 0.9304
+    },
+    {
+      "text": "(Excluded GST) Sub Total :",
+      "confidence": 0.9797
+    },
+    {
+      "text": "234.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9894
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9725
+    },
+    {
+      "text": "14.04",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9942
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.928
+    },
+    {
+      "text": "248.05",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9969
+    },
+    {
+      "text": "248.05",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9506
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9731
+    },
+    {
+      "text": "%",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9953
+    },
+    {
+      "text": "gst",
+      "confidence": 0.7215
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9951
+    },
+    {
+      "text": "6",
+      "confidence": 0.9955
+    },
+    {
+      "text": "234.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "14.04",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9935
+    },
+    {
+      "text": "234.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "14.04",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9691
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.994
+    }
+  ]
+}

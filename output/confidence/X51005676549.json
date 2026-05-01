@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005676549.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.967,
+  "lines": [
+    {
+      "text": "2",
+      "confidence": 0.6501
+    },
+    {
+      "text": ".01081",
+      "confidence": 0.7464
+    },
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.9925
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9986
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS",
+      "confidence": 0.9734
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9752
+    },
+    {
+      "text": "53200, KUALA LUMPUR.",
+      "confidence": 0.9907
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9722
+    },
+    {
+      "text": "GST ID:000750673920",
+      "confidence": 0.9569
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9935
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.7818
+    },
+    {
+      "text": ": CS00012504",
+      "confidence": 0.9678
+    },
+    {
+      "text": "Date: 02/01/2018",
+      "confidence": 0.9712
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9886
+    },
+    {
+      "text": ":USER",
+      "confidence": 0.9771
+    },
+    {
+      "text": "Time: 14:49:00",
+      "confidence": 0.9876
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9754
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9205
+    },
+    {
+      "text": "Item",
+      "confidence": 0.972
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9991
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9978
+    },
+    {
+      "text": "1762",
+      "confidence": 0.9983
+    },
+    {
+      "text": "1",
+      "confidence": 0.9991
+    },
+    {
+      "text": "7.95",
+      "confidence": 1.0
+    },
+    {
+      "text": "7.95",
+      "confidence": 1.0
+    },
+    {
+      "text": "SR",
+      "confidence": 0.996
+    },
+    {
+      "text": "17MM COMB SPANNER",
+      "confidence": 0.9458
+    },
+    {
+      "text": "1041",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2",
+      "confidence": 0.9997
+    },
+    {
+      "text": "15.90",
+      "confidence": 0.9028
+    },
+    {
+      "text": "31.80",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9875
+    },
+    {
+      "text": "6X35# CORRUGATED ROOFING SHEET",
+      "confidence": 0.9611
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9982
+    },
+    {
+      "text": "39.75",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9814
+    },
+    {
+      "text": "37.50",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9941
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9542
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9545
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Salas (Inclusive of GsT) :",
+      "confidence": 0.9664
+    },
+    {
+      "text": "39.75",
+      "confidence": 1.0
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.727
+    },
+    {
+      "text": "39.75",
+      "confidence": 1.0
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9576
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9986
+    },
+    {
+      "text": "%",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9305
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.919
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9975
+    },
+    {
+      "text": "6",
+      "confidence": 0.999
+    },
+    {
+      "text": "37.50",
+      "confidence": 1.0
+    },
+    {
+      "text": "2 25",
+      "confidence": 0.9933
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "37.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLDARE NOT RETURNABLE,THANK YOU",
+      "confidence": 0.9344
+    }
+  ]
+}

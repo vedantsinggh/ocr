@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663298.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663298.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AL MENDIS-THE MINES",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "Maghgout Lamb w 1SI",
+      "qty": 1,
+      "price": "22.50"
+    },
+    {
+      "name": "Garden Salad (S)",
+      "qty": 1,
+      "price": "5.90"
+    },
+    {
+      "name": "TEA POT BIG",
+      "qty": 1,
+      "price": "12.90"
+    }
+  ],
+  "subtotal": "41.30",
+  "tax": "2.73",
+  "total": "48.15",
+  "currency": "RM",
+  "payment_method": null
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676534.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676534.txt",
+    "ocr_line_count": 70,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PERNIAGAAN GIN KEE",
+  "date": "2018-01-03",
+  "items": [
+    {
+      "name": "COTTON GLOVE (DOZEN)",
+      "qty": 1,
+      "price": "10.60"
+    },
+    {
+      "name": "FACE MASK",
+      "qty": 2,
+      "price": "19.08"
+    },
+    {
+      "name": "CS 200A CUTTING WHEEL",
+      "qty": null,
+      "price": "72.08"
+    }
+  ],
+  "subtotal": "68.00",
+  "tax": "4.08",
+  "total": "72.08",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

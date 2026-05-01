@@ -1,0 +1,379 @@
+{
+  "source": "images/9.jpg",
+  "line_count": 93,
+  "avg_confidence": 0.9717,
+  "lines": [
+    {
+      "text": "WinCo",
+      "confidence": 0.9838
+    },
+    {
+      "text": "FOODS",
+      "confidence": 0.9946
+    },
+    {
+      "text": "www.wincofoods.com",
+      "confidence": 0.9592
+    },
+    {
+      "text": "Store#0124",
+      "confidence": 0.9822
+    },
+    {
+      "text": "09/08/14",
+      "confidence": 0.9918
+    },
+    {
+      "text": "11:16:24",
+      "confidence": 0.9239
+    },
+    {
+      "text": "2.18FS",
+      "confidence": 0.9758
+    },
+    {
+      "text": "7056096902",
+      "confidence": 0.9924
+    },
+    {
+      "text": "5.39FS",
+      "confidence": 0.9914
+    },
+    {
+      "text": "CHICKEN WINGS",
+      "confidence": 0.9541
+    },
+    {
+      "text": "2.68FS",
+      "confidence": 0.977
+    },
+    {
+      "text": "PICSWEET BLEND",
+      "confidence": 0.9708
+    },
+    {
+      "text": "201.34",
+      "confidence": 0.9693
+    },
+    {
+      "text": "2.56FS",
+      "confidence": 0.9861
+    },
+    {
+      "text": "201.28",
+      "confidence": 0.9863
+    },
+    {
+      "text": "5.48FS",
+      "confidence": 0.9891
+    },
+    {
+      "text": "10.87FS",
+      "confidence": 0.99
+    },
+    {
+      "text": "DIETLN GRND B 20167400000",
+      "confidence": 0.942
+    },
+    {
+      "text": "9.91FS",
+      "confidence": 0.9855
+    },
+    {
+      "text": "PORK L0IN CH0P 20337400000",
+      "confidence": 0.9216
+    },
+    {
+      "text": "26841800000",
+      "confidence": 0.9978
+    },
+    {
+      "text": "5.32FS",
+      "confidence": 0.9833
+    },
+    {
+      "text": "DRUMSTICKS",
+      "confidence": 0.9885
+    },
+    {
+      "text": "8.39FS",
+      "confidence": 0.9842
+    },
+    {
+      "text": "8.24FS",
+      "confidence": 0.9802
+    },
+    {
+      "text": "EYE RND STK FP 20148200000",
+      "confidence": 0.9175
+    },
+    {
+      "text": "10.48FS",
+      "confidence": 0.987
+    },
+    {
+      "text": "BEEF FOR STEW 20254300000",
+      "confidence": 0.9286
+    },
+    {
+      "text": "8.12FS",
+      "confidence": 0.9713
+    },
+    {
+      "text": "PORK 1/2 L0IN 20323300000",
+      "confidence": 0.9304
+    },
+    {
+      "text": "1.00FS",
+      "confidence": 0.9833
+    },
+    {
+      "text": "B/BESTS STEAK 4497921020",
+      "confidence": 0.9442
+    },
+    {
+      "text": "3.99FS",
+      "confidence": 0.9764
+    },
+    {
+      "text": ".88FS",
+      "confidence": 0.8812
+    },
+    {
+      "text": "BAR SMEATFRNK 1590013401",
+      "confidence": 0.9448
+    },
+    {
+      "text": "4470001903",
+      "confidence": 0.9985
+    },
+    {
+      "text": "1.68FS",
+      "confidence": 0.9856
+    },
+    {
+      "text": "O/M HAM",
+      "confidence": 0.9056
+    },
+    {
+      "text": "WINCO NOODLES",
+      "confidence": 0.9638
+    },
+    {
+      "text": "7055280303",
+      "confidence": 0.9988
+    },
+    {
+      "text": "20.84",
+      "confidence": 0.9825
+    },
+    {
+      "text": "5.98FS",
+      "confidence": 0.9832
+    },
+    {
+      "text": "TNDRBRD CHIX BR 3737101318",
+      "confidence": 0.9309
+    },
+    {
+      "text": "3.64FS",
+      "confidence": 0.9806
+    },
+    {
+      "text": "KRFT DELUXE MAC 2100065886",
+      "confidence": 0.9498
+    },
+    {
+      "text": "201.82",
+      "confidence": 0.9911
+    },
+    {
+      "text": "1.96FS",
+      "confidence": 0.9808
+    },
+    {
+      "text": "EGGO WAFFLE",
+      "confidence": 0.9555
+    },
+    {
+      "text": "3800037435",
+      "confidence": 0.9986
+    },
+    {
+      "text": "1.25FS",
+      "confidence": 0.9901
+    },
+    {
+      "text": "L/D NUTTY BARS ",
+      "confidence": 0.896
+    },
+    {
+      "text": "2430004120",
+      "confidence": 0.9973
+    },
+    {
+      "text": "1.25FS",
+      "confidence": 0.9937
+    },
+    {
+      "text": "L\\D0ATMEAL CRM 2430004101",
+      "confidence": 0.9175
+    },
+    {
+      "text": "5.78FS",
+      "confidence": 0.9917
+    },
+    {
+      "text": "LINKS MILD",
+      "confidence": 0.9654
+    },
+    {
+      "text": "74295503660",
+      "confidence": 0.9987
+    },
+    {
+      "text": "3010010055",
+      "confidence": 0.9978
+    },
+    {
+      "text": "1.98FS",
+      "confidence": 0.9929
+    },
+    {
+      "text": "KEEB TOWNHOUSE",
+      "confidence": 0.9717
+    },
+    {
+      "text": "4222281210",
+      "confidence": 0.9983
+    },
+    {
+      "text": ".88FS",
+      "confidence": 0.9735
+    },
+    {
+      "text": "TURKEY FRANK",
+      "confidence": 0.9594
+    },
+    {
+      "text": "7111719300",
+      "confidence": 0.9895
+    },
+    {
+      "text": ".98FS",
+      "confidence": 0.9844
+    },
+    {
+      "text": "RESERS POT SLD",
+      "confidence": 0.9254
+    },
+    {
+      "text": "2400052363",
+      "confidence": 0.9985
+    },
+    {
+      "text": ".71FS",
+      "confidence": 0.9671
+    },
+    {
+      "text": "DM SPAG SAUCE",
+      "confidence": 0.9524
+    },
+    {
+      "text": "HUNTS MANWICH",
+      "confidence": 0.9654
+    },
+    {
+      "text": "2700044212",
+      "confidence": 0.9983
+    },
+    {
+      "text": "1.64FS",
+      "confidence": 0.9879
+    },
+    {
+      "text": "20.82",
+      "confidence": 0.9743
+    },
+    {
+      "text": "DM PNAPL CHNKY",
+      "confidence": 0.9461
+    },
+    {
+      "text": "2400000164",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1.96FS",
+      "confidence": 0.9928
+    },
+    {
+      "text": "20.98",
+      "confidence": 0.9045
+    },
+    {
+      "text": "7763306333",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1.98FS",
+      "confidence": 0.9851
+    },
+    {
+      "text": "SUNBEAN BUNS",
+      "confidence": 0.9661
+    },
+    {
+      "text": "WINCO SNDWCH WT 7055200115",
+      "confidence": 0.9414
+    },
+    {
+      "text": ".91FS",
+      "confidence": 0.9577
+    },
+    {
+      "text": "WINCO HOMO MILK 7055240600",
+      "confidence": 0.919
+    },
+    {
+      "text": "2.48FS",
+      "confidence": 0.9909
+    },
+    {
+      "text": "EGGS",
+      "confidence": 0.9974
+    },
+    {
+      "text": "7003837280",
+      "confidence": 0.9986
+    },
+    {
+      "text": "1.37FS",
+      "confidence": 0.9928
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9955
+    },
+    {
+      "text": "121.92",
+      "confidence": 0.998
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9602
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9754
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9982
+    },
+    {
+      "text": "121.92",
+      "confidence": 0.9959
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806695.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806695.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Juwita Weddings",
+  "date": "2018-02-28",
+  "items": [
+    {
+      "name": "MEASUREMENTTAPE",
+      "qty": 1,
+      "price": "4.10"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.23",
+  "total": "4.10",
+  "currency": "RM",
+  "payment_method": null
+}

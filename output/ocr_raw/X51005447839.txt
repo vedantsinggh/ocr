@@ -1,0 +1,54 @@
+RESTAURANT JIAWEI
+JIAWEI HOUSE
+002693074-K
+13,JLN TASIKUTAMA8
+MEDAN NIAGA DAMAI SG BESI
+57000 KL
+INVOICE
+Invoice :9820
+Cashier:admin
+POS No:1
+Date :9/3/2018 20:54:50
+Table
+16
+.
+ITEN
+QTY
+U/PRM)
+D1SC%)
+AntRM
+B.Bean Bitterground Fish Head
+(S)
+1
+35.00
+0.00
+F.Hong Kong Sauteed S)
+1
+16.00
+0.00
+Steamed Egg(S)
+1
+10.00
+0.00
+Chinese Tea
+2
+0.60
+0.00
+1.20
+COLD
+Rice (B)
+2
+1.50
+0.00
+3
+Sub Total Before Discount
+RM65.20
+Service Charge
+RM0.00
+Total Sales
+RM65.20
+Rounding Ad justment:
+RM0.00
+TOTAL
+RM 65.20
+***************************************

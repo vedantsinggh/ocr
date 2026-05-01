@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442338.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442338.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASAR MINI JIN SENG",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "LTK OMEGA PLUS 10S",
+      "qty": null,
+      "price": "5.70"
+    },
+    {
+      "name": "SEAF0OD",
+      "qty": null,
+      "price": "8.50"
+    }
+  ],
+  "subtotal": "28.60",
+  "tax": "0.07",
+  "total": "28.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

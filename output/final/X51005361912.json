@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361912.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361912.txt",
+    "ocr_line_count": 62,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG STATIONERY S BOOKS",
+  "date": "2018-01-29",
+  "items": [
+    {
+      "name": "CARBON PAPER",
+      "qty": 2,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.06",
+  "total": "1.05",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

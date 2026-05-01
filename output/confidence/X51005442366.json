@@ -1,0 +1,155 @@
+{
+  "source": "images/X51005442366.jpg",
+  "line_count": 37,
+  "avg_confidence": 0.969,
+  "lines": [
+    {
+      "text": "Triple Six Point Enterprise 666",
+      "confidence": 0.9456
+    },
+    {
+      "text": "No 14816Jalan Permas 4/3 Bandar Baru Permas Jay",
+      "confidence": 0.9283
+    },
+    {
+      "text": "Tel:016-7574666",
+      "confidence": 0.9532
+    },
+    {
+      "text": "Receipt noREC-0014888",
+      "confidence": 0.9486
+    },
+    {
+      "text": "Date:22-03-201804:01:20PM",
+      "confidence": 0.9381
+    },
+    {
+      "text": "Payment Type: Cash",
+      "confidence": 0.9517
+    },
+    {
+      "text": "Receipt",
+      "confidence": 0.9984
+    },
+    {
+      "text": "ReceipNoREC-0014888",
+      "confidence": 0.9165
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9264
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9967
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9949
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9792
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9884
+    },
+    {
+      "text": "1xVSFUJ|500ml",
+      "confidence": 0.8912
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9968
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1xApollo cake",
+      "confidence": 0.9383
+    },
+    {
+      "text": "6.80",
+      "confidence": 0.9995
+    },
+    {
+      "text": "6.50",
+      "confidence": 0.9982
+    },
+    {
+      "text": "original30s",
+      "confidence": 0.9736
+    },
+    {
+      "text": "Disc:0.3000",
+      "confidence": 0.9058
+    },
+    {
+      "text": "1xTG Cashew",
+      "confidence": 0.9531
+    },
+    {
+      "text": "4.20",
+      "confidence": 0.9973
+    },
+    {
+      "text": "4.20",
+      "confidence": 0.9964
+    },
+    {
+      "text": "nuts mixwd",
+      "confidence": 0.9497
+    },
+    {
+      "text": "Almond smoke",
+      "confidence": 0.9661
+    },
+    {
+      "text": "1x TG Coated",
+      "confidence": 0.9549
+    },
+    {
+      "text": "1.90",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1.90",
+      "confidence": 0.9982
+    },
+    {
+      "text": "coconut",
+      "confidence": 0.9915
+    },
+    {
+      "text": "peanuts",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Dlscount",
+      "confidence": 0.941
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Total Amount",
+      "confidence": 0.9739
+    },
+    {
+      "text": "22.60",
+      "confidence": 0.9852
+    },
+    {
+      "text": "Tendered",
+      "confidence": 0.9981
+    },
+    {
+      "text": "22.60",
+      "confidence": 0.9909
+    }
+  ]
+}

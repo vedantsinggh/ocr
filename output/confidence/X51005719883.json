@@ -1,0 +1,111 @@
+{
+  "source": "images/X51005719883.jpg",
+  "line_count": 26,
+  "avg_confidence": 0.945,
+  "lines": [
+    {
+      "text": "99SPEEDMART S/B 519537-X",
+      "confidence": 0.926
+    },
+    {
+      "text": "LOT P.T.2811JALAN ANGSA",
+      "confidence": 0.9433
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9594
+    },
+    {
+      "text": "41150 KLANGSELANGOR",
+      "confidence": 0.9683
+    },
+    {
+      "text": "1362-JLN DEVELOPMENT",
+      "confidence": 0.9707
+    },
+    {
+      "text": "GSTID.NO:000181747712",
+      "confidence": 0.9534
+    },
+    {
+      "text": "INV0ICENO18311/102/T0395",
+      "confidence": 0.9653
+    },
+    {
+      "text": "07:44PM",
+      "confidence": 0.928
+    },
+    {
+      "text": "566890",
+      "confidence": 0.992
+    },
+    {
+      "text": "17-02-18",
+      "confidence": 0.9941
+    },
+    {
+      "text": "489 TIGER BEER CAN 4*6*320M",
+      "confidence": 0.9214
+    },
+    {
+      "text": "RM108.50s",
+      "confidence": 0.9742
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.9036
+    },
+    {
+      "text": "108.50",
+      "confidence": 0.9977
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9244
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9622
+    },
+    {
+      "text": "41.50",
+      "confidence": 0.9968
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9043
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.918
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9087
+    },
+    {
+      "text": "=6/.",
+      "confidence": 0.7285
+    },
+    {
+      "text": "102.36",
+      "confidence": 0.9941
+    },
+    {
+      "text": "6.14",
+      "confidence": 0.9643
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9405
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.934
+    }
+  ]
+}

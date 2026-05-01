@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719882.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719882.txt",
+    "ocr_line_count": 28,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPEEDMART",
+  "date": "2018-02-17",
+  "items": [
+    {
+      "name": "483 CARLSBERG CAN 4*6*320ML",
+      "qty": null,
+      "price": "RM106.50"
+    },
+    {
+      "name": "2101 CARLSBERG SMOOTH DRAUG",
+      "qty": null,
+      "price": "RM106.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM12.06",
+  "total": "RM213.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,167 @@
+{
+  "source": "images/X51005441401.jpg",
+  "line_count": 40,
+  "avg_confidence": 0.9331,
+  "lines": [
+    {
+      "text": "THREE STOOGES",
+      "confidence": 0.988
+    },
+    {
+      "text": "BISTRO & CAFE",
+      "confidence": 0.9575
+    },
+    {
+      "text": "109SS21/1A,",
+      "confidence": 0.9611
+    },
+    {
+      "text": "DAMANSARA UTAMA",
+      "confidence": 0.9711
+    },
+    {
+      "text": "GST ID : 001661886464",
+      "confidence": 0.9157
+    },
+    {
+      "text": "IABLE :BAR7",
+      "confidence": 0.9022
+    },
+    {
+      "text": "ORDER00012916",
+      "confidence": 0.9631
+    },
+    {
+      "text": "BIZDATE: 12/03/2018",
+      "confidence": 0.9638
+    },
+    {
+      "text": "CASHIER:CASHIER",
+      "confidence": 0.9699
+    },
+    {
+      "text": "BILLDT12/03/201810:25:49PM",
+      "confidence": 0.9194
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9965
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9459
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9969
+    },
+    {
+      "text": "1",
+      "confidence": 0.977
+    },
+    {
+      "text": "HH GUINESS 12 GLASSES",
+      "confidence": 0.9363
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "1",
+      "confidence": 0.9892
+    },
+    {
+      "text": "HH TIGER 12 GLASSES",
+      "confidence": 0.9632
+    },
+    {
+      "text": "145.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "2",
+      "confidence": 0.9846
+    },
+    {
+      "text": "SUB TOTAL",
+      "confidence": 0.9651
+    },
+    {
+      "text": "295.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "SERVICE CHARGE 10%",
+      "confidence": 0.963
+    },
+    {
+      "text": "29.50",
+      "confidence": 0.9984
+    },
+    {
+      "text": "%9 1S",
+      "confidence": 0.7493
+    },
+    {
+      "text": "19.47",
+      "confidence": 0.9993
+    },
+    {
+      "text": "ROUNDING ADJ",
+      "confidence": 0.9798
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.9834
+    },
+    {
+      "text": "343.95",
+      "confidence": 0.9611
+    },
+    {
+      "text": "NLi TOTAL",
+      "confidence": 0.8516
+    },
+    {
+      "text": "Temar",
+      "confidence": 0.6677
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.8092
+    },
+    {
+      "text": "SVCERIC CAhuL lo",
+      "confidence": 0.6398
+    },
+    {
+      "text": "295.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "SRGS6%",
+      "confidence": 0.9912
+    },
+    {
+      "text": "324.50",
+      "confidence": 0.9577
+    },
+    {
+      "text": "Thank ",
+      "confidence": 0.9182
+    },
+    {
+      "text": " Age",
+      "confidence": 0.6856
+    },
+    {
+      "text": "K",
+      "confidence": 0.9174
+    }
+  ]
+}

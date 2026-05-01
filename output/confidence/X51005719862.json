@@ -1,0 +1,111 @@
+{
+  "source": "images/X51005719862.jpg",
+  "line_count": 26,
+  "avg_confidence": 0.9455,
+  "lines": [
+    {
+      "text": "99SPEEDMART5/8519537-X",
+      "confidence": 0.931
+    },
+    {
+      "text": "LOT P.T.2811JALANANGSA",
+      "confidence": 0.9272
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9568
+    },
+    {
+      "text": "41150 KLANG,SELANGOR",
+      "confidence": 0.9315
+    },
+    {
+      "text": "1934-LAMAN RIMBUNAN",
+      "confidence": 0.9752
+    },
+    {
+      "text": "GST ID.NO000181747712",
+      "confidence": 0.9383
+    },
+    {
+      "text": "INV0ICENO18297/102/T0173",
+      "confidence": 0.9741
+    },
+    {
+      "text": "02:56PM",
+      "confidence": 0.9605
+    },
+    {
+      "text": "566719",
+      "confidence": 0.9955
+    },
+    {
+      "text": "03-02-18",
+      "confidence": 0.9756
+    },
+    {
+      "text": "2485 LABOOST DRINKING WATER",
+      "confidence": 0.8877
+    },
+    {
+      "text": "RM.50s",
+      "confidence": 0.8641
+    },
+    {
+      "text": "7094 NEOBUN PLASTER 1OPCS",
+      "confidence": 0.9288
+    },
+    {
+      "text": "RM3.20s",
+      "confidence": 0.9645
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.8756
+    },
+    {
+      "text": "3.70",
+      "confidence": 0.9945
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9261
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.995
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9456
+    },
+    {
+      "text": "6.30",
+      "confidence": 0.9921
+    },
+    {
+      "text": "GST.Summary",
+      "confidence": 0.935
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9331
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9597
+    },
+    {
+      "text": "s=6%",
+      "confidence": 0.8417
+    },
+    {
+      "text": "3.49",
+      "confidence": 0.9865
+    },
+    {
+      "text": ".21",
+      "confidence": 0.9865
+    }
+  ]
+}

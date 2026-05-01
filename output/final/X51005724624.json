@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724624.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724624.txt",
+    "ocr_line_count": 75,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-16",
+  "items": [
+    {
+      "name": "BESY12CQ",
+      "qty": 4,
+      "price": "8.00"
+    },
+    {
+      "name": "BESI R5.5CQ",
+      "qty": 4,
+      "price": "8.00"
+    }
+  ],
+  "subtotal": "128.00",
+  "tax": "7.68",
+  "total": "135.68",
+  "currency": "RM",
+  "payment_method": null
+}

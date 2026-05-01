@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005453804.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005453804.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HING STATIONERY SDN BHD",
+  "date": "2018-03-27",
+  "items": [
+    {
+      "name": "SR",
+      "qty": null,
+      "price": "12.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "11.32",
+  "total": "12.00",
+  "currency": "RM",
+  "payment_method": null
+}

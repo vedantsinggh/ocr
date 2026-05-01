@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568892.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568892.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "EVERGREENLIGHT SDN BHD",
+  "date": "2017-09-18",
+  "items": [
+    {
+      "name": "PROEMK IOWLEDETICK",
+      "qty": null,
+      "price": "24.52"
+    },
+    {
+      "name": "TOGET(E",
+      "qty": null,
+      "price": "1.47"
+    }
+  ],
+  "subtotal": null,
+  "tax": "34.52",
+  "total": "26.00",
+  "currency": "INR",
+  "payment_method": "Pay Cash"
+}

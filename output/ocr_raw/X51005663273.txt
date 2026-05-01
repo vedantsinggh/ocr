@@ -1,0 +1,57 @@
+31812012
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS.
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+CS00011983
+Date: 04/12/2017
+Cashier
+USER
+Time:16:15:00
+Salesperson :
+Ref. :
+11.
+Qty
+S/Price
+Amount
+Tax
+1470
+3
+15.90
+47 70
+SR
+25KG SIKA CREAM-88
+Total Qty:
+47.70
+3
+Total Sales (Excluding GsT)
+45.00
+0.00
+2.70
+Rounding :
+0.00
+Total Sales (Inclusive of GsT) :.
+47.70
+CAsh :
+47.70
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax (RM)
+SR
+6
+45.00
+2.70
+Total :
+45.00
+2.70
+GOODS SOLD ARE NOT RETURNABLE, THANK YOU

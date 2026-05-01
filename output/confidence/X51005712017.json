@@ -1,0 +1,139 @@
+{
+  "source": "images/X51005712017.jpg",
+  "line_count": 33,
+  "avg_confidence": 0.9664,
+  "lines": [
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.9713
+    },
+    {
+      "text": "65351-M",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Licensee of McDona1d's",
+      "confidence": 0.985
+    },
+    {
+      "text": "Leve16, Bangunan TH,Damansara Uptown3",
+      "confidence": 0.9585
+    },
+    {
+      "text": "No.3, Ja1an SS21/39,47400 Peta1ing Jaya",
+      "confidence": 0.9257
+    },
+    {
+      "text": "Se1angor",
+      "confidence": 0.9472
+    },
+    {
+      "text": "(GST ID No: 000504664064)",
+      "confidence": 0.9552
+    },
+    {
+      "text": "McDona1d's Rawang DT#188)",
+      "confidence": 0.9388
+    },
+    {
+      "text": "Tel No. 03-6092-1968",
+      "confidence": 0.9409
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9763
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9213
+    },
+    {
+      "text": "INV# 001881904580783",
+      "confidence": 0.9869
+    },
+    {
+      "text": "ORD #70-REG #19-18/03/2018 23:02:16",
+      "confidence": 0.9349
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9993
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1 LMcChicken",
+      "confidence": 0.9618
+    },
+    {
+      "text": "11.10",
+      "confidence": 0.9991
+    },
+    {
+      "text": "1 L Coke",
+      "confidence": 0.9858
+    },
+    {
+      "text": "1 L Fries",
+      "confidence": 0.9963
+    },
+    {
+      "text": "2 Sma11 Cone",
+      "confidence": 0.8896
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "TakeOut Total (incl GsT",
+      "confidence": 0.8571
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9696
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 0.963
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9993
+    },
+    {
+      "text": "6.90",
+      "confidence": 0.9997
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.9433
+    },
+    {
+      "text": "0.74",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ink You and Please Come Again",
+      "confidence": 0.9501
+    },
+    {
+      "text": "Guest Relations Center: 1300-13-1300",
+      "confidence": 0.9451
+    }
+  ]
+}

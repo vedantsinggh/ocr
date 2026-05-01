@@ -1,0 +1,143 @@
+{
+  "source": "images/X51005288570.jpg",
+  "line_count": 34,
+  "avg_confidence": 0.9589,
+  "lines": [
+    {
+      "text": "3180301",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SECURE PARKING",
+      "confidence": 0.9981
+    },
+    {
+      "text": "CORPORATION S/B",
+      "confidence": 0.991
+    },
+    {
+      "text": "Riverwalk Village",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Batu 3, Jalan lpoh",
+      "confidence": 0.8757
+    },
+    {
+      "text": "51200 KL.",
+      "confidence": 0.9369
+    },
+    {
+      "text": "GSTNo. 000296652800",
+      "confidence": 0.9687
+    },
+    {
+      "text": "TEL No: 1300881698",
+      "confidence": 0.9707
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9993
+    },
+    {
+      "text": "C13",
+      "confidence": 0.9901
+    },
+    {
+      "text": "Receipt Nunber:.",
+      "confidence": 0.9728
+    },
+    {
+      "text": "K0131800235697",
+      "confidence": 0.9869
+    },
+    {
+      "text": "ENTRY TIME:",
+      "confidence": 0.9436
+    },
+    {
+      "text": "23.03.18",
+      "confidence": 0.993
+    },
+    {
+      "text": "14:59",
+      "confidence": 0.9951
+    },
+    {
+      "text": "EXIT TIME:",
+      "confidence": 0.9579
+    },
+    {
+      "text": "23.03.18",
+      "confidence": 0.9995
+    },
+    {
+      "text": "15:27",
+      "confidence": 0.9955
+    },
+    {
+      "text": "PARK-DUR.: D:HH:MM",
+      "confidence": 0.9303
+    },
+    {
+      "text": "0: 00:28",
+      "confidence": 0.9366
+    },
+    {
+      "text": "KIND OF PAYMt.NT:",
+      "confidence": 0.8926
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Parking Fee.",
+      "confidence": 0.9513
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.94",
+      "confidence": 0.9839
+    },
+    {
+      "text": "Add GST",
+      "confidence": 0.9402
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9982
+    },
+    {
+      "text": "0.06",
+      "confidence": 0.9926
+    },
+    {
+      "text": "*AMT",
+      "confidence": 0.9036
+    },
+    {
+      "text": "RM",
+      "confidence": 0.996
+    },
+    {
+      "text": "1.0u",
+      "confidence": 0.7961
+    },
+    {
+      "text": "*Rateincl.6% GS",
+      "confidence": 0.8724
+    },
+    {
+      "text": "THANK YOU FOR YOUR",
+      "confidence": 0.9285
+    },
+    {
+      "text": "VISIT",
+      "confidence": 0.9113
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757233.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757233.txt",
+    "ocr_line_count": 36,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Guardian",
+  "date": "2018-03-09",
+  "items": [
+    {
+      "name": "PLS100+20",
+      "qty": null,
+      "price": "9.95"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.00",
+  "total": "10.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

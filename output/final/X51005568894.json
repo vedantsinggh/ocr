@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568894.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568894.txt",
+    "ocr_line_count": 75,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "VIVOPAC MARKETING SDN BHD",
+  "date": "2017-01-17",
+  "items": [
+    {
+      "name": "PP-14x200.04mm",
+      "qty": 1.0,
+      "price": "14.60"
+    },
+    {
+      "name": "PP-16x260.04mm",
+      "qty": 1.0,
+      "price": "14.60"
+    },
+    {
+      "name": "24x28 (75HT)Red",
+      "qty": 1.0,
+      "price": "6.00"
+    },
+    {
+      "name": "26 x 33 (85HT)Red",
+      "qty": 1.0,
+      "price": "8.00"
+    },
+    {
+      "name": "10PP Tapes",
+      "qty": 1.0,
+      "price": "0.80"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.64",
+  "total": "46.65",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

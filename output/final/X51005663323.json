@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663323.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663323.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KOH.SENG HARDWARE",
+  "date": "2017-12-04",
+  "items": [
+    {
+      "name": "EXTENSION LADDER 12X12",
+      "qty": 2,
+      "price": "424.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "48.00",
+  "total": "848.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

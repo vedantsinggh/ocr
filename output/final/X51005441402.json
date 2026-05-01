@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005441402.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005441402.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "THREE STOOGES BISTRO & CAFE",
+  "date": "2018-03-03",
+  "items": [
+    {
+      "name": "HH GUINESS 12 GLASSES",
+      "qty": null,
+      "price": "150.00"
+    }
+  ],
+  "subtotal": "150.00",
+  "tax": "24.90",
+  "total": "174.90",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

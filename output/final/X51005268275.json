@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005268275.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005268275.txt",
+    "ocr_line_count": 81,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIGHTROOM GALLERY SDN BHD",
+  "date": "2017-11-20",
+  "items": [
+    {
+      "name": "BK 12W WW LED TRACK LIGHT",
+      "qty": null,
+      "price": "90.57"
+    },
+    {
+      "name": "35W WW BK TRACK HOLDER",
+      "qty": 1,
+      "price": "155.66"
+    },
+    {
+      "name": "METER TRACK-BK",
+      "qty": 1,
+      "price": "16.79"
+    },
+    {
+      "name": "CONTRA W LCNOO211",
+      "qty": null,
+      "price": "39.80"
+    }
+  ],
+  "subtotal": "263.02",
+  "tax": "15.78",
+  "total": "278.80",
+  "currency": "RM",
+  "payment_method": "CASh"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663276.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663276.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PERNIAGAAN GIN KEE",
+  "date": "2017-12-02",
+  "items": [
+    {
+      "name": "SPRAY PAINT",
+      "qty": 1,
+      "price": "7.42"
+    }
+  ],
+  "subtotal": "7.00",
+  "tax": "0.42",
+  "total": "7.42",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

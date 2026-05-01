@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433548.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433548.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASAR MINI JIN SENG",
+  "date": "2018-03-03",
+  "items": [
+    {
+      "name": "VEGETABLES",
+      "qty": null,
+      "price": "16.00SR"
+    },
+    {
+      "name": "TELUR / TELUR MASIN",
+      "qty": null,
+      "price": "2.40SR"
+    },
+    {
+      "name": "VEGETABLES",
+      "qty": null,
+      "price": "1.80SR"
+    },
+    {
+      "name": "GL STEWED PORK 256G",
+      "qty": null,
+      "price": "6.80SR"
+    },
+    {
+      "name": "BOTAN IKAN SARDIN 425G",
+      "qty": null,
+      "price": "6.80SR"
+    }
+  ],
+  "subtotal": "33.80",
+  "tax": "0.77",
+  "total": "33.80",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

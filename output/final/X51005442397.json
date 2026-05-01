@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442397.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442397.txt",
+    "ocr_line_count": 27,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Triple Six Point Enterprise",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "Hey Song",
+      "qty": 2,
+      "price": "4.30"
+    },
+    {
+      "name": "Camellia green tea580ml",
+      "price": "7.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "7.60",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

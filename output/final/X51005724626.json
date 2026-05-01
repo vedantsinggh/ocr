@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724626.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724626.txt",
+    "ocr_line_count": 81,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-04-02",
+  "items": [
+    {
+      "name": "PYE 921 PLASTER",
+      "qty": 13,
+      "price": "18.00"
+    },
+    {
+      "name": "SR KAPUR AIR (A1)",
+      "qty": 5,
+      "price": "3.00"
+    },
+    {
+      "name": "SR SPAN HANDLE",
+      "qty": 3,
+      "price": "2.00"
+    }
+  ],
+  "subtotal": "255.00",
+  "tax": "15.30",
+  "total": "270.30",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

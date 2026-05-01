@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/16.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/16.txt",
+    "ocr_line_count": 55,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2017-11-13",
+  "items": [
+    {
+      "name": "6WING PLATE",
+      "qty": null,
+      "price": "3.98"
+    },
+    {
+      "name": "ASST 27",
+      "qty": null,
+      "price": "4.88"
+    },
+    {
+      "name": "CUTIE CAR",
+      "qty": "12",
+      "price": "1.07"
+    }
+  ],
+  "subtotal": "21.74",
+  "tax": "1.45",
+  "total": "23.19",
+  "currency": "INR",
+  "payment_method": "DEBIT TEND"
+}

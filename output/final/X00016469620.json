@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469620.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469620.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MR DIY TESCO TERBAU",
+  "date": "2019-12-01",
+  "items": [
+    {
+      "name": "CHOPPING BOARD 803M#",
+      "qty": 1,
+      "price": "19.00"
+    },
+    {
+      "name": "AIR PRESSURE SPRAYER SX-575-1 1.5L",
+      "qty": 1,
+      "price": "8.02"
+    },
+    {
+      "name": "WAXCO WINDSHIELD CLEANER 120ML",
+      "qty": 1,
+      "price": "3.02"
+    },
+    {
+      "name": "BOPP TAPE 48MM*100M CLEAR",
+      "qty": 1,
+      "price": "3.88"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "33.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

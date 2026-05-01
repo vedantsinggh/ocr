@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746210.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746210.txt",
+    "ocr_line_count": 71,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Segi Cash & Carry Sdn. Bhd.",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "KNIFE COOKING OIL 5KG",
+      "qty": null,
+      "price": "25.80"
+    },
+    {
+      "name": "LKK HOI SIN SAUCE 240G",
+      "qty": null,
+      "price": "7.69"
+    },
+    {
+      "name": "SEVEN FRENCH FRIES S/S 2.5KG",
+      "qty": null,
+      "price": "13.50"
+    },
+    {
+      "name": "IQF SQUID TUBE 1KG+",
+      "qty": null,
+      "price": "10.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.20",
+  "total": "145.10",
+  "currency": "RM",
+  "payment_method": null
+}

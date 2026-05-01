@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605295.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605295.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ECONSAVE CASH& CARRY",
+  "date": "2018-03-22",
+  "items": [
+    {
+      "name": "NR ES CHOICE SOFT",
+      "qty": null,
+      "price": "4.20"
+    },
+    {
+      "name": "NR ES ICE COOL MI",
+      "qty": null,
+      "price": "0.95"
+    }
+  ],
+  "subtotal": "5.15",
+  "tax": "0.29",
+  "total": "5.15",
+  "currency": "RM",
+  "payment_method": null
+}

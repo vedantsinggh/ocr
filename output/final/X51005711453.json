@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711453.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711453.txt",
+    "ocr_line_count": 33,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's Shell Mahkota Cheras",
+  "date": "2018-10-03",
+  "items": [
+    {
+      "name": "M Coke",
+      "qty": null,
+      "price": "3.50"
+    },
+    {
+      "name": "McChicken",
+      "qty": null,
+      "price": "5.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.48",
+  "total": "8.50",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

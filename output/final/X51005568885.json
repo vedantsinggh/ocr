@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568885.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568885.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "EYERGREEN LIGHT SONBHD",
+  "date": "2017-07-10",
+  "items": [
+    {
+      "name": "PROEMK IQWLED EnCK",
+      "qty": 4,
+      "price": "57.84"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.17",
+  "total": "56.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

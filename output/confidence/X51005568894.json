@@ -1,0 +1,307 @@
+{
+  "source": "images/X51005568894.jpg",
+  "line_count": 75,
+  "avg_confidence": 0.968,
+  "lines": [
+    {
+      "text": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+      "confidence": 0.9402
+    },
+    {
+      "text": "14JALAN MANIS 4 TAMAN SEGAR56100 KL",
+      "confidence": 0.9418
+    },
+    {
+      "text": "TEL:03-91334364",
+      "confidence": 0.9766
+    },
+    {
+      "text": "FAX: 03-91310522",
+      "confidence": 0.9848
+    },
+    {
+      "text": "www.vivopac.com",
+      "confidence": 0.9899
+    },
+    {
+      "text": "GSTREG:000565805056",
+      "confidence": 0.9754
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9758
+    },
+    {
+      "text": "Doc#",
+      "confidence": 0.9221
+    },
+    {
+      "text": "CS21532619",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9737
+    },
+    {
+      "text": "17/01/201701:31:27PM",
+      "confidence": 0.9577
+    },
+    {
+      "text": "Promoter :",
+      "confidence": 0.9807
+    },
+    {
+      "text": "Terminal :",
+      "confidence": 0.9983
+    },
+    {
+      "text": "T02",
+      "confidence": 0.9209
+    },
+    {
+      "text": "Cashier :",
+      "confidence": 0.9986
+    },
+    {
+      "text": "AI",
+      "confidence": 0.9852
+    },
+    {
+      "text": "DESCRIPTION",
+      "confidence": 0.9978
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Disc",
+      "confidence": 0.8485
+    },
+    {
+      "text": "AMOUNT TAX",
+      "confidence": 0.9927
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.8183
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9944
+    },
+    {
+      "text": "RM CODE",
+      "confidence": 0.9955
+    },
+    {
+      "text": "PP-14x200.04mm",
+      "confidence": 0.9702
+    },
+    {
+      "text": "1.00PKT",
+      "confidence": 0.987
+    },
+    {
+      "text": "14.6000",
+      "confidence": 0.9976
+    },
+    {
+      "text": "14.60",
+      "confidence": 0.9982
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9961
+    },
+    {
+      "text": "PP-16x260.04mm",
+      "confidence": 0.9843
+    },
+    {
+      "text": "1.00PKT",
+      "confidence": 0.9949
+    },
+    {
+      "text": "14.6000",
+      "confidence": 0.9951
+    },
+    {
+      "text": "14.60",
+      "confidence": 0.9965
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9963
+    },
+    {
+      "text": "24x28 (75HT)Red",
+      "confidence": 0.9129
+    },
+    {
+      "text": "1.00PKT*",
+      "confidence": 0.9794
+    },
+    {
+      "text": "6.0000",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "SR",
+      "confidence": 0.997
+    },
+    {
+      "text": "26 x 33 (85HT)Red",
+      "confidence": 0.9314
+    },
+    {
+      "text": "1.00PKT",
+      "confidence": 0.9913
+    },
+    {
+      "text": "8.0000",
+      "confidence": 0.9995
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9947
+    },
+    {
+      "text": "10PP Tapes",
+      "confidence": 0.8701
+    },
+    {
+      "text": "1.00PCS*",
+      "confidence": 0.9018
+    },
+    {
+      "text": "0.8000",
+      "confidence": 0.9951
+    },
+    {
+      "text": "0.80",
+      "confidence": 0.9902
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "Item Count: 5",
+      "confidence": 0.9671
+    },
+    {
+      "text": "Item Qty:5.00",
+      "confidence": 0.9655
+    },
+    {
+      "text": "R",
+      "confidence": 0.7085
+    },
+    {
+      "text": "Sub Total Exclusive GST)",
+      "confidence": 0.9105
+    },
+    {
+      "text": "44.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GST 6%:",
+      "confidence": 0.8996
+    },
+    {
+      "text": "2.64",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding Adj.:",
+      "confidence": 0.9763
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounded Total (RM):",
+      "confidence": 0.9347
+    },
+    {
+      "text": "46.65",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9942
+    },
+    {
+      "text": "51.65",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9808
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9916
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9553
+    },
+    {
+      "text": "SR@6%",
+      "confidence": 0.8807
+    },
+    {
+      "text": "44.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.64",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Terms & Conditions",
+      "confidence": 0.9509
+    },
+    {
+      "text": "Goods sold are not refundable with cash.",
+      "confidence": 0.977
+    },
+    {
+      "text": "For exchange of goods sold the following apply:.",
+      "confidence": 0.972
+    },
+    {
+      "text": "1. The original receipt must be presented",
+      "confidence": 0.9772
+    },
+    {
+      "text": "2. Exchange is done within 7 days from date of receipt",
+      "confidence": 0.963
+    },
+    {
+      "text": "2. In good condition and in it's original pakcing.",
+      "confidence": 0.9665
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005722699.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005722699.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2018-02-11",
+  "items": [
+    {
+      "name": "PB D/S Tape 12mm",
+      "qty": null,
+      "price": "RM 1.90"
+    },
+    {
+      "name": "H/C A4 400'S",
+      "qty": null,
+      "price": "RM 9.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM 0.67",
+  "total": "RM 11.80",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

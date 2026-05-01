@@ -1,0 +1,323 @@
+{
+  "source": "images/X51005568891.jpg",
+  "line_count": 79,
+  "avg_confidence": 0.972,
+  "lines": [
+    {
+      "text": "HON HWA HARDWARE TRADING",
+      "confidence": 0.948
+    },
+    {
+      "text": "CampanyReg.No.:001055194X",
+      "confidence": 0.9422
+    },
+    {
+      "text": "NO37,JALAN MANIS 7.TAMAN SEGAR",
+      "confidence": 0.9064
+    },
+    {
+      "text": "56100CHERAS.KUALA LUMPUR",
+      "confidence": 0.942
+    },
+    {
+      "text": "+603-91302672",
+      "confidence": 0.9937
+    },
+    {
+      "text": "GST Reg: 001125220352",
+      "confidence": 0.946
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9562
+    },
+    {
+      "text": "CB#69158",
+      "confidence": 0.9627
+    },
+    {
+      "text": "08/02/20173:43:01PM",
+      "confidence": 0.9603
+    },
+    {
+      "text": "M#:C1-0",
+      "confidence": 0.9285
+    },
+    {
+      "text": "Cashier: cash3-",
+      "confidence": 0.9402
+    },
+    {
+      "text": "Qly Descriplion",
+      "confidence": 0.8553
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Tolal(RM,",
+      "confidence": 0.8731
+    },
+    {
+      "text": "21TOWELROD",
+      "confidence": 0.9858
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9934
+    },
+    {
+      "text": "12.00SR",
+      "confidence": 0.9832
+    },
+    {
+      "text": "BRACKET(END)",
+      "confidence": 0.9861
+    },
+    {
+      "text": "2 3/4TOWELROD",
+      "confidence": 0.9408
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "8.00 SR",
+      "confidence": 0.9353
+    },
+    {
+      "text": "BRACKET",
+      "confidence": 0.9967
+    },
+    {
+      "text": "53/4TOWEL ROD",
+      "confidence": 0.9513
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "20.00 SR",
+      "confidence": 0.9531
+    },
+    {
+      "text": "BRACKET(END)",
+      "confidence": 0.9914
+    },
+    {
+      "text": "43/4TOWELROD",
+      "confidence": 0.957
+    },
+    {
+      "text": "5.50",
+      "confidence": 0.9995
+    },
+    {
+      "text": "22.00SR",
+      "confidence": 0.9938
+    },
+    {
+      "text": "BRACKET(ROUND)",
+      "confidence": 0.9884
+    },
+    {
+      "text": "125MMX10WALLPLLG",
+      "confidence": 0.9354
+    },
+    {
+      "text": "3.50",
+      "confidence": 0.997
+    },
+    {
+      "text": "3.50 SR",
+      "confidence": 0.9925
+    },
+    {
+      "text": "1SANDFLEXSAW",
+      "confidence": 0.9848
+    },
+    {
+      "text": "4.50",
+      "confidence": 0.9335
+    },
+    {
+      "text": "4.50SR",
+      "confidence": 0.9961
+    },
+    {
+      "text": "BLADE18T",
+      "confidence": 0.9934
+    },
+    {
+      "text": "1SCREW",
+      "confidence": 0.9894
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "7.00 SR",
+      "confidence": 0.9538
+    },
+    {
+      "text": "53/4VBRACKET",
+      "confidence": 0.9762
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9995
+    },
+    {
+      "text": "7.50 SR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "61S/STEELROD",
+      "confidence": 0.9783
+    },
+    {
+      "text": "15.80",
+      "confidence": 0.986
+    },
+    {
+      "text": "94.80SR",
+      "confidence": 0.9871
+    },
+    {
+      "text": "ItemDscount",
+      "confidence": 0.9756
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.996
+    },
+    {
+      "text": "173/4ALUMNUMROD",
+      "confidence": 0.945
+    },
+    {
+      "text": "5.80",
+      "confidence": 0.9834
+    },
+    {
+      "text": "98.60SR",
+      "confidence": 0.9757
+    },
+    {
+      "text": "44 Type:10",
+      "confidence": 0.9216
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9945
+    },
+    {
+      "text": "277.90",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Discount:",
+      "confidence": 0.9674
+    },
+    {
+      "text": "0.90",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Rounding Adj",
+      "confidence": 0.9989
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "Total Inclusive GsT",
+      "confidence": 0.8929
+    },
+    {
+      "text": "277.00",
+      "confidence": 0.9923
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9994
+    },
+    {
+      "text": "277.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9812
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9981
+    },
+    {
+      "text": "%",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Net Amt",
+      "confidence": 0.9903
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9925
+    },
+    {
+      "text": "Total(RM)",
+      "confidence": 0.9749
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9937
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9935
+    },
+    {
+      "text": "261.32",
+      "confidence": 0.9993
+    },
+    {
+      "text": "15.68",
+      "confidence": 0.9956
+    },
+    {
+      "text": "277.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tolal",
+      "confidence": 0.8646
+    },
+    {
+      "text": "261.32",
+      "confidence": 0.9993
+    },
+    {
+      "text": "15.68",
+      "confidence": 0.9994
+    },
+    {
+      "text": "277.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Thank you ! & Please come again !!",
+      "confidence": 0.9445
+    },
+    {
+      "text": "Goods sold are not returnable for retund or exchange ll",
+      "confidence": 0.9197
+    }
+  ]
+}

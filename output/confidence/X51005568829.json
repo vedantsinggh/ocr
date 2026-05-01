@@ -1,0 +1,331 @@
+{
+  "source": "images/X51005568829.jpg",
+  "line_count": 81,
+  "avg_confidence": 0.9602,
+  "lines": [
+    {
+      "text": "THAI DELICIOUS RESTAURANT",
+      "confidence": 0.9835
+    },
+    {
+      "text": "NO.22 JALAN PUTERI 2/4",
+      "confidence": 0.9702
+    },
+    {
+      "text": "BANDAR PUTERI",
+      "confidence": 0.9647
+    },
+    {
+      "text": "47100 PUCHONG, SELANGOR",
+      "confidence": 0.9155
+    },
+    {
+      "text": "03-8051 9514",
+      "confidence": 0.9854
+    },
+    {
+      "text": "Bill No",
+      "confidence": 0.9511
+    },
+    {
+      "text": "..",
+      "confidence": 0.6888
+    },
+    {
+      "text": "01-36870",
+      "confidence": 0.9861
+    },
+    {
+      "text": "Table",
+      "confidence": 0.999
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9988
+    },
+    {
+      "text": "02/02/20177:31:08PM",
+      "confidence": 0.9663
+    },
+    {
+      "text": "A3",
+      "confidence": 0.9995
+    },
+    {
+      "text": ":",
+      "confidence": 0.7686
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9982
+    },
+    {
+      "text": ":",
+      "confidence": 0.9208
+    },
+    {
+      "text": "123",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Pax",
+      "confidence": 0.9946
+    },
+    {
+      "text": ":",
+      "confidence": 0.9158
+    },
+    {
+      "text": "4",
+      "confidence": 0.999
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9993
+    },
+    {
+      "text": "06S BRAISED",
+      "confidence": 0.9444
+    },
+    {
+      "text": "1",
+      "confidence": 0.9915
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9968
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "PORK LEG SMALL",
+      "confidence": 0.9283
+    },
+    {
+      "text": "32PHRANAKON",
+      "confidence": 0.9955
+    },
+    {
+      "text": "1",
+      "confidence": 0.9959
+    },
+    {
+      "text": "28.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "28.00",
+      "confidence": 0.9973
+    },
+    {
+      "text": "2",
+      "confidence": 0.7889
+    },
+    {
+      "text": "SALTEDEGG",
+      "confidence": 0.9924
+    },
+    {
+      "text": "SQUIDwn",
+      "confidence": 0.7354
+    },
+    {
+      "text": "51GARLICFRIED",
+      "confidence": 0.9673
+    },
+    {
+      "text": "13.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "13.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "KAILANM",
+      "confidence": 0.8656
+    },
+    {
+      "text": "4",
+      "confidence": 0.9989
+    },
+    {
+      "text": "84 THAISTYLE",
+      "confidence": 0.9397
+    },
+    {
+      "text": "1",
+      "confidence": 0.9916
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9926
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9971
+    },
+    {
+      "text": "KERABUTOFUN",
+      "confidence": 0.9471
+    },
+    {
+      "text": "mam",
+      "confidence": 0.5854
+    },
+    {
+      "text": "5",
+      "confidence": 0.999
+    },
+    {
+      "text": "130PLAINRICE",
+      "confidence": 0.9564
+    },
+    {
+      "text": "4",
+      "confidence": 0.9988
+    },
+    {
+      "text": "1.80",
+      "confidence": 0.9948
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9929
+    },
+    {
+      "text": "6",
+      "confidence": 0.9706
+    },
+    {
+      "text": "113COCONUT",
+      "confidence": 0.9569
+    },
+    {
+      "text": "1",
+      "confidence": 0.9834
+    },
+    {
+      "text": "6.50",
+      "confidence": 0.9883
+    },
+    {
+      "text": "6.50",
+      "confidence": 0.8513
+    },
+    {
+      "text": "THAI",
+      "confidence": 0.9812
+    },
+    {
+      "text": "7",
+      "confidence": 0.9873
+    },
+    {
+      "text": "116DISTILLED",
+      "confidence": 0.9354
+    },
+    {
+      "text": "1",
+      "confidence": 0.9936
+    },
+    {
+      "text": "0.60",
+      "confidence": 0.9919
+    },
+    {
+      "text": "060",
+      "confidence": 0.9863
+    },
+    {
+      "text": "WATER",
+      "confidence": 0.9973
+    },
+    {
+      "text": "8",
+      "confidence": 0.9906
+    },
+    {
+      "text": "106BCOLD",
+      "confidence": 0.9537
+    },
+    {
+      "text": "1",
+      "confidence": 0.9602
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9039
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9912
+    },
+    {
+      "text": "PANDAN GINGER",
+      "confidence": 0.9668
+    },
+    {
+      "text": "TEA",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9708
+    },
+    {
+      "text": "92.80",
+      "confidence": 0.9967
+    },
+    {
+      "text": "Grand Total:",
+      "confidence": 0.9484
+    },
+    {
+      "text": "92.80",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Cash Received",
+      "confidence": 0.9692
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.995
+    },
+    {
+      "text": "Change:",
+      "confidence": 0.9915
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9997
+    },
+    {
+      "text": "AVERAGE/PAX(S):",
+      "confidence": 0.9696
+    },
+    {
+      "text": "23.20",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Thank You. Please Come Again",
+      "confidence": 0.9704
+    }
+  ]
+}

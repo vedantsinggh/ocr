@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711443.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711443.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN WAN SHENG",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "Teh (B)",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "ChamB",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "Bunga Kekwa",
+      "qty": 1,
+      "price": "1.70"
+    },
+    {
+      "name": "Take Away",
+      "qty": 3,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": "6.33",
+  "tax": "0.37",
+  "total": "6.70",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

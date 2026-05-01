@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711403.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711403.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN WAN SHENG",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "Teh (B)",
+      "qty": 2,
+      "price": "2.20"
+    },
+    {
+      "name": "Cham (B)",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "Herbal Tea",
+      "qty": 1,
+      "price": "1.70"
+    },
+    {
+      "name": "Take Away",
+      "qty": null,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": "8.59",
+  "tax": "0.51",
+  "total": "9.10",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

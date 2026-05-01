@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757323.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757323.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PILLAR",
+  "date": "2018-03-26",
+  "items": [
+    {
+      "name": "S/S COLANDER RH-OO8# 24.5CM",
+      "qty": 1,
+      "price": "7.30"
+    },
+    {
+      "name": "NASCO SEAL TAPE NST",
+      "qty": 1,
+      "price": "0.80"
+    },
+    {
+      "name": "PILLAR SINK TAP 87601",
+      "qty": 1,
+      "price": "19.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.58",
+  "total": "28.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

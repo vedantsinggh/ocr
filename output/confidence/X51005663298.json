@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005663298.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.9798,
+  "lines": [
+    {
+      "text": "AL MENDIS-THE MINES",
+      "confidence": 0.9602
+    },
+    {
+      "text": "ZAWIAJAYA FOOD N BEVIRAGE SDN BHD",
+      "confidence": 0.9254
+    },
+    {
+      "text": "1168272-U",
+      "confidence": 0.9855
+    },
+    {
+      "text": "106-107LEVEL 1 THE MINES MALL SERDANG",
+      "confidence": 0.9277
+    },
+    {
+      "text": "SRI KEMBANGAN,43300",
+      "confidence": 0.9464
+    },
+    {
+      "text": "SELANGOR DARUL EHSAN",
+      "confidence": 0.9972
+    },
+    {
+      "text": "(GST Reg. No : 001685499904)",
+      "confidence": 0.9966
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Tab1e 23",
+      "confidence": 0.9757
+    },
+    {
+      "text": "Order#: 116455",
+      "confidence": 0.9579
+    },
+    {
+      "text": "Bjll#: V001- 515592",
+      "confidence": 0.9555
+    },
+    {
+      "text": "Pax(s): 2",
+      "confidence": 0.9555
+    },
+    {
+      "text": "Date : 21-03-2018 13:29:51",
+      "confidence": 0.9612
+    },
+    {
+      "text": "Cashier: TAMEEM",
+      "confidence": 0.9955
+    },
+    {
+      "text": "EMS Ref:",
+      "confidence": 0.9466
+    },
+    {
+      "text": "180321142900_515592_bjc5691918+365",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9972
+    },
+    {
+      "text": "U.price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Total TAX",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Maghgout Lamb w 1SI",
+      "confidence": 0.9404
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.9853
+    },
+    {
+      "text": "22.50",
+      "confidence": 0.9992
+    },
+    {
+      "text": "22.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9956
+    },
+    {
+      "text": "Garden Salad (S)",
+      "confidence": 0.9534
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.9928
+    },
+    {
+      "text": "5.90",
+      "confidence": 0.9998
+    },
+    {
+      "text": "5.90",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9959
+    },
+    {
+      "text": "TEA POT BIG",
+      "confidence": 0.9989
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.9737
+    },
+    {
+      "text": "12.90",
+      "confidence": 0.9998
+    },
+    {
+      "text": "12.90",
+      "confidence": 0.9995
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Total (Excluding GST):",
+      "confidence": 0.9801
+    },
+    {
+      "text": "41.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Serv. Charge (10%):",
+      "confidence": 0.9849
+    },
+    {
+      "text": "4.13",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST Payable:",
+      "confidence": 0.9994
+    },
+    {
+      "text": "2.73",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total (Inclusive of GST:",
+      "confidence": 0.9006
+    },
+    {
+      "text": "48.16",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding Adj:",
+      "confidence": 0.9993
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9701
+    },
+    {
+      "text": "TOTAL :",
+      "confidence": 0.9693
+    },
+    {
+      "text": "48.15",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Closed: 011",
+      "confidence": 0.9975
+    },
+    {
+      "text": "21-03-2018",
+      "confidence": 0.97
+    },
+    {
+      "text": "14:29:00",
+      "confidence": 0.9319
+    },
+    {
+      "text": "Server: TEMP STAFF",
+      "confidence": 0.9897
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9197
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "CHANGE :",
+      "confidence": 0.9977
+    },
+    {
+      "text": "1.85",
+      "confidence": 0.9996
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.997
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9955
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9967
+    },
+    {
+      "text": "(@ 6%)",
+      "confidence": 0.9309
+    },
+    {
+      "text": "45.43",
+      "confidence": 0.9996
+    },
+    {
+      "text": "2.73",
+      "confidence": 0.9936
+    },
+    {
+      "text": "**** Thank You ****",
+      "confidence": 0.895
+    },
+    {
+      "text": "Please Come Again",
+      "confidence": 0.9741
+    },
+    {
+      "text": "POWERED BY SISPOS.COM.MY",
+      "confidence": 0.9927
+    }
+  ]
+}

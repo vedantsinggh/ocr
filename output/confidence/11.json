@@ -1,0 +1,207 @@
+{
+  "source": "images/11.jpg",
+  "line_count": 50,
+  "avg_confidence": 0.9645,
+  "lines": [
+    {
+      "text": "WHOLE",
+      "confidence": 0.9972
+    },
+    {
+      "text": "FOODS",
+      "confidence": 0.9977
+    },
+    {
+      "text": "MARKET",
+      "confidence": 0.9314
+    },
+    {
+      "text": "SHARON RD.",
+      "confidence": 0.9505
+    },
+    {
+      "text": "PL TORTILLAS",
+      "confidence": 0.965
+    },
+    {
+      "text": "6.99B",
+      "confidence": 0.9924
+    },
+    {
+      "text": "CAGE FREE ALL WHIT",
+      "confidence": 0.9333
+    },
+    {
+      "text": "3.69",
+      "confidence": 0.9974
+    },
+    {
+      "text": "B",
+      "confidence": 0.9806
+    },
+    {
+      "text": "BLACK BEANS",
+      "confidence": 0.9738
+    },
+    {
+      "text": "1.29",
+      "confidence": 0.9981
+    },
+    {
+      "text": "B",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Frozen Mangoes 160",
+      "confidence": 0.9146
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9982
+    },
+    {
+      "text": "B",
+      "confidence": 0.9919
+    },
+    {
+      "text": "Whole Strawberrles",
+      "confidence": 0.9525
+    },
+    {
+      "text": "2.99",
+      "confidence": 0.9996
+    },
+    {
+      "text": "B",
+      "confidence": 0.9816
+    },
+    {
+      "text": "OG LF COTTAGE CHEE",
+      "confidence": 0.9409
+    },
+    {
+      "text": "3.49",
+      "confidence": 0.9978
+    },
+    {
+      "text": "B",
+      "confidence": 0.9844
+    },
+    {
+      "text": "MAHI MAHI FILLETS",
+      "confidence": 0.9605
+    },
+    {
+      "text": "8.99B",
+      "confidence": 0.9931
+    },
+    {
+      "text": "#VC",
+      "confidence": 0.914
+    },
+    {
+      "text": "$2off(1) wCFill",
+      "confidence": 0.8406
+    },
+    {
+      "text": "2.00-",
+      "confidence": 0.9884
+    },
+    {
+      "text": "California Harvest",
+      "confidence": 0.9801
+    },
+    {
+      "text": "2.69B",
+      "confidence": 0.9909
+    },
+    {
+      "text": "1.081b@1.99/1b",
+      "confidence": 0.909
+    },
+    {
+      "text": "TARE",
+      "confidence": 0.9979
+    },
+    {
+      "text": "=.01",
+      "confidence": 0.9877
+    },
+    {
+      "text": "#WT",
+      "confidence": 0.8785
+    },
+    {
+      "text": "PLUMS BLACK CV",
+      "confidence": 0.9426
+    },
+    {
+      "text": "2.15B",
+      "confidence": 0.9954
+    },
+    {
+      "text": "ITEM=4040",
+      "confidence": 0.9837
+    },
+    {
+      "text": "NHP SLICED OVEN RO",
+      "confidence": 0.905
+    },
+    {
+      "text": "3.99B",
+      "confidence": 0.9927
+    },
+    {
+      "text": "NHP SLICED HICKORY",
+      "confidence": 0.9536
+    },
+    {
+      "text": "3.99B",
+      "confidence": 0.9905
+    },
+    {
+      "text": "1.641b1.99/lb",
+      "confidence": 0.8748
+    },
+    {
+      "text": "TARE",
+      "confidence": 0.9973
+    },
+    {
+      "text": "01",
+      "confidence": 0.9938
+    },
+    {
+      "text": "WT",
+      "confidence": 0.988
+    },
+    {
+      "text": "GALA APPLES OG",
+      "confidence": 0.9594
+    },
+    {
+      "text": "3.26B",
+      "confidence": 0.9914
+    },
+    {
+      "text": "ITEM = 94135",
+      "confidence": 0.924
+    },
+    {
+      "text": "****TAX",
+      "confidence": 0.8324
+    },
+    {
+      "text": "93",
+      "confidence": 0.9993
+    },
+    {
+      "text": "BAL",
+      "confidence": 0.9983
+    },
+    {
+      "text": "45.44",
+      "confidence": 0.9887
+    }
+  ]
+}

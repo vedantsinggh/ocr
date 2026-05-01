@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005301661.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005301661.txt",
+    "ocr_line_count": 70,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIGHTROOM GALLERY SDN BHD",
+  "date": "2017-12-20",
+  "items": [
+    {
+      "name": "JOINT 2PIN 2PCS",
+      "qty": null,
+      "price": "RM2.83"
+    },
+    {
+      "name": "BK 7W WW LED TRACK LIGHT",
+      "qty": 2,
+      "price": "RM33.02"
+    }
+  ],
+  "subtotal": "RM68.87",
+  "tax": "RM4.13",
+  "total": "RM73.00",
+  "currency": "RM",
+  "payment_method": null
+}

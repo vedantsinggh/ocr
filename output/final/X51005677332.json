@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677332.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677332.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-12",
+  "items": [
+    {
+      "name": "1 1/2\" SANCORA PAINT BRUSH",
+      "qty": 1,
+      "price": "7.95"
+    }
+  ],
+  "subtotal": "7.50",
+  "tax": "0.45",
+  "total": "7.95",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

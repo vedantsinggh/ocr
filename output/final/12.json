@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/12.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/12.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WAL*MART",
+  "date": "2007-10-13",
+  "items": [
+    {
+      "name": "TOOTHBRUSH",
+      "qty": null,
+      "price": "0.96"
+    },
+    {
+      "name": "SLIPPERS",
+      "qty": null,
+      "price": "7.59"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.100% + 4.350%",
+  "total": "18.75",
+  "currency": "INR",
+  "payment_method": "MCARD TEND"
+}

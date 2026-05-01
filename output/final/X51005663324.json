@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663324.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663324.txt",
+    "ocr_line_count": 113,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2017-12-28",
+  "items": [
+    {
+      "name": "SR NAIL (PER/PACK)",
+      "qty": 2,
+      "price": "2.12"
+    },
+    {
+      "name": "1 1/2\" SANCORA PAINT BRUSH",
+      "qty": 1,
+      "price": "10.07"
+    },
+    {
+      "name": "7\" PAINT ROLLER SET",
+      "qty": 2,
+      "price": "26.50"
+    },
+    {
+      "name": "1LT BIG TREE HIGH GLOSS PAINT",
+      "qty": 450,
+      "price": "0.30"
+    },
+    {
+      "name": "CEMENT BRICK",
+      "qty": 3,
+      "price": "15.90"
+    },
+    {
+      "name": "6'X 35#CORRUGATED ROOFING SHEET",
+      "qty": 4,
+      "price": "18.02"
+    },
+    {
+      "name": "CEMENT (50KG)",
+      "qty": 2,
+      "price": "16.96"
+    },
+    {
+      "name": "10'2X3 V/",
+      "qty": 3,
+      "price": "7.42"
+    },
+    {
+      "name": "10'1X2",
+      "qty": 2,
+      "price": "40.28"
+    },
+    {
+      "name": "K10'1 X8",
+      "qty": null,
+      "price": "22.26"
+    }
+  ],
+  "subtotal": "439.00",
+  "tax": "26.34",
+  "total": "465.34",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

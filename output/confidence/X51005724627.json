@@ -1,0 +1,279 @@
+{
+  "source": "images/X51005724627.jpg",
+  "line_count": 68,
+  "avg_confidence": 0.9783,
+  "lines": [
+    {
+      "text": "R",
+      "confidence": 0.946
+    },
+    {
+      "text": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.9949
+    },
+    {
+      "text": "(0005583085-K)",
+      "confidence": 0.999
+    },
+    {
+      "text": "LOT 276 JALAN BANTING",
+      "confidence": 0.9285
+    },
+    {
+      "text": "43800 DENGKIL.SELANGOR",
+      "confidence": 0.96
+    },
+    {
+      "text": "TEL:03-87686092",
+      "confidence": 0.9662
+    },
+    {
+      "text": "FAX03-87686092",
+      "confidence": 0.9969
+    },
+    {
+      "text": "GSTID:000781500416",
+      "confidence": 0.9694
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9506
+    },
+    {
+      "text": "Bill To.",
+      "confidence": 0.8865
+    },
+    {
+      "text": "SUCIALAM JAYA TRANSPORT",
+      "confidence": 0.9645
+    },
+    {
+      "text": "NO1JALAN AMAN 2",
+      "confidence": 0.934
+    },
+    {
+      "text": "TAMAN DESA 43800",
+      "confidence": 0.9417
+    },
+    {
+      "text": "DENGKIL SELANGOR",
+      "confidence": 0.9698
+    },
+    {
+      "text": "017-6057770",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9492
+    },
+    {
+      "text": ":CS00011351",
+      "confidence": 0.9873
+    },
+    {
+      "text": "Date:31/03/2018",
+      "confidence": 0.9783
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9969
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9345
+    },
+    {
+      "text": "Time: 09:29:00",
+      "confidence": 0.9767
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9791
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.8984
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9894
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9908
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9839
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9803
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.994
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9967
+    },
+    {
+      "text": "101756",
+      "confidence": 0.9983
+    },
+    {
+      "text": "10",
+      "confidence": 0.9977
+    },
+    {
+      "text": "16.50",
+      "confidence": 0.9971
+    },
+    {
+      "text": "17.49",
+      "confidence": 0.9957
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.9949
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9955
+    },
+    {
+      "text": "SIMEN",
+      "confidence": 0.9966
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9844
+    },
+    {
+      "text": "10",
+      "confidence": 0.997
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9785
+    },
+    {
+      "text": "165.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9985
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total GSt :",
+      "confidence": 0.9272
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (Inclusive of GST) :",
+      "confidence": 0.9424
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9761
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9561
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9811
+    },
+    {
+      "text": "%",
+      "confidence": 0.9816
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9119
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.969
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "6",
+      "confidence": 0.9971
+    },
+    {
+      "text": "165.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9995
+    },
+    {
+      "text": "165.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+      "confidence": 0.9329
+    }
+  ]
+}

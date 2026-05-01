@@ -1,0 +1,131 @@
+{
+  "source": "images/X51005745244.jpg",
+  "line_count": 31,
+  "avg_confidence": 0.9715,
+  "lines": [
+    {
+      "text": "Subway#42210-0 Phone 03-78870693",
+      "confidence": 0.9887
+    },
+    {
+      "text": "URBAN IDEA SDN BHD (41794O-M),",
+      "confidence": 0.9643
+    },
+    {
+      "text": "A-G-O6,DATARAN GLOMAC,",
+      "confidence": 0.9375
+    },
+    {
+      "text": "JALAN SS6/5A, PUSAT BANDAR KEl.ANA JAYA,",
+      "confidence": 0.9687
+    },
+    {
+      "text": "47301 PETALING JAYA. SELANGOR, Ma1aysia",
+      "confidence": 0.9155
+    },
+    {
+      "text": "Served by: J0SEPH 14/02/2018 11:13:31",
+      "confidence": 0.9788
+    },
+    {
+      "text": "TaxInvoice# 1/A-422.10-138075",
+      "confidence": 0.9636
+    },
+    {
+      "text": "GST ID: 000220499968",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Qty Size Item",
+      "confidence": 0.9868
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1",
+      "confidence": 0.9608
+    },
+    {
+      "text": "(MY) EDV Mea1",
+      "confidence": 0.9768
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.999
+    },
+    {
+      "text": "6\" -Meatball Sub",
+      "confidence": 0.9303
+    },
+    {
+      "text": "-16oz Fountain Drink.",
+      "confidence": 0.9707
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9636
+    },
+    {
+      "text": "Total (Eat Jn)",
+      "confidence": 0.9653
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9995
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9995
+    },
+    {
+      "text": "RM0.00",
+      "confidence": 0.9167
+    },
+    {
+      "text": "Tax Info:",
+      "confidence": 0.9941
+    },
+    {
+      "text": "GST 6% (6%)",
+      "confidence": 0.975
+    },
+    {
+      "text": "RMO.67",
+      "confidence": 0.9564
+    },
+    {
+      "text": "Total-Exc1-GST",
+      "confidence": 0.9507
+    },
+    {
+      "text": "RM11.23",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Take our 1 Minute Survey at",
+      "confidence": 0.9812
+    },
+    {
+      "text": "www.te1lsubway.my and get a FRFE COOKIE",
+      "confidence": 0.9171
+    },
+    {
+      "text": "with next purchase.Redemption of 1",
+      "confidence": 0.9873
+    },
+    {
+      "text": "cookie per transaction.",
+      "confidence": 0.9767
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005749904.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005749904.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SWCENTERPRISE SDNBHD",
+  "date": "2018-06-03",
+  "items": [
+    {
+      "name": "TM6211.5B/CATNYLON",
+      "qty": 2,
+      "price": "2.00"
+    },
+    {
+      "name": "OPPTAPE1.5",
+      "qty": 2,
+      "price": "2.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.22",
+  "total": "4.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447839.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447839.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "JIAWEI HOUSE",
+  "date": "2018-03-09",
+  "items": [
+    {
+      "name": "Bean Bitterground Fish Head (S)",
+      "qty": 1,
+      "price": "35.00"
+    },
+    {
+      "name": "Hong Kong Sauteed S",
+      "qty": 1,
+      "price": "16.00"
+    },
+    {
+      "name": "Steamed Egg(S)",
+      "qty": 1,
+      "price": "10.00"
+    },
+    {
+      "name": "Chinese Tea",
+      "qty": 2,
+      "price": "0.60"
+    },
+    {
+      "name": "Rice (B)",
+      "qty": 2,
+      "price": "1.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "65.20",
+  "currency": "RM",
+  "payment_method": null
+}

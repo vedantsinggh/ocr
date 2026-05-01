@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005684949.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005684949.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WESIERN EASTERN STATIONERY SON.BHD",
+  "date": "2018-02-26",
+  "items": [
+    {
+      "name": "CLRP.SA4/A3",
+      "qty": null,
+      "price": "RM7.42"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.42",
+  "total": "RM7.42",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

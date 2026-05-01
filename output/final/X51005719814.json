@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719814.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719814.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KIKU JAPANESE RESTAURANT",
+  "date": "2018-01-17",
+  "items": [
+    {
+      "name": "Chicken Katsu Bento",
+      "qty": 1,
+      "price": "12.90"
+    },
+    {
+      "name": "Omu Curry Fried Rice Set",
+      "qty": 1,
+      "price": "6.90"
+    },
+    {
+      "name": "Katsu Don (Fish)Set",
+      "qty": 1,
+      "price": "9.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "29.70",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

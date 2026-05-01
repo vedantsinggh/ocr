@@ -1,0 +1,243 @@
+{
+  "source": "images/X51005722668.jpg",
+  "line_count": 59,
+  "avg_confidence": 0.958,
+  "lines": [
+    {
+      "text": "MY HAPPY PHARMACY PLT",
+      "confidence": 0.9929
+    },
+    {
+      "text": "(LLP0007299-LGN)",
+      "confidence": 0.9959
+    },
+    {
+      "text": "NO 12GF,JALAN MAMANDA 5",
+      "confidence": 0.9317
+    },
+    {
+      "text": "TAMAN DATO AHMAD RAZALI.JALAN AMPANG",
+      "confidence": 0.9427
+    },
+    {
+      "text": "68000AMPANG,SELANGOR",
+      "confidence": 0.9676
+    },
+    {
+      "text": "TEL+60342661226",
+      "confidence": 0.9977
+    },
+    {
+      "text": "GST1D000241512448",
+      "confidence": 0.9623
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9648
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.992
+    },
+    {
+      "text": "CS00038813",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Date.01/02/2018",
+      "confidence": 0.9901
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9974
+    },
+    {
+      "text": "ASIFA",
+      "confidence": 0.9962
+    },
+    {
+      "text": "Time16.07.00",
+      "confidence": 0.9141
+    },
+    {
+      "text": "Salesperson",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SOO5",
+      "confidence": 0.6647
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.9579
+    },
+    {
+      "text": " Item",
+      "confidence": 0.909
+    },
+    {
+      "text": "Qly",
+      "confidence": 0.9506
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9917
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9556
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9994
+    },
+    {
+      "text": "OTC-000127",
+      "confidence": 0.9955
+    },
+    {
+      "text": "1",
+      "confidence": 0.9902
+    },
+    {
+      "text": "20.50",
+      "confidence": 0.9965
+    },
+    {
+      "text": "20.50",
+      "confidence": 0.9959
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9979
+    },
+    {
+      "text": "FLANIL ANALGESIC CR 60G",
+      "confidence": 0.9219
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9264
+    },
+    {
+      "text": "1",
+      "confidence": 0.6644
+    },
+    {
+      "text": "20.50",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Tolai Saies (Excluding GST",
+      "confidence": 0.8608
+    },
+    {
+      "text": "19.34",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9489
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.836
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.951
+    },
+    {
+      "text": "1.16",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9921
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total Sales (inclusiva of GsT)",
+      "confidence": 0.8852
+    },
+    {
+      "text": "20.50",
+      "confidence": 0.9967
+    },
+    {
+      "text": "CASH.",
+      "confidence": 0.9349
+    },
+    {
+      "text": "21.00",
+      "confidence": 0.9907
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9522
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.9957
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9801
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9978
+    },
+    {
+      "text": "%",
+      "confidence": 0.9749
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.8829
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9233
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9984
+    },
+    {
+      "text": "6",
+      "confidence": 0.9904
+    },
+    {
+      "text": "19.34",
+      "confidence": 0.9692
+    },
+    {
+      "text": "1.16",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9898
+    },
+    {
+      "text": "19.34",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,THANK YOU",
+      "confidence": 0.9299
+    }
+  ]
+}

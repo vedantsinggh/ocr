@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757282.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757282.txt",
+    "ocr_line_count": 51,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TSH POWER HARDWARE",
+  "date": "2017-09-12",
+  "items": [
+    {
+      "name": "308# DRAWER",
+      "qty": 1,
+      "price": "6.00"
+    },
+    {
+      "name": "FAXON GARDEN",
+      "qty": 1,
+      "price": "18.00"
+    },
+    {
+      "name": ".OCAL SEAL WHITE",
+      "qty": 1,
+      "price": "0.50"
+    }
+  ],
+  "subtotal": "6.50",
+  "tax": "1.39",
+  "total": "24.50",
+  "currency": "SR",
+  "payment_method": null
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447851.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447851.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-03-30",
+  "items": [
+    {
+      "name": "REVIVE 500ML",
+      "qty": 1,
+      "price": "1.70"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "1.70",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

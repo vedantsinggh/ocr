@@ -1,0 +1,167 @@
+{
+  "source": "images/X51005806702.jpg",
+  "line_count": 40,
+  "avg_confidence": 0.9715,
+  "lines": [
+    {
+      "text": "Cash Sale",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SINNATHAMBY HOLDINGS",
+      "confidence": 0.9709
+    },
+    {
+      "text": "SDn. BhD.",
+      "confidence": 0.8
+    },
+    {
+      "text": "249336-T",
+      "confidence": 0.9993
+    },
+    {
+      "text": "NO.17, 18 & 41, JALAN BESAR",
+      "confidence": 0.9854
+    },
+    {
+      "text": "39100 BRINCHANG,",
+      "confidence": 0.9967
+    },
+    {
+      "text": "CAMERON HIGHLANDS,",
+      "confidence": 0.997
+    },
+    {
+      "text": "PAHANG",
+      "confidence": 0.9982
+    },
+    {
+      "text": "GST Reg.: 002120876032",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Document No. : T03-18/199913",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9999
+    },
+    {
+      "text": ": 06/02/2018 07:11:54 PM",
+      "confidence": 0.9997
+    },
+    {
+      "text": "DESC",
+      "confidence": 0.9959
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Disc AMOUNT TAX",
+      "confidence": 0.9797
+    },
+    {
+      "text": "qTy",
+      "confidence": 0.6108
+    },
+    {
+      "text": " RM",
+      "confidence": 0.8559
+    },
+    {
+      "text": "RM CODE",
+      "confidence": 0.9978
+    },
+    {
+      "text": "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+      "confidence": 0.9964
+    },
+    {
+      "text": "6R*60",
+      "confidence": 0.9029
+    },
+    {
+      "text": "1UNIT *",
+      "confidence": 0.9957
+    },
+    {
+      "text": "13.50",
+      "confidence": 0.9784
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "13.50 SR",
+      "confidence": 0.9967
+    },
+    {
+      "text": "Total Qty: 1",
+      "confidence": 0.9661
+    },
+    {
+      "text": "Total Inclusive GST 6% :",
+      "confidence": 0.9654
+    },
+    {
+      "text": "13.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding Adjustment :",
+      "confidence": 0.9757
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Rounded Total (RM):",
+      "confidence": 0.9756
+    },
+    {
+      "text": "13.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9994
+    },
+    {
+      "text": "13.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR @ 6%",
+      "confidence": 0.9987
+    },
+    {
+      "text": "12.74",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.76",
+      "confidence": 0.9999
+    },
+    {
+      "text": "NNN Thanks You NNN",
+      "confidence": 0.9366
+    }
+  ]
+}

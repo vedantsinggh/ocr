@@ -1,0 +1,423 @@
+{
+  "source": "images/X51005365187.jpg",
+  "line_count": 104,
+  "avg_confidence": 0.9586,
+  "lines": [
+    {
+      "text": "3-1707067",
+      "confidence": 0.9996
+    },
+    {
+      "text": "F&P PHARMACY",
+      "confidence": 0.9897
+    },
+    {
+      "text": "(002309592-P)",
+      "confidence": 0.9859
+    },
+    {
+      "text": "NO.20, GROUND FLOOR",
+      "confidence": 0.9661
+    },
+    {
+      "text": "JAI.AN BS 1O/6 TAMANBUKIT SERDANG",
+      "confidence": 0.9002
+    },
+    {
+      "text": "SEKSYEN 10.43300 SERIKEMBANGAN",
+      "confidence": 0.9145
+    },
+    {
+      "text": "SELANGOR DARUL EHSAN",
+      "confidence": 0.983
+    },
+    {
+      "text": "TEL 03-89599823",
+      "confidence": 0.9438
+    },
+    {
+      "text": "GST Reg NO 001880666112",
+      "confidence": 0.9692
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9779
+    },
+    {
+      "text": "Doc. No",
+      "confidence": 0.9373
+    },
+    {
+      "text": "CS00110840",
+      "confidence": 0.9486
+    },
+    {
+      "text": "Date(",
+      "confidence": 0.9531
+    },
+    {
+      "text": "02/03/2018",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9859
+    },
+    {
+      "text": "F&P",
+      "confidence": 0.9817
+    },
+    {
+      "text": "Time.",
+      "confidence": 0.9981
+    },
+    {
+      "text": "16.46.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Salesperson",
+      "confidence": 0.9887
+    },
+    {
+      "text": "Ref",
+      "confidence": 0.9676
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.8644
+    },
+    {
+      "text": "(GsT)",
+      "confidence": 0.7239
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9834
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.8254
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9498
+    },
+    {
+      "text": "S/Prce",
+      "confidence": 0.9143
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Tax.",
+      "confidence": 0.8786
+    },
+    {
+      "text": "9557892105258",
+      "confidence": 0.9096
+    },
+    {
+      "text": "1",
+      "confidence": 0.9996
+    },
+    {
+      "text": "5.66",
+      "confidence": 0.9971
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.8524
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9837
+    },
+    {
+      "text": "HOMECARE GASCOAL 5OMG",
+      "confidence": 0.962
+    },
+    {
+      "text": "1486",
+      "confidence": 0.9978
+    },
+    {
+      "text": "1",
+      "confidence": 0.9965
+    },
+    {
+      "text": "6 00",
+      "confidence": 0.9696
+    },
+    {
+      "text": "6 00",
+      "confidence": 0.9593
+    },
+    {
+      "text": "6 00",
+      "confidence": 0.9411
+    },
+    {
+      "text": "ZRL",
+      "confidence": 0.9286
+    },
+    {
+      "text": "P.P NAPROXEN NA 275 MG",
+      "confidence": 0.9929
+    },
+    {
+      "text": "9557837400039",
+      "confidence": 0.9353
+    },
+    {
+      "text": "1",
+      "confidence": 0.9995
+    },
+    {
+      "text": "4 30",
+      "confidence": 0.9934
+    },
+    {
+      "text": "4 30",
+      "confidence": 0.9966
+    },
+    {
+      "text": "4 30",
+      "confidence": 0.9969
+    },
+    {
+      "text": "ZRL",
+      "confidence": 0.6056
+    },
+    {
+      "text": "YEl LOW I.OTION 30 ML",
+      "confidence": 0.8589
+    },
+    {
+      "text": "1014",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "text": "3 58",
+      "confidence": 0.9071
+    },
+    {
+      "text": "3 80",
+      "confidence": 0.9304
+    },
+    {
+      "text": "3 80",
+      "confidence": 0.9559
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9902
+    },
+    {
+      "text": "PANADOL SOLUBLE TABLET",
+      "confidence": 0.9753
+    },
+    {
+      "text": "1155",
+      "confidence": 0.9906
+    },
+    {
+      "text": "1",
+      "confidence": 0.9978
+    },
+    {
+      "text": "613",
+      "confidence": 0.9977
+    },
+    {
+      "text": "6.50",
+      "confidence": 0.994
+    },
+    {
+      "text": "6 50",
+      "confidence": 0.9865
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9757
+    },
+    {
+      "text": "PMS GAUZE BANDAGE 5CM X 4M",
+      "confidence": 0.9714
+    },
+    {
+      "text": "95506104",
+      "confidence": 0.9951
+    },
+    {
+      "text": "5 00",
+      "confidence": 0.9709
+    },
+    {
+      "text": "5 30",
+      "confidence": 0.9964
+    },
+    {
+      "text": "5 30",
+      "confidence": 0.9383
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9893
+    },
+    {
+      "text": "DETTOL 5O ML",
+      "confidence": 0.8976
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.914
+    },
+    {
+      "text": "6",
+      "confidence": 0.9727
+    },
+    {
+      "text": "3190",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total Sales (Excluding GST)",
+      "confidence": 0.9844
+    },
+    {
+      "text": "30.68",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Discount",
+      "confidence": 0.9993
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total GST",
+      "confidence": 0.921
+    },
+    {
+      "text": "1 22",
+      "confidence": 0.9809
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9883
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (Inctusive of GsT) :",
+      "confidence": 0.9575
+    },
+    {
+      "text": "31.90",
+      "confidence": 1.0
+    },
+    {
+      "text": "cash :",
+      "confidence": 0.8106
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.977
+    },
+    {
+      "text": "18.10",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9102
+    },
+    {
+      "text": "Iax Code",
+      "confidence": 0.9808
+    },
+    {
+      "text": "%",
+      "confidence": 0.8989
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9298
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9312
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9866
+    },
+    {
+      "text": "6",
+      "confidence": 0.9929
+    },
+    {
+      "text": "20 38",
+      "confidence": 0.9805
+    },
+    {
+      "text": "1.22",
+      "confidence": 0.9995
+    },
+    {
+      "text": "ZRL",
+      "confidence": 0.8916
+    },
+    {
+      "text": "0",
+      "confidence": 0.892
+    },
+    {
+      "text": "10 30",
+      "confidence": 0.9961
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9601
+    },
+    {
+      "text": "30.68",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.22",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE & EXCHANGABLE",
+      "confidence": 0.9932
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9878
+    }
+  ]
+}

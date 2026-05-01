@@ -1,0 +1,139 @@
+{
+  "source": "images/X51005711453.jpg",
+  "line_count": 33,
+  "avg_confidence": 0.967,
+  "lines": [
+    {
+      "text": "107",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.94
+    },
+    {
+      "text": "65351-M",
+      "confidence": 0.9904
+    },
+    {
+      "text": "formerly known as",
+      "confidence": 0.9643
+    },
+    {
+      "text": "Golden Arches Restaurants Sdn Bhd",
+      "confidence": 0.9532
+    },
+    {
+      "text": "Licensee of McDonald's",
+      "confidence": 0.9608
+    },
+    {
+      "text": "Level 6, Bangunan TH, Damansara Uptown3",
+      "confidence": 0.9135
+    },
+    {
+      "text": "No.3,Jalan SS21/39,47400 Peta1ing Jaya",
+      "confidence": 0.92
+    },
+    {
+      "text": "Selangor",
+      "confidence": 0.9909
+    },
+    {
+      "text": "GSTIDNo:000504664064",
+      "confidence": 0.958
+    },
+    {
+      "text": "McDonald's She11 Mahkota Cheras DT #36",
+      "confidence": 0.9309
+    },
+    {
+      "text": "Tel No.03-9010-9849",
+      "confidence": 0.9537
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9878
+    },
+    {
+      "text": "MFY Side 1",
+      "confidence": 0.9401
+    },
+    {
+      "text": "INV#003621900059183",
+      "confidence": 0.9941
+    },
+    {
+      "text": "ORD #07-REG#19-10/03/201817:24:07",
+      "confidence": 0.9485
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9456
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9975
+    },
+    {
+      "text": "1 M Coke",
+      "confidence": 0.9433
+    },
+    {
+      "text": "3.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1 McChicken",
+      "confidence": 0.9869
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "TakeOut Total (incl GST)",
+      "confidence": 0.9067
+    },
+    {
+      "text": "8.50",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total Rounded",
+      "confidence": 0.9415
+    },
+    {
+      "text": "8.50",
+      "confidence": 0.998
+    },
+    {
+      "text": "Cash Tendered",
+      "confidence": 0.9793
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.996
+    },
+    {
+      "text": "Change",
+      "confidence": 0.998
+    },
+    {
+      "text": "41.50",
+      "confidence": 0.9962
+    },
+    {
+      "text": "TOTAL INCLUDES 6% GST",
+      "confidence": 0.9456
+    },
+    {
+      "text": "0.48",
+      "confidence": 0.9865
+    },
+    {
+      "text": "Thank You and Please Come Again.",
+      "confidence": 0.9491
+    }
+  ]
+}

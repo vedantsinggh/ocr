@@ -1,0 +1,55 @@
+Geoventure
+Taste Of The WorId Sdn Bhd
+965857-A
+Lot 38.39 101 Boulevard
+Jalan Kenari 5. Bandar Puchong Jaya
+47170 Puchong.Selangor.
+TEL03-80790255
+GST REGNO:000136577024
+RESERVAT1ON NO: 01O7745055
+SIMPLIFIED TAX INVOICE
+Invoice581355
+Cashier NINI
+POS No:1
+Pax
+:0
+Date:5/3/2018 225233
+Table No : C38
+ITEM
+QTY
+U.PRMDSC%AmL+GSTRM
+S Tiger Bucket
+GTG02
+1
+55.00
+0+0
+5830
+S
+Service ChrgIncI GST 6%
+RM583
+Total SalesIncl GST 6
+RM6413
+Rounding Adjustment
+RM0.02
+TOTAL
+RM 64.15
+CASH
+RM 100.00
+CHANGE
+RM 35.85
+Main Item Count
+1
+Total Discount
+RMO00
+GST Summary
+AmountRM)
+TaxRM
+S
+6%
+60.50
+3.63
+Z
+0%
+000
+0.00
+K

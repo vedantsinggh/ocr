@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711454.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711454.txt",
+    "ocr_line_count": 51,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PappaRich BMC",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "D28 MILK",
+      "qty": null,
+      "price": "7.45"
+    },
+    {
+      "name": "RO3 NLEMAK+fc E",
+      "qty": null,
+      "price": "35.66"
+    },
+    {
+      "name": "IN22 SPRG NDL+su+Cr E",
+      "qty": null,
+      "price": "9.34"
+    },
+    {
+      "name": "B02 HALFBLEGG E",
+      "qty": null,
+      "price": "4.53"
+    },
+    {
+      "name": "D19 CHAMIE",
+      "qty": null,
+      "price": "5.57"
+    }
+  ],
+  "subtotal": "62.55",
+  "tax": "4.13",
+  "total": "72.95",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005306399.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005306399.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Shell ISNI PETRO TRADING",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "V-Power97",
+      "qty": null,
+      "price": "86.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.87",
+  "total": "86.00",
+  "currency": "RM",
+  "payment_method": "Visa"
+}

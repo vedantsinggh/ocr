@@ -1,0 +1,243 @@
+{
+  "source": "images/X51005433553.jpg",
+  "line_count": 59,
+  "avg_confidence": 0.9326,
+  "lines": [
+    {
+      "text": "YHM Aeon Tebrau City",
+      "confidence": 0.9329
+    },
+    {
+      "text": "S117,Second Floor",
+      "confidence": 0.9321
+    },
+    {
+      "text": "Aeon Tebrau City",
+      "confidence": 0.9653
+    },
+    {
+      "text": "1,Jalan Desa Tebrau",
+      "confidence": 0.9137
+    },
+    {
+      "text": "Taman Desa Tebrau,",
+      "confidence": 0.8906
+    },
+    {
+      "text": "81100 Johor Bahru, Johor.",
+      "confidence": 0.918
+    },
+    {
+      "text": "002105827328",
+      "confidence": 0.9922
+    },
+    {
+      "text": "* TAX INVOICE *",
+      "confidence": 0.9892
+    },
+    {
+      "text": "Order No.",
+      "confidence": 0.9841
+    },
+    {
+      "text": "100021911/03/201806:20PM",
+      "confidence": 0.9663
+    },
+    {
+      "text": "Receipt No.003-1220615",
+      "confidence": 0.9608
+    },
+    {
+      "text": "Pax",
+      "confidence": 0.9682
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9935
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9886
+    },
+    {
+      "text": "Eat In",
+      "confidence": 0.9555
+    },
+    {
+      "text": "Iten",
+      "confidence": 0.9215
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9709
+    },
+    {
+      "text": "U.Price",
+      "confidence": 0.9303
+    },
+    {
+      "text": "Amount Tax",
+      "confidence": 0.8672
+    },
+    {
+      "text": "FG-A00019",
+      "confidence": 0.996
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9933
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9448
+    },
+    {
+      "text": "Green Tea",
+      "confidence": 0.9724
+    },
+    {
+      "text": "FG-H00001",
+      "confidence": 0.9382
+    },
+    {
+      "text": "8.60",
+      "confidence": 0.8917
+    },
+    {
+      "text": "8.80SR",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Kake Udan R",
+      "confidence": 0.8779
+    },
+    {
+      "text": "FG-H00100",
+      "confidence": 0.9278
+    },
+    {
+      "text": "2.80",
+      "confidence": 0.9977
+    },
+    {
+      "text": "2.80SR",
+      "confidence": 0.966
+    },
+    {
+      "text": "Enok1 Tempura",
+      "confidence": 0.8176
+    },
+    {
+      "text": "SubTeta",
+      "confidence": 0.9236
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9386
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9657
+    },
+    {
+      "text": ":",
+      "confidence": 0.9946
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9989
+    },
+    {
+      "text": "TOTAL :MYR",
+      "confidence": 0.9607
+    },
+    {
+      "text": "13.10",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Excluded Tax",
+      "confidence": 0.9345
+    },
+    {
+      "text": ".",
+      "confidence": 0.5128
+    },
+    {
+      "text": "12.36",
+      "confidence": 0.9984
+    },
+    {
+      "text": "--",
+      "confidence": 0.5133
+    },
+    {
+      "text": "0.74",
+      "confidence": 0.9952
+    },
+    {
+      "text": "Payment Details",
+      "confidence": 0.9654
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9948
+    },
+    {
+      "text": "20.10",
+      "confidence": 0.9952
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9569
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Tax Summary",
+      "confidence": 0.8766
+    },
+    {
+      "text": "Tax Code %",
+      "confidence": 0.8782
+    },
+    {
+      "text": "AmountMYR)",
+      "confidence": 0.9185
+    },
+    {
+      "text": "Tax(MYR",
+      "confidence": 0.9069
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9866
+    },
+    {
+      "text": "6",
+      "confidence": 0.9745
+    },
+    {
+      "text": "1^36",
+      "confidence": 0.9749
+    },
+    {
+      "text": "0.74",
+      "confidence": 0.999
+    },
+    {
+      "text": "***nnn ****",
+      "confidence": 0.5506
+    },
+    {
+      "text": "Please Come Again",
+      "confidence": 0.9553
+    }
+  ]
+}

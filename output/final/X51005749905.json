@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005749905.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005749905.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ENW Hardware Centre (M) Sdn. Bhd",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "2kgs. Wood Lacquer Thinner",
+      "qty": 1,
+      "price": "19.00"
+    },
+    {
+      "name": "1.5kg. Ufixx Putty Filler.",
+      "qty": 1,
+      "price": "10.00"
+    },
+    {
+      "name": "100# x 8\" x 45m Sand Paper Roll.",
+      "qty": 2,
+      "price": "2.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.93",
+  "total": "34.00",
+  "currency": "RM",
+  "payment_method": null
+}

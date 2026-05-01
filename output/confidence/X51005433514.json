@@ -1,0 +1,155 @@
+{
+  "source": "images/X51005433514.jpg",
+  "line_count": 37,
+  "avg_confidence": 0.9457,
+  "lines": [
+    {
+      "text": "UNIHAKKA INTERNATIONAL.SDN BHD",
+      "confidence": 0.95
+    },
+    {
+      "text": "03 Mar2018 18:22",
+      "confidence": 0.909
+    },
+    {
+      "text": "867388-U",
+      "confidence": 0.962
+    },
+    {
+      "text": "12.Jaian Tampoi 7/4Kawasan Perindustrian",
+      "confidence": 0.9046
+    },
+    {
+      "text": "Tampoi81200 Johor Bahru,Johor",
+      "confidence": 0.9287
+    },
+    {
+      "text": "TAXINVOICE",
+      "confidence": 0.9835
+    },
+    {
+      "text": "Invoice # : OR18030302170430",
+      "confidence": 0.9659
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9601
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9685
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SR00100000035-1 Meat+3Vege",
+      "confidence": 0.9787
+    },
+    {
+      "text": "$7.10",
+      "confidence": 0.9972
+    },
+    {
+      "text": "$7.10",
+      "confidence": 0.948
+    },
+    {
+      "text": "SR100100000015-Vegetable",
+      "confidence": 0.9903
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9761
+    },
+    {
+      "text": "$1.10",
+      "confidence": 0.9916
+    },
+    {
+      "text": "TotalAmount$8.20",
+      "confidence": 0.9743
+    },
+    {
+      "text": "GST6%$0.46",
+      "confidence": 0.9435
+    },
+    {
+      "text": "Net Totai$8.20",
+      "confidence": 0.8157
+    },
+    {
+      "text": "Payment Mode",
+      "confidence": 0.9775
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9975
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9917
+    },
+    {
+      "text": "$8.20",
+      "confidence": 0.9964
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9983
+    },
+    {
+      "text": "$0.00",
+      "confidence": 0.9541
+    },
+    {
+      "text": "aSTSummary",
+      "confidence": 0.8709
+    },
+    {
+      "text": "Aoun$)",
+      "confidence": 0.7656
+    },
+    {
+      "text": "Tax($)",
+      "confidence": 0.9343
+    },
+    {
+      "text": "SR-GST@",
+      "confidence": 0.8173
+    },
+    {
+      "text": "7.74",
+      "confidence": 0.9838
+    },
+    {
+      "text": "C4",
+      "confidence": 0.7752
+    },
+    {
+      "text": "GSTREG #000656195584",
+      "confidence": 0.9649
+    },
+    {
+      "text": "BAR WANG RICE@PERMAS JAYA",
+      "confidence": 0.9534
+    },
+    {
+      "text": "Price Inclusive Of GST",
+      "confidence": 0.9127
+    },
+    {
+      "text": "Thank You & Corne Again!",
+      "confidence": 0.9776
+    },
+    {
+      "text": "Like and Follow Us on Facebook!",
+      "confidence": 0.9796
+    },
+    {
+      "text": "Facebook.com/BarWangRice",
+      "confidence": 0.9924
+    }
+  ]
+}

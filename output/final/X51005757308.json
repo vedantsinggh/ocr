@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757308.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757308.txt",
+    "ocr_line_count": 61,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IOI PUCHONG",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "CLOTH TAPE 46MM*5M (RED)",
+      "qty": 1,
+      "price": "1.90"
+    },
+    {
+      "name": "BOPP TAPE 48MM*100M CLEAR",
+      "qty": 1,
+      "price": "3.90"
+    },
+    {
+      "name": "CLOTH TAPE 46MM*5M (GREEN)",
+      "qty": 1,
+      "price": "1.90"
+    },
+    {
+      "name": "DBL SIDE CLEAR ACRYLIC TAPE VST1O6C",
+      "qty": 1,
+      "price": "11.90"
+    },
+    {
+      "name": "O/S TAPE 1.8*15M",
+      "qty": 1,
+      "price": "1.70"
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "qty": null,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.22",
+  "total": "21.50",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

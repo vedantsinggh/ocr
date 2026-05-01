@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605333.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605333.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KL FESTIVAL CITY MALL",
+  "date": "2018-07-01",
+  "items": [
+    {
+      "name": "3pc Copy 450'S",
+      "qty": null,
+      "price": "41.07"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.78",
+  "total": "31.45",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

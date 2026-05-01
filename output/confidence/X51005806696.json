@@ -1,0 +1,171 @@
+{
+  "source": "images/X51005806696.jpg",
+  "line_count": 41,
+  "avg_confidence": 0.9772,
+  "lines": [
+    {
+      "text": "IMAGE PRINTEC (M) SDN BHD",
+      "confidence": 0.9657
+    },
+    {
+      "text": "Reg No. 416123-U",
+      "confidence": 0.9858
+    },
+    {
+      "text": "GST: 001241862144",
+      "confidence": 0.9943
+    },
+    {
+      "text": "No. 12A-G, Jalan Wangsa Delima 11",
+      "confidence": 0.9702
+    },
+    {
+      "text": "D'wangsa Wangsa Maju.",
+      "confidence": 0.9832
+    },
+    {
+      "text": "53300 Kuala Lumpur",
+      "confidence": 0.9951
+    },
+    {
+      "text": "T: +(603) 4141 9822 F.+(603) 41419722",
+      "confidence": 0.9691
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.909
+    },
+    {
+      "text": "CB#: 61967",
+      "confidence": 0.9631
+    },
+    {
+      "text": "23/02/2018 7:44:16",
+      "confidence": 0.9943
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.969
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9908
+    },
+    {
+      "text": "Desc",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Pnee",
+      "confidence": 0.8027
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2 COLOR COPY A4",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.00 SR",
+      "confidence": 0.9992
+    },
+    {
+      "text": "2 PHOTOCOPY A4",
+      "confidence": 0.989
+    },
+    {
+      "text": "0.10",
+      "confidence": 0.9995
+    },
+    {
+      "text": "0.20 SR",
+      "confidence": 0.9886
+    },
+    {
+      "text": "2 LAMINATE A4",
+      "confidence": 0.9719
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9969
+    },
+    {
+      "text": "5.00 SR",
+      "confidence": 0.959
+    },
+    {
+      "text": "6",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Type:",
+      "confidence": 0.9998
+    },
+    {
+      "text": "3",
+      "confidence": 0.9991
+    },
+    {
+      "text": "SubTotal:",
+      "confidence": 0.9518
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9741
+    },
+    {
+      "text": "GST 6%",
+      "confidence": 0.9926
+    },
+    {
+      "text": "0.43",
+      "confidence": 0.8923
+    },
+    {
+      "text": "Rounding Adj :",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9997
+    },
+    {
+      "text": "NET TOTAL:",
+      "confidence": 0.8986
+    },
+    {
+      "text": "7.65",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9984
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Change:",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2.35",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Thank you.",
+      "confidence": 0.9747
+    },
+    {
+      "text": "Please come again",
+      "confidence": 0.9998
+    }
+  ]
+}

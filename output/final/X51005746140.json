@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746140.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746140.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YONG CEN ENTERPRISE",
+  "date": "2018-03-02",
+  "items": [
+    {
+      "name": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333",
+      "qty": 24,
+      "price": "2.33"
+    },
+    {
+      "name": "ZRL:ASAM BOI 65G",
+      "qty": 2,
+      "price": "2.00"
+    }
+  ],
+  "subtotal": "59.99",
+  "tax": "3.36",
+  "total": "63.35",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

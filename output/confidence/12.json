@@ -1,0 +1,187 @@
+{
+  "source": "images/12.jpg",
+  "line_count": 45,
+  "avg_confidence": 0.9678,
+  "lines": [
+    {
+      "text": "WAL*MART",
+      "confidence": 0.9879
+    },
+    {
+      "text": "Save money.Live better.",
+      "confidence": 0.9747
+    },
+    {
+      "text": "WE SELL FOR LESS",
+      "confidence": 0.9318
+    },
+    {
+      "text": "ALWAYS",
+      "confidence": 0.9966
+    },
+    {
+      "text": "MANAGER DAPHNE SESSION",
+      "confidence": 0.9654
+    },
+    {
+      "text": "636536-4601",
+      "confidence": 0.9802
+    },
+    {
+      "text": "CHESTERFIELD,MO 63005",
+      "confidence": 0.9342
+    },
+    {
+      "text": "ST#2600 0P#00001855TE#17TR#03359",
+      "confidence": 0.9576
+    },
+    {
+      "text": "SWFIGURES",
+      "confidence": 0.98
+    },
+    {
+      "text": "065356920144",
+      "confidence": 0.9982
+    },
+    {
+      "text": "6.63",
+      "confidence": 0.9949
+    },
+    {
+      "text": "TOOTHBRUSH",
+      "confidence": 0.994
+    },
+    {
+      "text": "003500055500",
+      "confidence": 0.9982
+    },
+    {
+      "text": "0.96X",
+      "confidence": 0.8893
+    },
+    {
+      "text": "WOMEN SLIPPE 009725614790",
+      "confidence": 0.9599
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9969
+    },
+    {
+      "text": "7.59",
+      "confidence": 0.9968
+    },
+    {
+      "text": "9.86X",
+      "confidence": 0.914
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9968
+    },
+    {
+      "text": "17.45",
+      "confidence": 0.9938
+    },
+    {
+      "text": "TAX 1",
+      "confidence": 0.8689
+    },
+    {
+      "text": "3.100%",
+      "confidence": 0.979
+    },
+    {
+      "text": "TAX 3",
+      "confidence": 0.972
+    },
+    {
+      "text": "0.54",
+      "confidence": 0.9928
+    },
+    {
+      "text": "4.350 %",
+      "confidence": 0.9916
+    },
+    {
+      "text": "0.76",
+      "confidence": 0.9948
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9984
+    },
+    {
+      "text": "18.75",
+      "confidence": 0.9979
+    },
+    {
+      "text": "MCARD TEND",
+      "confidence": 0.9644
+    },
+    {
+      "text": "18.75",
+      "confidence": 0.998
+    },
+    {
+      "text": "ACCOUNT#3546",
+      "confidence": 0.978
+    },
+    {
+      "text": "APPROVAL #007190",
+      "confidence": 0.9323
+    },
+    {
+      "text": "TRANS ID -",
+      "confidence": 0.9274
+    },
+    {
+      "text": "VALIDATION",
+      "confidence": 0.9966
+    },
+    {
+      "text": "PAYMENT SERVICE",
+      "confidence": 0.9728
+    },
+    {
+      "text": "-A",
+      "confidence": 0.9333
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9568
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "# ITEMS SOLD 3",
+      "confidence": 0.9769
+    },
+    {
+      "text": "TC#948970946487 3073 3651",
+      "confidence": 0.9515
+    },
+    {
+      "text": "Wal-Mart exclusve Eagles CD",
+      "confidence": 0.9549
+    },
+    {
+      "text": "available October 30th",
+      "confidence": 0.9371
+    },
+    {
+      "text": "10/20/07",
+      "confidence": 0.9974
+    },
+    {
+      "text": "13:48:43",
+      "confidence": 0.9554
+    },
+    {
+      "text": "***CUSTOMER COPY***",
+      "confidence": 0.884
+    }
+  ]
+}

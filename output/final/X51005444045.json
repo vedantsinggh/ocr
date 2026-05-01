@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444045.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444045.txt",
+    "ocr_line_count": 25,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "99SPEEDMART",
+  "date": "2018-03-19",
+  "items": [],
+  "subtotal": null,
+  "tax": "0.65",
+  "total": "11.40",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

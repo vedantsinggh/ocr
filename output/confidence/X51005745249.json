@@ -1,0 +1,175 @@
+{
+  "source": "images/X51005745249.jpg",
+  "line_count": 42,
+  "avg_confidence": 0.9712,
+  "lines": [
+    {
+      "text": "Subway#42210-0 Phone 03-78870693",
+      "confidence": 0.9921
+    },
+    {
+      "text": "URBAN 1DEA SDN BHD (41794O-M),",
+      "confidence": 0.9648
+    },
+    {
+      "text": "A-G-O6, DATARAN GLOMAC,",
+      "confidence": 0.9171
+    },
+    {
+      "text": "JALAN SS6/5A, PUSAT BANDAR KELANA JAYA,",
+      "confidence": 0.9566
+    },
+    {
+      "text": "47301 PETALING JAYA, SELANGOR, Malaysia",
+      "confidence": 0.9609
+    },
+    {
+      "text": "Served by: rojan 27/02/2018 15:32:47",
+      "confidence": 0.9832
+    },
+    {
+      "text": "Tax Invoice# 1/A-42210-140220",
+      "confidence": 0.9675
+    },
+    {
+      "text": "GST ID: 000220499968",
+      "confidence": 0.9714
+    },
+    {
+      "text": "Qty Size Item",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Bay Fee",
+      "confidence": 0.9658
+    },
+    {
+      "text": "RM0.20",
+      "confidence": 0.9413
+    },
+    {
+      "text": "1",
+      "confidence": 0.9996
+    },
+    {
+      "text": "(MY) EDV Mea1",
+      "confidence": 0.9664
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9981
+    },
+    {
+      "text": "6\" -Meatball Sub",
+      "confidence": 0.9648
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9765
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9921
+    },
+    {
+      "text": "1",
+      "confidence": 0.999
+    },
+    {
+      "text": "(MY) EDV Mea1",
+      "confidence": 0.9807
+    },
+    {
+      "text": "RM11.90",
+      "confidence": 0.9993
+    },
+    {
+      "text": "6\"-BBQ Chicken Strips Sub",
+      "confidence": 0.9368
+    },
+    {
+      "text": "-16oz Fountain Drink",
+      "confidence": 0.9694
+    },
+    {
+      "text": "-1 Cookies",
+      "confidence": 0.9587
+    },
+    {
+      "text": "Cash Rounding",
+      "confidence": 0.9699
+    },
+    {
+      "text": "-1MO.01",
+      "confidence": 0.9038
+    },
+    {
+      "text": "Total (Eat In)",
+      "confidence": 0.997
+    },
+    {
+      "text": "RM24.00 L",
+      "confidence": 0.9728
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.999
+    },
+    {
+      "text": "RM30.00",
+      "confidence": 0.9957
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9995
+    },
+    {
+      "text": "RM6.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Tax Info:",
+      "confidence": 0.9933
+    },
+    {
+      "text": "GST 6% (6%)",
+      "confidence": 0.8939
+    },
+    {
+      "text": "RML..",
+      "confidence": 0.8604
+    },
+    {
+      "text": "Tota1-Exc1-GST",
+      "confidence": 0.9396
+    },
+    {
+      "text": "RM22.65",
+      "confidence": 0.998
+    },
+    {
+      "text": "Take our 1 Minute Survey at",
+      "confidence": 0.9843
+    },
+    {
+      "text": "www.te1lsubway.my and get a FREE COOKIE",
+      "confidence": 0.9562
+    },
+    {
+      "text": "with next purchase.Redemption of 1.",
+      "confidence": 0.9695
+    },
+    {
+      "text": "cookie per transaction",
+      "confidence": 0.9997
+    }
+  ]
+}

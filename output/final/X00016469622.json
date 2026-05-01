@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469622.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469622.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YONGFATT ENTERPRISE",
+  "date": "2018-12-25",
+  "items": [
+    {
+      "name": "ELEGANT SCH IR BAG 15",
+      "qty": 1,
+      "price": "80.91"
+    }
+  ],
+  "subtotal": null,
+  "tax": "80.91",
+  "total": "80.90",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

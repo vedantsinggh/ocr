@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/3.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/3.txt",
+    "ocr_line_count": 109,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2019-04-27",
+  "items": [
+    {
+      "name": "SNACK BARS",
+      "qty": null,
+      "price": "2.68"
+    },
+    {
+      "name": "HRI CL CHS",
+      "qty": null,
+      "price": "4.98"
+    },
+    {
+      "name": "EARBUDS",
+      "qty": null,
+      "price": "5.88"
+    },
+    {
+      "name": "SC BCN CHDDR",
+      "qty": null,
+      "price": "6.88"
+    },
+    {
+      "name": "HRI CL PEP",
+      "qty": null,
+      "price": "5.88"
+    },
+    {
+      "name": "APPLE3BAG",
+      "qty": null,
+      "price": "5.00"
+    },
+    {
+      "name": "STOK LT SWT",
+      "qty": null,
+      "price": "6.47"
+    },
+    {
+      "name": "PEANUT BUTTR",
+      "qty": null,
+      "price": "4.20"
+    },
+    {
+      "name": "AVO VERDE ROLLS",
+      "qty": null,
+      "price": "0.98"
+    },
+    {
+      "name": "BTSDRY BLON5",
+      "qty": null,
+      "price": "1.00"
+    },
+    {
+      "name": "GALE",
+      "qty": null,
+      "price": "32.00"
+    },
+    {
+      "name": "TR HS FRM 4",
+      "qty": null,
+      "price": "2.74"
+    },
+    {
+      "name": "BAGELS",
+      "qty": null,
+      "price": "4.66"
+    },
+    {
+      "name": "GV SLIDERS",
+      "qty": null,
+      "price": "2.98"
+    },
+    {
+      "name": "ACCESSORY",
+      "qty": null,
+      "price": "0.97"
+    }
+  ],
+  "subtotal": "139.44",
+  "tax": "11.68",
+  "total": "151.12",
+  "currency": "INR",
+  "payment_method": "CASH TEND"
+}

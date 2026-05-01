@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005587261.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005587261.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CHOP YEW LIAN",
+  "date": "2017-03-23",
+  "items": [
+    {
+      "name": "V-Power 97",
+      "qty": null,
+      "price": "RM 30.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM 1.70",
+  "total": "RM 30.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

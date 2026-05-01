@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568898.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568898.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "VIVOPAC MARKETING SDN BHD",
+  "date": "2017-05-30",
+  "items": [
+    {
+      "name": "9x13(10A)",
+      "qty": 1,
+      "price": "0.75"
+    },
+    {
+      "name": "26 x 33 (85HT)Red",
+      "qty": 1,
+      "price": "8.00"
+    },
+    {
+      "name": "24 x 28 (75HT) Red",
+      "qty": 1,
+      "price": "6.00"
+    },
+    {
+      "name": "Price Label (PLAIN)",
+      "qty": 2,
+      "price": "1.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.07",
+  "total": "18.80",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

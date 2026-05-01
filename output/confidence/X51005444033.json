@@ -1,0 +1,207 @@
+{
+  "source": "images/X51005444033.jpg",
+  "line_count": 50,
+  "avg_confidence": 0.9713,
+  "lines": [
+    {
+      "text": "B.I.G.",
+      "confidence": 0.9598
+    },
+    {
+      "text": "BENS INDEPENDENT GROCER SDN.BHD",
+      "confidence": 0.9482
+    },
+    {
+      "text": "(913144-A)",
+      "confidence": 0.9197
+    },
+    {
+      "text": "Lot 6, Jalan Batai,",
+      "confidence": 0.9653
+    },
+    {
+      "text": "Plaza Batai, Damansara Heights",
+      "confidence": 0.9744
+    },
+    {
+      "text": "50490, Kuala Lumpur",
+      "confidence": 0.9904
+    },
+    {
+      "text": "T03-20937358F:03-20937359",
+      "confidence": 0.9806
+    },
+    {
+      "text": "(GST REG NO 000243941376)",
+      "confidence": 0.9691
+    },
+    {
+      "text": "TaxInvoice:BAT02201803120255",
+      "confidence": 0.9518
+    },
+    {
+      "text": "12/03/18",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Cashier: Fatin Sy",
+      "confidence": 0.9892
+    },
+    {
+      "text": "20:29:59",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Dole Pineapple Pcs",
+      "confidence": 0.9791
+    },
+    {
+      "text": "8809059300708",
+      "confidence": 0.9664
+    },
+    {
+      "text": "7.90*3",
+      "confidence": 0.9764
+    },
+    {
+      "text": "23.70 Z",
+      "confidence": 0.9887
+    },
+    {
+      "text": "Evian Mineral water 6x1.25L",
+      "confidence": 0.925
+    },
+    {
+      "text": "3068320113784",
+      "confidence": 0.9994
+    },
+    {
+      "text": "53.501",
+      "confidence": 0.9251
+    },
+    {
+      "text": "53.50 S",
+      "confidence": 0.9515
+    },
+    {
+      "text": "Item 2",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Total with GST @6%",
+      "confidence": 0.8993
+    },
+    {
+      "text": "77.20",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Qty 4",
+      "confidence": 0.9833
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9992
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Total Saving",
+      "confidence": 0.9945
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9969
+    },
+    {
+      "text": "77.20",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Tender",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9977
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9996
+    },
+    {
+      "text": "22.80",
+      "confidence": 0.9993
+    },
+    {
+      "text": "GST Analysis",
+      "confidence": 0.9879
+    },
+    {
+      "text": "Goods",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Tax Amount",
+      "confidence": 0.9925
+    },
+    {
+      "text": "S = 6%",
+      "confidence": 0.8451
+    },
+    {
+      "text": "50.47",
+      "confidence": 0.9985
+    },
+    {
+      "text": "3.03",
+      "confidence": 0.9954
+    },
+    {
+      "text": "%0 = Z",
+      "confidence": 0.8159
+    },
+    {
+      "text": "23.70",
+      "confidence": 0.9976
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "BIG.COM.MY",
+      "confidence": 0.9488
+    },
+    {
+      "text": "FACEBOOK.COM/THEBIGGROUP",
+      "confidence": 0.9936
+    },
+    {
+      "text": "EXCHANGE & REFUND MAY BE ALLOWED",
+      "confidence": 0.9317
+    },
+    {
+      "text": "WITHIN 3 DAYS WITH ORIGINAL TAX INVOICE",
+      "confidence": 0.935
+    },
+    {
+      "text": "THANK YOU, PLEASE COME AGAIN",
+      "confidence": 0.9268
+    },
+    {
+      "text": "BAT02201803120255",
+      "confidence": 0.9864
+    }
+  ]
+}

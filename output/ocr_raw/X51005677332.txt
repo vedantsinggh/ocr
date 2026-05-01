@@ -1,0 +1,58 @@
+318
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290. JALAN AIR PANAS,
+SETAPAK,
+53200. KUALA LUMPUR.
+TEL : 03-40210276
+GST ID:000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+: CS00012693
+Date: 12/01/2018
+Cashier
+:USER
+Time: 13:02:00
+Salesperson :
+Ret. :
+Item
+Qty
+S/Price
+Amount
+Tax
+3483
+7 95
+7.95
+SR
+1
+1 1/2"SANCORA PAINT BRUSH
+Total Qty:
+1
+7.95
+Totai Sales (Excluding GST:
+7.50
+Discount :
+0.00
+Total GST :
+0.45
+Rounding :
+0.00
+Total Sales (lnclusive of GsT) 
+7.95
+CASH :
+7.95
+C.UC
+G
+SUMMARY
+%
+Amt (RM)
+Tax(RM)
+S-
+6
+7.50
+045
+Total:
+7.50
+0.45
+GCJDS SOLDAPENOT RETURNABLE THANKYOU

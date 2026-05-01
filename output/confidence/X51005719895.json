@@ -1,0 +1,223 @@
+{
+  "source": "images/X51005719895.jpg",
+  "line_count": 54,
+  "avg_confidence": 0.9314,
+  "lines": [
+    {
+      "text": "GREEN LANE PHARMACY SON BHD",
+      "confidence": 0.9087
+    },
+    {
+      "text": "33 JLN BANGAU 1KEPONG BARU",
+      "confidence": 0.9156
+    },
+    {
+      "text": "52100 KEPONG.KL",
+      "confidence": 0.9038
+    },
+    {
+      "text": "TEL.62760693",
+      "confidence": 0.953
+    },
+    {
+      "text": "FAX62760693",
+      "confidence": 0.9899
+    },
+    {
+      "text": "BRN631002-U",
+      "confidence": 0.9494
+    },
+    {
+      "text": "GSTNo001888309248",
+      "confidence": 0.9804
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9455
+    },
+    {
+      "text": "InvNo18-001641",
+      "confidence": 0.9813
+    },
+    {
+      "text": "DATE1/8/2018942:41AM",
+      "confidence": 0.974
+    },
+    {
+      "text": "1)UAM006K AMOXICAP 50OMG CAPSU",
+      "confidence": 0.8468
+    },
+    {
+      "text": "1.00X6.00",
+      "confidence": 0.9467
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.983
+    },
+    {
+      "text": "2)0984K NOFLUX TAB 90MG 10",
+      "confidence": 0.8452
+    },
+    {
+      "text": "9.01*",
+      "confidence": 0.9532
+    },
+    {
+      "text": "2.004.51",
+      "confidence": 0.9865
+    },
+    {
+      "text": "3)9557892102639 IRUPR0FEN400MG 10",
+      "confidence": 0.9331
+    },
+    {
+      "text": "30 X 00",
+      "confidence": 0.8345
+    },
+    {
+      "text": "9.00z",
+      "confidence": 0.9575
+    },
+    {
+      "text": "49556492002837KFEBRIC0L-RX 10",
+      "confidence": 0.9448
+    },
+    {
+      "text": "4.00 X 2.70",
+      "confidence": 0.9104
+    },
+    {
+      "text": "10.80z",
+      "confidence": 0.9715
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9429
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9658
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9969
+    },
+    {
+      "text": "34.80",
+      "confidence": 0.9821
+    },
+    {
+      "text": "(GST",
+      "confidence": 0.8747
+    },
+    {
+      "text": "0.51",
+      "confidence": 0.9801
+    },
+    {
+      "text": "xx*******x****x***x**xx***",
+      "confidence": 0.5457
+    },
+    {
+      "text": "PAYMENT :",
+      "confidence": 0.9539
+    },
+    {
+      "text": "TOTAL PAYMENT:",
+      "confidence": 0.9407
+    },
+    {
+      "text": "34.80",
+      "confidence": 0.9811
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9968
+    },
+    {
+      "text": ":",
+      "confidence": 0.9267
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9839
+    },
+    {
+      "text": "MASTER",
+      "confidence": 0.9866
+    },
+    {
+      "text": "34.80",
+      "confidence": 0.9778
+    },
+    {
+      "text": "**************************************",
+      "confidence": 0.8189
+    },
+    {
+      "text": "Rate %",
+      "confidence": 0.9729
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.998
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9835
+    },
+    {
+      "text": "8.50",
+      "confidence": 0.9928
+    },
+    {
+      "text": "0.51",
+      "confidence": 0.992
+    },
+    {
+      "text": "6",
+      "confidence": 0.7913
+    },
+    {
+      "text": "70:z",
+      "confidence": 0.6634
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.9806
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9195
+    },
+    {
+      "text": "LEE MEI YEIN",
+      "confidence": 0.9301
+    },
+    {
+      "text": "Prev Balance  1455",
+      "confidence": 0.907
+    },
+    {
+      "text": "Points Earn34Complete",
+      "confidence": 0.9688
+    },
+    {
+      "text": "FARMASI ALPHA.COM",
+      "confidence": 0.9588
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9184
+    },
+    {
+      "text": "WHATSAPPNO0103768122",
+      "confidence": 0.9653
+    },
+    {
+      "text": "Total Sales Inclusive GST @ 6%",
+      "confidence": 0.8854
+    }
+  ]
+}

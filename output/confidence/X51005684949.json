@@ -1,0 +1,131 @@
+{
+  "source": "images/X51005684949.jpg",
+  "line_count": 31,
+  "avg_confidence": 0.9547,
+  "lines": [
+    {
+      "text": "3180203",
+      "confidence": 0.9999
+    },
+    {
+      "text": "WESIERN EASTERN",
+      "confidence": 0.9759
+    },
+    {
+      "text": "STATIONERY SON.BHD",
+      "confidence": 0.9471
+    },
+    {
+      "text": "COREGNO210038-K",
+      "confidence": 0.9474
+    },
+    {
+      "text": "GST ID:000517095424",
+      "confidence": 0.9348
+    },
+    {
+      "text": "42-46JLN SULTAN AZLAN",
+      "confidence": 0.944
+    },
+    {
+      "text": "SHAH 51200 KUALA LUMPUR",
+      "confidence": 0.936
+    },
+    {
+      "text": "TEL 03-40437678",
+      "confidence": 0.964
+    },
+    {
+      "text": "TAXINVOICE",
+      "confidence": 0.9965
+    },
+    {
+      "text": "REG",
+      "confidence": 0.9913
+    },
+    {
+      "text": "26-02-201814:27",
+      "confidence": 0.9831
+    },
+    {
+      "text": "C01",
+      "confidence": 0.8458
+    },
+    {
+      "text": "KL001",
+      "confidence": 0.9362
+    },
+    {
+      "text": "035857",
+      "confidence": 0.9983
+    },
+    {
+      "text": "CLRP.SA4/A3",
+      "confidence": 0.9707
+    },
+    {
+      "text": "S",
+      "confidence": 0.8891
+    },
+    {
+      "text": "RM7.42",
+      "confidence": 0.9899
+    },
+    {
+      "text": "1 No",
+      "confidence": 0.8619
+    },
+    {
+      "text": "GST TA AMT",
+      "confidence": 0.897
+    },
+    {
+      "text": "RM7.00",
+      "confidence": 0.9888
+    },
+    {
+      "text": "GST 6%",
+      "confidence": 0.91
+    },
+    {
+      "text": "RMO.42",
+      "confidence": 0.9875
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "RM7.42",
+      "confidence": 0.8883
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9957
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9965
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.998
+    },
+    {
+      "text": "RM7.40",
+      "confidence": 0.9924
+    },
+    {
+      "text": "TAXINVOICE OF GSI",
+      "confidence": 0.9129
+    },
+    {
+      "text": "GOODS SOLD ARE NOT",
+      "confidence": 0.9237
+    },
+    {
+      "text": "RETURNABLE",
+      "confidence": 0.9951
+    }
+  ]
+}

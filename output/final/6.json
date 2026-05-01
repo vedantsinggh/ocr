@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/6.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/6.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MOMICTOY'S CREPERIE",
+  "date": "2015-01-26",
+  "items": [
+    {
+      "name": "Woman",
+      "qty": null,
+      "price": "0"
+    },
+    {
+      "name": "Ham Cheese",
+      "qty": null,
+      "price": "74,000"
+    },
+    {
+      "name": "Ice Java Tea",
+      "qty": null,
+      "price": "16,000"
+    },
+    {
+      "name": "Mineral Water",
+      "qty": null,
+      "price": "13,000"
+    },
+    {
+      "name": "Black & White",
+      "qty": null,
+      "price": "72,000"
+    }
+  ],
+  "subtotal": "175,000",
+  "tax": null,
+  "total": "175.000",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

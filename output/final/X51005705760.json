@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705760.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705760.txt",
+    "ocr_line_count": 91,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MYDIN MART SRI MUDA",
+  "date": "2017-08-10",
+  "items": [
+    {
+      "name": "FARTNER E/LOPE 4.5INX9.5IN W4292",
+      "qty": 2,
+      "price": "5.20"
+    },
+    {
+      "name": "PLASTIC BAG RMO.20",
+      "qty": 1,
+      "price": "0.20"
+    },
+    {
+      "name": "TEN Q E/LOPE 15INX10IN TQ-S1015",
+      "qty": 2,
+      "price": "5.00"
+    },
+    {
+      "name": "UMOE S/NT 1OOMX75M, N/GRN",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "UMOE S/NT 1OOMX75M, N/YLW",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "UMOE S/NT 5OMX38M, N/YLW",
+      "qty": 1,
+      "price": "2.50"
+    },
+    {
+      "name": "UMOE S/NT-75MX5OM, N/PINK",
+      "qty": 1,
+      "price": "2.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.41",
+  "total": "21.40",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

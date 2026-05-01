@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/13.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/13.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2017-08-11",
+  "items": [],
+  "subtotal": null,
+  "tax": null,
+  "total": "50.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

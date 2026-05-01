@@ -1,0 +1,223 @@
+{
+  "source": "images/X51005442346.jpg",
+  "line_count": 54,
+  "avg_confidence": 0.9141,
+  "lines": [
+    {
+      "text": "PERNIAGAAN ZHENG HUI",
+      "confidence": 0.9671
+    },
+    {
+      "text": "JM0325955-V",
+      "confidence": 0.9298
+    },
+    {
+      "text": "NO.59JALAN PERMAS 9/6",
+      "confidence": 0.9372
+    },
+    {
+      "text": "BANDAR BARU PERMAS JAYA",
+      "confidence": 0.952
+    },
+    {
+      "text": "81750JOHOR BAHRU",
+      "confidence": 0.9347
+    },
+    {
+      "text": "TEL07-3867524FAX:07-3863793",
+      "confidence": 0.9579
+    },
+    {
+      "text": "GST NO :000800589824",
+      "confidence": 0.9649
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9542
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Raceipt#Cs00085298",
+      "confidence": 0.8449
+    },
+    {
+      "text": "Salgsperson:",
+      "confidence": 0.9068
+    },
+    {
+      "text": "Date15/03/201",
+      "confidence": 0.9751
+    },
+    {
+      "text": "Cashier: USER",
+      "confidence": 0.9139
+    },
+    {
+      "text": "Tima:17:34:00",
+      "confidence": 0.8745
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.8107
+    },
+    {
+      "text": "(RM",
+      "confidence": 0.96
+    },
+    {
+      "text": "Itom",
+      "confidence": 0.9076
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9681
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.8299
+    },
+    {
+      "text": "Amoun!",
+      "confidence": 0.9391
+    },
+    {
+      "text": "3934",
+      "confidence": 0.9933
+    },
+    {
+      "text": "7.66",
+      "confidence": 0.9391
+    },
+    {
+      "text": "7.65",
+      "confidence": 0.8074
+    },
+    {
+      "text": "SR: CAR PARKING COUPON",
+      "confidence": 0.974
+    },
+    {
+      "text": "TOTQTY:",
+      "confidence": 0.9186
+    },
+    {
+      "text": "39",
+      "confidence": 0.6444
+    },
+    {
+      "text": "Excludad GTSub TotaRM",
+      "confidence": 0.8913
+    },
+    {
+      "text": "7.55",
+      "confidence": 0.9946
+    },
+    {
+      "text": "DiscountRM:",
+      "confidence": 0.9322
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9863
+    },
+    {
+      "text": "Total GST(RM):",
+      "confidence": 0.8513
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.8491
+    },
+    {
+      "text": "Rounding (RM):",
+      "confidence": 0.884
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Total (RM):",
+      "confidence": 0.8371
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9288
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9799
+    },
+    {
+      "text": "Change(RM",
+      "confidence": 0.9336
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "OST SUMMARY",
+      "confidence": 0.9335
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9713
+    },
+    {
+      "text": "%",
+      "confidence": 0.5387
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9973
+    },
+    {
+      "text": "OST",
+      "confidence": 0.6598
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9915
+    },
+    {
+      "text": "6",
+      "confidence": 0.9782
+    },
+    {
+      "text": "7.55",
+      "confidence": 0.9383
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.9592
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9923
+    },
+    {
+      "text": "7.60",
+      "confidence": 0.899
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.7385
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9581
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9491
+    }
+  ]
+}

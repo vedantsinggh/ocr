@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677339.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677339.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BEYOND BROTHERS HARDWARE",
+  "date": "2018-02-05",
+  "items": [
+    {
+      "name": "6GAI.WHITECONTAINER",
+      "qty": 2,
+      "price": "30.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.60",
+  "total": "63.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361950.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361950.txt",
+    "ocr_line_count": 27,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPEED MART",
+  "date": "2018-01-24",
+  "items": [
+    {
+      "name": "GARBAGE BAG BLUE",
+      "qty": null,
+      "price": "RM1.25"
+    },
+    {
+      "name": "GARBAGE BAG GREEN",
+      "qty": null,
+      "price": "RM1.25"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.14",
+  "total": "RM2.50",
+  "currency": "MYR",
+  "payment_method": "CASH RM5.00"
+}

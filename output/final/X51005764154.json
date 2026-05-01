@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005764154.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005764154.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CAYSTAL CATERING",
+  "date": "2018-01-25",
+  "items": [
+    {
+      "name": "YSSO X18",
+      "qty": 3,
+      "price": "35.00"
+    },
+    {
+      "name": "EC 7 PP PLATE (5OPCS)",
+      "qty": 10,
+      "price": "6.25"
+    },
+    {
+      "name": "EC 9 PP PLATE(5OOPCS)CTN",
+      "qty": 1,
+      "price": "80.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "11.63",
+  "total": "205.50",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

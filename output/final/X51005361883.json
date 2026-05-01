@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361883.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361883.txt",
+    "ocr_line_count": 66,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG STATIONERY & BOOKS",
+  "date": "2018-01-18",
+  "items": [
+    {
+      "name": "MANYUSTELL RULER 3OCM THICK",
+      "qty": null,
+      "price": "3.30"
+    },
+    {
+      "name": "LAMINATE FILM",
+      "qty": 2,
+      "price": "1.30"
+    }
+  ],
+  "subtotal": "4.60",
+  "tax": "0.28",
+  "total": "4.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361946.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361946.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO MUTIARA DAMANSARA",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "SCISSOR G/FISH",
+      "qty": null,
+      "price": "50.00"
+    },
+    {
+      "name": "TRAILING SKT 5GN+SP3X125MM CALE 2",
+      "qty": null,
+      "price": "22.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.10",
+  "total": "37.10",
+  "currency": "RM",
+  "payment_method": null
+}

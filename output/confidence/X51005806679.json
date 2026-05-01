@@ -1,0 +1,459 @@
+{
+  "source": "images/X51005806679.jpg",
+  "line_count": 113,
+  "avg_confidence": 0.9459,
+  "lines": [
+    {
+      "text": "LEE WAH FLORIST SON BHD",
+      "confidence": 0.905
+    },
+    {
+      "text": "(521273-W)",
+      "confidence": 0.9696
+    },
+    {
+      "text": "129, JALAN TUN H.S LEE",
+      "confidence": 0.983
+    },
+    {
+      "text": " 50000 KUALA LUMPUR.",
+      "confidence": 0.9871
+    },
+    {
+      "text": "TEL 03-20782:322/012-5389466 FAX : 03-",
+      "confidence": 0.9452
+    },
+    {
+      "text": "SALES@LEEWAHFLORIST.COM",
+      "confidence": 0.9937
+    },
+    {
+      "text": "GST ID : 001011499008",
+      "confidence": 0.9723
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.905
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.996
+    },
+    {
+      "text": ": CS00183S46",
+      "confidence": 0.9458
+    },
+    {
+      "text": "Date: 02/02/2018",
+      "confidence": 0.9858
+    },
+    {
+      "text": " Cashier",
+      "confidence": 0.9511
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.985
+    },
+    {
+      "text": "Tme 21:41:00",
+      "confidence": 0.9862
+    },
+    {
+      "text": " Salesperson",
+      "confidence": 0.9726
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.9643
+    },
+    {
+      "text": "(Gst)",
+      "confidence": 0.7923
+    },
+    {
+      "text": "(Gst)",
+      "confidence": 0.7456
+    },
+    {
+      "text": "Iten",
+      "confidence": 0.7982
+    },
+    {
+      "text": "Qty.",
+      "confidence": 0.994
+    },
+    {
+      "text": "S!Price",
+      "confidence": 0.8613
+    },
+    {
+      "text": "S/Frice",
+      "confidence": 0.9863
+    },
+    {
+      "text": "Arnount",
+      "confidence": 0.9314
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9488
+    },
+    {
+      "text": "1015",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2",
+      "confidence": 0.9632
+    },
+    {
+      "text": "12.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "127",
+      "confidence": 0.5555
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9371
+    },
+    {
+      "text": "PEACOCK YELLOW",
+      "confidence": 0.9543
+    },
+    {
+      "text": "1012",
+      "confidence": 0.9998
+    },
+    {
+      "text": "4",
+      "confidence": 0.8217
+    },
+    {
+      "text": "34.03",
+      "confidence": 0.9542
+    },
+    {
+      "text": "39 04",
+      "confidence": 0.8234
+    },
+    {
+      "text": "144.16",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SR",
+      "confidence": 0.6891
+    },
+    {
+      "text": "STATICE FULL IMP",
+      "confidence": 0.9929
+    },
+    {
+      "text": "1145",
+      "confidence": 0.9937
+    },
+    {
+      "text": "58.00",
+      "confidence": 0.9962
+    },
+    {
+      "text": "6148",
+      "confidence": 0.9961
+    },
+    {
+      "text": "61.48",
+      "confidence": 0.991
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9537
+    },
+    {
+      "text": "LILY CONCORDO 2H",
+      "confidence": 0.8889
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9924
+    },
+    {
+      "text": "6.36",
+      "confidence": 0.9954
+    },
+    {
+      "text": "12.72",
+      "confidence": 0.9975
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8107
+    },
+    {
+      "text": "1037",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2",
+      "confidence": 0.9961
+    },
+    {
+      "text": " SNOW WHITE LEAF",
+      "confidence": 0.9598
+    },
+    {
+      "text": "350",
+      "confidence": 0.9984
+    },
+    {
+      "text": "3.71",
+      "confidence": 0.9819
+    },
+    {
+      "text": "3.71",
+      "confidence": 0.9977
+    },
+    {
+      "text": "9R",
+      "confidence": 0.7414
+    },
+    {
+      "text": "1050",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1",
+      "confidence": 0.7149
+    },
+    {
+      "text": "FLORIDA BEAUTY",
+      "confidence": 0.9974
+    },
+    {
+      "text": "1097",
+      "confidence": 0.9996
+    },
+    {
+      "text": "4",
+      "confidence": 0.9961
+    },
+    {
+      "text": "9.00",
+      "confidence": 0.99
+    },
+    {
+      "text": "8.54",
+      "confidence": 0.9486
+    },
+    {
+      "text": "38.16",
+      "confidence": 0.9409
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9477
+    },
+    {
+      "text": " PAL.M LEAF L",
+      "confidence": 0.8725
+    },
+    {
+      "text": "1098",
+      "confidence": 0.9974
+    },
+    {
+      "text": "3",
+      "confidence": 0.9952
+    },
+    {
+      "text": "4.50",
+      "confidence": 0.9988
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9998
+    },
+    {
+      "text": "14.31",
+      "confidence": 0.9142
+    },
+    {
+      "text": "SR",
+      "confidence": 0.7819
+    },
+    {
+      "text": " PALM LEAF M",
+      "confidence": 0.913
+    },
+    {
+      "text": "1006",
+      "confidence": 0.9953
+    },
+    {
+      "text": "1",
+      "confidence": 0.9982
+    },
+    {
+      "text": "22.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9997
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.8864
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8914
+    },
+    {
+      "text": " ROSE INDIA SUPERICR",
+      "confidence": 0.9763
+    },
+    {
+      "text": "4",
+      "confidence": 0.9956
+    },
+    {
+      "text": "12.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "12.72",
+      "confidence": 0.9947
+    },
+    {
+      "text": "50.88",
+      "confidence": 0.9356
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8846
+    },
+    {
+      "text": "2748",
+      "confidence": 0.9758
+    },
+    {
+      "text": " SUCCULENT L",
+      "confidence": 0.9453
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9658
+    },
+    {
+      "text": "22",
+      "confidence": 0.9817
+    },
+    {
+      "text": "374.18",
+      "confidence": 0.9882
+    },
+    {
+      "text": "353.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Sales (Excluging GST)",
+      "confidence": 0.9825
+    },
+    {
+      "text": "Discount",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Total G$T",
+      "confidence": 0.9192
+    },
+    {
+      "text": "21.18",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Bouunny",
+      "confidence": 0.5052
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (Inclusive of Gst) :",
+      "confidence": 0.9593
+    },
+    {
+      "text": "374.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9894
+    },
+    {
+      "text": "400.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9529
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.9982
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.94
+    },
+    {
+      "text": "Iax Code",
+      "confidence": 0.9846
+    },
+    {
+      "text": "Amt.(RM)",
+      "confidence": 0.8712
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9842
+    },
+    {
+      "text": "6",
+      "confidence": 0.9674
+    },
+    {
+      "text": "353.00",
+      "confidence": 0.9973
+    },
+    {
+      "text": "21.18",
+      "confidence": 0.9918
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9795
+    },
+    {
+      "text": "353.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "21.18",
+      "confidence": 0.9981
+    },
+    {
+      "text": " GOODS SOLD ARE NOT RSTURNABLE, THANK YOU.",
+      "confidence": 0.9631
+    }
+  ]
+}

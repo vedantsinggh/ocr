@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676543.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676543.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYArIKAt PERNIAGAAn gIn KEE",
+  "date": "2018-01-02",
+  "items": [
+    {
+      "name": "SPONGE SCRUB W-PLASTIC HANDLE",
+      "qty": 1,
+      "price": "3.18"
+    },
+    {
+      "name": "4 1/2\" PLASTERING TROWEL",
+      "qty": 1,
+      "price": "10.07"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.75",
+  "total": "13.25",
+  "currency": "RM",
+  "payment_method": "cash"
+}

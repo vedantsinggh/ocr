@@ -1,0 +1,107 @@
+{
+  "source": "images/X51005742068.jpg",
+  "line_count": 25,
+  "avg_confidence": 0.9842,
+  "lines": [
+    {
+      "text": "BHPetro1 Palekbang",
+      "confidence": 0.9602
+    },
+    {
+      "text": "Lot 1626,Mukim Kampung Laut",
+      "confidence": 0.9807
+    },
+    {
+      "text": "Tumpat",
+      "confidence": 0.9993
+    },
+    {
+      "text": "16200 Palekbang, Kelantan",
+      "confidence": 0.9826
+    },
+    {
+      "text": "PREPAY CHIT NUMBER",
+      "confidence": 0.9788
+    },
+    {
+      "text": "29721",
+      "confidence": 0.9999
+    },
+    {
+      "text": "THIS IS NOT A RECEIPT",
+      "confidence": 0.9951
+    },
+    {
+      "text": "A Tax Invoice will be issued upon the",
+      "confidence": 0.9715
+    },
+    {
+      "text": "completion of the sale transaction",
+      "confidence": 0.9904
+    },
+    {
+      "text": "24-03-2018 22:02:55",
+      "confidence": 0.9913
+    },
+    {
+      "text": "Cashier: 465",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Transaction No: 1-8046",
+      "confidence": 0.9921
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9843
+    },
+    {
+      "text": "U\\Price",
+      "confidence": 0.9974
+    },
+    {
+      "text": "Qnty Amount",
+      "confidence": 0.9996
+    },
+    {
+      "text": "PPF",
+      "confidence": 0.9952
+    },
+    {
+      "text": "P1",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1.000",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6",
+      "confidence": 0.8595
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "TOTAL AMOUNT",
+      "confidence": 0.995
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9991
+    },
+    {
+      "text": "RM 6.00",
+      "confidence": 0.9729
+    },
+    {
+      "text": "Thank You. Please Come Again",
+      "confidence": 0.9747
+    },
+    {
+      "text": "Customer Seryice 1-300-22-2828",
+      "confidence": 0.9884
+    }
+  ]
+}

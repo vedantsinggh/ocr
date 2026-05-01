@@ -1,0 +1,251 @@
+{
+  "source": "images/X51005568895.jpg",
+  "line_count": 61,
+  "avg_confidence": 0.9636,
+  "lines": [
+    {
+      "text": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+      "confidence": 0.9352
+    },
+    {
+      "text": "14 JALAN MANIS4 TAMAN SEGAR 56100 KL",
+      "confidence": 0.9353
+    },
+    {
+      "text": "TEL:03-91334364FAX:03-91310522",
+      "confidence": 0.9633
+    },
+    {
+      "text": "www.vivopac.com",
+      "confidence": 0.9904
+    },
+    {
+      "text": "GST REG:000565805056",
+      "confidence": 0.9568
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9591
+    },
+    {
+      "text": "Doc#",
+      "confidence": 0.8508
+    },
+    {
+      "text": "CS11567459",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9745
+    },
+    {
+      "text": "13/09/201701:13:09PM",
+      "confidence": 0.9571
+    },
+    {
+      "text": "Promoter:",
+      "confidence": 0.9687
+    },
+    {
+      "text": "TerminalTO1",
+      "confidence": 0.9369
+    },
+    {
+      "text": "Cashier:",
+      "confidence": 0.9882
+    },
+    {
+      "text": "UJI",
+      "confidence": 0.9208
+    },
+    {
+      "text": "DESCRIPTION",
+      "confidence": 0.9972
+    },
+    {
+      "text": "PRICEDisc",
+      "confidence": 0.9859
+    },
+    {
+      "text": "AMOUNT TAX",
+      "confidence": 0.9512
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9902
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9965
+    },
+    {
+      "text": "RM CODE",
+      "confidence": 0.9409
+    },
+    {
+      "text": "Stretch Film (100mmx120m)",
+      "confidence": 0.9456
+    },
+    {
+      "text": "1.00 ROLL*",
+      "confidence": 0.9236
+    },
+    {
+      "text": "4.5000",
+      "confidence": 0.9995
+    },
+    {
+      "text": "4.50",
+      "confidence": 0.9893
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9931
+    },
+    {
+      "text": "PP-16x260.04mm",
+      "confidence": 0.9508
+    },
+    {
+      "text": "1.00PKT*",
+      "confidence": 0.9463
+    },
+    {
+      "text": "15.0000",
+      "confidence": 0.9983
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9944
+    },
+    {
+      "text": "PP14x200.04mm",
+      "confidence": 0.9849
+    },
+    {
+      "text": "2.00PKT*",
+      "confidence": 0.9304
+    },
+    {
+      "text": "h15.0000",
+      "confidence": 0.9379
+    },
+    {
+      "text": "30.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9798
+    },
+    {
+      "text": "Item Count:3",
+      "confidence": 0.9453
+    },
+    {
+      "text": "ItemQty:4.00",
+      "confidence": 0.9634
+    },
+    {
+      "text": "Sub Total (Exciusive GST):",
+      "confidence": 0.8895
+    },
+    {
+      "text": "49.50",
+      "confidence": 0.9964
+    },
+    {
+      "text": "GST 6%:",
+      "confidence": 0.8885
+    },
+    {
+      "text": "2.97",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Rounding Adj. :",
+      "confidence": 0.9392
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.9715
+    },
+    {
+      "text": "Rounded Total (RM):",
+      "confidence": 0.9186
+    },
+    {
+      "text": "52.45",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9963
+    },
+    {
+      "text": "53.00",
+      "confidence": 0.9833
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9593
+    },
+    {
+      "text": "0.55",
+      "confidence": 0.9992
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9644
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9837
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.952
+    },
+    {
+      "text": "SR@6%",
+      "confidence": 0.9112
+    },
+    {
+      "text": "49.50",
+      "confidence": 0.9982
+    },
+    {
+      "text": "2.97",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Terms & Conditions",
+      "confidence": 0.9396
+    },
+    {
+      "text": "Goods sold are not refundable with cash.",
+      "confidence": 0.983
+    },
+    {
+      "text": "For exchange of goods sold the following apply",
+      "confidence": 0.9577
+    },
+    {
+      "text": "1.The original receipt must be presented",
+      "confidence": 0.9744
+    },
+    {
+      "text": "2.Exchange is done within 7 days from date of receipt",
+      "confidence": 0.9573
+    },
+    {
+      "text": "2. In good condition and in it's original pakcing",
+      "confidence": 0.9485
+    }
+  ]
+}

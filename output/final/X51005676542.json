@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676542.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676542.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PERNIAGAAN GIN KEE",
+  "date": "2017-12-29",
+  "items": [
+    {
+      "name": "G.IWIRE RM10",
+      "qty": 1,
+      "price": "10.60"
+    }
+  ],
+  "subtotal": "10.00",
+  "tax": "0.60",
+  "total": "10.60",
+  "currency": "RM",
+  "payment_method": "cash"
+}

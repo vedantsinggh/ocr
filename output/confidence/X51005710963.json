@@ -1,0 +1,215 @@
+{
+  "source": "images/X51005710963.jpg",
+  "line_count": 52,
+  "avg_confidence": 0.9541,
+  "lines": [
+    {
+      "text": "TS TOOLS HARDIARE  NACHIRERT SN ED",
+      "confidence": 0.7219
+    },
+    {
+      "text": "1151414-P",
+      "confidence": 0.9887
+    },
+    {
+      "text": "59JALAN BANDAR SATU",
+      "confidence": 0.9428
+    },
+    {
+      "text": "PUSAT BANDAR PUCHONG",
+      "confidence": 0.9492
+    },
+    {
+      "text": "47160,PUCHONGSELANGOR",
+      "confidence": 0.9632
+    },
+    {
+      "text": "TEL:03-58790352",
+      "confidence": 0.9567
+    },
+    {
+      "text": "GST NO: 000761802752",
+      "confidence": 0.9193
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9557
+    },
+    {
+      "text": "RECEIPT#:CS00032256 DATE:21/03/2018",
+      "confidence": 0.9496
+    },
+    {
+      "text": "SALESPERSON:",
+      "confidence": 0.9693
+    },
+    {
+      "text": "TIME:13:40:00",
+      "confidence": 0.9526
+    },
+    {
+      "text": "CASHIERUSER",
+      "confidence": 0.9938
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.8827
+    },
+    {
+      "text": "ATY",
+      "confidence": 0.6336
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9851
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9955
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.8888
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.8607
+    },
+    {
+      "text": "2017",
+      "confidence": 0.9983
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9932
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9909
+    },
+    {
+      "text": "1",
+      "confidence": 0.9975
+    },
+    {
+      "text": "SR:UNIT)29#SAMURAI SPRAYPAINT",
+      "confidence": 0.9326
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.957
+    },
+    {
+      "text": "1",
+      "confidence": 0.9958
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9755
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9889
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9949
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9839
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9966
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9955
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9972
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.924
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9967
+    },
+    {
+      "text": "7.40",
+      "confidence": 0.9718
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9934
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9735
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9971
+    },
+    {
+      "text": "060",
+      "confidence": 0.904
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9569
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9674
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9951
+    },
+    {
+      "text": "%",
+      "confidence": 0.9921
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9955
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9916
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9923
+    },
+    {
+      "text": "6",
+      "confidence": 0.8896
+    },
+    {
+      "text": "0.42",
+      "confidence": 0.9769
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9231
+    },
+    {
+      "text": "0.42",
+      "confidence": 0.9889
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9384
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9375
+    }
+  ]
+}

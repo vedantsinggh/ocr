@@ -1,0 +1,59 @@
+318 0
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS.
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GSTID:000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+: CS00012659
+Date: 11/01/2018
+Cashier
+: USEr
+Time: 1051:00
+Salesperson :
+Ref. :
+Item
+Qty
+S/Price
+Amount
+Tax
+1512
+2
+10.60
+21.20
+SR
+104 COTTON GLOVE (DOZEN)
+Total Qty:
+2
+21.20
+Total Sales (Excluding GST) :
+20.00
+Discount :
+0.00
+Total gst :.
+1.20
+Rounding :
+0.00
+Total Sales (Inciusive of GsT) :
+21.20
+CASH :
+21.20
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Iax(RM)
+SR
+6
+20.00
+1.20
+Total :
+20.00
+1.20
+GOODS SOLDARE NOT RETURNABLE,THANK YOU

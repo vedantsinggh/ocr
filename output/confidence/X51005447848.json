@@ -1,0 +1,299 @@
+{
+  "source": "images/X51005447848.jpg",
+  "line_count": 73,
+  "avg_confidence": 0.9678,
+  "lines": [
+    {
+      "text": "LIAN CHIPU TIAN VEGETARIAN",
+      "confidence": 0.9435
+    },
+    {
+      "text": "RESTAURANT SDN BHD",
+      "confidence": 0.9808
+    },
+    {
+      "text": "1095514-X",
+      "confidence": 0.9767
+    },
+    {
+      "text": "GSTIDNo:001147416576",
+      "confidence": 0.9336
+    },
+    {
+      "text": "54.JALANSS23/11",
+      "confidence": 0.9419
+    },
+    {
+      "text": "TAMAN SEA,47400",
+      "confidence": 0.9477
+    },
+    {
+      "text": "PETALING JAYA.SELANGOR",
+      "confidence": 0.9618
+    },
+    {
+      "text": "Tel03-7805 7889016-3020 669",
+      "confidence": 0.957
+    },
+    {
+      "text": "Table : 8",
+      "confidence": 0.9644
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.999
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9228
+    },
+    {
+      "text": "06/01/1812.1726PM",
+      "confidence": 0.9783
+    },
+    {
+      "text": "item",
+      "confidence": 0.9869
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9988
+    },
+    {
+      "text": "(S)",
+      "confidence": 0.9123
+    },
+    {
+      "text": "@15.90",
+      "confidence": 0.9668
+    },
+    {
+      "text": "CURRY MIXED VEGE",
+      "confidence": 0.9389
+    },
+    {
+      "text": "515",
+      "confidence": 0.999
+    },
+    {
+      "text": "1",
+      "confidence": 0.9837
+    },
+    {
+      "text": "1685",
+      "confidence": 0.9662
+    },
+    {
+      "text": "1685",
+      "confidence": 0.9681
+    },
+    {
+      "text": "SR",
+      "confidence": 0.997
+    },
+    {
+      "text": "(S)",
+      "confidence": 0.8168
+    },
+    {
+      "text": "@13.90",
+      "confidence": 0.9937
+    },
+    {
+      "text": "517",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1",
+      "confidence": 0.9922
+    },
+    {
+      "text": "14.73",
+      "confidence": 0.9931
+    },
+    {
+      "text": "1473",
+      "confidence": 0.9985
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9945
+    },
+    {
+      "text": "12PCS)",
+      "confidence": 0.917
+    },
+    {
+      "text": "@12.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "'XINGHUA'SPRING ROLL",
+      "confidence": 0.9453
+    },
+    {
+      "text": "410",
+      "confidence": 0.9991
+    },
+    {
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "text": "1272",
+      "confidence": 0.9993
+    },
+    {
+      "text": "12.72",
+      "confidence": 0.9866
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9936
+    },
+    {
+      "text": "(POT)",
+      "confidence": 0.9476
+    },
+    {
+      "text": "@3.00",
+      "confidence": 0.8774
+    },
+    {
+      "text": "TIGUAN YIN TEA",
+      "confidence": 0.9432
+    },
+    {
+      "text": "822",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1",
+      "confidence": 0.9786
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9928
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9902
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9966
+    },
+    {
+      "text": "(B)",
+      "confidence": 0.7075
+    },
+    {
+      "text": "@1.50",
+      "confidence": 0.9904
+    },
+    {
+      "text": "PLAIN RICE",
+      "confidence": 0.9767
+    },
+    {
+      "text": "922",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1.59",
+      "confidence": 0.9935
+    },
+    {
+      "text": "318",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Gross Amt:",
+      "confidence": 0.9086
+    },
+    {
+      "text": "4780",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Svr Tax",
+      "confidence": 0.9102
+    },
+    {
+      "text": "287",
+      "confidence": 0.9967
+    },
+    {
+      "text": "GST(6%",
+      "confidence": 0.9463
+    },
+    {
+      "text": "2.86",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Net Amt :",
+      "confidence": 0.9958
+    },
+    {
+      "text": "53.55",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9694
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9749
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9707
+    },
+    {
+      "text": "2.87",
+      "confidence": 0.9864
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9919
+    },
+    {
+      "text": "SR@6",
+      "confidence": 0.9104
+    },
+    {
+      "text": "47.80",
+      "confidence": 0.9954
+    },
+    {
+      "text": "2.86",
+      "confidence": 0.9621
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9455
+    },
+    {
+      "text": "PLEASE COME AGAIN",
+      "confidence": 0.9548
+    }
+  ]
+}

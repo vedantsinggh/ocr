@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568914.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568914.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IKEACheras",
+  "date": "2017-08-09",
+  "items": [
+    {
+      "name": "BAGIS COAT-HANGER CH",
+      "qty": 2,
+      "price": "4.90"
+    },
+    {
+      "name": "TE0D0RES CH",
+      "qty": null,
+      "price": "90.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.64",
+  "total": "99.80",
+  "currency": "RM",
+  "payment_method": "Mastercard"
+}

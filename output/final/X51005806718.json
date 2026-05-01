@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806718.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806718.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HUGO TRADING SDN BHD",
+  "date": "2018-01-13",
+  "items": [
+    {
+      "name": "HD 32 X40 1kg",
+      "qty": 2,
+      "price": "22.00"
+    },
+    {
+      "name": "SR",
+      "qty": 2,
+      "price": "18.80"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.37",
+  "total": "40.80",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

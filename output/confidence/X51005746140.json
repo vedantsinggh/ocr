@@ -1,0 +1,179 @@
+{
+  "source": "images/X51005746140.jpg",
+  "line_count": 43,
+  "avg_confidence": 0.9752,
+  "lines": [
+    {
+      "text": "YONG CEN ENTERPRISE",
+      "confidence": 0.9704
+    },
+    {
+      "text": "9, JALAN SUBANG JASA 3",
+      "confidence": 0.9956
+    },
+    {
+      "text": "40150 SHAH ALAM, SELANGOR",
+      "confidence": 0.9955
+    },
+    {
+      "text": "TEL: 012-9719498",
+      "confidence": 0.9824
+    },
+    {
+      "text": "GST NO: 001147981824",
+      "confidence": 0.9858
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9991
+    },
+    {
+      "text": "RECEIPT #: CS00677115 DATE: 02/03/2018",
+      "confidence": 0.9912
+    },
+    {
+      "text": "SALESPERSON : ",
+      "confidence": 0.9363
+    },
+    {
+      "text": "TIME: 09:43:00",
+      "confidence": 0.9706
+    },
+    {
+      "text": "COUNTER :",
+      "confidence": 0.9952
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.6924
+    },
+    {
+      "text": "U/P AMOUNT",
+      "confidence": 0.987
+    },
+    {
+      "text": "9555223500307",
+      "confidence": 0.9999
+    },
+    {
+      "text": "24",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.33",
+      "confidence": 1.0
+    },
+    {
+      "text": "55.99",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X",
+      "confidence": 0.9827
+    },
+    {
+      "text": "9557166110018",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2",
+      "confidence": 0.9988
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ZRL:ASAM BOI 65G",
+      "confidence": 0.9243
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9834
+    },
+    {
+      "text": "26",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9583
+    },
+    {
+      "text": "59.99",
+      "confidence": 0.9999
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9937
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST",
+      "confidence": 0.7292
+    },
+    {
+      "text": "3.36",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9697
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9987
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9515
+    },
+    {
+      "text": "63.35 ",
+      "confidence": 0.9971
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9987
+    },
+    {
+      "text": "63.35",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9992
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9898
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9597
+    }
+  ]
+}

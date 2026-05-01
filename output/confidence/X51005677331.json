@@ -1,0 +1,291 @@
+{
+  "source": "images/X51005677331.jpg",
+  "line_count": 71,
+  "avg_confidence": 0.9767,
+  "lines": [
+    {
+      "text": "081",
+      "confidence": 0.7952
+    },
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.9907
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9982
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS",
+      "confidence": 0.968
+    },
+    {
+      "text": "SETAPAK.",
+      "confidence": 0.9146
+    },
+    {
+      "text": "53200, KUALA LUMPUR.",
+      "confidence": 0.9851
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9605
+    },
+    {
+      "text": "GSTID:000750673920",
+      "confidence": 0.9608
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.6983
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9954
+    },
+    {
+      "text": ": CS00013118",
+      "confidence": 0.9848
+    },
+    {
+      "text": "Date: 03/02/2018",
+      "confidence": 0.9818
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9993
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9822
+    },
+    {
+      "text": "Time. 11:49:00",
+      "confidence": 0.9828
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9566
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9225
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9962
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9989
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9982
+    },
+    {
+      "text": "2786",
+      "confidence": 0.9996
+    },
+    {
+      "text": "2",
+      "confidence": 0.9989
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9998
+    },
+    {
+      "text": "9.54",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9968
+    },
+    {
+      "text": "12M WIRE ROPE CLIP",
+      "confidence": 0.9869
+    },
+    {
+      "text": "1471",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1",
+      "confidence": 0.999
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9998
+    },
+    {
+      "text": "4.77",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9947
+    },
+    {
+      "text": "4XKINKI BRD2WAYSCREWDRIVER",
+      "confidence": 0.9713
+    },
+    {
+      "text": "1943",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2",
+      "confidence": 0.9994
+    },
+    {
+      "text": "23.32",
+      "confidence": 0.9998
+    },
+    {
+      "text": "46.64",
+      "confidence": 0.8969
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9971
+    },
+    {
+      "text": "HOES SET",
+      "confidence": 0.9682
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9974
+    },
+    {
+      "text": "5",
+      "confidence": 0.993
+    },
+    {
+      "text": "60.95",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Total Sales (Excluding GsT) :",
+      "confidence": 0.9676
+    },
+    {
+      "text": "57 50",
+      "confidence": 0.9942
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9714
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Total GSt :",
+      "confidence": 0.9357
+    },
+    {
+      "text": "3.45",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9844
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT) :",
+      "confidence": 0.9695
+    },
+    {
+      "text": "60.95",
+      "confidence": 0.9995
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9012
+    },
+    {
+      "text": "60.95",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9822
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9698
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9955
+    },
+    {
+      "text": "%",
+      "confidence": 0.983
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9919
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9228
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9969
+    },
+    {
+      "text": "6",
+      "confidence": 0.9974
+    },
+    {
+      "text": "57.50",
+      "confidence": 0.9965
+    },
+    {
+      "text": "3.45",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9995
+    },
+    {
+      "text": "57.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3.45",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,THANK YOU",
+      "confidence": 0.9306
+    }
+  ]
+}

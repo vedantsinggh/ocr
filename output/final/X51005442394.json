@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442394.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442394.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-03-30",
+  "items": [
+    {
+      "name": "Meat+3Vega",
+      "qty": null,
+      "price": "7.10"
+    },
+    {
+      "name": "Vegetable",
+      "qty": null,
+      "price": "1.10"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.46",
+  "total": "8.20",
+  "currency": "INR",
+  "payment_method": "ASH"
+}

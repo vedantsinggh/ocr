@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757353.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757353.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MR.D.I.Y.MSDNBHD",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "WHITE CABLE TIE 4*20OMM(8'",
+      "qty": null,
+      "price": "3.90"
+    },
+    {
+      "name": "WHITE CABLE TIE 5*250",
+      "qty": null,
+      "price": "6.50"
+    },
+    {
+      "name": "HOSE PUMP C88351#",
+      "qty": null,
+      "price": "1.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM 0.70",
+  "total": "RM 12.30",
+  "currency": "MYR",
+  "payment_method": "CASH"
+}

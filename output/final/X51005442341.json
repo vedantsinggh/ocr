@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442341.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442341.txt",
+    "ocr_line_count": 16,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTAURANT SIN DUS",
+  "date": "2018-09-03",
+  "items": [],
+  "subtotal": null,
+  "tax": "RM21.00",
+  "total": "RM170.00",
+  "currency": "MYR",
+  "payment_method": "CASH"
+}

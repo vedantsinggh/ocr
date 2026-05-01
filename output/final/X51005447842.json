@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447842.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447842.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "WALK",
+      "qty": 1,
+      "price": "0.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "0.90",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

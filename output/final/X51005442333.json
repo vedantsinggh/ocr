@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442333.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442333.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Bar Wang Rice",
+  "date": "2018-03-27",
+  "items": [
+    {
+      "name": "Fried Noodle",
+      "qty": 1,
+      "price": "2.00"
+    },
+    {
+      "name": "Pork",
+      "qty": null,
+      "price": "2.70"
+    },
+    {
+      "name": "Vegetable",
+      "qty": 2,
+      "price": "1.10"
+    }
+  ],
+  "subtotal": "$6.90",
+  "tax": "$0.39",
+  "total": "$6.90",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

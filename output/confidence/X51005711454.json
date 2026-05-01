@@ -1,0 +1,211 @@
+{
+  "source": "images/X51005711454.jpg",
+  "line_count": 51,
+  "avg_confidence": 0.9689,
+  "lines": [
+    {
+      "text": "PappaRich BmC",
+      "confidence": 0.9843
+    },
+    {
+      "text": "NO.19 & 21",
+      "confidence": 0.9747
+    },
+    {
+      "text": "JALAN TEMENGGUNG 23/9",
+      "confidence": 0.9893
+    },
+    {
+      "text": "BANDAR MAHKOTA CHERAS",
+      "confidence": 0.955
+    },
+    {
+      "text": "43200 SELANGOR DARUL EHSAN, MALAYSIA",
+      "confidence": 0.9379
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.975
+    },
+    {
+      "text": "GSTID:000164270080",
+      "confidence": 0.9549
+    },
+    {
+      "text": "2 COUNTER1",
+      "confidence": 0.9459
+    },
+    {
+      "text": "2003 saiful",
+      "confidence": 0.9791
+    },
+    {
+      "text": "Chk 263370",
+      "confidence": 0.9651
+    },
+    {
+      "text": "Guest1",
+      "confidence": 0.997
+    },
+    {
+      "text": "24 Mar 18 09:12:41 PM",
+      "confidence": 0.9293
+    },
+    {
+      "text": "TBL35 / 1",
+      "confidence": 0.9868
+    },
+    {
+      "text": "7.45 S",
+      "confidence": 0.9776
+    },
+    {
+      "text": "D28MIL0DINOE",
+      "confidence": 0.9322
+    },
+    {
+      "text": "2RO3 NLEMAK+fc E @17.83",
+      "confidence": 0.9303
+    },
+    {
+      "text": "35.66 S",
+      "confidence": 0.945
+    },
+    {
+      "text": "1N22 SPRG NDL+su+Cr E",
+      "confidence": 0.909
+    },
+    {
+      "text": "9.34 S",
+      "confidence": 0.9773
+    },
+    {
+      "text": "B02 HALFBLEGG E",
+      "confidence": 0.9105
+    },
+    {
+      "text": "4.53 S",
+      "confidence": 0.9231
+    },
+    {
+      "text": "D19 CHAMIE",
+      "confidence": 0.9474
+    },
+    {
+      "text": "5.57 S",
+      "confidence": 0.9252
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9986
+    },
+    {
+      "text": "73.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "62.55",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 0.9952
+    },
+    {
+      "text": "62.55",
+      "confidence": 0.9998
+    },
+    {
+      "text": "10% Srv Chg",
+      "confidence": 0.9399
+    },
+    {
+      "text": "6.25",
+      "confidence": 0.9996
+    },
+    {
+      "text": "6%GST",
+      "confidence": 0.9953
+    },
+    {
+      "text": "4.13",
+      "confidence": 0.998
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9989
+    },
+    {
+      "text": "72.93",
+      "confidence": 0.9993
+    },
+    {
+      "text": "RND ADJ",
+      "confidence": 0.9619
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9968
+    },
+    {
+      "text": "TTL ATF RND",
+      "confidence": 0.9354
+    },
+    {
+      "text": "72.95",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Payment",
+      "confidence": 0.9985
+    },
+    {
+      "text": "73.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Change Due",
+      "confidence": 0.9619
+    },
+    {
+      "text": "0.05",
+      "confidence": 0.9959
+    },
+    {
+      "text": "-2003 CL0SED24Mar18 09:58:26PM-",
+      "confidence": 0.9296
+    },
+    {
+      "text": "THANK YOU! PLEASE COME AGAIN!",
+      "confidence": 0.9437
+    },
+    {
+      "text": "PRICE IS GST INCLUSIVE",
+      "confidence": 0.9539
+    },
+    {
+      "text": "GSTSummaryAmount(RM)",
+      "confidence": 0.9898
+    },
+    {
+      "text": "GSTRM",
+      "confidence": 0.9822
+    },
+    {
+      "text": "S=GST @6%68.82",
+      "confidence": 0.959
+    },
+    {
+      "text": "4.13",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Z=GST@O%0.00",
+      "confidence": 0.934
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745187.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745187.txt",
+    "ocr_line_count": 63,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SFXDARE",
+  "date": "2018-03-02",
+  "items": [
+    {
+      "name": "CRISPO MINYAK SAPI 800G",
+      "qty": 1,
+      "price": "21.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.20",
+  "total": "21.20",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

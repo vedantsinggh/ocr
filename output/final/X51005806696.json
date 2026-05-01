@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806696.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806696.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PRINTEC (M) SDN BHD",
+  "date": "2018-02-23",
+  "items": [
+    {
+      "name": "COLOR COPY A4",
+      "qty": 2,
+      "price": "2.00"
+    },
+    {
+      "name": "PHOTOCOPY A4",
+      "qty": 1,
+      "price": "0.20"
+    },
+    {
+      "name": "LAMINATE A4",
+      "qty": 2,
+      "price": "5.00"
+    }
+  ],
+  "subtotal": "7.20",
+  "tax": "0.43",
+  "total": "7.65",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

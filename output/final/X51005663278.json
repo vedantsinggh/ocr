@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663278.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663278.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IKEA Cheras",
+  "date": "2017-12-23",
+  "items": [
+    {
+      "name": "Almond Cake",
+      "qty": null,
+      "price": "22.50"
+    },
+    {
+      "name": "IKEA Retail",
+      "qty": null,
+      "price": "36.00"
+    },
+    {
+      "name": "TKEA Drink",
+      "qty": 1.0,
+      "price": "1.00"
+    },
+    {
+      "name": "Dark Chocolate 70% U",
+      "qty": 2.0,
+      "price": "6.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.15",
+  "total": "73.30",
+  "currency": "SR",
+  "payment_method": "Cash"
+}

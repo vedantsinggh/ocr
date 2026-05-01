@@ -1,0 +1,303 @@
+{
+  "source": "images/X51005719917.jpg",
+  "line_count": 74,
+  "avg_confidence": 0.9394,
+  "lines": [
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9768
+    },
+    {
+      "text": "POZI S.ONINOA",
+      "confidence": 0.5757
+    },
+    {
+      "text": "GST REF NO:001694261248",
+      "confidence": 0.9321
+    },
+    {
+      "text": "DOMINO'S PIZZA SEGAMBUT",
+      "confidence": 0.9543
+    },
+    {
+      "text": "D-08M AvenueJln 1/38A",
+      "confidence": 0.9371
+    },
+    {
+      "text": "Segambut Bahagia",
+      "confidence": 0.991
+    },
+    {
+      "text": "51200 Kuala Lumpur",
+      "confidence": 0.9703
+    },
+    {
+      "text": "CARRY OUT NOW",
+      "confidence": 0.9334
+    },
+    {
+      "text": "Pay By: CASH",
+      "confidence": 0.9773
+    },
+    {
+      "text": "orrer",
+      "confidence": 0.8202
+    },
+    {
+      "text": ":1955",
+      "confidence": 0.9173
+    },
+    {
+      "text": "By",
+      "confidence": 0.9942
+    },
+    {
+      "text": ": 5224",
+      "confidence": 0.9604
+    },
+    {
+      "text": "Order Time :12:54:37",
+      "confidence": 0.9866
+    },
+    {
+      "text": "Date :26/03/18",
+      "confidence": 0.9934
+    },
+    {
+      "text": "Name: MS YING",
+      "confidence": 0.9105
+    },
+    {
+      "text": "Pickup Time: 13:09:37",
+      "confidence": 0.9889
+    },
+    {
+      "text": "Qty Menu",
+      "confidence": 0.9261
+    },
+    {
+      "text": "Desc",
+      "confidence": 0.964
+    },
+    {
+      "text": "Coupon",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Disc",
+      "confidence": 0.9874
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9966
+    },
+    {
+      "text": "9\"HT",
+      "confidence": 0.8923
+    },
+    {
+      "text": "2P2C-R-2",
+      "confidence": 0.7963
+    },
+    {
+      "text": "1",
+      "confidence": 0.9974
+    },
+    {
+      "text": "BQ)",
+      "confidence": 0.7691
+    },
+    {
+      "text": "21",
+      "confidence": 0.9389
+    },
+    {
+      "text": "30.30",
+      "confidence": 0.9995
+    },
+    {
+      "text": "1",
+      "confidence": 0.9976
+    },
+    {
+      "text": "9\"NYC",
+      "confidence": 0.9575
+    },
+    {
+      "text": "CP",
+      "confidence": 0.7641
+    },
+    {
+      "text": "21",
+      "confidence": 0.844
+    },
+    {
+      "text": "2P2C-R-2",
+      "confidence": 0.9193
+    },
+    {
+      "text": "30.30",
+      "confidence": 0.997
+    },
+    {
+      "text": "27.6060.60",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Total Items",
+      "confidence": 0.9944
+    },
+    {
+      "text": ":",
+      "confidence": 0.6704
+    },
+    {
+      "text": "Sub-Total",
+      "confidence": 0.996
+    },
+    {
+      "text": "60.60",
+      "confidence": 0.9991
+    },
+    {
+      "text": ":",
+      "confidence": 0.8318
+    },
+    {
+      "text": "Coupon Discount",
+      "confidence": 0.9941
+    },
+    {
+      "text": ":",
+      "confidence": 0.8149
+    },
+    {
+      "text": "27.60",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Grand Total",
+      "confidence": 0.9994
+    },
+    {
+      "text": ":",
+      "confidence": 0.9241
+    },
+    {
+      "text": "33.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Payment",
+      "confidence": 0.9979
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": ":",
+      "confidence": 0.5448
+    },
+    {
+      "text": "Change Due",
+      "confidence": 0.98
+    },
+    {
+      "text": ":",
+      "confidence": 0.9475
+    },
+    {
+      "text": "17.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "*6% GST Included",
+      "confidence": 0.9312
+    },
+    {
+      "text": ":",
+      "confidence": 0.9958
+    },
+    {
+      "text": "1.87",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SUPPORT OUR SMILE CAMPAIGN :)",
+      "confidence": 0.9406
+    },
+    {
+      "text": "Did we smile at you?",
+      "confidence": 0.985
+    },
+    {
+      "text": "Let us know at",
+      "confidence": 0.9955
+    },
+    {
+      "text": "www.dominos.com.my/smile and",
+      "confidence": 0.995
+    },
+    {
+      "text": "receive a 30% off side item e-coupon",
+      "confidence": 0.9844
+    },
+    {
+      "text": "upon survey submission",
+      "confidence": 0.996
+    },
+    {
+      "text": "Survey Code: cbc261940195554",
+      "confidence": 0.9784
+    },
+    {
+      "text": "Thank you for visiting Domino's..",
+      "confidence": 0.9774
+    },
+    {
+      "text": "Please Come Again!",
+      "confidence": 0.987
+    },
+    {
+      "text": "1-300-888-333",
+      "confidence": 0.9925
+    },
+    {
+      "text": "www.dominos.com.my",
+      "confidence": 0.9868
+    },
+    {
+      "text": "We are compliant to the PDpa 2010.",
+      "confidence": 0.9123
+    },
+    {
+      "text": "Visit www.dominos.com.my/terms",
+      "confidence": 0.9905
+    },
+    {
+      "text": "to view our Personal Data",
+      "confidence": 0.9664
+    },
+    {
+      "text": "Protection Policy.",
+      "confidence": 0.9896
+    },
+    {
+      "text": "Owned by",
+      "confidence": 0.9359
+    },
+    {
+      "text": "Dommal Food Services Sdn Bhd",
+      "confidence": 0.9569
+    },
+    {
+      "text": "Co.No.419060-A",
+      "confidence": 0.9818
+    },
+    {
+      "text": "1",
+      "confidence": 0.7885
+    }
+  ]
+}

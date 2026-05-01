@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447861.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447861.txt",
+    "ocr_line_count": 57,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2018-03-01",
+  "items": [
+    {
+      "name": "TOMBOW C/Tape CX5N",
+      "qty": 2,
+      "price": "9.89"
+    },
+    {
+      "name": "Spring Issue 20% Reba L11X-VENTURE UNEXPLA[BK]",
+      "price": "12.00"
+    },
+    {
+      "name": "PU EXPANDING FILE-TS",
+      "price": "20.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.18",
+  "total": "49.40",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

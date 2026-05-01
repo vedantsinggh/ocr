@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005685355.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005685355.txt",
+    "ocr_line_count": 61,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN IBRAHIM MAJU SB",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "MAKANAN",
+      "qty": null,
+      "price": "2.30"
+    },
+    {
+      "name": "MAKANAN",
+      "qty": null,
+      "price": "1.40"
+    },
+    {
+      "name": "MAKANAN",
+      "qty": null,
+      "price": "1.60"
+    }
+  ],
+  "subtotal": "5.30",
+  "tax": "0.30",
+  "total": "5.30",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

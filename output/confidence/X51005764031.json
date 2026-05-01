@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005764031.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.9749,
+  "lines": [
+    {
+      "text": "SUPER SEVEN CASH & CARRY SDN 3HD",
+      "confidence": 0.9726
+    },
+    {
+      "text": "(590150-A",
+      "confidence": 0.9657
+    },
+    {
+      "text": "FASARAYA BORGNG SUPER SEVEN",
+      "confidence": 0.973
+    },
+    {
+      "text": "NO.1 Jalan Euro 1",
+      "confidence": 0.9195
+    },
+    {
+      "text": "Off Jalan Batu Tiga",
+      "confidence": 0.9658
+    },
+    {
+      "text": "Sungai Buich Seksyen U3 Shah A1am,40150",
+      "confidence": 0.9591
+    },
+    {
+      "text": "http://www.super7.com.my",
+      "confidence": 0.9878
+    },
+    {
+      "text": "TEL : 03-78590861",
+      "confidence": 0.946
+    },
+    {
+      "text": "FAX : 03-78590364",
+      "confidence": 0.9656
+    },
+    {
+      "text": "GST ID : 000639090688",
+      "confidence": 0.9894
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Custonner : [77853745]",
+      "confidence": 0.9428
+    },
+    {
+      "text": "Mrs. ONG GUAT CHYE",
+      "confidence": 0.9361
+    },
+    {
+      "text": "JAX INV0ICE NO : 192636",
+      "confidence": 0.9337
+    },
+    {
+      "text": "COUNTER :002",
+      "confidence": 0.9922
+    },
+    {
+      "text": "OPERATOR :[SYED AHMAD FALLAH 3I-CUSTOMER SERVICE",
+      "confidence": 0.9568
+    },
+    {
+      "text": "CLERK]",
+      "confidence": 0.995
+    },
+    {
+      "text": "01-02-2018",
+      "confidence": 0.9745
+    },
+    {
+      "text": "09:52:50 AM",
+      "confidence": 0.9984
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9759
+    },
+    {
+      "text": "LADY CHOICE 3L. TARTAR SAUC@35.50",
+      "confidence": 0.9616
+    },
+    {
+      "text": "9556024001383",
+      "confidence": 0.999
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9898
+    },
+    {
+      "text": "35.50 SR",
+      "confidence": 0.9881
+    },
+    {
+      "text": "SAYUR RM1.00",
+      "confidence": 0.9282
+    },
+    {
+      "text": "@1.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "FM420000000",
+      "confidence": 0.9991
+    },
+    {
+      "text": "*2",
+      "confidence": 0.9854
+    },
+    {
+      "text": "2.00 ZR",
+      "confidence": 0.9856
+    },
+    {
+      "text": "SAYUP RM1.00",
+      "confidence": 0.9326
+    },
+    {
+      "text": "@1.00",
+      "confidence": 0.9542
+    },
+    {
+      "text": " FM420000000",
+      "confidence": 0.9396
+    },
+    {
+      "text": "*3",
+      "confidence": 0.9817
+    },
+    {
+      "text": "3.00 ZR",
+      "confidence": 0.9888
+    },
+    {
+      "text": "KOBIS MERAH ",
+      "confidence": 0.9573
+    },
+    {
+      "text": "@1.60",
+      "confidence": 0.9977
+    },
+    {
+      "text": "42129",
+      "confidence": 0.9999
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9573
+    },
+    {
+      "text": "1.60 ZR",
+      "confidence": 0.9971
+    },
+    {
+      "text": "QUANTITY : 7 Units",
+      "confidence": 0.9902
+    },
+    {
+      "text": "Total Sales (Incl. GST @6%)",
+      "confidence": 0.971
+    },
+    {
+      "text": "RM42.10",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9957
+    },
+    {
+      "text": "RMO.00",
+      "confidence": 0.9288
+    },
+    {
+      "text": "Net Total",
+      "confidence": 0.9977
+    },
+    {
+      "text": "RM42.10",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Payment Method",
+      "confidence": 0.9925
+    },
+    {
+      "text": "VISA CARD",
+      "confidence": 0.994
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9955
+    },
+    {
+      "text": "Sales Amt",
+      "confidence": 0.9921
+    },
+    {
+      "text": "Tax Amt",
+      "confidence": 0.9349
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9659
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9922
+    },
+    {
+      "text": "SR (6%)",
+      "confidence": 0.9596
+    },
+    {
+      "text": "33.49",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.01",
+      "confidence": 0.9997
+    },
+    {
+      "text": "ZR (0%)",
+      "confidence": 0.9842
+    },
+    {
+      "text": "6.60",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "FLEASE VERIFY YOUR RECEIPT",
+      "confidence": 0.9654
+    },
+    {
+      "text": "BEFORE LEAVING THE COUNTER.",
+      "confidence": 0.9698
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9575
+    },
+    {
+      "text": "1HANK YOU",
+      "confidence": 0.9454
+    }
+  ]
+}

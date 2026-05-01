@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711445.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711445.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN WAN SHENG",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "Cham (B)",
+      "qty": 2,
+      "price": "2.20"
+    },
+    {
+      "name": "Roti Steam",
+      "qty": 2,
+      "price": "1.10"
+    },
+    {
+      "name": "Take Away",
+      "qty": 2,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": "6.62",
+  "tax": "0.38",
+  "total": "7.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

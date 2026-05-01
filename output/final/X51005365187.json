@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005365187.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005365187.txt",
+    "ocr_line_count": 104,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "F&P PHARMACY",
+  "date": "2018-03-02",
+  "items": [
+    {
+      "name": "HOMECARE GASCOAL 5OMG",
+      "qty": null,
+      "price": "6.00"
+    },
+    {
+      "name": "P.P NAPROXEN NA 275 MG",
+      "qty": null,
+      "price": "4.30"
+    },
+    {
+      "name": "YEl LOW I.OTION 30 ML",
+      "qty": null,
+      "price": "3.80"
+    },
+    {
+      "name": "PANADOL SOLUBLE TABLET",
+      "qty": null,
+      "price": "6.50"
+    },
+    {
+      "name": "PMS GAUZE BANDAGE 5CM X 4M",
+      "qty": 5,
+      "price": "5.30"
+    },
+    {
+      "name": "DETTOL 5O ML",
+      "qty": null,
+      "price": "20.38"
+    }
+  ],
+  "subtotal": "30.68",
+  "tax": "1.22",
+  "total": "31.90",
+  "currency": "RM",
+  "payment_method": "cash"
+}

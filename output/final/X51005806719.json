@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806719.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806719.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SATU KAMPUNG ENTERPRISE SDN BHD",
+  "date": "2019-01-13",
+  "items": [
+    {
+      "name": "KIT01",
+      "qty": 3,
+      "price": "21.00"
+    }
+  ],
+  "subtotal": "59.43",
+  "tax": "3.57",
+  "total": "63.00",
+  "currency": "RM",
+  "payment_method": null
+}

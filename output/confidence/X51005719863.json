@@ -1,0 +1,203 @@
+{
+  "source": "images/X51005719863.jpg",
+  "line_count": 49,
+  "avg_confidence": 0.9638,
+  "lines": [
+    {
+      "text": "SEN LEE HEONG RESTAURANT",
+      "confidence": 0.9439
+    },
+    {
+      "text": "CONO.002083199-T",
+      "confidence": 0.9682
+    },
+    {
+      "text": "GSTIDN0001115316224",
+      "confidence": 0.9707
+    },
+    {
+      "text": "G-O-1M.AVENUE NO.1JLN1/38A,",
+      "confidence": 0.9169
+    },
+    {
+      "text": "SEGAMBUT BAHAGIA.51200K.LUMPUL",
+      "confidence": 0.9183
+    },
+    {
+      "text": "TEL:012-2525903/03-62585987",
+      "confidence": 0.9652
+    },
+    {
+      "text": "Cashier:Manager",
+      "confidence": 0.953
+    },
+    {
+      "text": "MachNo:0000",
+      "confidence": 0.9613
+    },
+    {
+      "text": "Iten",
+      "confidence": 0.9146
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.991
+    },
+    {
+      "text": "Price",
+      "confidence": 0.998
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9844
+    },
+    {
+      "text": "Table Number:",
+      "confidence": 0.9228
+    },
+    {
+      "text": "4",
+      "confidence": 0.9867
+    },
+    {
+      "text": "FOOD",
+      "confidence": 0.9939
+    },
+    {
+      "text": "SR",
+      "confidence": 0.992
+    },
+    {
+      "text": "1",
+      "confidence": 0.9741
+    },
+    {
+      "text": "67.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "RM67.00",
+      "confidence": 0.9819
+    },
+    {
+      "text": "BIG RICE",
+      "confidence": 0.9446
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9819
+    },
+    {
+      "text": "b2",
+      "confidence": 0.7053
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9661
+    },
+    {
+      "text": "RM3.00",
+      "confidence": 0.993
+    },
+    {
+      "text": "TEAPOT",
+      "confidence": 0.9905
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9932
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9939
+    },
+    {
+      "text": "RM3.00",
+      "confidence": 0.9619
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 0.9968
+    },
+    {
+      "text": "RM73.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "GST TAX AMT:",
+      "confidence": 0.8719
+    },
+    {
+      "text": "RM73.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "GST6.0%Amount:",
+      "confidence": 0.8781
+    },
+    {
+      "text": "RM4.38",
+      "confidence": 0.9844
+    },
+    {
+      "text": "ROUND ADJ",
+      "confidence": 0.9385
+    },
+    {
+      "text": "RM0.02",
+      "confidence": 0.9884
+    },
+    {
+      "text": "Item:",
+      "confidence": 0.9531
+    },
+    {
+      "text": "4",
+      "confidence": 0.9947
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9417
+    },
+    {
+      "text": "77.40",
+      "confidence": 0.9518
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.997
+    },
+    {
+      "text": "77.40",
+      "confidence": 0.9871
+    },
+    {
+      "text": "12-01-201821:53",
+      "confidence": 0.9748
+    },
+    {
+      "text": "TAX Invoice:",
+      "confidence": 0.9486
+    },
+    {
+      "text": "#11372",
+      "confidence": 0.9905
+    },
+    {
+      "text": "YOU",
+      "confidence": 0.9908
+    },
+    {
+      "text": "THANK",
+      "confidence": 0.9908
+    },
+    {
+      "text": "PLEASECOMEAGAIN",
+      "confidence": 0.9927
+    }
+  ]
+}

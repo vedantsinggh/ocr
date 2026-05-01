@@ -1,0 +1,88 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/10.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/10.txt",
+    "ocr_line_count": 82,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPARO",
+  "date": "2021-02-23",
+  "items": [
+    {
+      "name": "LAZENBY WORCESTER SAUCE 125ML",
+      "qty": null,
+      "price": "17.99"
+    },
+    {
+      "name": "MILKY BAR CHOC",
+      "qty": "80GR",
+      "price": "16.99"
+    },
+    {
+      "name": "SMOKED VIENNAS",
+      "qty": "500GR",
+      "price": "33.99"
+    },
+    {
+      "name": "PEALED PEACHES",
+      "qty": "400G",
+      "price": "82.99A"
+    },
+    {
+      "name": "MEDITERRANEAN MIX",
+      "qty": "1KG",
+      "price": "44.99 *"
+    },
+    {
+      "name": "SPAR COOKING OIL",
+      "qty": null,
+      "price": "14.99*"
+    },
+    {
+      "name": "F/L ENGLISH CUCUMB",
+      "qty": "'S",
+      "price": "12.99*"
+    },
+    {
+      "name": "NESTLE AERO",
+      "qty": "85GR",
+      "price": "20.99"
+    },
+    {
+      "name": "CADBURY DAIRY MI",
+      "qty": "80GR",
+      "price": "16.99"
+    },
+    {
+      "name": "GRAPES MIXED TUB",
+      "qty": "TUB",
+      "price": "24.99*"
+    },
+    {
+      "name": "TASTIC RICE",
+      "qty": "500GR",
+      "price": "11.99*"
+    },
+    {
+      "name": "BLACK CAT SMOOTH",
+      "qty": "270GR",
+      "price": "27.99"
+    },
+    {
+      "name": "CARRIER BAG 24L",
+      "qty": "'S",
+      "price": "0.75A"
+    },
+    {
+      "name": "BANANAS LOOSE",
+      "qty": "17KG",
+      "price": "9.53*"
+    }
+  ],
+  "subtotal": null,
+  "tax": "40.52",
+  "total": "338.16",
+  "currency": "A",
+  "payment_method": "Nedbank"
+}

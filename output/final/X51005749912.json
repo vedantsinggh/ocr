@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005749912.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005749912.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO EXTRA ARA DAMANSARA",
+  "date": "2018-03-28",
+  "items": [
+    {
+      "name": "COPPER BASIN PILLAR TAP B",
+      "qty": 1,
+      "price": "29.90"
+    },
+    {
+      "name": "PADL0CK ST-P6140 40MMO",
+      "qty": 1,
+      "price": "8.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.20",
+  "total": "38.80",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

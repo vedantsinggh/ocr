@@ -1,0 +1,57 @@
+31802013
+SWEET FOREST CAFE
+NO 21,JLN BUNGA KANTAN
+TAMAN P.RAMLEE SETAPAK
+53000 KUALA LUMPUR.
+(GST Reg. No : 000465809408)
+Tax Invoice
+Table 15
+INV No.: 593101
+Pax(s): 2
+Date : 14-02-2018 13:02:42
+Cashier : SIM JIAN WAI
+Descript ion
+ Qty
+U.price Total TAX
+Smoked Duck Spaghett ie
+1 x
+12.50
+12.50 SR
+Hot Green Tea
+1 x
+3.00
+3.00SR
+Coffee(H)
+1 x
+4.90
+4.90 SR
+ Rendang Chicken Rice
+9.90
+9.90SR
+1 x
+Total QTY: 4
+Total (Excluding GST):
+28.58
+GST payable (6%):
+1.72
+Total (Irclusive of GST):
+30.30
+TOTAL:
+30.30
+Closed: 001
+14-02-2018
+13:50:58
+Server: SIM JIAN WAI
+14/2/18
+CASH :
+50.00
+CHANGE :
+30.30
+19.70
+GST Summary
+Amount(RM)
+Tax(RM)
+SR
+(@ 6%)
+28.58
+1.72/

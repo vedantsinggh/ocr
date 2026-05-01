@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/17.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/17.txt",
+    "ocr_line_count": 84,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2017-01-15",
+  "items": [
+    {
+      "name": "BANANAS",
+      "qty": null,
+      "price": "0.95"
+    },
+    {
+      "name": "BEVERAGE",
+      "qty": null,
+      "price": "2.00"
+    },
+    {
+      "name": "OS CRAN POM",
+      "qty": null,
+      "price": "0.96"
+    },
+    {
+      "name": "STRWBRY CC",
+      "qty": null,
+      "price": "3.78"
+    },
+    {
+      "name": "CAMPARI TOM",
+      "qty": null,
+      "price": "98 KFT"
+    },
+    {
+      "name": "KFT SINGLES",
+      "qty": null,
+      "price": "4.45"
+    },
+    {
+      "name": "HARD SALAMI",
+      "qty": null,
+      "price": "3.43"
+    },
+    {
+      "name": "AVOCADO",
+      "qty": null,
+      "price": "1.76"
+    },
+    {
+      "name": "PILLS WHITE",
+      "qty": null,
+      "price": "1.00"
+    },
+    {
+      "name": "SH NYLON COL",
+      "qty": null,
+      "price": "2.97"
+    },
+    {
+      "name": "HAND CLEANER",
+      "qty": null,
+      "price": "1.67"
+    },
+    {
+      "name": "INJECTR CLNR",
+      "qty": null,
+      "price": "8.87"
+    }
+  ],
+  "subtotal": "16.35",
+  "tax": "2.90",
+  "total": "38.68",
+  "currency": "INR",
+  "payment_method": "CASH TEND"
+}

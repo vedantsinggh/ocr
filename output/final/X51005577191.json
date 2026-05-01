@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005577191.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005577191.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "FTEAOLE ENTERPRTSE",
+  "date": "2017-12-07",
+  "items": [
+    {
+      "name": "SRSOOML PAINT REMOVER(M.TE)-KTH",
+      "qty": 10.0,
+      "price": "9.43"
+    }
+  ],
+  "subtotal": "9.43",
+  "tax": "0.57",
+  "total": "10.00",
+  "currency": "RM",
+  "payment_method": null
+}

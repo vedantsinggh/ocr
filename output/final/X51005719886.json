@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719886.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719886.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUNFISH",
+  "date": "2018-01-13",
+  "items": [
+    {
+      "name": "SALTED F.RICE",
+      "qty": null,
+      "price": "8.50"
+    },
+    {
+      "name": "E.FRIED EGG",
+      "qty": null,
+      "price": "1.80"
+    },
+    {
+      "name": "NASI LEMAK DRUMSTICK",
+      "qty": null,
+      "price": "9.80"
+    },
+    {
+      "name": "SOYA CINCAU",
+      "qty": null,
+      "price": "4.30"
+    },
+    {
+      "name": "LARGE / ICE TEA",
+      "qty": null,
+      "price": "4.30"
+    }
+  ],
+  "subtotal": "28.70",
+  "tax": "1.62",
+  "total": "30.32",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

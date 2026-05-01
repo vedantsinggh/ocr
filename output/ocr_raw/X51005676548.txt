@@ -1,0 +1,66 @@
+2
+1'8
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS.
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+: CS00012751
+Date. 15/01/2018
+Cashier
+: USER
+Time: 14:24:00
+Salesperson :
+Ref. :
+Item
+Qty
+S/Price
+Amount
+Tax
+2876
+3
+1.06
+3.18
+SR
+HOES PIN
+1937
+1
+7.95
+7.95
+SR
+4' HOES HANDLE
+Tota! Qty
+t
+11.13
+Totai Sales (Excluding GST) :
+10.50
+Discount :
+0.00
+Total GSt :
+0 63
+Rounding :
+0.00
+Total Sales (Inclusive of GsT) :
+11.13
+CASH :
+11.13
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SR
+6
+10.50
+0.63
+Total :
+10.50
+0.63
+GOODS SOLD ARE NOT RETURNABLE,THANK YOU

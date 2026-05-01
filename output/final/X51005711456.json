@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711456.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711456.txt",
+    "ocr_line_count": 74,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUSHI MENTAI",
+  "date": "2018-03-31",
+  "items": [
+    {
+      "name": "B1 Green Tea",
+      "qty": 2,
+      "price": "1.00"
+    },
+    {
+      "name": "N8 Shiro Ramen",
+      "qty": 1,
+      "price": "12.80"
+    },
+    {
+      "name": "R9 Unagi Don",
+      "qty": 1,
+      "price": "19.80"
+    },
+    {
+      "name": "F8 Tori Karaage",
+      "qty": 1,
+      "price": "8.80"
+    },
+    {
+      "name": "SB01 Sushi Yellow",
+      "qty": 4,
+      "price": "1.80"
+    },
+    {
+      "name": "SB02 Sushi Red",
+      "qty": 2,
+      "price": "2.80"
+    }
+  ],
+  "subtotal": "56.20",
+  "tax": "3.71",
+  "total": "65.55",
+  "currency": "RM",
+  "payment_method": "VISA"
+}

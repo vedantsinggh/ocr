@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724621.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724621.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-06",
+  "items": [
+    {
+      "name": "PASIR KASAR (D)",
+      "qty": 2,
+      "price": "63.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.20",
+  "total": "127.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

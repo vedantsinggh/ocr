@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005710963.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005710963.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TS TOOLS HARDWARE",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "SAMURAI SPRAYPAINT",
+      "qty": 29,
+      "price": "7.00"
+    }
+  ],
+  "subtotal": "7.00",
+  "tax": "0.42",
+  "total": "7.40",
+  "currency": "RM",
+  "payment_method": null
+}

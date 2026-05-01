@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005715455.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005715455.txt",
+    "ocr_line_count": 27,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PEEDMAP",
+  "date": "2018-03-26",
+  "items": [
+    {
+      "name": "TCGLAS5CLEANERPIN",
+      "qty": null,
+      "price": "RM10.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM10.00",
+  "total": "RM10.60",
+  "currency": "RM",
+  "payment_method": "CASH RM2000 CHANGE RH9.40"
+}

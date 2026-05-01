@@ -1,0 +1,167 @@
+{
+  "source": "images/X51005441402.jpg",
+  "line_count": 40,
+  "avg_confidence": 0.9716,
+  "lines": [
+    {
+      "text": "THREE STOOGES",
+      "confidence": 0.9945
+    },
+    {
+      "text": "BISTRO & CAFE",
+      "confidence": 0.9884
+    },
+    {
+      "text": "109, SS21/1A,",
+      "confidence": 0.9229
+    },
+    {
+      "text": "DAMANSARA UTAMA",
+      "confidence": 0.9632
+    },
+    {
+      "text": "GST ID:001661886464",
+      "confidence": 0.9589
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9728
+    },
+    {
+      "text": "TABLE:G7",
+      "confidence": 0.9518
+    },
+    {
+      "text": "INV N0: P0S01/00012379",
+      "confidence": 0.9086
+    },
+    {
+      "text": "INV DATE:03/03/2018",
+      "confidence": 0.9592
+    },
+    {
+      "text": "CASHIER:CASHIER",
+      "confidence": 0.9735
+    },
+    {
+      "text": "INVDT03/03/201810:58:51PM",
+      "confidence": 0.9633
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9929
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.9877
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.987
+    },
+    {
+      "text": "1",
+      "confidence": 0.8136
+    },
+    {
+      "text": "HH GUINESS 12 GLASSES",
+      "confidence": 0.9501
+    },
+    {
+      "text": "150.r  SVC",
+      "confidence": 0.9041
+    },
+    {
+      "text": "1",
+      "confidence": 0.9857
+    },
+    {
+      "text": "SUB TOTAL",
+      "confidence": 0.9557
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9892
+    },
+    {
+      "text": "SERVICE CHARGE 10%",
+      "confidence": 0.9949
+    },
+    {
+      "text": "150",
+      "confidence": 0.9856
+    },
+    {
+      "text": "GST 6%",
+      "confidence": 0.997
+    },
+    {
+      "text": "174.90",
+      "confidence": 0.997
+    },
+    {
+      "text": "NET TOTAL",
+      "confidence": 0.9871
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9984
+    },
+    {
+      "text": "200.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "25.10",
+      "confidence": 0.9985
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Tax Summary",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9975
+    },
+    {
+      "text": "SVC SERVICE CHARGE 10",
+      "confidence": 0.9828
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9989
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SRGST 6%",
+      "confidence": 0.9406
+    },
+    {
+      "text": "165.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Thank You. P1z Come Again",
+      "confidence": 0.9588
+    },
+    {
+      "text": "K",
+      "confidence": 0.9126
+    }
+  ]
+}

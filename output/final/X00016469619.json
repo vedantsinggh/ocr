@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469619.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469619.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "INDAH GIFT & HOME IECO",
+  "date": "2018-10-19",
+  "items": [
+    {
+      "name": "GF-TABLE LAMP/STITCH",
+      "qty": 1,
+      "price": "55.90"
+    },
+    {
+      "name": "ST-PRIVILEGE CARD/GD INDAH",
+      "qty": 1,
+      "price": "10.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "-5.59",
+  "total": "60.30",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

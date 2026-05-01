@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005337867.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9656,
+  "lines": [
+    {
+      "text": "OLDTOWN WHITE COFFEE",
+      "confidence": 0.9961
+    },
+    {
+      "text": "01d Town Kopitiam Sdn Bhd (716269-X)",
+      "confidence": 0.9925
+    },
+    {
+      "text": "Sri Rampai",
+      "confidence": 0.9773
+    },
+    {
+      "text": "Tel: 03-4148 1876",
+      "confidence": 0.9677
+    },
+    {
+      "text": "Guest Check",
+      "confidence": 0.9584
+    },
+    {
+      "text": "**THIS IS NOT A RECEIPT**",
+      "confidence": 0.9432
+    },
+    {
+      "text": "GST ID:000801587200",
+      "confidence": 0.9942
+    },
+    {
+      "text": "4 COUNTER3",
+      "confidence": 0.9885
+    },
+    {
+      "text": "2009 LIZA",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Check:37617",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Cover:1",
+      "confidence": 0.998
+    },
+    {
+      "text": "22 Mar 18 12:44:00 PM",
+      "confidence": 0.9623
+    },
+    {
+      "text": "Table:5 / 1",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Dine In",
+      "confidence": 0.9993
+    },
+    {
+      "text": "1",
+      "confidence": 0.976
+    },
+    {
+      "text": "ST30",
+      "confidence": 0.9995
+    },
+    {
+      "text": "13.87 S",
+      "confidence": 0.9899
+    },
+    {
+      "text": "1",
+      "confidence": 0.9915
+    },
+    {
+      "text": "BR10 Stm Ginger R",
+      "confidence": 0.987
+    },
+    {
+      "text": "s",
+      "confidence": 0.7206
+    },
+    {
+      "text": "1",
+      "confidence": 0.9906
+    },
+    {
+      "text": "TF2 (H) Teh Tarik",
+      "confidence": 0.9564
+    },
+    {
+      "text": "s",
+      "confidence": 0.7388
+    },
+    {
+      "text": "HS4",
+      "confidence": 0.9979
+    },
+    {
+      "text": "1",
+      "confidence": 0.9935
+    },
+    {
+      "text": "12.07 S",
+      "confidence": 0.9958
+    },
+    {
+      "text": "1",
+      "confidence": 0.9901
+    },
+    {
+      "text": "SN5 Curry Mee",
+      "confidence": 0.9723
+    },
+    {
+      "text": "s",
+      "confidence": 0.7642
+    },
+    {
+      "text": "TF7 (C) Lemon T",
+      "confidence": 0.9972
+    },
+    {
+      "text": "s",
+      "confidence": 0.7233
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.999
+    },
+    {
+      "text": "25.94",
+      "confidence": 0.9999
+    },
+    {
+      "text": "10% Srv Chg:",
+      "confidence": 0.9927
+    },
+    {
+      "text": "2.59",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST @6%",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1.71",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9996
+    },
+    {
+      "text": "30.24",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Rounding:",
+      "confidence": 0.9995
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Amount Due 30.25",
+      "confidence": 0.9974
+    },
+    {
+      "text": "INCLUSIVE",
+      "confidence": 0.9976
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "-3004 STORED 22 Mar 18 02:1.50 PM-",
+      "confidence": 0.9061
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9976
+    },
+    {
+      "text": "PLEASE COME AGAIN",
+      "confidence": 0.9996
+    },
+    {
+      "text": "GST @6% included in tota1",
+      "confidence": 0.9469
+    },
+    {
+      "text": "GSTSummary",
+      "confidence": 0.9944
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9971
+    },
+    {
+      "text": "GST(RM)",
+      "confidence": 0.9726
+    },
+    {
+      "text": "S=GST @6%:",
+      "confidence": 0.9566
+    },
+    {
+      "text": "28.53",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.71",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Z=GST @O%:",
+      "confidence": 0.8935
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Mx",
+      "confidence": 0.8111
+    }
+  ]
+}

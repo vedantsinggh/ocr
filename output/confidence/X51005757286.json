@@ -1,0 +1,155 @@
+{
+  "source": "images/X51005757286.jpg",
+  "line_count": 37,
+  "avg_confidence": 0.975,
+  "lines": [
+    {
+      "text": "31803039",
+      "confidence": 0.9951
+    },
+    {
+      "text": "TSH POWER HARDWARE",
+      "confidence": 0.9877
+    },
+    {
+      "text": "TRADING",
+      "confidence": 0.9051
+    },
+    {
+      "text": "002458685-T",
+      "confidence": 0.998
+    },
+    {
+      "text": "13-1, Jalan PJU 5/10",
+      "confidence": 0.9742
+    },
+    {
+      "text": "Dataran Sunway, Kota Damansara,",
+      "confidence": 0.9994
+    },
+    {
+      "text": "47810, Petaling Jaya, Selangor",
+      "confidence": 0.9881
+    },
+    {
+      "text": "Tel:012-373 2096",
+      "confidence": 0.9963
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.979
+    },
+    {
+      "text": "GST Reg No: 000460664832",
+      "confidence": 0.9706
+    },
+    {
+      "text": "Invoice No : 01-145995",
+      "confidence": 0.9822
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9995
+    },
+    {
+      "text": ": 10/10/2017 4:22:12 PM",
+      "confidence": 0.9308
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Qty.",
+      "confidence": 0.9328
+    },
+    {
+      "text": "Price Amount",
+      "confidence": 0.9803
+    },
+    {
+      "text": "1 MAJESTA HSS",
+      "confidence": 0.991
+    },
+    {
+      "text": "2",
+      "confidence": 0.9996
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "8.00 SR*",
+      "confidence": 0.8998
+    },
+    {
+      "text": "JOBBER DRILLS",
+      "confidence": 0.9874
+    },
+    {
+      "text": "3.5MM",
+      "confidence": 0.977
+    },
+    {
+      "text": "Sub Total:",
+      "confidence": 0.999
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Round Amt:",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "Net Total :",
+      "confidence": 0.7477
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Cash Received :",
+      "confidence": 0.9929
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9903
+    },
+    {
+      "text": "AmountRMTaxRM",
+      "confidence": 0.9824
+    },
+    {
+      "text": "SR=6.00%",
+      "confidence": 0.9995
+    },
+    {
+      "text": "7.55",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.9999
+    },
+    {
+      "text": "++++Thank You.*+*+",
+      "confidence": 0.8984
+    },
+    {
+      "text": "Please Come Again.",
+      "confidence": 0.9991
+    }
+  ]
+}

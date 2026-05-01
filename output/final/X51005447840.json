@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447840.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447840.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "WALL'S TOPTEN CHOCOLATE 73ML",
+      "qty": 1,
+      "price": "1.60"
+    },
+    {
+      "name": "MAGNUM ALMOND 9OML",
+      "qty": 1,
+      "price": "4.50"
+    },
+    {
+      "name": "Cloud 9 plus 22g",
+      "price": "0.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "8.20",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

@@ -1,0 +1,227 @@
+{
+  "source": "images/16.jpg",
+  "line_count": 55,
+  "avg_confidence": 0.9518,
+  "lines": [
+    {
+      "text": "See back of receipt for your chance",
+      "confidence": 0.9433
+    },
+    {
+      "text": "to win $1000",
+      "confidence": 0.9437
+    },
+    {
+      "text": "ID#",
+      "confidence": 0.9906
+    },
+    {
+      "text": "7L2T9WJM25F",
+      "confidence": 0.9592
+    },
+    {
+      "text": "Walmart",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Save money. Live better..",
+      "confidence": 0.9716
+    },
+    {
+      "text": "701223-3066",
+      "confidence": 0.9822
+    },
+    {
+      "text": "MANAGER TIM MORRIS",
+      "confidence": 0.9571
+    },
+    {
+      "text": "2717 ROCK ISLAND PL",
+      "confidence": 0.9348
+    },
+    {
+      "text": "BISMARCK ND 58504",
+      "confidence": 0.9427
+    },
+    {
+      "text": "ST#015340P#009048 TE#48 TR#04455",
+      "confidence": 0.9317
+    },
+    {
+      "text": "6WING PLATE 020108870398",
+      "confidence": 0.9611
+    },
+    {
+      "text": "3.98P",
+      "confidence": 0.9823
+    },
+    {
+      "text": "ASST 27",
+      "confidence": 0.9318
+    },
+    {
+      "text": "063099656595",
+      "confidence": 0.9987
+    },
+    {
+      "text": "4.88X",
+      "confidence": 0.8834
+    },
+    {
+      "text": "CUTIE CAR",
+      "confidence": 0.9413
+    },
+    {
+      "text": "063099656644",
+      "confidence": 0.9983
+    },
+    {
+      "text": "12.88X",
+      "confidence": 0.9222
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9907
+    },
+    {
+      "text": "21.74",
+      "confidence": 0.9971
+    },
+    {
+      "text": "TAX 1",
+      "confidence": 0.9074
+    },
+    {
+      "text": "6.500%",
+      "confidence": 0.9883
+    },
+    {
+      "text": "1.15",
+      "confidence": 0.9866
+    },
+    {
+      "text": "TAX 4",
+      "confidence": 0.8979
+    },
+    {
+      "text": "7.500%",
+      "confidence": 0.994
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.9961
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9974
+    },
+    {
+      "text": "23.19",
+      "confidence": 0.9983
+    },
+    {
+      "text": "DEBIT TEND",
+      "confidence": 0.9629
+    },
+    {
+      "text": "23.19",
+      "confidence": 0.9986
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9615
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "EFT DEBIT",
+      "confidence": 0.9201
+    },
+    {
+      "text": "PAY FROM PRIMARY",
+      "confidence": 0.9648
+    },
+    {
+      "text": "23.19",
+      "confidence": 0.9973
+    },
+    {
+      "text": "TOTAL PURCHASE",
+      "confidence": 0.9647
+    },
+    {
+      "text": "US DEBIT",
+      "confidence": 0.8943
+    },
+    {
+      "text": "**********2696",
+      "confidence": 0.7437
+    },
+    {
+      "text": "6I0",
+      "confidence": 0.6752
+    },
+    {
+      "text": "REF#731700494718",
+      "confidence": 0.9856
+    },
+    {
+      "text": "NETWORK ID. 0081 APPR C0DE 936886",
+      "confidence": 0.9101
+    },
+    {
+      "text": "US DEBIT",
+      "confidence": 0.9234
+    },
+    {
+      "text": "AID A0000000980840",
+      "confidence": 0.982
+    },
+    {
+      "text": "TC 58B77239DA5B3B44",
+      "confidence": 0.9412
+    },
+    {
+      "text": "*NO SIGNATURE REQUIRED",
+      "confidence": 0.9461
+    },
+    {
+      "text": "TERMINAL#SC011090",
+      "confidence": 0.9772
+    },
+    {
+      "text": "11/13/1712:34:04",
+      "confidence": 0.962
+    },
+    {
+      "text": "#ITEMS SOLD 3",
+      "confidence": 0.9269
+    },
+    {
+      "text": "TC#21887274 6444 15673762",
+      "confidence": 0.957
+    },
+    {
+      "text": "Low Prices You Can Trust. Every Day.",
+      "confidence": 0.9325
+    },
+    {
+      "text": "11/13/17",
+      "confidence": 0.9996
+    },
+    {
+      "text": "12:34:11",
+      "confidence": 0.9352
+    },
+    {
+      "text": "Store receipts on your phone. Walmart P",
+      "confidence": 0.9624
+    },
+    {
+      "text": "ay.",
+      "confidence": 0.998
+    }
+  ]
+}

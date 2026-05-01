@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361908.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361908.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG stationary S BOOKE",
+  "date": "2018-03-15",
+  "items": [
+    {
+      "name": "ARTLINE70",
+      "qty": 48,
+      "price": "2.70"
+    }
+  ],
+  "subtotal": "120.00",
+  "tax": "7.20",
+  "total": "127.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

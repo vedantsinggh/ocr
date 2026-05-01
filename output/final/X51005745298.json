@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745298.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745298.txt",
+    "ocr_line_count": 32,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "99SPEEDMART",
+  "date": "2018-03-31",
+  "items": [
+    {
+      "name": "100 PLUS CAN 325ML ICE",
+      "qty": null,
+      "price": "RM1.49"
+    },
+    {
+      "name": "MALTA CAN 320ML (ICE)",
+      "qty": null,
+      "price": "RM2.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.22",
+  "total": "RM4.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,131 @@
+{
+  "source": "images/X51005361923.jpg",
+  "line_count": 31,
+  "avg_confidence": 0.9218,
+  "lines": [
+    {
+      "text": "SWC ENTERPRISE SDN'BHD",
+      "confidence": 0.9337
+    },
+    {
+      "text": "(1125830-V)",
+      "confidence": 0.9235
+    },
+    {
+      "text": "8 10Jalan Ijok Permai 1",
+      "confidence": 0.8632
+    },
+    {
+      "text": "Pusat Niaga Ijok Permai",
+      "confidence": 0.9228
+    },
+    {
+      "text": "48000 IjokSelangor",
+      "confidence": 0.9296
+    },
+    {
+      "text": "GSTIDNO.002017808384",
+      "confidence": 0.9179
+    },
+    {
+      "text": "02/01/2018",
+      "confidence": 0.9872
+    },
+    {
+      "text": "Cashier: 123",
+      "confidence": 0.8871
+    },
+    {
+      "text": "10:46:55",
+      "confidence": 0.8983
+    },
+    {
+      "text": "No:0100036262",
+      "confidence": 0.9685
+    },
+    {
+      "text": "Item/Desc.",
+      "confidence": 0.9307
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9622
+    },
+    {
+      "text": "Ant.",
+      "confidence": 0.937
+    },
+    {
+      "text": "09x1)90098X9",
+      "confidence": 0.6974
+    },
+    {
+      "text": "5X8500G",
+      "confidence": 0.889
+    },
+    {
+      "text": "4.20",
+      "confidence": 0.9723
+    },
+    {
+      "text": "4.20",
+      "confidence": 0.8783
+    },
+    {
+      "text": "1",
+      "confidence": 0.9563
+    },
+    {
+      "text": "Total Qty :",
+      "confidence": 0.9378
+    },
+    {
+      "text": "TOTALAMOUNT",
+      "confidence": 0.9796
+    },
+    {
+      "text": "420",
+      "confidence": 0.8919
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9953
+    },
+    {
+      "text": "50.20",
+      "confidence": 0.9538
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9968
+    },
+    {
+      "text": "46.00",
+      "confidence": 0.9663
+    },
+    {
+      "text": "GST @o Incuded In Tata!",
+      "confidence": 0.6992
+    },
+    {
+      "text": "0.24",
+      "confidence": 0.9645
+    },
+    {
+      "text": "Thank You  Please Come Again !",
+      "confidence": 0.9148
+    },
+    {
+      "text": "Goods Sold Only Exchangable",
+      "confidence": 0.9137
+    },
+    {
+      "text": "Within 3 Days ",
+      "confidence": 0.9146
+    }
+  ]
+}

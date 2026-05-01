@@ -1,0 +1,59 @@
+11010818
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS,
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No
+: CS00012727
+Date: 13/01/2018
+Cashier
+: USER
+Time:15:53:00
+Salesperson:
+Ref.:
+Item
+Qty
+S/Price
+Amount
+Tax
+1432
+13
+212
+6.36
+SR
+GLOVE 1ZOOPER PAIR
+Total Qty
+3
+6.36
+Total Sales(Excluding GST):
+6.00
+Discount :
+0.00
+Total GST :
+0.36
+Rounding :
+0.00
+Total Sales (Inclusive of GsT) :
+6.36
+CASH :
+6.36
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SR
+6
+6.00
+0.36
+Total:
+6.00
+0.36
+GOODS SOLDARE NOT RETURNABLETHANKYOU

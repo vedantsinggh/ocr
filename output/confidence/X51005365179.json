@@ -1,0 +1,199 @@
+{
+  "source": "images/X51005365179.jpg",
+  "line_count": 48,
+  "avg_confidence": 0.9845,
+  "lines": [
+    {
+      "text": "3-1707067",
+      "confidence": 0.9996
+    },
+    {
+      "text": "(481500-M)",
+      "confidence": 0.9894
+    },
+    {
+      "text": "C W KHOO HARDWARE SDN BHD",
+      "confidence": 0.945
+    },
+    {
+      "text": "NO.50, JALAN PBS 14/11 ,",
+      "confidence": 0.9659
+    },
+    {
+      "text": "KAWASAN PERINDUSTRIAN BUKIT SERDANG,",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Tel : 03-89410243",
+      "confidence": 0.973
+    },
+    {
+      "text": "Fax : 03-89410243",
+      "confidence": 0.9942
+    },
+    {
+      "text": "GST Reg No. : 000549584896",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Invoice No.",
+      "confidence": 0.9998
+    },
+    {
+      "text": ": CR 1803/0064",
+      "confidence": 0.9647
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9991
+    },
+    {
+      "text": ": 01-03-18 5:23:26 PM",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Cashier No.",
+      "confidence": 0.9699
+    },
+    {
+      "text": ": khoo",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Counter No.",
+      "confidence": 0.9995
+    },
+    {
+      "text": " : c1",
+      "confidence": 0.8669
+    },
+    {
+      "text": "Printed Date : 01-03-18 5:23:30 PM",
+      "confidence": 0.9863
+    },
+    {
+      "text": "Item Name",
+      "confidence": 0.9621
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.999
+    },
+    {
+      "text": "Unit Price",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.999
+    },
+    {
+      "text": "AIR ADAPTOR @ 1",
+      "confidence": 0.9963
+    },
+    {
+      "text": "5",
+      "confidence": 0.9986
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "20.00 SR",
+      "confidence": 0.9901
+    },
+    {
+      "text": "5 Item(s)",
+      "confidence": 0.9519
+    },
+    {
+      "text": "Total (MYR) :",
+      "confidence": 0.9681
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST @ 6% :",
+      "confidence": 0.9503
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Net Total (MYR) :",
+      "confidence": 0.9938
+    },
+    {
+      "text": "21.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding Adj. :",
+      "confidence": 0.9591
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Net Total Rounded (myR) :",
+      "confidence": 0.9444
+    },
+    {
+      "text": "21.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9998
+    },
+    {
+      "text": "21.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9995
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Item Amount (MYR) 3ST (MYR)",
+      "confidence": 0.9579
+    },
+    {
+      "text": "SR @ 6%",
+      "confidence": 0.9762
+    },
+    {
+      "text": "1",
+      "confidence": 0.9998
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Thank You. Please Come Again !",
+      "confidence": 0.9858
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005763999.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005763999.txt",
+    "ocr_line_count": 63,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Segi Cash & Carry Sdn",
+  "date": "2018-01-06",
+  "items": [
+    {
+      "name": "MIGHTY MARK IISHWASH 11L",
+      "qty": null,
+      "price": "19.80"
+    },
+    {
+      "name": "CROWN'S POWER PWD DETERGENT SKG",
+      "qty": 1,
+      "price": "9.90"
+    },
+    {
+      "name": "UDANG XL",
+      "qty": 3.18,
+      "price": "126.88"
+    },
+    {
+      "name": "UDANG XL",
+      "qty": 3.15,
+      "price": "125.69"
+    },
+    {
+      "name": "WIN CENDOL (GROSS 1.5KG,NET 1KG)",
+      "qty": 2,
+      "price": "9.02"
+    },
+    {
+      "name": "IKAN BILIS C TIMBANG",
+      "qty": 1.36,
+      "price": "74.80"
+    },
+    {
+      "name": "AJINOMOTO 20X1KG",
+      "qty": 1,
+      "price": "210.00"
+    },
+    {
+      "name": "SEGI/LEMBU EMAS OIL 17KG+",
+      "qty": 1,
+      "price": "69.90"
+    },
+    {
+      "name": "ARC TEPUNG UBI 1Ox1KG",
+      "qty": 1,
+      "price": "28.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "14.09",
+  "total": "674.00",
+  "currency": "RM",
+  "payment_method": "VISA xxxxxxxxxxxx7118"
+}

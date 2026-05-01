@@ -1,0 +1,147 @@
+{
+  "source": "images/X51005442382.jpg",
+  "line_count": 35,
+  "avg_confidence": 0.943,
+  "lines": [
+    {
+      "text": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "confidence": 0.9498
+    },
+    {
+      "text": "20Mar 2018 17:55",
+      "confidence": 0.9079
+    },
+    {
+      "text": "(867388-U)",
+      "confidence": 0.8955
+    },
+    {
+      "text": "12Jalan Tampoi 7/4Kawasan Perindustrian",
+      "confidence": 0.9395
+    },
+    {
+      "text": "Tampol,81200Johor BahruJohor",
+      "confidence": 0.895
+    },
+    {
+      "text": "TAXINVOICE",
+      "confidence": 0.994
+    },
+    {
+      "text": "Invoice#OR18032002170471",
+      "confidence": 0.9394
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9124
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9777
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9963
+    },
+    {
+      "text": "SR100100000061-5Vege",
+      "confidence": 0.9463
+    },
+    {
+      "text": "$6.60",
+      "confidence": 0.9873
+    },
+    {
+      "text": "1",
+      "confidence": 0.9966
+    },
+    {
+      "text": "$6.60",
+      "confidence": 0.9868
+    },
+    {
+      "text": "Total Amount:$6.60",
+      "confidence": 0.9301
+    },
+    {
+      "text": "GST6%$0.37",
+      "confidence": 0.9918
+    },
+    {
+      "text": "Nett Total$6.60",
+      "confidence": 0.9583
+    },
+    {
+      "text": "Payment Mode",
+      "confidence": 0.9853
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9812
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9941
+    },
+    {
+      "text": "$6.60",
+      "confidence": 0.9695
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9985
+    },
+    {
+      "text": "$0.00",
+      "confidence": 0.9984
+    },
+    {
+      "text": "aSTSummary",
+      "confidence": 0.8617
+    },
+    {
+      "text": "Anount$}",
+      "confidence": 0.8871
+    },
+    {
+      "text": "Tax$)",
+      "confidence": 0.8478
+    },
+    {
+      "text": "SR=GST @6%",
+      "confidence": 0.9279
+    },
+    {
+      "text": "6.33",
+      "confidence": 0.7322
+    },
+    {
+      "text": "037",
+      "confidence": 0.9947
+    },
+    {
+      "text": "GST REG#000656195584",
+      "confidence": 0.9839
+    },
+    {
+      "text": "BAR WANG RICE@PERMAS JAYA",
+      "confidence": 0.9408
+    },
+    {
+      "text": "Price Inclusive Ol GsT",
+      "confidence": 0.8319
+    },
+    {
+      "text": "Thank You & Come Again!",
+      "confidence": 0.9269
+    },
+    {
+      "text": "Like and Follcw Us on Facebook!",
+      "confidence": 0.9423
+    },
+    {
+      "text": "Facebook.com/BarWangRice",
+      "confidence": 0.9958
+    }
+  ]
+}

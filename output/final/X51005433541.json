@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433541.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433541.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "Vege SRI00100000060",
+      "qty": 1,
+      "price": "5.50"
+    },
+    {
+      "name": "Pork SRI00100000006",
+      "qty": null,
+      "price": "2.70"
+    }
+  ],
+  "subtotal": "$8.20",
+  "tax": "$0.46",
+  "total": "$8.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

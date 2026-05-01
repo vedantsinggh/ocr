@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711446.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711446.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN WAN SHENG",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "Teh B",
+      "qty": 2,
+      "price": "2.20"
+    },
+    {
+      "name": "Cham B",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "Take Away",
+      "qty": 3,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": "6.81",
+  "tax": "0.39",
+  "total": "7.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

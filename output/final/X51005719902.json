@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719902.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719902.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Tasty Baking",
+  "date": "2018-03-11",
+  "items": [
+    {
+      "name": "Kaya Puff",
+      "qty": 4,
+      "price": "1.60"
+    },
+    {
+      "name": "Slice Cake",
+      "qty": 8,
+      "price": "8.70"
+    },
+    {
+      "name": "Cheese Layer",
+      "qty": 1,
+      "price": "3.50"
+    },
+    {
+      "name": "Cheese Tart",
+      "qty": 3,
+      "price": "3.40"
+    },
+    {
+      "name": "Danish Butter",
+      "qty": 1,
+      "price": "4.20"
+    }
+  ],
+  "subtotal": "25.15",
+  "tax": "1.42",
+  "total": "26.57",
+  "currency": "RM",
+  "payment_method": null
+}

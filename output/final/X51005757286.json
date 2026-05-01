@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757286.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757286.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TSH POWER HARDWARE",
+  "date": "2017-10-10",
+  "items": [
+    {
+      "name": "MAJESTA HSS",
+      "qty": null,
+      "price": "4.00"
+    },
+    {
+      "name": "JOBBER DRILLS",
+      "qty": "3.5MM",
+      "price": "8.00"
+    }
+  ],
+  "subtotal": "8.00",
+  "tax": "0.45",
+  "total": "8.00",
+  "currency": "SR",
+  "payment_method": null
+}

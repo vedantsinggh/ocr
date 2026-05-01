@@ -1,0 +1,191 @@
+{
+  "source": "images/X51005433552.jpg",
+  "line_count": 46,
+  "avg_confidence": 0.9068,
+  "lines": [
+    {
+      "text": "WARAKUYA PERMAS CITY SDN BHD",
+      "confidence": 0.9404
+    },
+    {
+      "text": "Reg No:1203194-W",
+      "confidence": 0.926
+    },
+    {
+      "text": "JALANPERMAS UTARA1.",
+      "confidence": 0.914
+    },
+    {
+      "text": "PERMAS JAYA B1750 MASAIJOHOR",
+      "confidence": 0.8938
+    },
+    {
+      "text": "Tel:0111-558 0000",
+      "confidence": 0.9423
+    },
+    {
+      "text": "STID001663935104",
+      "confidence": 0.9317
+    },
+    {
+      "text": "TAX INVOICENO",
+      "confidence": 0.9559
+    },
+    {
+      "text": "42",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1",
+      "confidence": 0.5405
+    },
+    {
+      "text": "58244",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Date10/03/20185:41:06",
+      "confidence": 0.9474
+    },
+    {
+      "text": "PAXNO4",
+      "confidence": 0.9611
+    },
+    {
+      "text": "Cashier: cashier3",
+      "confidence": 0.8741
+    },
+    {
+      "text": "Waiter:HANYIN",
+      "confidence": 0.878
+    },
+    {
+      "text": "Qty Code/Desc",
+      "confidence": 0.9114
+    },
+    {
+      "text": "Total RM",
+      "confidence": 0.985
+    },
+    {
+      "text": "3SABA SHIO YAKI SET",
+      "confidence": 0.868
+    },
+    {
+      "text": "53.70",
+      "confidence": 0.9719
+    },
+    {
+      "text": "1SALMON SHIO SET",
+      "confidence": 0.9377
+    },
+    {
+      "text": "21.90",
+      "confidence": 0.9469
+    },
+    {
+      "text": "4ICEDGREEN TEA",
+      "confidence": 0.9076
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9897
+    },
+    {
+      "text": "SURTOTAL.",
+      "confidence": 0.8718
+    },
+    {
+      "text": "70.60",
+      "confidence": 0.8693
+    },
+    {
+      "text": "DISCOUNT",
+      "confidence": 0.9878
+    },
+    {
+      "text": "-30.00",
+      "confidence": 0.9609
+    },
+    {
+      "text": "Total Amount :",
+      "confidence": 0.8494
+    },
+    {
+      "text": "49.6",
+      "confidence": 0.8485
+    },
+    {
+      "text": "Serv Charge 10%",
+      "confidence": 0.9317
+    },
+    {
+      "text": "4.",
+      "confidence": 0.9851
+    },
+    {
+      "text": "GST6",
+      "confidence": 0.7887
+    },
+    {
+      "text": "3.27",
+      "confidence": 0.9838
+    },
+    {
+      "text": "Rounding Adj:",
+      "confidence": 0.9393
+    },
+    {
+      "text": "0.0",
+      "confidence": 0.9483
+    },
+    {
+      "text": "Total Amount:",
+      "confidence": 0.9302
+    },
+    {
+      "text": "57.8",
+      "confidence": 0.9832
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 0.9856
+    },
+    {
+      "text": "RM 57.80",
+      "confidence": 0.9787
+    },
+    {
+      "text": "Type3",
+      "confidence": 0.9671
+    },
+    {
+      "text": "CST Sumary",
+      "confidence": 0.8195
+    },
+    {
+      "text": "Amouni R",
+      "confidence": 0.7133
+    },
+    {
+      "text": "TAXRM",
+      "confidence": 0.9613
+    },
+    {
+      "text": "SRU",
+      "confidence": 0.7327
+    },
+    {
+      "text": "54.",
+      "confidence": 0.9434
+    },
+    {
+      "text": "3.27",
+      "confidence": 0.9147
+    },
+    {
+      "text": "k Y  Ploase Cons Agi .",
+      "confidence": 0.6025
+    }
+  ]
+}

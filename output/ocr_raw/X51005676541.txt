@@ -1,0 +1,76 @@
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS
+SETAPAK,
+53200. KUALA LUMPUR
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+: CS00012514
+Date:03/01/2018
+Cashier
+: USER
+Time: 10:37:00
+Salesperson :
+Ref. :
+Item
+Qty
+S/Price
+Amount
+Tax
+1938
+2
+6.89
+13.78
+SR
+4ROLLERSET
+1618
+1
+40.28
+40.28
+SR
+7LT TOPLUS EMULSION PAINT
+2430
+2
+18.02
+36.04
+SR
+CEMENT(50KG)
+2225
+1
+4.77
+4.77
+SR
+PLASTIC TRAP (L)
+Total Qty.
+6
+94.87
+Total Sales (Excluding GST) :
+89.50
+Discount :
+0.00
+Total GSt :
+5.37
+Rounding :
+0.00
+Total Sales (Inclusive of GsT) :
+94.87
+cAsH :
+94.87
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SR
+6
+89.50
+5.37
+Total :
+89.50
+5.37
+GOODS SOLDARE NOT RETURNABLE,THANK YOU

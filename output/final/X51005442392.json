@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442392.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442392.txt",
+    "ocr_line_count": 34,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-03-29",
+  "items": [
+    {
+      "name": "Meat + 3Vege",
+      "qty": null,
+      "price": "7.10"
+    }
+  ],
+  "subtotal": "7.10",
+  "tax": "0.40",
+  "total": "7.10",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

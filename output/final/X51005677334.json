@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677334.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677334.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-31",
+  "items": [
+    {
+      "name": "SR 6/8 BATU (BAG)",
+      "qty": 5,
+      "price": "6.36"
+    },
+    {
+      "name": "4.5KG RENDEROC PLUG",
+      "qty": 1,
+      "price": "50.88"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.68",
+  "total": "82.68",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

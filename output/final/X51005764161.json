@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005764161.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005764161.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPPEEMART",
+  "date": "2018-01-28",
+  "items": [
+    {
+      "name": "LEA PEPPERINOS WORC",
+      "qty": null,
+      "price": "8.99"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.61",
+  "total": "98.90",
+  "currency": "RM",
+  "payment_method": null
+}

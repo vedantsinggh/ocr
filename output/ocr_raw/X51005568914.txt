@@ -1,0 +1,40 @@
+IKANO HANDEL SDN BHD
+(1074617K)
+IKEACheras
+No 2A Jalan Cochrane
+Taman Maluri
+55100 KUALA LUMPUR
+GST No.: 000115154944
+TAX INVOICE
+Slip: 0000000011000140428
+Date:09/08/17
+Time:1:06
+Trans:311140123
+Staff:
+96728
+Description
+Amount TX
+30169728 BAGIS COAT-HANGER CH
+2 pc@4.90
+9.80S
+SRM
+70350938 TE0D0RES CH
+90.00SR S
+Tota1 RM Including GST 6%
+99.80
+Rounding Adj.
+0.00
+Tota1 Rounded
+99.80
+Mastercard
+-99.80
+GSTSR
+6%
+99.80
+5.64
+Amt.Exc1.GST
+94.16
+No.of Items
+3
+Thank you. Please come again.
+*T3620000011000140428*

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663274.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663274.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIM SENG THO HARDWARE TRADING",
+  "date": "2018-02-08",
+  "items": [
+    {
+      "name": "BEGGUNI",
+      "qty": 15,
+      "price": "0.70"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.59",
+  "total": "10.50",
+  "currency": "RM",
+  "payment_method": null
+}

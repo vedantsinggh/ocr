@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/21.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/21.txt",
+    "ocr_line_count": 67,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "DOLLAR TREE STORES,INC.",
+  "date": "2014-02-20",
+  "items": [
+    {
+      "name": "CLIF BAR P3",
+      "qty": 1,
+      "price": "1.00N"
+    },
+    {
+      "name": "SLICED PEPPERONI3Z",
+      "qty": 1,
+      "price": "1.00N"
+    },
+    {
+      "name": "ASSUFED CAPLETS",
+      "qty": 1,
+      "price": "1.00N"
+    },
+    {
+      "name": "SUPER GLUE GEL",
+      "qty": 1,
+      "price": "1.00T"
+    },
+    {
+      "name": "CONDITIONER",
+      "qty": 1,
+      "price": "1.00T"
+    },
+    {
+      "name": "GINSENG TA3 50OMG",
+      "qty": 1,
+      "price": "1.00N"
+    },
+    {
+      "name": "SCRUE SPONGE",
+      "qty": 1,
+      "price": "1.00T"
+    }
+  ],
+  "subtotal": "$10.00",
+  "tax": "$0.21",
+  "total": "$10.21",
+  "currency": "USD",
+  "payment_method": "Cash"
+}

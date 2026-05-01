@@ -1,0 +1,295 @@
+{
+  "source": "images/X51005361906.jpg",
+  "line_count": 72,
+  "avg_confidence": 0.9566,
+  "lines": [
+    {
+      "text": "TEO HENG STATIONERY & BOOKS",
+      "confidence": 0.9714
+    },
+    {
+      "text": "{00T451437-M) ",
+      "confidence": 0.7615
+    },
+    {
+      "text": "NO.53,JALAN BESAR,45600 BATANG BERSUNTAi",
+      "confidence": 0.8485
+    },
+    {
+      "text": "SELANGOR DARULEH5AN ",
+      "confidence": 0.8185
+    },
+    {
+      "text": "TEL03-3219872FAX03-327149491",
+      "confidence": 0.8384
+    },
+    {
+      "text": "GST No. : 000689913856",
+      "confidence": 0.9643
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Receipt No.: Cs1801/27175",
+      "confidence": 0.9672
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9778
+    },
+    {
+      "text": "27/01/2018",
+      "confidence": 0.9999
+    },
+    {
+      "text": "ANNONT",
+      "confidence": 0.6315
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.998
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9409
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.7941
+    },
+    {
+      "text": "DISC%",
+      "confidence": 0.9225
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9915
+    },
+    {
+      "text": "3.96",
+      "confidence": 0.9999
+    },
+    {
+      "text": "4.09",
+      "confidence": 0.9985
+    },
+    {
+      "text": "3.80 *",
+      "confidence": 0.9662
+    },
+    {
+      "text": "1355",
+      "confidence": 0.9942
+    },
+    {
+      "text": " DOUBLE SIDE FOAM TAPE 18MM",
+      "confidence": 0.9807
+    },
+    {
+      "text": "9557950605126",
+      "confidence": 0.9994
+    },
+    {
+      "text": "2.74",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.96",
+      "confidence": 0.9995
+    },
+    {
+      "text": "13.00 *",
+      "confidence": 0.9841
+    },
+    {
+      "text": "5",
+      "confidence": 0.992
+    },
+    {
+      "text": "- CAMIS SQ BOOK 200",
+      "confidence": 0.9896
+    },
+    {
+      "text": "5.47",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.96",
+      "confidence": 0.9999
+    },
+    {
+      "text": "5.20*",
+      "confidence": 0.9064
+    },
+    {
+      "text": "9557369315029",
+      "confidence": 0.9977
+    },
+    {
+      "text": "- EAGLE F4 200 FOOLSCAP BOOK",
+      "confidence": 0.9719
+    },
+    {
+      "text": "9557369305006",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.96",
+      "confidence": 0.9993
+    },
+    {
+      "text": "4.09",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.80 *",
+      "confidence": 0.9491
+    },
+    {
+      "text": "1",
+      "confidence": 0.9528
+    },
+    {
+      "text": "- EAGLE F4 120 NUM8ERING FOOLSCAP",
+      "confidence": 0.9634
+    },
+    {
+      "text": "BOOK",
+      "confidence": 0.9856
+    },
+    {
+      "text": "Total Qty. :",
+      "confidence": 0.9626
+    },
+    {
+      "text": "8",
+      "confidence": 0.9984
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.998
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SUB-TOTAL (EX)",
+      "confidence": 0.9782
+    },
+    {
+      "text": "1.55",
+      "confidence": 0.9881
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9964
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9897
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9989
+    },
+    {
+      "text": "27.35",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9982
+    },
+    {
+      "text": "27.35",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9983
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9918
+    },
+    {
+      "text": "INOONE",
+      "confidence": 0.67
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9595
+    },
+    {
+      "text": "TAX CODE",
+      "confidence": 0.975
+    },
+    {
+      "text": "%",
+      "confidence": 0.9941
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9719
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9464
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9423
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.55",
+      "confidence": 0.9938
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9531
+    },
+    {
+      "text": ": IVLO1.",
+      "confidence": 0.7477
+    },
+    {
+      "text": "25.80",
+      "confidence": 0.9939
+    },
+    {
+      "text": "1.55",
+      "confidence": 0.9569
+    },
+    {
+      "text": "Note: (*) Indicated The Item Sold Has Been Related",
+      "confidence": 0.9849
+    },
+    {
+      "text": "To Gst (Goods & Services Tax)..",
+      "confidence": 0.9597
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9827
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.8925
+    }
+  ]
+}

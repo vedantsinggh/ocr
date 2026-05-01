@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663307.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663307.txt",
+    "ocr_line_count": 75,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LA STATIONERY SDN BHD",
+  "date": "2018-02-09",
+  "items": [
+    {
+      "name": "GELPEN REFILL PILOT G2 0.5 BLACK",
+      "qty": 5,
+      "price": "2.86"
+    },
+    {
+      "name": "GELPEN REFILL PILOT G2 0.5 BLUE",
+      "qty": 5,
+      "price": "2.86"
+    },
+    {
+      "name": "GELPENREFILL PILOT G2 0.5 RED",
+      "qty": 2,
+      "price": "2.86"
+    },
+    {
+      "name": "GLUE-CLEAR GLUE100OML",
+      "qty": 1,
+      "price": "7.42"
+    },
+    {
+      "name": "LIQUID PAPER - PAPERMATE NP10 7ml.",
+      "qty": 2,
+      "price": "3.71"
+    },
+    {
+      "name": "PERMANENT MARKER SHARPIE FINE BLACK 3O051",
+      "qty": 1,
+      "price": "2.33"
+    },
+    {
+      "name": "BALLPEN PILOT FRIXION O.5 BLACK",
+      "qty": 1,
+      "price": "5.30"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.21",
+  "total": "56.80",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

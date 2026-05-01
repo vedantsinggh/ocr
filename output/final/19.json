@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/19.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/19.txt",
+    "ocr_line_count": 32,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2021-10-16",
+  "items": [
+    {
+      "name": "RED GRAPE",
+      "qty": null,
+      "price": "3.61"
+    },
+    {
+      "name": "GRAPE",
+      "qty": "1lb/1.44",
+      "price": "2.51"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.00",
+  "total": "35.05",
+  "currency": "INR",
+  "payment_method": null
+}

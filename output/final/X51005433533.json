@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433533.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433533.txt",
+    "ocr_line_count": 106,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GOGIANT ENGINEERING (M) SDN BHD",
+  "date": "2018-03-09",
+  "items": [
+    {
+      "name": "TRU-CUT CUTTING DISC",
+      "qty": 1,
+      "price": "170.00"
+    },
+    {
+      "name": "KOBELCO G-12#2.6MMWELDING",
+      "qty": 18,
+      "price": "35.00"
+    },
+    {
+      "name": "CS3750 PAINT BRUSH",
+      "qty": 14,
+      "price": "15.00"
+    },
+    {
+      "name": "CS2750 PAINT BRUSH",
+      "qty": 12,
+      "price": "11.00"
+    },
+    {
+      "name": "CS1-1/2750PAINT BRUSH",
+      "qty": 3,
+      "price": "3.50"
+    },
+    {
+      "name": "LAMBWOOL YANDA ROLLER REFILL-20 PCS",
+      "qty": 1,
+      "price": "26.00"
+    },
+    {
+      "name": "DIAMOND COTTON GLOVE B104",
+      "qty": 1,
+      "price": "6.00"
+    },
+    {
+      "name": "WELDING GLASS (BLACK) 1PCS",
+      "qty": 1,
+      "price": "5.00"
+    },
+    {
+      "name": "WELDING GLASS(CLEAR)1PC",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "AEC BROOM N0.5110#CAIRON HANDLE",
+      "qty": 2,
+      "price": "24.00"
+    },
+    {
+      "name": "STEELDUST PANL CA HANDLE 23 X2X",
+      "qty": 1,
+      "price": "16.00"
+    }
+  ],
+  "subtotal": "313.50",
+  "tax": "18.81",
+  "total": "332.30",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

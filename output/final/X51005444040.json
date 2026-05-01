@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444040.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444040.txt",
+    "ocr_line_count": 51,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "B.I.G. Sen's Independent Grocer",
+  "date": "2018-03-09",
+  "items": [
+    {
+      "name": "Evian Mineral Water 6x1.25L",
+      "qty": null,
+      "price": "107.00"
+    },
+    {
+      "name": "Fresh Cut Honey Jackfruit Peeled 400g",
+      "qty": 3,
+      "price": "8.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "100.94",
+  "total": "133.70",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

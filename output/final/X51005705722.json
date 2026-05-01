@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705722.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705722.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ASO ELECTRICAL TRADING SDN BHD",
+  "date": "2017-09-27",
+  "items": [
+    {
+      "name": "HAGER TIMER, 24HRS POWER RESERVE",
+      "qty": 3,
+      "price": "82.68"
+    }
+  ],
+  "subtotal": "234.00",
+  "tax": "14.04",
+  "total": "248.05",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,215 @@
+{
+  "source": "images/X51005577191.jpg",
+  "line_count": 52,
+  "avg_confidence": 0.9389,
+  "lines": [
+    {
+      "text": "FTEAOLE ENTERPRTSE",
+      "confidence": 0.8682
+    },
+    {
+      "text": "002065464-X",
+      "confidence": 0.9593
+    },
+    {
+      "text": "NO.42.JALANP85 14/11",
+      "confidence": 0.8411
+    },
+    {
+      "text": "TAMAN PERINDUSTRIAN BUKIT SERDANG,",
+      "confidence": 0.9386
+    },
+    {
+      "text": "43300 SERI KEMBANGAN,",
+      "confidence": 0.9315
+    },
+    {
+      "text": "SELANGOR",
+      "confidence": 0.9877
+    },
+    {
+      "text": "TEL:03-89433143 FAX9 03-09433143",
+      "confidence": 0.8808
+    },
+    {
+      "text": "GST N0: 001663156224",
+      "confidence": 0.8619
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9935
+    },
+    {
+      "text": "RECEIPT #: C500031383 DATE: 07/12/2017",
+      "confidence": 0.9391
+    },
+    {
+      "text": "SALESPERSON:",
+      "confidence": 0.9793
+    },
+    {
+      "text": "TIME: 16:18:00",
+      "confidence": 0.9308
+    },
+    {
+      "text": "CASHIER:USER",
+      "confidence": 0.9654
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9771
+    },
+    {
+      "text": "U/F",
+      "confidence": 0.8737
+    },
+    {
+      "text": "AHNUUT",
+      "confidence": 0.6538
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9864
+    },
+    {
+      "text": "(RH)",
+      "confidence": 0.8507
+    },
+    {
+      "text": "13451",
+      "confidence": 0.9975
+    },
+    {
+      "text": "1",
+      "confidence": 0.8544
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.994
+    },
+    {
+      "text": "SRSOOML PAINT REMOVER(M.TE)-KTH",
+      "confidence": 0.9501
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9664
+    },
+    {
+      "text": "1",
+      "confidence": 0.9994
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9841
+    },
+    {
+      "text": "9.43",
+      "confidence": 0.9943
+    },
+    {
+      "text": "3910",
+      "confidence": 0.7056
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9859
+    },
+    {
+      "text": "0.57",
+      "confidence": 0.9993
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9964
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9946
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9797
+    },
+    {
+      "text": "C6H",
+      "confidence": 0.5601
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9947
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.8432
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9681
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9962
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9934
+    },
+    {
+      "text": "%",
+      "confidence": 0.9957
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.998
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8925
+    },
+    {
+      "text": "9.43",
+      "confidence": 0.9959
+    },
+    {
+      "text": "6",
+      "confidence": 0.858
+    },
+    {
+      "text": "0.57",
+      "confidence": 0.9994
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9967
+    },
+    {
+      "text": "0.57",
+      "confidence": 0.9994
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNARLE,",
+      "confidence": 0.9587
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9672
+    }
+  ]
+}

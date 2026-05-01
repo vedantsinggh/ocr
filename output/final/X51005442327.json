@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442327.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442327.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Bar Wang Rice",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "Vegetable",
+      "qty": 1,
+      "price": "4.40"
+    },
+    {
+      "name": "Add Vegetable",
+      "qty": 1,
+      "price": "0.50"
+    },
+    {
+      "name": "Add Chicken",
+      "qty": 1,
+      "price": "3.70"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.90",
+  "total": "8.60",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

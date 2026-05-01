@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806698.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806698.txt",
+    "ocr_line_count": 53,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ADVANCO COMPANY",
+  "date": "2018-02-28",
+  "items": [
+    {
+      "name": "UNICORN GLUE STICK USG-21G 2'S",
+      "qty": 2,
+      "price": "5.80"
+    }
+  ],
+  "subtotal": "11.60",
+  "tax": "9.44",
+  "total": "10.44",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

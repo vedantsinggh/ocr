@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/18.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/18.txt",
+    "ocr_line_count": 85,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2021-10-31",
+  "items": [
+    {
+      "name": "GV WATER",
+      "qty": null,
+      "price": "6.97"
+    },
+    {
+      "name": "GAIN LIFE",
+      "qty": null,
+      "price": "4.94"
+    },
+    {
+      "name": "GAIN",
+      "qty": null,
+      "price": "7.82"
+    },
+    {
+      "name": "GV VEG OIL",
+      "qty": null,
+      "price": "3.78"
+    },
+    {
+      "name": "SNICKERS",
+      "qty": null,
+      "price": "4.76"
+    },
+    {
+      "name": "GDBR FS 6PK",
+      "qty": null,
+      "price": "13.24"
+    },
+    {
+      "name": "MIXED CHOC",
+      "qty": null,
+      "price": "1.78"
+    },
+    {
+      "name": "CHERRIES",
+      "qty": null,
+      "price": "1.97"
+    },
+    {
+      "name": "GAIN",
+      "qty": null,
+      "price": "9.97"
+    }
+  ],
+  "subtotal": "3.60",
+  "tax": "86.35",
+  "total": "86.35",
+  "currency": "INR",
+  "payment_method": "DEBIT TEND"
+}

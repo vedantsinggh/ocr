@@ -1,0 +1,58 @@
+31812012
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS
+SETAPAK,
+53200, KUALA LUMPUR
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+CS00011926
+Date: 02/12/2017
+Cashier
+: USER
+Time: 08:44:00
+Salesperson
+Ref.:
+ Item
+Qty
+S/Price
+Amount
+Tax
+3122
+1
+29.68
+29.68
+Sr
+(W33) 105MM/4' CUTTING DISC
+Total Qty.
+1
+29.68
+Total Sales (Excluding GsT) :
+28.00
+Discount :
+0.00
+Total GSt :
+1.68
+Rounding
+0.00
+Total Sales (Inclusive of GsT) :.
+29.68
+CASH :
+29.68
+Change :
+0.00
+GST SUMMARY
+Iax Code
+%
+Amt (RM)
+Iax(RM)
+SR
+6
+28.00
+1.68
+Total :
+28.00
+1.68

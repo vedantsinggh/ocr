@@ -1,0 +1,215 @@
+{
+  "source": "images/X51005719855.jpg",
+  "line_count": 52,
+  "avg_confidence": 0.9789,
+  "lines": [
+    {
+      "text": "ROCKU YAKINIKU",
+      "confidence": 0.9926
+    },
+    {
+      "text": "CPI R0CKU SDN.BHD. 1096317-P)",
+      "confidence": 0.9401
+    },
+    {
+      "text": "GST NO.: 000446271488",
+      "confidence": 0.9561
+    },
+    {
+      "text": "LOT F355/356/357,FIRST FL00R,",
+      "confidence": 0.9628
+    },
+    {
+      "text": "RAINFOREST,1 UTAMA SHOPPING CENTRE,",
+      "confidence": 0.9769
+    },
+    {
+      "text": "LEBUH BANDAR UTAMA,",
+      "confidence": 0.9718
+    },
+    {
+      "text": "47800 PETALING JAYA",
+      "confidence": 0.967
+    },
+    {
+      "text": "19/02/2018 17:43T001",
+      "confidence": 0.956
+    },
+    {
+      "text": "A063975",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Csh:CASHIER",
+      "confidence": 0.9725
+    },
+    {
+      "text": "Svr: BISWASH(ip",
+      "confidence": 0.9672
+    },
+    {
+      "text": "Table: A9",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Pax:",
+      "confidence": 0.922
+    },
+    {
+      "text": "3",
+      "confidence": 0.9971
+    },
+    {
+      "text": "BILL:063975",
+      "confidence": 0.9589
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9973
+    },
+    {
+      "text": "GREEN TEA",
+      "confidence": 0.9713
+    },
+    {
+      "text": "1",
+      "confidence": 0.9991
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "3.00 T",
+      "confidence": 0.9836
+    },
+    {
+      "text": "GREEN TEA",
+      "confidence": 0.9778
+    },
+    {
+      "text": "1",
+      "confidence": 0.9963
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "3.00 T",
+      "confidence": 0.9736
+    },
+    {
+      "text": "BUFFET DINNER (ADULT)",
+      "confidence": 0.9227
+    },
+    {
+      "text": "3",
+      "confidence": 0.999
+    },
+    {
+      "text": "49.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "149.70 T",
+      "confidence": 0.9932
+    },
+    {
+      "text": "SUBTTL",
+      "confidence": 0.9971
+    },
+    {
+      "text": "155.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "10% SVC CHG",
+      "confidence": 0.993
+    },
+    {
+      "text": "15.57",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6% GST",
+      "confidence": 0.8954
+    },
+    {
+      "text": "10.28",
+      "confidence": 0.9974
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "181.55",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9952
+    },
+    {
+      "text": "201.55",
+      "confidence": 0.9961
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9977
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9951
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9736
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9938
+    },
+    {
+      "text": "T:6% GST",
+      "confidence": 0.9165
+    },
+    {
+      "text": "171.27",
+      "confidence": 0.9994
+    },
+    {
+      "text": "10.28",
+      "confidence": 0.9738
+    },
+    {
+      "text": "Z:Zero Rated",
+      "confidence": 0.9512
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Signature:",
+      "confidence": 0.9955
+    },
+    {
+      "text": "Thank you.Please come again",
+      "confidence": 0.9701
+    },
+    {
+      "text": "Bil1 Close: 19:08:04",
+      "confidence": 0.9176
+    }
+  ]
+}

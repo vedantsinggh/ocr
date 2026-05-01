@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806685.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806685.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ADVANCO COMPANY",
+  "date": "2018-01-17",
+  "items": [
+    {
+      "name": "CANON PG-47BKE400 BLACK FINE",
+      "qty": 1,
+      "price": "29.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.64",
+  "total": "29.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

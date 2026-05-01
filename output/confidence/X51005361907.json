@@ -1,0 +1,367 @@
+{
+  "source": "images/X51005361907.jpg",
+  "line_count": 90,
+  "avg_confidence": 0.9669,
+  "lines": [
+    {
+      "text": "TEO HENG STATIONERY & BOOKS",
+      "confidence": 0.9771
+    },
+    {
+      "text": "(001451637-M)",
+      "confidence": 0.9342
+    },
+    {
+      "text": "NO. 53, JALAN BESAR, 4SS00 BATANG BERJUNTAI",
+      "confidence": 0.9377
+    },
+    {
+      "text": " SELANGOR DARUL EHSAN",
+      "confidence": 0.8311
+    },
+    {
+      "text": "TEL:03-3271 9872FAX:03-32719481",
+      "confidence": 0.9288
+    },
+    {
+      "text": "GST No. : 000689913856",
+      "confidence": 0.9771
+    },
+    {
+      "text": "SIMPLIFIED TAXIN",
+      "confidence": 0.8654
+    },
+    {
+      "text": "MOIOE",
+      "confidence": 0.6059
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Receipt No.: CS1802/27714",
+      "confidence": 0.9664
+    },
+    {
+      "text": "Date: 12/02/2018",
+      "confidence": 0.9667
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9976
+    },
+    {
+      "text": "QTY U/P",
+      "confidence": 0.9783
+    },
+    {
+      "text": "INNONF",
+      "confidence": 0.7938
+    },
+    {
+      "text": "DISC%",
+      "confidence": 0.8873
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9971
+    },
+    {
+      "text": "9555067700208",
+      "confidence": 0.9994
+    },
+    {
+      "text": "10.57",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "105.66 *",
+      "confidence": 0.9757
+    },
+    {
+      "text": "- IK YELLOW 7OGRAMS",
+      "confidence": 0.9648
+    },
+    {
+      "text": "9557583450025",
+      "confidence": 0.9995
+    },
+    {
+      "text": "17.45",
+      "confidence": 0.9994
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "1",
+      "confidence": 0.8655
+    },
+    {
+      "text": "17.45 *",
+      "confidence": 0.9962
+    },
+    {
+      "text": "- PAPYRUS DARK COLOUR PAPER",
+      "confidence": 0.9774
+    },
+    {
+      "text": "4974052801334",
+      "confidence": 0.999
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9978
+    },
+    {
+      "text": "2.70 ",
+      "confidence": 0.9889
+    },
+    {
+      "text": "1",
+      "confidence": 0.9913
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "- ARTLINE 70",
+      "confidence": 0.9713
+    },
+    {
+      "text": "0.85",
+      "confidence": 0.9993
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.85 *",
+      "confidence": 0.8971
+    },
+    {
+      "text": "9557546953990",
+      "confidence": 0.998
+    },
+    {
+      "text": "1",
+      "confidence": 0.5904
+    },
+    {
+      "text": "- FASTER CXSN BALL PEN",
+      "confidence": 0.9241
+    },
+    {
+      "text": "6924238702311",
+      "confidence": 0.9987
+    },
+    {
+      "text": "2",
+      "confidence": 0.9778
+    },
+    {
+      "text": "0.85",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.70 *",
+      "confidence": 0.9954
+    },
+    {
+      "text": "\"CBE HANDYCUTTER",
+      "confidence": 0.9706
+    },
+    {
+      "text": "9556655112694",
+      "confidence": 0.9795
+    },
+    {
+      "text": "8.40",
+      "confidence": 0.9975
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "8.40 *",
+      "confidence": 0.9905
+    },
+    {
+      "text": "1",
+      "confidence": 0.9959
+    },
+    {
+      "text": "~ CBE A4 SIZE 20 POCKETS REFILLABLE NEW",
+      "confidence": 0.9678
+    },
+    {
+      "text": "CLEAR HOLDER",
+      "confidence": 0.9815
+    },
+    {
+      "text": "9557369305006",
+      "confidence": 0.999
+    },
+    {
+      "text": "3.96",
+      "confidence": 0.9979
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "7.92 *",
+      "confidence": 0.9878
+    },
+    {
+      "text": "- EAGLE F4 120 NUMBERING FOOLSCAP",
+      "confidence": 0.9797
+    },
+    {
+      "text": "BOOK",
+      "confidence": 0.9875
+    },
+    {
+      "text": "Total Qty. :",
+      "confidence": 0.9601
+    },
+    {
+      "text": "18",
+      "confidence": 0.9892
+    },
+    {
+      "text": "144.68",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.994
+    },
+    {
+      "text": "144.68",
+      "confidence": 0.999
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9988
+    },
+    {
+      "text": "8.68",
+      "confidence": 0.9995
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9952
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9921
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.994
+    },
+    {
+      "text": "153.35",
+      "confidence": 0.995
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.998
+    },
+    {
+      "text": "153.35",
+      "confidence": 0.9974
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9978
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9904
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9981
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9977
+    },
+    {
+      "text": "TAX CODE",
+      "confidence": 0.9434
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9179
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9647
+    },
+    {
+      "text": "SR",
+      "confidence": 0.821
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "144.68",
+      "confidence": 0.9995
+    },
+    {
+      "text": "8.68",
+      "confidence": 0.9996
+    },
+    {
+      "text": "TOTAL :",
+      "confidence": 0.9954
+    },
+    {
+      "text": "144.68",
+      "confidence": 0.9999
+    },
+    {
+      "text": "8.68",
+      "confidence": 0.996
+    },
+    {
+      "text": "Note: (*) Indicated The Item Sold Has Been Related",
+      "confidence": 0.9808
+    },
+    {
+      "text": "To GST (Goods & Services Tax).",
+      "confidence": 0.9723
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE.",
+      "confidence": 0.9784
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9745
+    }
+  ]
+}

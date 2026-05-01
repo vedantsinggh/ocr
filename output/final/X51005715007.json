@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005715007.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005715007.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KAISON FURNISHING SDN BHD",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "PLASTIC TRAY-GLOSS R pCs",
+      "qty": null,
+      "price": "8.90"
+    },
+    {
+      "name": "KEYCHAIN - SCARF STA pcs",
+      "qty": null,
+      "price": "5.90"
+    },
+    {
+      "name": "KEYCHAIN - KNIT SCAR pcs",
+      "qty": null,
+      "price": "3.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.06",
+  "total": "18.70",
+  "currency": "RM",
+  "payment_method": "CASH (MYR)"
+}

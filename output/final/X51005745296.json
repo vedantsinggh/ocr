@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745296.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745296.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUSHI MENTAI",
+  "date": "2018-04-09",
+  "items": [
+    {
+      "name": "Tori Teriyaki Don",
+      "qty": 1,
+      "price": "12.80"
+    },
+    {
+      "name": "Tako Ball",
+      "qty": 1,
+      "price": "0.00"
+    },
+    {
+      "name": "Sushi 1.80",
+      "qty": 4,
+      "price": "1.80"
+    },
+    {
+      "name": "Sushi 2.80",
+      "qty": 2,
+      "price": "2.80"
+    },
+    {
+      "name": "Green Tea",
+      "qty": 1,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": "26.60",
+  "tax": "1.76",
+  "total": "31.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

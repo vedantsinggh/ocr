@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806679.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806679.txt",
+    "ocr_line_count": 113,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LEE WAH FLORIST SON BHD",
+  "date": "2018-02-02",
+  "items": [
+    {
+      "name": "PEACOCK YELLOW",
+      "qty": 2,
+      "price": "12.7"
+    },
+    {
+      "name": "STATICE FULL IMP",
+      "qty": 4,
+      "price": "39.04"
+    },
+    {
+      "name": "LILY CONCORDO 2H",
+      "qty": 6,
+      "price": "12.72"
+    },
+    {
+      "name": "SNOW WHITE LEAF",
+      "qty": null,
+      "price": "3.71"
+    },
+    {
+      "name": "FLORIDA BEAUTY",
+      "qty": null,
+      "price": "8.54"
+    },
+    {
+      "name": "PALM LEAF L",
+      "qty": 3,
+      "price": "4.77"
+    },
+    {
+      "name": "Palm Leaf M",
+      "qty": null,
+      "price": "4.77"
+    },
+    {
+      "name": "ROSE INDIA SUPERICR",
+      "qty": 4,
+      "price": "12.72"
+    },
+    {
+      "name": "SUCCULENT L",
+      "qty": null,
+      "price": "353"
+    }
+  ],
+  "subtotal": "353",
+  "tax": "21.18",
+  "total": "374.2",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

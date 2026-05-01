@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433492.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433492.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BAR WANG RICEPERMAS JAYA",
+  "date": "2018-03-05",
+  "items": [
+    {
+      "name": "Pork SR100100000006",
+      "qty": null,
+      "price": "2.70"
+    },
+    {
+      "name": "SR100100000006-Pork",
+      "qty": 1,
+      "price": "5.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.46",
+  "total": "8.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

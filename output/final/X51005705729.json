@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705729.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705729.txt",
+    "ocr_line_count": 63,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ASO ELECTRICAL TRADING SDN BHAD",
+  "date": "2017-10-13",
+  "items": [
+    {
+      "name": "SR: CABLE LUG 50MM(M10)",
+      "qty": 10,
+      "price": "1.51"
+    },
+    {
+      "name": "SR: CRIMPING TOOL, HS-38, 5.5MM - 38MM",
+      "qty": null,
+      "price": "79.50"
+    }
+  ],
+  "subtotal": "89.26",
+  "tax": "5.36",
+  "total": "94.60",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

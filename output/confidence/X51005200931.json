@@ -1,0 +1,331 @@
+{
+  "source": "images/X51005200931.jpg",
+  "line_count": 81,
+  "avg_confidence": 0.9476,
+  "lines": [
+    {
+      "text": "PERNIAGAAN ZHENG HU!",
+      "confidence": 0.9741
+    },
+    {
+      "text": "JM0325955-V",
+      "confidence": 0.9877
+    },
+    {
+      "text": "NO.59 JALAN PERMAS 9/5",
+      "confidence": 0.9823
+    },
+    {
+      "text": "BANDAR BARU PERMAS JAYA",
+      "confidence": 0.998
+    },
+    {
+      "text": "81750 JOHOR BAHRU",
+      "confidence": 0.9638
+    },
+    {
+      "text": "TEL:07-3867524FAX:07-3863793",
+      "confidence": 0.9432
+    },
+    {
+      "text": "GST NO : 000800689824",
+      "confidence": 0.9735
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9748
+    },
+    {
+      "text": "GOGIANT ENGINEERING (M) SDN BHD",
+      "confidence": 0.9886
+    },
+    {
+      "text": "Recelpt#CS00082258",
+      "confidence": 0.9593
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9813
+    },
+    {
+      "text": "Date.09/02/2018",
+      "confidence": 0.9769
+    },
+    {
+      "text": "Cashier: USER",
+      "confidence": 0.9964
+    },
+    {
+      "text": "Time:08:32:00",
+      "confidence": 0.9623
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.7988
+    },
+    {
+      "text": "{RM]",
+      "confidence": 0.8057
+    },
+    {
+      "text": "Item",
+      "confidence": 0.8896
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9807
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9112
+    },
+    {
+      "text": "Anoun!",
+      "confidence": 0.8933
+    },
+    {
+      "text": "6783",
+      "confidence": 0.972
+    },
+    {
+      "text": "1809",
+      "confidence": 0.9615
+    },
+    {
+      "text": "5",
+      "confidence": 0.9888
+    },
+    {
+      "text": "3.50",
+      "confidence": 0.9969
+    },
+    {
+      "text": "17.5C",
+      "confidence": 0.937
+    },
+    {
+      "text": "SR CERAMIC CAP",
+      "confidence": 0.9855
+    },
+    {
+      "text": "2954",
+      "confidence": 0.9754
+    },
+    {
+      "text": "1809",
+      "confidence": 0.9685
+    },
+    {
+      "text": "30",
+      "confidence": 0.9977
+    },
+    {
+      "text": "3.80",
+      "confidence": 0.9924
+    },
+    {
+      "text": "114.0C",
+      "confidence": 0.9091
+    },
+    {
+      "text": "SR: S/STEEL 1/2\" STREET EL.BOW",
+      "confidence": 0.968
+    },
+    {
+      "text": "1760",
+      "confidence": 0.9793
+    },
+    {
+      "text": "GA",
+      "confidence": 0.97
+    },
+    {
+      "text": "55.00",
+      "confidence": 0.9861
+    },
+    {
+      "text": "55.DC",
+      "confidence": 0.9398
+    },
+    {
+      "text": "SR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD",
+      "confidence": 0.9811
+    },
+    {
+      "text": "3496",
+      "confidence": 0.9968
+    },
+    {
+      "text": "3",
+      "confidence": 0.9892
+    },
+    {
+      "text": "33.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "99.0c",
+      "confidence": 0.7065
+    },
+    {
+      "text": "SR:ESICUT 4\" CUTTING DISC (1BOX)-50PCE",
+      "confidence": 0.8934
+    },
+    {
+      "text": "2460",
+      "confidence": 0.9691
+    },
+    {
+      "text": "2",
+      "confidence": 0.9808
+    },
+    {
+      "text": "43.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "86.0C",
+      "confidence": 0.946
+    },
+    {
+      "text": "SR: WELDRO PICKLING GEL 1KG",
+      "confidence": 0.9643
+    },
+    {
+      "text": "9428",
+      "confidence": 0.9981
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9413
+    },
+    {
+      "text": "40.0C",
+      "confidence": 0.8661
+    },
+    {
+      "text": "SR13.5WELDINGGLOVE-GREEN(GS)",
+      "confidence": 0.9468
+    },
+    {
+      "text": "TOT QTY:46",
+      "confidence": 0.9075
+    },
+    {
+      "text": "411.50",
+      "confidence": 0.8531
+    },
+    {
+      "text": "Excluded GST Sub Total (RM) :",
+      "confidence": 0.9277
+    },
+    {
+      "text": "411.50",
+      "confidence": 0.9683
+    },
+    {
+      "text": "Discount (RM)",
+      "confidence": 0.9289
+    },
+    {
+      "text": "000",
+      "confidence": 0.9148
+    },
+    {
+      "text": "Total GST (RM) :",
+      "confidence": 0.9432
+    },
+    {
+      "text": "24.69",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Rounding (RM) :",
+      "confidence": 0.988
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total (RM) :",
+      "confidence": 0.9004
+    },
+    {
+      "text": "436.20",
+      "confidence": 0.963
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9956
+    },
+    {
+      "text": "436.20",
+      "confidence": 0.9834
+    },
+    {
+      "text": "Change (RM) :",
+      "confidence": 0.9527
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.954
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9838
+    },
+    {
+      "text": "%",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST",
+      "confidence": 0.656
+    },
+    {
+      "text": "SR",
+      "confidence": 0.8626
+    },
+    {
+      "text": "6",
+      "confidence": 0.5223
+    },
+    {
+      "text": "411.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "24.69",
+      "confidence": 0.9694
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9921
+    },
+    {
+      "text": "411.50",
+      "confidence": 0.9984
+    },
+    {
+      "text": "24.69",
+      "confidence": 0.9974
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9682
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9813
+    }
+  ]
+}

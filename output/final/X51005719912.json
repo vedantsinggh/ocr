@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719912.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719912.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Guardian Health And Beauty Sdn Bhd",
+  "date": "2018-03-16",
+  "items": [
+    {
+      "name": "GDNMC H/W ENC ROM",
+      "qty": null,
+      "price": "5.90"
+    },
+    {
+      "name": "GDNMC H/W N/DREAM",
+      "qty": null,
+      "price": "5.90"
+    },
+    {
+      "name": "P3 KDP G HW 4Q12",
+      "qty": null,
+      "price": "11.60"
+    }
+  ],
+  "subtotal": "12.00",
+  "tax": "1.32",
+  "total": "12.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

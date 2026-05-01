@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005712039.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005712039.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "L TWO FLORIST & HANDICRAET",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "NE3555",
+      "qty": 2,
+      "price": "1.00"
+    },
+    {
+      "name": "1 1/2\" SAFETY PIN SB/01-3",
+      "qty": 1,
+      "price": "7.00"
+    },
+    {
+      "name": "SATIN BIAS TAPE 12MMX3Y",
+      "qty": null,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": "9.00",
+  "tax": "0.00",
+  "total": "9.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

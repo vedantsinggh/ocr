@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677329.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677329.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PERNIAGAAN GIN KEE",
+  "date": "2018-02-12",
+  "items": [
+    {
+      "name": "1099 MM X 5.8M UNDERGROUND PIPE",
+      "qty": 3,
+      "price": "90.10"
+    }
+  ],
+  "subtotal": null,
+  "tax": "15.30",
+  "total": "270.30",
+  "currency": "INR",
+  "payment_method": "cash"
+}

@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568880.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568880.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ENDAH PARADE",
+  "date": "2019-09-17",
+  "items": [
+    {
+      "name": "TOILETBRUSH 47-2311",
+      "qty": null,
+      "price": "2.70"
+    },
+    {
+      "name": "CEMENT KN BLK-2",
+      "qty": null,
+      "price": "1.60"
+    },
+    {
+      "name": "HSS TWIST DRILL 5.5*",
+      "qty": null,
+      "price": "3.30"
+    },
+    {
+      "name": "HSS TWIST DRILL 6*1",
+      "qty": null,
+      "price": "3.30"
+    },
+    {
+      "name": "CURTAIN STRAPS",
+      "qty": 2,
+      "price": "2.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.90",
+  "total": "15.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

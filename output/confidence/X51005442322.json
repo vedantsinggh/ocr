@@ -1,0 +1,279 @@
+{
+  "source": "images/X51005442322.jpg",
+  "line_count": 68,
+  "avg_confidence": 0.9397,
+  "lines": [
+    {
+      "text": "RESTAURANT",
+      "confidence": 0.9957
+    },
+    {
+      "text": "TONY ROMA'S AEON TEBRAU CITY",
+      "confidence": 0.916
+    },
+    {
+      "text": "GRAND COMPANIONS SDN BHD285560-H",
+      "confidence": 0.9337
+    },
+    {
+      "text": "LOT G112, AEON MALL TEBRAU CITY",
+      "confidence": 0.9195
+    },
+    {
+      "text": "NO 1 JALAN DESA TEBRAU",
+      "confidence": 0.9165
+    },
+    {
+      "text": "81100JOHCR BAHRU",
+      "confidence": 0.9292
+    },
+    {
+      "text": "Tel:07-3510749",
+      "confidence": 0.9568
+    },
+    {
+      "text": "Website:ww.tonyromas.com.my",
+      "confidence": 0.9649
+    },
+    {
+      "text": "Facebook:wWW.facebook.com/TRMALAYSIA",
+      "confidence": 0.9339
+    },
+    {
+      "text": "GST I0:000436699136",
+      "confidence": 0.9206
+    },
+    {
+      "text": "2 TR1",
+      "confidence": 0.9916
+    },
+    {
+      "text": "1014 FAZLIN",
+      "confidence": 0.9507
+    },
+    {
+      "text": "Chk65991",
+      "confidence": 0.9909
+    },
+    {
+      "text": "Guest3",
+      "confidence": 0.9958
+    },
+    {
+      "text": "03 Mar 1S 05:16:55 PM",
+      "confidence": 0.8413
+    },
+    {
+      "text": "TBL43/ 1",
+      "confidence": 0.9825
+    },
+    {
+      "text": "1NY STRIP",
+      "confidence": 0.9451
+    },
+    {
+      "text": "67.67 $",
+      "confidence": 0.9594
+    },
+    {
+      "text": "Medium We11",
+      "confidence": 0.9296
+    },
+    {
+      "text": "RANCH BEANS",
+      "confidence": 0.9729
+    },
+    {
+      "text": "SLAW",
+      "confidence": 0.9967
+    },
+    {
+      "text": "1NY STRIP",
+      "confidence": 0.9322
+    },
+    {
+      "text": "67.67 9",
+      "confidence": 0.9004
+    },
+    {
+      "text": "Medium",
+      "confidence": 0.9803
+    },
+    {
+      "text": "FR ROASTED VEGE",
+      "confidence": 0.9324
+    },
+    {
+      "text": "BAKED POTATO",
+      "confidence": 0.9552
+    },
+    {
+      "text": "Loaded",
+      "confidence": 0.9971
+    },
+    {
+      "text": "NY STRIP",
+      "confidence": 0.9134
+    },
+    {
+      "text": "67.67 S",
+      "confidence": 0.9964
+    },
+    {
+      "text": "Mediun We11",
+      "confidence": 0.863
+    },
+    {
+      "text": "FR ROASTED VEGE",
+      "confidence": 0.9387
+    },
+    {
+      "text": "FF",
+      "confidence": 0.9986
+    },
+    {
+      "text": "ICE LATTE",
+      "confidence": 0.9746
+    },
+    {
+      "text": "9.35 S",
+      "confidence": 0.9223
+    },
+    {
+      "text": "1",
+      "confidence": 0.9997
+    },
+    {
+      "text": "7UP",
+      "confidence": 0.9968
+    },
+    {
+      "text": "9.35",
+      "confidence": 0.9923
+    },
+    {
+      "text": "PEPSI",
+      "confidence": 0.98
+    },
+    {
+      "text": "9.35 s",
+      "confidence": 0.9157
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 0.9921
+    },
+    {
+      "text": "231.06",
+      "confidence": 0.9914
+    },
+    {
+      "text": "10%Srv Chg",
+      "confidence": 0.9344
+    },
+    {
+      "text": "23.10",
+      "confidence": 0.9974
+    },
+    {
+      "text": "GST @6%",
+      "confidence": 0.8728
+    },
+    {
+      "text": "15.25",
+      "confidence": 0.9855
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9416
+    },
+    {
+      "text": "269.40",
+      "confidence": 0.9962
+    },
+    {
+      "text": "RM 10 OFF FOR A MINIMUN OF RH 50 SPENT",
+      "confidence": 0.86
+    },
+    {
+      "text": "ON YOUR NEXT VISIT TO TONY ROMA'S !!",
+      "confidence": 0.8972
+    },
+    {
+      "text": "GO TO W.TONYCARES.COM",
+      "confidence": 0.929
+    },
+    {
+      "text": "PLEASE TELL US HON WE ARE DOING",
+      "confidence": 0.9186
+    },
+    {
+      "text": "Store #0217",
+      "confidence": 0.9665
+    },
+    {
+      "text": "SURVEY VALIDATION CODE",
+      "confidence": 0.9567
+    },
+    {
+      "text": "This Receipt With Validation Code Is",
+      "confidence": 0.9562
+    },
+    {
+      "text": "Valid 3 Months From Date of Receipt",
+      "confidence": 0.9334
+    },
+    {
+      "text": "One redemption per groupper visit",
+      "confidence": 0.9707
+    },
+    {
+      "text": "sExcelentpaesbenerts igrdwih.ros",
+      "confidence": 0.6262
+    },
+    {
+      "text": "wApptycat.recruatmentdzonyromas.com.na",
+      "confidence": 0.7269
+    },
+    {
+      "text": "GST @6% included in total",
+      "confidence": 0.9241
+    },
+    {
+      "text": "GSTSummary",
+      "confidence": 0.9415
+    },
+    {
+      "text": "AmountRM",
+      "confidence": 0.9465
+    },
+    {
+      "text": "GST(RM)",
+      "confidence": 0.8142
+    },
+    {
+      "text": "S=GST6%",
+      "confidence": 0.8625
+    },
+    {
+      "text": "254.17",
+      "confidence": 0.9856
+    },
+    {
+      "text": "15.25",
+      "confidence": 0.9823
+    },
+    {
+      "text": "Z=GST00%",
+      "confidence": 0.8814
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9842
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9953
+    }
+  ]
+}

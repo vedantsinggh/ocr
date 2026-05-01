@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719873.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719873.txt",
+    "ocr_line_count": 53,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Tealive",
+  "date": "2018-01-21",
+  "items": [
+    {
+      "name": "Hazelnut Coco -L",
+      "qty": 1,
+      "price": "7.50"
+    },
+    {
+      "name": "Pearl",
+      "qty": 1,
+      "price": "1.10"
+    }
+  ],
+  "subtotal": "8.60",
+  "tax": "0.48",
+  "total": "8.60",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

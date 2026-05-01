@@ -1,0 +1,175 @@
+{
+  "source": "images/X51005711444.jpg",
+  "line_count": 42,
+  "avg_confidence": 0.9773,
+  "lines": [
+    {
+      "text": "RESTORAN WAN SHENG",
+      "confidence": 0.9811
+    },
+    {
+      "text": "002043319-W",
+      "confidence": 0.9729
+    },
+    {
+      "text": "No.2,Ja1an Temenggung 19/9,",
+      "confidence": 0.9238
+    },
+    {
+      "text": "Seksyen 9, Bandar Mahkota Cheras,",
+      "confidence": 0.9919
+    },
+    {
+      "text": "43200 Cheras, Selangor",
+      "confidence": 0.9797
+    },
+    {
+      "text": "GSTREG NO001335787520",
+      "confidence": 0.9628
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9957
+    },
+    {
+      "text": "INV No.: 1054250 Cashier: Thandar",
+      "confidence": 0.9817
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9976
+    },
+    {
+      "text": "21-03-201811:42:20",
+      "confidence": 0.9664
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9956
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9845
+    },
+    {
+      "text": "U.price",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Total TAX",
+      "confidence": 0.9858
+    },
+    {
+      "text": "Cham (B)",
+      "confidence": 0.8848
+    },
+    {
+      "text": "2 x",
+      "confidence": 0.9924
+    },
+    {
+      "text": "2.20",
+      "confidence": 0.9993
+    },
+    {
+      "text": "4.40",
+      "confidence": 0.9983
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9938
+    },
+    {
+      "text": "Take Away",
+      "confidence": 0.9925
+    },
+    {
+      "text": "2 x",
+      "confidence": 0.9932
+    },
+    {
+      "text": "0.20",
+      "confidence": 0.9994
+    },
+    {
+      "text": "0.40",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Total QTY: 4",
+      "confidence": 0.9614
+    },
+    {
+      "text": "Total (Excluding GST):",
+      "confidence": 0.9566
+    },
+    {
+      "text": "4.54",
+      "confidence": 0.9995
+    },
+    {
+      "text": "GST payable 6%",
+      "confidence": 0.9102
+    },
+    {
+      "text": "0.26",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Inclusive of GST",
+      "confidence": 0.9373
+    },
+    {
+      "text": "4.80",
+      "confidence": 0.9988
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 0.9922
+    },
+    {
+      "text": "4.80",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9306
+    },
+    {
+      "text": "4.80",
+      "confidence": 0.997
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9637
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9596
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9339
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "(@ 6%)",
+      "confidence": 0.9451
+    },
+    {
+      "text": "4.54",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.26",
+      "confidence": 0.9997
+    }
+  ]
+}

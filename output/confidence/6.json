@@ -1,0 +1,159 @@
+{
+  "source": "images/6.JPG",
+  "line_count": 38,
+  "avg_confidence": 0.9422,
+  "lines": [
+    {
+      "text": "MOMICTOY'S",
+      "confidence": 0.9432
+    },
+    {
+      "text": "CREPERIE",
+      "confidence": 0.9962
+    },
+    {
+      "text": "Lippo Mal1Kemang,",
+      "confidence": 0.8543
+    },
+    {
+      "text": "L",
+      "confidence": 0.7238
+    },
+    {
+      "text": "Kemang VINo.",
+      "confidence": 0.9393
+    },
+    {
+      "text": "6",
+      "confidence": 0.986
+    },
+    {
+      "text": "momiantoys_ind (inst",
+      "confidence": 0.9758
+    },
+    {
+      "text": "@indmomi(twitter)",
+      "confidence": 0.988
+    },
+    {
+      "text": "Check:3850",
+      "confidence": 0.9676
+    },
+    {
+      "text": "Pax:1",
+      "confidence": 0.9266
+    },
+    {
+      "text": "OP:Gunawan",
+      "confidence": 0.956
+    },
+    {
+      "text": "Gunawan",
+      "confidence": 0.9958
+    },
+    {
+      "text": "POS Title:Cashier",
+      "confidence": 0.9545
+    },
+    {
+      "text": "Rcpt#:A15000001363",
+      "confidence": 0.9905
+    },
+    {
+      "text": "26/01/2015 16:13",
+      "confidence": 0.9621
+    },
+    {
+      "text": "1 Woman",
+      "confidence": 0.9242
+    },
+    {
+      "text": "0",
+      "confidence": 0.9076
+    },
+    {
+      "text": "2",
+      "confidence": 0.5246
+    },
+    {
+      "text": "Ham Cheese",
+      "confidence": 0.9533
+    },
+    {
+      "text": "74,000",
+      "confidence": 0.9601
+    },
+    {
+      "text": "Ice Java Tea",
+      "confidence": 0.9514
+    },
+    {
+      "text": "16,000",
+      "confidence": 0.9625
+    },
+    {
+      "text": "Mineral Water",
+      "confidence": 0.9819
+    },
+    {
+      "text": "13,000",
+      "confidence": 0.9741
+    },
+    {
+      "text": "1Black & White",
+      "confidence": 0.9389
+    },
+    {
+      "text": "72,000",
+      "confidence": 0.961
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9964
+    },
+    {
+      "text": "175,000",
+      "confidence": 0.9852
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9986
+    },
+    {
+      "text": "175.000",
+      "confidence": 0.9207
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9984
+    },
+    {
+      "text": "200.000",
+      "confidence": 0.9481
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9985
+    },
+    {
+      "text": "25,000",
+      "confidence": 0.9699
+    },
+    {
+      "text": "Closed Bi11",
+      "confidence": 0.9473
+    },
+    {
+      "text": "26/01/2015 16:14",
+      "confidence": 0.9559
+    },
+    {
+      "text": "Thank you for tasting",
+      "confidence": 0.9441
+    },
+    {
+      "text": "our \"Meltingly Crepe",
+      "confidence": 0.9431
+    }
+  ]
+}

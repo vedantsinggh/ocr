@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005453802.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005453802.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LANHING STATIONERY SDN BHD",
+  "date": "2018-03-30",
+  "items": [
+    {
+      "name": "Durafile H1399110x95mm",
+      "qty": 200,
+      "price": "116.60"
+    },
+    {
+      "name": "Name Badge @0.5500",
+      "price": "42.40"
+    }
+  ],
+  "subtotal": null,
+  "tax": "9.00",
+  "total": "159.00",
+  "currency": "RM",
+  "payment_method": null
+}

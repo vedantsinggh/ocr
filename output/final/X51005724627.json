@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724627.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724627.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-31",
+  "items": [
+    {
+      "name": "SIMEN",
+      "qty": 10,
+      "price": "16.50"
+    }
+  ],
+  "subtotal": "165.00",
+  "tax": "9.90",
+  "total": "174.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

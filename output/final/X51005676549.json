@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676549.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676549.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-02",
+  "items": [
+    {
+      "name": "17MM COMB SPANNER",
+      "qty": 1,
+      "price": "7.95"
+    },
+    {
+      "name": "6X35# CORRUGATED ROOFING SHEET",
+      "qty": 2,
+      "price": "15.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.25",
+  "total": "39.75",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

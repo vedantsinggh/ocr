@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676546.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676546.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-11",
+  "items": [
+    {
+      "name": "104 COTTON GLOVE (DOZEN)",
+      "qty": 2,
+      "price": "10.60"
+    }
+  ],
+  "subtotal": "20.00",
+  "tax": "1.20",
+  "total": "21.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

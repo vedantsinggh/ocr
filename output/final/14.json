@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/14.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/14.txt",
+    "ocr_line_count": 69,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2017-04-05",
+  "items": [
+    {
+      "name": "EQUATE LINER",
+      "qty": null,
+      "price": "3.88"
+    },
+    {
+      "name": "VFUS ENG POM",
+      "qty": null,
+      "price": "7.48"
+    },
+    {
+      "name": "50YD PKGTAPE",
+      "qty": null,
+      "price": "1.12"
+    },
+    {
+      "name": "LINT ROLLER",
+      "qty": null,
+      "price": "5.78"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.00",
+  "total": "26.60",
+  "currency": "INR",
+  "payment_method": "DEBIT TEND"
+}

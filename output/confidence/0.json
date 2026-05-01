@@ -1,0 +1,143 @@
+{
+  "source": "images/0.jpg",
+  "line_count": 34,
+  "avg_confidence": 0.9708,
+  "lines": [
+    {
+      "text": "WAL*MART",
+      "confidence": 0.9622
+    },
+    {
+      "text": "ALWAYS LOW PRICES.",
+      "confidence": 0.9266
+    },
+    {
+      "text": "Always",
+      "confidence": 0.8878
+    },
+    {
+      "text": "SUPERCENTER",
+      "confidence": 0.9977
+    },
+    {
+      "text": "OPEN 24 HOURS",
+      "confidence": 0.9245
+    },
+    {
+      "text": "MANAGERTBA",
+      "confidence": 0.9943
+    },
+    {
+      "text": "515986-1783",
+      "confidence": 0.9776
+    },
+    {
+      "text": "ST#57480P#00000158TE#14 TR#03178",
+      "confidence": 0.9452
+    },
+    {
+      "text": "BANANAS",
+      "confidence": 0.9969
+    },
+    {
+      "text": "000000004011KF",
+      "confidence": 0.9965
+    },
+    {
+      "text": "1 1b/0.49",
+      "confidence": 0.9341
+    },
+    {
+      "text": "0.20N",
+      "confidence": 0.9945
+    },
+    {
+      "text": "0.411b",
+      "confidence": 0.9833
+    },
+    {
+      "text": "001200010451F",
+      "confidence": 0.9955
+    },
+    {
+      "text": "5.48N",
+      "confidence": 0.9944
+    },
+    {
+      "text": "FRAP",
+      "confidence": 0.9965
+    },
+    {
+      "text": "DISCOUNT GIVEN",
+      "confidence": 0.9565
+    },
+    {
+      "text": "0.57",
+      "confidence": 0.9986
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9963
+    },
+    {
+      "text": "5.11",
+      "confidence": 0.9974
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9984
+    },
+    {
+      "text": "5.11",
+      "confidence": 0.9992
+    },
+    {
+      "text": "CASH TEND",
+      "confidence": 0.9513
+    },
+    {
+      "text": "11.00",
+      "confidence": 0.9984
+    },
+    {
+      "text": "CHANGEDUE",
+      "confidence": 0.9967
+    },
+    {
+      "text": "5.89",
+      "confidence": 0.9983
+    },
+    {
+      "text": "# ITEMS SOLD 2",
+      "confidence": 0.9394
+    },
+    {
+      "text": "TC#56798348 6485 78282003",
+      "confidence": 0.953
+    },
+    {
+      "text": "THANK YOU FOR SHOPPING WITH US",
+      "confidence": 0.934
+    },
+    {
+      "text": "NATHANIEL BUSH",
+      "confidence": 0.9657
+    },
+    {
+      "text": "Shop at Walmart & Get",
+      "confidence": 0.9238
+    },
+    {
+      "text": "Your Back to School List for Less.",
+      "confidence": 0.9387
+    },
+    {
+      "text": "08/20/10",
+      "confidence": 0.9972
+    },
+    {
+      "text": "13:12:01",
+      "confidence": 0.9559
+    }
+  ]
+}

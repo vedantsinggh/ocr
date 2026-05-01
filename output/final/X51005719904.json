@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719904.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719904.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Yam Fresh",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "Oyster Mee",
+      "qty": 1,
+      "price": "RM9.90"
+    },
+    {
+      "name": "BlackSugar Ice",
+      "qty": 1,
+      "price": "RM7.50"
+    },
+    {
+      "name": "Fresh Milk",
+      "qty": null,
+      "price": "RM3.00"
+    },
+    {
+      "name": "Pudding Soybean",
+      "qty": null,
+      "price": "RM8.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM1.66",
+  "total": "RM29.30",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

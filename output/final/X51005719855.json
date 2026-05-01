@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719855.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719855.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ROCKU YAKINIKU",
+  "date": "2018-02-19",
+  "items": [
+    {
+      "name": "GREEN TEA",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "BUFFET DINNER (ADULT)",
+      "qty": 3,
+      "price": "49.90"
+    }
+  ],
+  "subtotal": "155.70",
+  "tax": "10.28",
+  "total": "181.55",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

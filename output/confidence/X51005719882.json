@@ -1,0 +1,119 @@
+{
+  "source": "images/X51005719882.jpg",
+  "line_count": 28,
+  "avg_confidence": 0.9464,
+  "lines": [
+    {
+      "text": "99SPEEDMARTS/B519537-X",
+      "confidence": 0.9664
+    },
+    {
+      "text": "LOTP.T.2811.JALAN ANG5A",
+      "confidence": 0.9457
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9597
+    },
+    {
+      "text": "41150KLANGSELANGOR",
+      "confidence": 0.9904
+    },
+    {
+      "text": "1181-TMN SRI SINAR",
+      "confidence": 0.9377
+    },
+    {
+      "text": "GSTID.NO:000181747712",
+      "confidence": 0.9524
+    },
+    {
+      "text": "INV0ICENO18311/103/T0280",
+      "confidence": 0.9654
+    },
+    {
+      "text": "09:04PM",
+      "confidence": 0.9385
+    },
+    {
+      "text": "569319",
+      "confidence": 0.9968
+    },
+    {
+      "text": "17-02-18",
+      "confidence": 0.9911
+    },
+    {
+      "text": "483 CARLSBERG CAN 4*6*320ML",
+      "confidence": 0.8924
+    },
+    {
+      "text": "RM106.50s",
+      "confidence": 0.9516
+    },
+    {
+      "text": "2101 CARLSBERG SMOOTH DRAUG",
+      "confidence": 0.9486
+    },
+    {
+      "text": "RM106.50s",
+      "confidence": 0.9543
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.8839
+    },
+    {
+      "text": "213.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.934
+    },
+    {
+      "text": "213.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9631
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9859
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9535
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9353
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.8649
+    },
+    {
+      "text": "s=6/.",
+      "confidence": 0.7039
+    },
+    {
+      "text": "200.94",
+      "confidence": 0.991
+    },
+    {
+      "text": "12.06",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9525
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9525
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source": "images/X51005447853.jpg",
+  "line_count": 30,
+  "avg_confidence": 0.9049,
+  "lines": [
+    {
+      "text": "09SPEEDMART S/D519537X)",
+      "confidence": 0.8693
+    },
+    {
+      "text": "LCTP.T.2811JALAN ANG5A",
+      "confidence": 0.8514
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9677
+    },
+    {
+      "text": "41150 KLANGSCLANGOR",
+      "confidence": 0.9117
+    },
+    {
+      "text": "1317TRILLIUM56BESI",
+      "confidence": 0.9126
+    },
+    {
+      "text": "GST ID.NO:00C181747712",
+      "confidence": 0.8948
+    },
+    {
+      "text": "INV0ICENO18299/102/T0230",
+      "confidence": 0.94
+    },
+    {
+      "text": "568019",
+      "confidence": 0.8127
+    },
+    {
+      "text": "0502-18",
+      "confidence": 0.9591
+    },
+    {
+      "text": "01:340M",
+      "confidence": 0.838
+    },
+    {
+      "text": "RM62.50 z",
+      "confidence": 0.9246
+    },
+    {
+      "text": "2503 YONCCHUN LOKAM MNDRN S",
+      "confidence": 0.8842
+    },
+    {
+      "text": "5XRM12.50",
+      "confidence": 0.8452
+    },
+    {
+      "text": "RM79.00z",
+      "confidence": 0.948
+    },
+    {
+      "text": "2508 YCNSCHUN LOKAK MNDRN",
+      "confidence": 0.8672
+    },
+    {
+      "text": "5XRM15.80",
+      "confidence": 0.9184
+    },
+    {
+      "text": "Total Sales Inclusive Gst RM",
+      "confidence": 0.8715
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9922
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9112
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9943
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.8991
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.8696
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9286
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9101
+    },
+    {
+      "text": "Tax(RH)",
+      "confidence": 0.9044
+    },
+    {
+      "text": "z=0%",
+      "confidence": 0.7673
+    },
+    {
+      "text": "141.50",
+      "confidence": 0.9943
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9774
+    },
+    {
+      "text": "Thank You. Mlease come again",
+      "confidence": 0.875
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9086
+    }
+  ]
+}

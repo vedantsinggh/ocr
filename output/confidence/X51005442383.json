@@ -1,0 +1,211 @@
+{
+  "source": "images/X51005442383.jpg",
+  "line_count": 51,
+  "avg_confidence": 0.9621,
+  "lines": [
+    {
+      "text": "CARREFOUR RESTAURANT",
+      "confidence": 0.974
+    },
+    {
+      "text": "JM0725755-U",
+      "confidence": 0.9381
+    },
+    {
+      "text": "18JALANPERMAS 107",
+      "confidence": 0.9343
+    },
+    {
+      "text": "BANDAR BARU PERMASJAYA,",
+      "confidence": 0.9523
+    },
+    {
+      "text": "MASAI,JOHOR",
+      "confidence": 0.9441
+    },
+    {
+      "text": "GSTID000433614848",
+      "confidence": 0.9838
+    },
+    {
+      "text": "TEL:07-3822812",
+      "confidence": 0.9529
+    },
+    {
+      "text": "TABLE",
+      "confidence": 0.9875
+    },
+    {
+      "text": ":3",
+      "confidence": 0.637
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9956
+    },
+    {
+      "text": "MEMBERPOINTS:O.OO",
+      "confidence": 0.8792
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9896
+    },
+    {
+      "text": "CS00018751DATE:",
+      "confidence": 0.9606
+    },
+    {
+      "text": "20/03/2018",
+      "confidence": 0.9337
+    },
+    {
+      "text": "SALESPERSON",
+      "confidence": 0.9977
+    },
+    {
+      "text": "TIME:",
+      "confidence": 0.9838
+    },
+    {
+      "text": "12:42:00",
+      "confidence": 0.9412
+    },
+    {
+      "text": "CASHIER:",
+      "confidence": 0.9915
+    },
+    {
+      "text": "BAIHE",
+      "confidence": 0.9853
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9952
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9833
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.8443
+    },
+    {
+      "text": "DISC%",
+      "confidence": 0.9741
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9959
+    },
+    {
+      "text": "238",
+      "confidence": 0.971
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.978
+    },
+    {
+      "text": "1033",
+      "confidence": 0.9967
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9897
+    },
+    {
+      "text": "TOTALQTY:",
+      "confidence": 0.9492
+    },
+    {
+      "text": "2",
+      "confidence": 0.9959
+    },
+    {
+      "text": "TOTAL POINTS:0.00",
+      "confidence": 0.9396
+    },
+    {
+      "text": "SUB-TOTAL:",
+      "confidence": 0.9464
+    },
+    {
+      "text": "13.00",
+      "confidence": 0.9934
+    },
+    {
+      "text": "DISC:",
+      "confidence": 0.8765
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9793
+    },
+    {
+      "text": "SERVICE CHARGE:",
+      "confidence": 0.9609
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9937
+    },
+    {
+      "text": "GOVTAX",
+      "confidence": 0.984
+    },
+    {
+      "text": "0.78",
+      "confidence": 0.9973
+    },
+    {
+      "text": "ROUNDING:",
+      "confidence": 0.9618
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9912
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9255
+    },
+    {
+      "text": "13.80",
+      "confidence": 0.9945
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9958
+    },
+    {
+      "text": "13.80",
+      "confidence": 0.9984
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9715
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9947
+    },
+    {
+      "text": "GOODS SOLD ARENOT RETURNABLE,",
+      "confidence": 0.9583
+    },
+    {
+      "text": "THANKYOU.",
+      "confidence": 0.9775
+    }
+  ]
+}

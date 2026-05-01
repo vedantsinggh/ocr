@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806716.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806716.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ADVAnCO COmpAny",
+  "date": "2018-01-17",
+  "items": [
+    {
+      "name": "UNiCORN-20CM HALF WH 1 E RULEF SR",
+      "qty": 1,
+      "price": "0.80"
+    },
+    {
+      "name": "CBE-S217 C3E 7\" SCISSORS;2.0MM SR",
+      "qty": 1,
+      "price": "6.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.00",
+  "total": "7.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

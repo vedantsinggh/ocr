@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230621.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230621.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SIN LIANHAP SDN BHD",
+  "date": "2018-02-05",
+  "items": [
+    {
+      "name": "DENLIME",
+      "qty": null,
+      "price": "1.887SR"
+    },
+    {
+      "name": "PC",
+      "qty": 1.0,
+      "price": "2.00SR"
+    },
+    {
+      "name": "GARDEN",
+      "qty": 5.0,
+      "price": "5.30SR"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.69SR",
+  "total": "7.30SR",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

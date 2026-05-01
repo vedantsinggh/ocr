@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719893.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719893.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Solaris",
+  "date": "2018-01-05",
+  "items": [
+    {
+      "name": "Fried Rice",
+      "qty": 3,
+      "price": "71.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.02",
+  "total": "71.00",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

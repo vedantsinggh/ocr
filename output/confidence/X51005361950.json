@@ -1,0 +1,115 @@
+{
+  "source": "images/X51005361950.jpg",
+  "line_count": 27,
+  "avg_confidence": 0.9376,
+  "lines": [
+    {
+      "text": "99 SPEED MART5/B519537-X",
+      "confidence": 0.8359
+    },
+    {
+      "text": "TAMRN RERKELEY",
+      "confidence": 0.8792
+    },
+    {
+      "text": "41150KLANG,SELANGOR",
+      "confidence": 0.9484
+    },
+    {
+      "text": "1076-IJOK",
+      "confidence": 0.9315
+    },
+    {
+      "text": "GST ID.NO000181747712",
+      "confidence": 0.9562
+    },
+    {
+      "text": "INV0ICE NO18287/102/T0049",
+      "confidence": 0.9412
+    },
+    {
+      "text": "10:43AM",
+      "confidence": 0.9664
+    },
+    {
+      "text": "568582",
+      "confidence": 0.9861
+    },
+    {
+      "text": "24-01-18",
+      "confidence": 0.9906
+    },
+    {
+      "text": "1973 GARBAGE BAG BLUE)74C",
+      "confidence": 0.9145
+    },
+    {
+      "text": "RM1.255",
+      "confidence": 0.9186
+    },
+    {
+      "text": "1974 GARBAGE BAG GREEN 74",
+      "confidence": 0.8983
+    },
+    {
+      "text": "RM1.25s",
+      "confidence": 0.9058
+    },
+    {
+      "text": "Total Sales (Inclusive GsT RM",
+      "confidence": 0.8863
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9961
+    },
+    {
+      "text": "CASH RM",
+      "confidence": 0.9226
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9626
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.994
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9558
+    },
+    {
+      "text": "Amount(RH)",
+      "confidence": 0.9172
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9393
+    },
+    {
+      "text": "=6%",
+      "confidence": 0.8397
+    },
+    {
+      "text": "2.36",
+      "confidence": 0.9911
+    },
+    {
+      "text": ".14",
+      "confidence": 0.9659
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9218
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.952
+    }
+  ]
+}

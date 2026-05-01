@@ -1,0 +1,167 @@
+{
+  "source": "images/X51005568914.jpg",
+  "line_count": 40,
+  "avg_confidence": 0.9649,
+  "lines": [
+    {
+      "text": "IKANO HANDEL SDN BHD",
+      "confidence": 0.9598
+    },
+    {
+      "text": "(1074617K)",
+      "confidence": 0.9153
+    },
+    {
+      "text": "IKEACheras",
+      "confidence": 0.9946
+    },
+    {
+      "text": "No 2A Jalan Cochrane",
+      "confidence": 0.946
+    },
+    {
+      "text": "Taman Maluri",
+      "confidence": 0.9625
+    },
+    {
+      "text": "55100 KUALA LUMPUR",
+      "confidence": 0.9467
+    },
+    {
+      "text": "GST No.: 000115154944",
+      "confidence": 0.9364
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.961
+    },
+    {
+      "text": "Slip: 0000000011000140428",
+      "confidence": 0.9698
+    },
+    {
+      "text": "Date:09/08/17",
+      "confidence": 0.9806
+    },
+    {
+      "text": "Time:1:06",
+      "confidence": 0.9352
+    },
+    {
+      "text": "Trans:311140123",
+      "confidence": 0.9849
+    },
+    {
+      "text": "Staff:",
+      "confidence": 0.9799
+    },
+    {
+      "text": "96728",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9533
+    },
+    {
+      "text": "Amount TX",
+      "confidence": 0.968
+    },
+    {
+      "text": "30169728 BAGIS COAT-HANGER CH",
+      "confidence": 0.9506
+    },
+    {
+      "text": "2 pc@4.90",
+      "confidence": 0.9241
+    },
+    {
+      "text": "9.80S",
+      "confidence": 0.8828
+    },
+    {
+      "text": "SRM",
+      "confidence": 0.9974
+    },
+    {
+      "text": "70350938 TE0D0RES CH",
+      "confidence": 0.9203
+    },
+    {
+      "text": "90.00SR S",
+      "confidence": 0.9517
+    },
+    {
+      "text": "Tota1 RM Including GST 6%",
+      "confidence": 0.9157
+    },
+    {
+      "text": "99.80",
+      "confidence": 0.9962
+    },
+    {
+      "text": "Rounding Adj.",
+      "confidence": 0.9583
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Tota1 Rounded",
+      "confidence": 0.9576
+    },
+    {
+      "text": "99.80",
+      "confidence": 0.9871
+    },
+    {
+      "text": "Mastercard",
+      "confidence": 0.9866
+    },
+    {
+      "text": "-99.80",
+      "confidence": 0.9774
+    },
+    {
+      "text": "GSTSR",
+      "confidence": 0.9905
+    },
+    {
+      "text": "6%",
+      "confidence": 0.9892
+    },
+    {
+      "text": "99.80",
+      "confidence": 0.9964
+    },
+    {
+      "text": "5.64",
+      "confidence": 0.993
+    },
+    {
+      "text": "Amt.Exc1.GST",
+      "confidence": 0.9485
+    },
+    {
+      "text": "94.16",
+      "confidence": 0.9895
+    },
+    {
+      "text": "No.of Items",
+      "confidence": 0.9616
+    },
+    {
+      "text": "3",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Thank you. Please come again.",
+      "confidence": 0.942
+    },
+    {
+      "text": "*T3620000011000140428*",
+      "confidence": 0.9943
+    }
+  ]
+}

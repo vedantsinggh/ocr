@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005675099.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005675099.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Super Terminal Sdn Bhd",
+  "date": "2018-01-20",
+  "items": [
+    {
+      "name": "LED SIGNAL",
+      "qty": 1,
+      "price": "55.00"
+    },
+    {
+      "name": "KZ SIGNAL CONDENSOR (KOZI) 12V (MODEL:SC1201)(MT)",
+      "qty": 1,
+      "price": "18.00"
+    },
+    {
+      "name": "YAMLUBE (SEMI) MOTOR OIL",
+      "qty": 1,
+      "price": "30.00"
+    },
+    {
+      "name": "OILFILTER LC135",
+      "qty": 1,
+      "price": "13.00"
+    },
+    {
+      "name": "BULBS SIGNAL 12V8 RXZ G18.5",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "NUMBER PLASTIC",
+      "qty": 6,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.50",
+  "total": "132.50",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

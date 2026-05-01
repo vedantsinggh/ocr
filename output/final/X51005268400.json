@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005268400.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005268400.txt",
+    "ocr_line_count": 56,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HASSANBISTRO",
+  "date": "2017-12-28",
+  "items": [
+    {
+      "name": "MAKANAN",
+      "qty": 1,
+      "price": "15.00"
+    }
+  ],
+  "subtotal": "15.00",
+  "tax": "0.00",
+  "total": "15.00",
+  "currency": "RM",
+  "payment_method": null
+}

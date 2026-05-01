@@ -1,0 +1,263 @@
+{
+  "source": "images/X51005301667.jpg",
+  "line_count": 64,
+  "avg_confidence": 0.9653,
+  "lines": [
+    {
+      "text": "No: 28, JALAN ASTANA 1C,",
+      "confidence": 0.9316
+    },
+    {
+      "text": "ROC No.:(1072825-A)",
+      "confidence": 0.9268
+    },
+    {
+      "text": "GST No. : 000584089600",
+      "confidence": 0.9741
+    },
+    {
+      "text": "CREDIT NOTE",
+      "confidence": 0.9983
+    },
+    {
+      "text": "C/N No: LCNO0211",
+      "confidence": 0.9603
+    },
+    {
+      "text": "Station: CASHIER",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Cover :1",
+      "confidence": 0.9807
+    },
+    {
+      "text": "Cashier: ANGELA",
+      "confidence": 0.9928
+    },
+    {
+      "text": "Bill Date : 20/11/2017",
+      "confidence": 0.9775
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9997
+    },
+    {
+      "text": ":",
+      "confidence": 0.9858
+    },
+    {
+      "text": " 300-E0009",
+      "confidence": 0.9801
+    },
+    {
+      "text": "Name",
+      "confidence": 0.9982
+    },
+    {
+      "text": ": ESWARAN 012-6369400",
+      "confidence": 0.9907
+    },
+    {
+      "text": "Aatasss",
+      "confidence": 0.5407
+    },
+    {
+      "text": "GST No.",
+      "confidence": 0.9962
+    },
+    {
+      "text": " SR",
+      "confidence": 0.8383
+    },
+    {
+      "text": "REFER LCS03158",
+      "confidence": 0.981
+    },
+    {
+      "text": "UNIT",
+      "confidence": 0.8028
+    },
+    {
+      "text": "0",
+      "confidence": 0.9925
+    },
+    {
+      "text": "*",
+      "confidence": 0.8932
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9949
+    },
+    {
+      "text": "YT51775",
+      "confidence": 0.9973
+    },
+    {
+      "text": "1O59 18W SQ WW BK SUR LED LIGHT",
+      "confidence": 0.9425
+    },
+    {
+      "text": "1059 SQUARE BLACK FRAME",
+      "confidence": 0.9962
+    },
+    {
+      "text": "37. 55",
+      "confidence": 0.9591
+    },
+    {
+      "text": "2*RM18.77UNI2.25=RM",
+      "confidence": 0.972
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9979
+    },
+    {
+      "text": "37.55",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Sub 1 :al.",
+      "confidence": 0.8959
+    },
+    {
+      "text": ":",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Service Charge",
+      "confidence": 0.9999
+    },
+    {
+      "text": " RM",
+      "confidence": 0.8368
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": ":",
+      "confidence": 0.9997
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9977
+    },
+    {
+      "text": "GST/TAX 6%",
+      "confidence": 0.9765
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.9998
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9966
+    },
+    {
+      "text": "39.80",
+      "confidence": 0.9999
+    },
+    {
+      "text": "TOTAL :",
+      "confidence": 0.9905
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9511
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9974
+    },
+    {
+      "text": "39.80",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE:",
+      "confidence": 0.9979
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9965
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Item Count: 2",
+      "confidence": 0.9955
+    },
+    {
+      "text": "Qty mt :2.0",
+      "confidence": 0.9544
+    },
+    {
+      "text": "Clos<d Bi11: 20/11/2017 03:55:56 PM",
+      "confidence": 0.9522
+    },
+    {
+      "text": "Thank You, Please come again.",
+      "confidence": 0.9929
+    },
+    {
+      "text": "Goods Sold are not refundable, returnable",
+      "confidence": 0.9988
+    },
+    {
+      "text": "BANK ACC MBB 5128 4851 2118",
+      "confidence": 0.9649
+    },
+    {
+      "text": "BANK ACC MBB 5626 4732 1744",
+      "confidence": 0.9581
+    },
+    {
+      "text": "BANK ACC AMBANK 888 100 123 3706",
+      "confidence": 0.9275
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9708
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9948
+    },
+    {
+      "text": "SR @ 6%",
+      "confidence": 0.955
+    },
+    {
+      "text": "37. 55",
+      "confidence": 0.9619
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.9997
+    },
+    {
+      "text": " ZR/OS/EZ",
+      "confidence": 0.9299
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    }
+  ]
+}

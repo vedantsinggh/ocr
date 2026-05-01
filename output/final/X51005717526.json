@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005717526.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005717526.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "L McChicken",
+      "qty": null,
+      "price": "11.10"
+    },
+    {
+      "name": "7 Nuggets",
+      "qty": null,
+      "price": "7.50"
+    },
+    {
+      "name": "Ayam Goreng (TA)",
+      "qty": null,
+      "price": "9.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.61",
+  "total": "28.50",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447841.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447841.txt",
+    "ocr_line_count": 56,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-03-09",
+  "items": [
+    {
+      "name": "A&M SARSAP 330ML",
+      "qty": null,
+      "price": "1.20"
+    },
+    {
+      "name": "100PLUS REGULAR 500ML",
+      "qty": "WALK",
+      "price": "1.90"
+    },
+    {
+      "name": "Loacker wafer milk 45g",
+      "qty": "WALK",
+      "price": "2.70"
+    },
+    {
+      "name": "fishermans.f s/free lemon 25g",
+      "qty": "10 WALK",
+      "price": "4.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "10.40",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

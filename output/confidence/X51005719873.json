@@ -1,0 +1,219 @@
+{
+  "source": "images/X51005719873.jpg",
+  "line_count": 53,
+  "avg_confidence": 0.9846,
+  "lines": [
+    {
+      "text": "Your order number is",
+      "confidence": 0.9996
+    },
+    {
+      "text": "7290",
+      "confidence": 0.9999
+    },
+    {
+      "text": "tealive",
+      "confidence": 0.9994
+    },
+    {
+      "text": "CT281 - Tealive Shell Kepong",
+      "confidence": 0.9893
+    },
+    {
+      "text": "Ottogo Enterprise",
+      "confidence": 0.9774
+    },
+    {
+      "text": "002570632-X",
+      "confidence": 0.9912
+    },
+    {
+      "text": "GSTID:001018802176",
+      "confidence": 0.9716
+    },
+    {
+      "text": "SHELLSTATION PT15944.Mukim",
+      "confidence": 0.9732
+    },
+    {
+      "text": "Batu,",
+      "confidence": 0.9874
+    },
+    {
+      "text": "JIn Besar Kepong.",
+      "confidence": 0.9306
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Counter: 7290",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Take Away",
+      "confidence": 0.98
+    },
+    {
+      "text": "Bill No:",
+      "confidence": 0.8803
+    },
+    {
+      "text": "394024495",
+      "confidence": 0.9969
+    },
+    {
+      "text": "COMPLETED",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9908
+    },
+    {
+      "text": "21/01/2018",
+      "confidence": 0.9997
+    },
+    {
+      "text": "15.46:09",
+      "confidence": 0.8757
+    },
+    {
+      "text": "Sales Remarks",
+      "confidence": 0.9919
+    },
+    {
+      "text": "Qty Price(RM)",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Item Name",
+      "confidence": 0.9784
+    },
+    {
+      "text": "Hazelnut Coco -L",
+      "confidence": 0.9887
+    },
+    {
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "text": "7 50 SR",
+      "confidence": 0.9652
+    },
+    {
+      "text": ":Pearl",
+      "confidence": 0.9769
+    },
+    {
+      "text": "1",
+      "confidence": 0.9991
+    },
+    {
+      "text": "1.10",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9984
+    },
+    {
+      "text": "RM8.60",
+      "confidence": 0.9315
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9852
+    },
+    {
+      "text": "RMO.00",
+      "confidence": 0.9716
+    },
+    {
+      "text": "Total Sales Incl GST @ 6%",
+      "confidence": 0.9559
+    },
+    {
+      "text": "RM8.60",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.999
+    },
+    {
+      "text": "8.60",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Tendered",
+      "confidence": 0.9986
+    },
+    {
+      "text": "9.00",
+      "confidence": 0.993
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9983
+    },
+    {
+      "text": "0.40",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR @ 6%",
+      "confidence": 0.9466
+    },
+    {
+      "text": "8.12",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.48",
+      "confidence": 0.9998
+    },
+    {
+      "text": "You have just missed out 8 points",
+      "confidence": 0.9951
+    },
+    {
+      "text": "Sign up for a Tealive UniTea Card",
+      "confidence": 0.9993
+    },
+    {
+      "text": "today to enjoy exclusive member",
+      "confidence": 0.9998
+    },
+    {
+      "text": "promotions and collect BPoints to",
+      "confidence": 0.9996
+    },
+    {
+      "text": "redeem on future purchases",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Thank You Please Come Again",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Printed at:21/01/2018 15:46:09",
+      "confidence": 0.9865
+    }
+  ]
+}

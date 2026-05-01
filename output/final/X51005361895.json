@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361895.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361895.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "FUYI MINIMARKET",
+  "date": "2018-01-25",
+  "items": [
+    {
+      "name": "SUMMERCUP48X230ML",
+      "qty": 9.0,
+      "price": "8.49"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.51",
+  "total": "9.00",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

@@ -1,0 +1,387 @@
+{
+  "source": "images/X51005806692.jpg",
+  "line_count": 95,
+  "avg_confidence": 0.9718,
+  "lines": [
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GREATZONE HOUSEHOLD CENTRE SDN BHD",
+      "confidence": 0.9975
+    },
+    {
+      "text": "(801049-U)",
+      "confidence": 0.9975
+    },
+    {
+      "text": "60 & 62. Jalan Ciku,",
+      "confidence": 0.9991
+    },
+    {
+      "text": "86000,KLUANG",
+      "confidence": 0.9966
+    },
+    {
+      "text": "GST Reg.: 001833082880",
+      "confidence": 0.9799
+    },
+    {
+      "text": "Document No. : KLG0201130227",
+      "confidence": 0.956
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.995
+    },
+    {
+      "text": "18/02/2018 06:08:59 PM",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Debtor :",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Member :",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Terminal :",
+      "confidence": 0.9998
+    },
+    {
+      "text": "KLG0201",
+      "confidence": 0.9902
+    },
+    {
+      "text": "Cashier :",
+      "confidence": 0.9996
+    },
+    {
+      "text": "KLG2",
+      "confidence": 0.9085
+    },
+    {
+      "text": "DESC",
+      "confidence": 0.9895
+    },
+    {
+      "text": "U. PRICE",
+      "confidence": 0.9971
+    },
+    {
+      "text": "DiscAMOUNT TAX",
+      "confidence": 0.9941
+    },
+    {
+      "text": " QTY",
+      "confidence": 0.6179
+    },
+    {
+      "text": " RM",
+      "confidence": 0.9111
+    },
+    {
+      "text": " RM CODE",
+      "confidence": 0.9374
+    },
+    {
+      "text": " 200SHEET COMPACT SERVIETTES (NTE)",
+      "confidence": 0.9152
+    },
+    {
+      "text": "1 PC",
+      "confidence": 0.866
+    },
+    {
+      "text": "3.30",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.30 SR",
+      "confidence": 0.9572
+    },
+    {
+      "text": "1.5\" RU8BER BAND",
+      "confidence": 0.9592
+    },
+    {
+      "text": "1 200G *",
+      "confidence": 0.9912
+    },
+    {
+      "text": "3.60",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "3.60 SR",
+      "confidence": 0.9865
+    },
+    {
+      "text": "t0 SXE dd",
+      "confidence": 0.8884
+    },
+    {
+      "text": "1 200G *",
+      "confidence": 0.9773
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.50 SR",
+      "confidence": 0.9985
+    },
+    {
+      "text": "18MMX90Y OPP TAPE",
+      "confidence": 0.993
+    },
+    {
+      "text": "1 PC ",
+      "confidence": 0.86
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9998
+    },
+    {
+      "text": " 0.00",
+      "confidence": 0.9005
+    },
+    {
+      "text": "1.60 SR",
+      "confidence": 0.9978
+    },
+    {
+      "text": "911 TAPE DISPENSER",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1 PC",
+      "confidence": 0.8178
+    },
+    {
+      "text": "*",
+      "confidence": 0.9532
+    },
+    {
+      "text": "8.60",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "8.60 SR",
+      "confidence": 0.9957
+    },
+    {
+      "text": "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+      "confidence": 0.9939
+    },
+    {
+      "text": "1PC *",
+      "confidence": 0.8865
+    },
+    {
+      "text": "49.90",
+      "confidence": 0.9481
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "49.90 SR",
+      "confidence": 0.996
+    },
+    {
+      "text": "AP-17 APRON PLAIN CLOTH",
+      "confidence": 0.9993
+    },
+    {
+      "text": "20 PC*",
+      "confidence": 0.9558
+    },
+    {
+      "text": "10.90",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "218.00 SR",
+      "confidence": 0.9955
+    },
+    {
+      "text": "TALI UKURAN",
+      "confidence": 0.9924
+    },
+    {
+      "text": "1 PC *",
+      "confidence": 0.9116
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.00 SR",
+      "confidence": 0.996
+    },
+    {
+      "text": " CC-100 100PC CITE CANDLE",
+      "confidence": 0.9769
+    },
+    {
+      "text": "1PC *",
+      "confidence": 0.8869
+    },
+    {
+      "text": "22.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9067
+    },
+    {
+      "text": "22.90 SR",
+      "confidence": 0.9996
+    },
+    {
+      "text": " F1502 SCISSOR 08C (CH) (TLC)",
+      "confidence": 0.9779
+    },
+    {
+      "text": "6 PC *",
+      "confidence": 0.9419
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "36.00 SR",
+      "confidence": 0.9946
+    },
+    {
+      "text": "2KG HC KITCHEN SCALE",
+      "confidence": 0.999
+    },
+    {
+      "text": "1PC *",
+      "confidence": 0.9499
+    },
+    {
+      "text": "19.90",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "19.90 SR",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Sub Total (Exclusive GST) :",
+      "confidence": 0.9811
+    },
+    {
+      "text": "346.51",
+      "confidence": 0.9779
+    },
+    {
+      "text": "GST 6% :",
+      "confidence": 0.9887
+    },
+    {
+      "text": "20.79",
+      "confidence": 0.996
+    },
+    {
+      "text": " Service Charge :",
+      "confidence": 0.9634
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": " Rounding Adjustment :",
+      "confidence": 0.9801
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Rounded Total (RM):",
+      "confidence": 0.9977
+    },
+    {
+      "text": "367.30",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Credit Card",
+      "confidence": 0.9994
+    },
+    {
+      "text": "367.30",
+      "confidence": 1.0
+    },
+    {
+      "text": " GST Summary",
+      "confidence": 0.9682
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9537
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9977
+    },
+    {
+      "text": " SR @ 6%",
+      "confidence": 0.9053
+    },
+    {
+      "text": "346.51",
+      "confidence": 1.0
+    },
+    {
+      "text": "20.79",
+      "confidence": 0.9999
+    }
+  ]
+}

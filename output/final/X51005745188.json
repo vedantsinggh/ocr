@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745188.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745188.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SLF CASH & CARRY",
+  "date": "2018-02-02",
+  "items": [
+    {
+      "name": "ROYAL BAKING POWDER 45OG",
+      "qty": 4,
+      "price": "11.32"
+    }
+  ],
+  "subtotal": "45.28",
+  "tax": "2.72",
+  "total": "48.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

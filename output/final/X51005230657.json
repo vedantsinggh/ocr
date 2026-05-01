@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230657.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230657.txt",
+    "ocr_line_count": 53,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CROSS CHANNEL NEIWORK SDN.BHD",
+  "date": "2017-12-31",
+  "items": [
+    {
+      "name": "OMM HEROPVC CONDUIT PIPE",
+      "qty": 1,
+      "price": "1.80"
+    },
+    {
+      "name": "15A PVC CONNECTOR",
+      "qty": 1,
+      "price": "1.91"
+    },
+    {
+      "name": "R&B-C/CLIP 8MMX 100PCS",
+      "qty": 1,
+      "price": "371.00"
+    },
+    {
+      "name": "CABLE CLIPS 35000",
+      "qty": 1,
+      "price": "0.53"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.45",
+  "total": "7.95",
+  "currency": "RM",
+  "payment_method": null
+}

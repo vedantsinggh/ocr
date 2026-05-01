@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/11.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/11.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WHOLE FOODS MARKET",
+  "date": null,
+  "items": [
+    {
+      "name": "PL TORTILLAS",
+      "qty": null,
+      "price": "6.99B"
+    },
+    {
+      "name": "CAGE FREE ALL WHIT",
+      "qty": null,
+      "price": "3.69B"
+    },
+    {
+      "name": "BLACK BEANS",
+      "qty": null,
+      "price": "1.29B"
+    },
+    {
+      "name": "Frozen Mangoes",
+      "qty": null,
+      "price": "2.99B"
+    },
+    {
+      "name": "Whole Strawberrles",
+      "qty": null,
+      "price": "2.99B"
+    },
+    {
+      "name": "OG LF COTTAGE CHEE",
+      "qty": null,
+      "price": "3.49B"
+    },
+    {
+      "name": "MAHI MAHI FILLETS",
+      "qty": null,
+      "price": "8.99B"
+    },
+    {
+      "name": "California Harvest",
+      "qty": null,
+      "price": "2.69B"
+    },
+    {
+      "name": "GALA APPLES",
+      "qty": "1.08 lb",
+      "price": "3.26B"
+    }
+  ],
+  "subtotal": null,
+  "tax": "93",
+  "total": "45.44",
+  "currency": "INR",
+  "payment_method": null
+}

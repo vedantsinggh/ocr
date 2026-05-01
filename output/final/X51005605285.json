@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605285.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605285.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AEON",
+  "date": "2018-03-22",
+  "items": [
+    {
+      "name": "WET TISSUE 150S",
+      "qty": null,
+      "price": "5.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.33",
+  "total": "5.57",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

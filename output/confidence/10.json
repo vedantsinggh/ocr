@@ -1,0 +1,335 @@
+{
+  "source": "images/10.jpg",
+  "line_count": 82,
+  "avg_confidence": 0.9667,
+  "lines": [
+    {
+      "text": "SPARO",
+      "confidence": 0.8815
+    },
+    {
+      "text": "Te1036-4481240",
+      "confidence": 0.9613
+    },
+    {
+      "text": "email:bergspar@telkomsa.net",
+      "confidence": 0.9514
+    },
+    {
+      "text": "VAT No4450102696",
+      "confidence": 0.9541
+    },
+    {
+      "text": "NLA REG NO:KZN 032577",
+      "confidence": 0.9084
+    },
+    {
+      "text": "R",
+      "confidence": 0.9948
+    },
+    {
+      "text": "LAZENBY WORCESTER SAUCE 125ML",
+      "confidence": 0.9465
+    },
+    {
+      "text": "17.99 A",
+      "confidence": 0.9401
+    },
+    {
+      "text": "MILKY BAR CHOC",
+      "confidence": 0.9502
+    },
+    {
+      "text": "80GR",
+      "confidence": 0.9569
+    },
+    {
+      "text": "16.99 A",
+      "confidence": 0.9023
+    },
+    {
+      "text": "SMOKED VIENNAS",
+      "confidence": 0.9733
+    },
+    {
+      "text": "500GR",
+      "confidence": 0.9949
+    },
+    {
+      "text": "33.99 A",
+      "confidence": 0.9373
+    },
+    {
+      "text": "PEALED PEACHES",
+      "confidence": 0.9686
+    },
+    {
+      "text": "400G",
+      "confidence": 0.9934
+    },
+    {
+      "text": "82.99A",
+      "confidence": 0.9949
+    },
+    {
+      "text": "MEDITERRANEAN MIX",
+      "confidence": 0.9825
+    },
+    {
+      "text": "1KG",
+      "confidence": 0.9969
+    },
+    {
+      "text": "44.99 *",
+      "confidence": 0.9268
+    },
+    {
+      "text": "SPAR COOKING OIL",
+      "confidence": 0.951
+    },
+    {
+      "text": "375ML",
+      "confidence": 0.9962
+    },
+    {
+      "text": "14.99*",
+      "confidence": 0.9918
+    },
+    {
+      "text": "F/L ENGLISH CUCUMB",
+      "confidence": 0.9409
+    },
+    {
+      "text": "1'S",
+      "confidence": 0.8761
+    },
+    {
+      "text": "12.99*",
+      "confidence": 0.9885
+    },
+    {
+      "text": "NESTLE AERO",
+      "confidence": 0.9676
+    },
+    {
+      "text": "85GR",
+      "confidence": 0.9984
+    },
+    {
+      "text": "20.99 A",
+      "confidence": 0.9409
+    },
+    {
+      "text": "CADBURY DAIRY MI",
+      "confidence": 0.9437
+    },
+    {
+      "text": "80GR",
+      "confidence": 0.9759
+    },
+    {
+      "text": "16.99 A",
+      "confidence": 0.9328
+    },
+    {
+      "text": "GRAPES MIXED TUB",
+      "confidence": 0.949
+    },
+    {
+      "text": "TUB",
+      "confidence": 0.9971
+    },
+    {
+      "text": "24.99*",
+      "confidence": 0.9824
+    },
+    {
+      "text": "TASTIC RICE",
+      "confidence": 0.9735
+    },
+    {
+      "text": "500GR",
+      "confidence": 0.9957
+    },
+    {
+      "text": "11.99*",
+      "confidence": 0.9941
+    },
+    {
+      "text": "BLACK CAT SMOOTH",
+      "confidence": 0.969
+    },
+    {
+      "text": "270GR",
+      "confidence": 0.995
+    },
+    {
+      "text": "27.99 A",
+      "confidence": 0.9498
+    },
+    {
+      "text": "CARRIER BAG 24L",
+      "confidence": 0.9423
+    },
+    {
+      "text": "1'S",
+      "confidence": 0.8894
+    },
+    {
+      "text": "0.75A",
+      "confidence": 0.9926
+    },
+    {
+      "text": "BANANAS LOOSE",
+      "confidence": 0.9611
+    },
+    {
+      "text": "17KG",
+      "confidence": 0.9974
+    },
+    {
+      "text": "0.596kg@",
+      "confidence": 0.9797
+    },
+    {
+      "text": "15.99R",
+      "confidence": 0.9885
+    },
+    {
+      "text": "/kg",
+      "confidence": 0.9789
+    },
+    {
+      "text": "9.53*",
+      "confidence": 0.9851
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9986
+    },
+    {
+      "text": "FOR 14 ITEMS",
+      "confidence": 0.9371
+    },
+    {
+      "text": "338.16",
+      "confidence": 0.993
+    },
+    {
+      "text": "TENDERED Nedbank",
+      "confidence": 0.9631
+    },
+    {
+      "text": "338.16",
+      "confidence": 0.9963
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.963
+    },
+    {
+      "text": "VAT rate",
+      "confidence": 0.9659
+    },
+    {
+      "text": "excl.",
+      "confidence": 0.8504
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9953
+    },
+    {
+      "text": "incl.",
+      "confidence": 0.9572
+    },
+    {
+      "text": "0.00%",
+      "confidence": 0.9974
+    },
+    {
+      "text": "119.48",
+      "confidence": 0.9968
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "119.48 *",
+      "confidence": 0.9359
+    },
+    {
+      "text": "15.00%",
+      "confidence": 0.9977
+    },
+    {
+      "text": "190.16",
+      "confidence": 0.9906
+    },
+    {
+      "text": "28.52",
+      "confidence": 0.9961
+    },
+    {
+      "text": "218.68 A",
+      "confidence": 0.9415
+    },
+    {
+      "text": "SLIP/",
+      "confidence": 0.9821
+    },
+    {
+      "text": "TILL",
+      "confidence": 0.9937
+    },
+    {
+      "text": "/CASHIER",
+      "confidence": 0.9743
+    },
+    {
+      "text": "DATE",
+      "confidence": 0.9979
+    },
+    {
+      "text": "TIME",
+      "confidence": 0.9976
+    },
+    {
+      "text": "3780",
+      "confidence": 0.9982
+    },
+    {
+      "text": "005",
+      "confidence": 0.9983
+    },
+    {
+      "text": "101",
+      "confidence": 0.9986
+    },
+    {
+      "text": "23.02.21",
+      "confidence": 0.9866
+    },
+    {
+      "text": "16:17",
+      "confidence": 0.9488
+    },
+    {
+      "text": "CASHIER NAME:SWAZI",
+      "confidence": 0.9617
+    },
+    {
+      "text": "Please Retain Slip",
+      "confidence": 0.9565
+    },
+    {
+      "text": "Thank You For Shopping With Us!:)",
+      "confidence": 0.9223
+    },
+    {
+      "text": "Follow us on Facebook:Spar Bergville",
+      "confidence": 0.941
+    }
+  ]
+}

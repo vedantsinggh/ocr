@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005301667.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005301667.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CASHIER",
+  "date": "2017-11-20",
+  "items": [
+    {
+      "name": "18W SQ WW BK SUR LED LIGHT",
+      "qty": null,
+      "price": "37.55"
+    },
+    {
+      "name": "SQUARE BLACK FRAME",
+      "qty": 2,
+      "price": "RM18.77"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.25",
+  "total": "39.80",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

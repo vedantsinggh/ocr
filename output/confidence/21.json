@@ -1,0 +1,275 @@
+{
+  "source": "images/21.jpg",
+  "line_count": 67,
+  "avg_confidence": 0.9433,
+  "lines": [
+    {
+      "text": "DOllAR TREe STORes,INC.",
+      "confidence": 0.7297
+    },
+    {
+      "text": "Store4561",
+      "confidence": 0.9824
+    },
+    {
+      "text": "305)835-8204",
+      "confidence": 0.9559
+    },
+    {
+      "text": "7900 N 27th Ave",
+      "confidence": 0.8935
+    },
+    {
+      "text": "SuiteC-3",
+      "confidence": 0.9185
+    },
+    {
+      "text": "Miam1 FL 33147-4911",
+      "confidence": 0.9104
+    },
+    {
+      "text": "CESCFIPTION",
+      "confidence": 0.9683
+    },
+    {
+      "text": "OTY",
+      "confidence": 0.9793
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9987
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9984
+    },
+    {
+      "text": "CLIF BARP3",
+      "confidence": 0.9319
+    },
+    {
+      "text": "1",
+      "confidence": 0.9912
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.998
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.9336
+    },
+    {
+      "text": "CLIF BAR P3",
+      "confidence": 0.9155
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.9262
+    },
+    {
+      "text": "SLICED PEPPERONI3Z",
+      "confidence": 0.9591
+    },
+    {
+      "text": "1",
+      "confidence": 0.7484
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9744
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.888
+    },
+    {
+      "text": "SLICED PEPPERONI3Z",
+      "confidence": 0.9608
+    },
+    {
+      "text": "1",
+      "confidence": 0.875
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9874
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.9356
+    },
+    {
+      "text": "ASSUFED CAPLETS",
+      "confidence": 0.9513
+    },
+    {
+      "text": "TA",
+      "confidence": 0.5122
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.8861
+    },
+    {
+      "text": "SUPER GLUE GEL",
+      "confidence": 0.933
+    },
+    {
+      "text": "1",
+      "confidence": 0.7829
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "1.00T",
+      "confidence": 0.9563
+    },
+    {
+      "text": "CONDITIONER",
+      "confidence": 0.9763
+    },
+    {
+      "text": "1",
+      "confidence": 0.9917
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9672
+    },
+    {
+      "text": "1.00T",
+      "confidence": 0.9438
+    },
+    {
+      "text": "GINSENG TA3 50OMG",
+      "confidence": 0.8974
+    },
+    {
+      "text": "1",
+      "confidence": 0.9954
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.997
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.9201
+    },
+    {
+      "text": "GINSENG TA3 5OOMG",
+      "confidence": 0.9023
+    },
+    {
+      "text": "1",
+      "confidence": 0.9566
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1.00N",
+      "confidence": 0.9194
+    },
+    {
+      "text": "SCRUE SPONGE",
+      "confidence": 0.9603
+    },
+    {
+      "text": "1",
+      "confidence": 0.9974
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9971
+    },
+    {
+      "text": "1.00T",
+      "confidence": 0.9774
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.913
+    },
+    {
+      "text": "$10.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "GENERAL EXEM",
+      "confidence": 0.9621
+    },
+    {
+      "text": "$0.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "SALES TAX",
+      "confidence": 0.9513
+    },
+    {
+      "text": "$0.21",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9975
+    },
+    {
+      "text": "$10.21",
+      "confidence": 0.995
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9944
+    },
+    {
+      "text": "$20.21",
+      "confidence": 0.9913
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9972
+    },
+    {
+      "text": "$-10.00",
+      "confidence": 0.9896
+    },
+    {
+      "text": "Thark You for Snopping at Dol lar Tree",
+      "confidence": 0.9005
+    },
+    {
+      "text": "Where Everything's $1.00",
+      "confidence": 0.924
+    },
+    {
+      "text": "Now Shoo On-Line at Dollartree.com",
+      "confidence": 0.9169
+    },
+    {
+      "text": "1601045610303321128592",
+      "confidence": 0.9965
+    },
+    {
+      "text": "2/20/1419:52",
+      "confidence": 0.9804
+    },
+    {
+      "text": "Sales Associate:jacquitta",
+      "confidence": 0.9249
+    }
+  ]
+}

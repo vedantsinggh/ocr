@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447848.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447848.txt",
+    "ocr_line_count": 73,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIAN CHIPU TIAN VEGETARIAN RESTAURANT",
+  "date": "2012-01-06",
+  "items": [
+    {
+      "name": "CURRY MIXED VEGE",
+      "qty": 5,
+      "price": "15.90",
+      "amount": "1685"
+    },
+    {
+      "name": "517 SPRING ROLL",
+      "qty": 4,
+      "price": "12.00",
+      "amount": "1272"
+    },
+    {
+      "name": "TIGUAN YIN TEA",
+      "qty": 8,
+      "price": "3.00",
+      "amount": "3.18"
+    },
+    {
+      "name": "PLAIN RICE",
+      "qty": 9,
+      "price": "1.50",
+      "amount": "3.18"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.86",
+  "total": "53.55",
+  "currency": "RM",
+  "payment_method": null
+}

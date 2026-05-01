@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005441401.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005441401.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "THREE STOOGES BISTRO & CAFE",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "HH GUINESS 12 GLASSES",
+      "qty": null,
+      "price": "150.00"
+    },
+    {
+      "name": "HH TIGER 12 GLASSES",
+      "qty": null,
+      "price": "145.00"
+    }
+  ],
+  "subtotal": "295.00",
+  "tax": "324.50",
+  "total": "343.95",
+  "currency": "INR",
+  "payment_method": null
+}

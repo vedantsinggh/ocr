@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568900.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568900.txt",
+    "ocr_line_count": 35,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PADL0CK ST",
+  "date": "2018-12-28",
+  "items": [
+    {
+      "name": "ST-P6150 50MM",
+      "qty": 1,
+      "price": "9.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.56",
+  "total": "10.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

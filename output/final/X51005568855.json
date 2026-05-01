@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568855.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568855.txt",
+    "ocr_line_count": 84,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2017-12-23",
+  "items": [
+    {
+      "name": "Shoe White SW1l01*2S",
+      "qty": null,
+      "price": "4.29"
+    },
+    {
+      "name": "MR C.TAPE REF WH624R-",
+      "qty": null,
+      "price": "31.99"
+    },
+    {
+      "name": "KIT KAT 2F (PM 17G",
+      "qty": null,
+      "price": "1.35"
+    },
+    {
+      "name": "FC GRIP BPO.5 BLK PK",
+      "qty": null,
+      "price": "4.20"
+    },
+    {
+      "name": "FC GRIP BPO.5 BLU PK",
+      "qty": null,
+      "price": "4.20"
+    },
+    {
+      "name": "3M GlueStick 7gm 4's",
+      "qty": null,
+      "price": "10.59"
+    },
+    {
+      "name": "PU F/C B/L A4 450's",
+      "qty": null,
+      "price": "16.99"
+    },
+    {
+      "name": "PLUS stapler set 010E",
+      "qty": null,
+      "price": "8.89"
+    },
+    {
+      "name": "FC EXM.ERS 4S 187016",
+      "qty": null,
+      "price": "3.90"
+    },
+    {
+      "name": "S4 SUPER S M AKT SPM [BK]",
+      "qty": null,
+      "price": "9.90"
+    },
+    {
+      "name": "SUCCESS SPM ADD MATHS [BK]",
+      "qty": null,
+      "price": "37.00"
+    },
+    {
+      "name": "SUCCESS SPM SCI [BK]",
+      "qty": null,
+      "price": "35.70"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.18",
+  "total": "140.65",
+  "currency": "RM",
+  "payment_method": "Mastercard"
+}

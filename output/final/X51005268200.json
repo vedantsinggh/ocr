@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005268200.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005268200.txt",
+    "ocr_line_count": 55,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AIK HUAT HARDWARE ENTERPRISE",
+  "date": "2017-06-15",
+  "items": [
+    {
+      "name": "BIG SIRETCH FILM",
+      "qty": null,
+      "price": "15.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.85",
+  "total": "15.85",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745213.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745213.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MUN HENG ELECTRICAL& HARDWIARE SUPPLY",
+  "date": "2018-02-01",
+  "items": [
+    {
+      "name": "ESWHITE SPRAY",
+      "qty": 1.0,
+      "price": "7.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "7.00",
+  "total": "7.00",
+  "currency": "SR",
+  "payment_method": null
+}

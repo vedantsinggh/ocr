@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757248.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757248.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AEON CO.(M BHD",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "PLASTICS BAG",
+      "qty": null,
+      "price": "7R"
+    },
+    {
+      "name": "WC W/O HF",
+      "qty": 1,
+      "price": "14.817R"
+    },
+    {
+      "name": "NC W/O H&F",
+      "qty": 1,
+      "price": "13.532R"
+    }
+  ],
+  "subtotal": "42.48",
+  "tax": "0.19",
+  "total": "42.50",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

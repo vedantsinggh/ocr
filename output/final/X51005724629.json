@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724629.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724629.txt",
+    "ocr_line_count": 71,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MBB",
+  "date": "2018-03-17",
+  "items": [
+    {
+      "name": "B.R.CA101.7X4M",
+      "qty": 3,
+      "price": "58.30"
+    }
+  ],
+  "subtotal": "165.00",
+  "tax": "9.90",
+  "total": "174.90",
+  "currency": "INR",
+  "payment_method": null
+}

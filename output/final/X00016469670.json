@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469670.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469670.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "OJC MARKETING SDN BHD",
+  "date": "2019-01-15",
+  "items": [
+    {
+      "name": "KINGS SAFETY SHOES KWD 805",
+      "qty": 1,
+      "price": "193.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "193.00",
+  "currency": "INR",
+  "payment_method": "VISA CARD"
+}

@@ -1,0 +1,263 @@
+{
+  "source": "images/X51005806719.jpg",
+  "line_count": 64,
+  "avg_confidence": 0.9538,
+  "lines": [
+    {
+      "text": "POSTED",
+      "confidence": 0.9961
+    },
+    {
+      "text": "SATU KAMPUNG ENTERPRISE SDN BHD",
+      "confidence": 0.9781
+    },
+    {
+      "text": "(1127686-K)",
+      "confidence": 0.9979
+    },
+    {
+      "text": "NO.42, PASAR BORONG SELANGOR:",
+      "confidence": 0.9696
+    },
+    {
+      "text": "JALAN PUTRA PERMAI,",
+      "confidence": 0.9769
+    },
+    {
+      "text": "43300 SERI KEMBANGAN, SELANGOR",
+      "confidence": 0.9817
+    },
+    {
+      "text": "TEL : 03-8938 2188",
+      "confidence": 0.9454
+    },
+    {
+      "text": "SATUKAMPUNGESB@GMAIL. COM",
+      "confidence": 0.9691
+    },
+    {
+      "text": "GST ID : 000816205824",
+      "confidence": 0.9513
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9829
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.9753
+    },
+    {
+      "text": "CS00039037",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Date13/01/201,",
+      "confidence": 0.9361
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9989
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9915
+    },
+    {
+      "text": "Time:2337.00",
+      "confidence": 0.9431
+    },
+    {
+      "text": "Salesperson",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Ref :",
+      "confidence": 0.971
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.8665
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.9502
+    },
+    {
+      "text": " Item",
+      "confidence": 0.9047
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9219
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9893
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9898
+    },
+    {
+      "text": "Amouni",
+      "confidence": 0.9721
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.5768
+    },
+    {
+      "text": "KIT01",
+      "confidence": 0.7951
+    },
+    {
+      "text": "3",
+      "confidence": 0.9991
+    },
+    {
+      "text": "19.81",
+      "confidence": 0.9835
+    },
+    {
+      "text": "21.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "63.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9126
+    },
+    {
+      "text": "KITCHENWARE",
+      "confidence": 0.9939
+    },
+    {
+      "text": "Total Qty.",
+      "confidence": 0.9618
+    },
+    {
+      "text": "63 00",
+      "confidence": 0.8474
+    },
+    {
+      "text": "Total Sales (Exciuding GST) :",
+      "confidence": 0.9814
+    },
+    {
+      "text": "59.43",
+      "confidence": 0.9826
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9772
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.971
+    },
+    {
+      "text": "3.57",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9899
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Total Sales (Inclusive of GST) :",
+      "confidence": 0.976
+    },
+    {
+      "text": "63.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9477
+    },
+    {
+      "text": "00'0L",
+      "confidence": 0.5057
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9992
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "POSTED",
+      "confidence": 0.998
+    },
+    {
+      "text": "IARY",
+      "confidence": 0.7476
+    },
+    {
+      "text": "%",
+      "confidence": 0.9423
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9667
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9739
+    },
+    {
+      "text": "6",
+      "confidence": 0.9957
+    },
+    {
+      "text": "59.43",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3.57",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SDN BHD",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9961
+    },
+    {
+      "text": "59.43",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3.57",
+      "confidence": 0.9991
+    },
+    {
+      "text": "956-H",
+      "confidence": 0.9959
+    },
+    {
+      "text": "ASAR BORONG",
+      "confidence": 0.9215
+    },
+    {
+      "text": ".D ARE NOT RETURNABLE, THANK YOL",
+      "confidence": 0.9654
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005587267.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005587267.txt",
+    "ocr_line_count": 76,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MYCLIP BINDER",
+  "date": "2017-02-04",
+  "items": [
+    {
+      "name": "MYCLIP BINDER CLIP 12S",
+      "qty": 2,
+      "price": "2.00"
+    },
+    {
+      "name": "MYCLIP BINDER CLIP 15MM",
+      "qty": 12,
+      "price": "24.00"
+    },
+    {
+      "name": "PARTNER E/LOPE 4.51NX9.5IN W4292",
+      "qty": 2,
+      "price": "4.40"
+    },
+    {
+      "name": "QUALITY LFTTER TRAY IT-1196-MIX",
+      "qty": 3,
+      "price": "44.70"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.83",
+  "total": "85.10",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

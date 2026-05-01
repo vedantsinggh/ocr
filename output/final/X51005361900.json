@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361900.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361900.txt",
+    "ocr_line_count": 61,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG STATIONERY & BOOKS",
+  "date": "2018-01-23",
+  "items": [
+    {
+      "name": "DOUBLE SIDED TISSUE TAPE 18MM",
+      "qty": 5,
+      "price": "6.60"
+    },
+    {
+      "name": "G SOFT 6ML QUICK DRY CORRECTION PEN",
+      "qty": 2.08,
+      "price": "5"
+    }
+  ],
+  "subtotal": "16.98",
+  "tax": "1.02",
+  "total": "18.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

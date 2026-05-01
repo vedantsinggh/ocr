@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433552.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433552.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WARAKUYA PERMAS CITY SDN BHD",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "SABA SHIO YAKI SET",
+      "qty": null,
+      "price": "3.70"
+    },
+    {
+      "name": "SALMON SHIO SET",
+      "qty": null,
+      "price": "1.90"
+    },
+    {
+      "name": "ICEDGREEN TEA",
+      "qty": 4,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": "70.60",
+  "tax": "3.27",
+  "total": "57.80",
+  "currency": "RM",
+  "payment_method": null
+}

@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005337877.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005337877.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "2018-03-20",
+  "items": [
+    {
+      "name": "KONABE INANIWA",
+      "qty": null,
+      "price": "24.00"
+    },
+    {
+      "name": "UDON@24.00",
+      "qty": null,
+      "price": "24.00"
+    },
+    {
+      "name": "GREENTEA@1.00",
+      "qty": null,
+      "price": "1.00"
+    },
+    {
+      "name": "GYOZA 5pcs @15.00",
+      "qty": null,
+      "price": "15.00"
+    },
+    {
+      "name": "GARLIC CHAHAN @6.00",
+      "qty": null,
+      "price": "6.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.00",
+  "total": "53.00",
+  "currency": "SR",
+  "payment_method": null
+}

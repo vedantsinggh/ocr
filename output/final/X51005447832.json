@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447832.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447832.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PETRODELI ENTERPRISE",
+  "date": "2018-02-26",
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "qty": null,
+      "price": "RM 85.54"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "RM 85.54",
+  "currency": "RM",
+  "payment_method": "Visa"
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433553.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433553.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YHM Aeon Tebrau City",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "Green Tea",
+      "qty": 1.5,
+      "price": "1.50SR"
+    },
+    {
+      "name": "Kake Udan R",
+      "qty": 8.6,
+      "price": "8.80SR"
+    },
+    {
+      "name": "Enok1 Tempura",
+      "qty": 2.8,
+      "price": "2.80SR"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.74MYR",
+  "total": "13.10MYR",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

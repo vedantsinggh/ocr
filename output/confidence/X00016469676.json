@@ -1,0 +1,119 @@
+{
+  "source": "images/X00016469676.jpg",
+  "line_count": 28,
+  "avg_confidence": 0.9648,
+  "lines": [
+    {
+      "text": "tan chay yee",
+      "confidence": 0.9952
+    },
+    {
+      "text": "S.H.H.MOTOR SUNGAI RENGITI SDN.BHDE",
+      "confidence": 0.8865
+    },
+    {
+      "text": "801580-T",
+      "confidence": 0.9552
+    },
+    {
+      "text": "No.343,Jalan KurauSungai Rengit",
+      "confidence": 0.9453
+    },
+    {
+      "text": "81620 PengerangJohor.",
+      "confidence": 0.9672
+    },
+    {
+      "text": "Te107-8263254Fax:07-8266888",
+      "confidence": 0.9629
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9987
+    },
+    {
+      "text": "ITEM/DESC.",
+      "confidence": 0.9951
+    },
+    {
+      "text": "QTY U.PRICE RMTOTAL",
+      "confidence": 0.956
+    },
+    {
+      "text": "4132",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1",
+      "confidence": 0.9811
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9962
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9962
+    },
+    {
+      "text": "CROCS300X17 TUBES",
+      "confidence": 0.9248
+    },
+    {
+      "text": "SUB TOTAL",
+      "confidence": 0.9513
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9951
+    },
+    {
+      "text": "ROUNDING ADJUSTMENT:",
+      "confidence": 0.9576
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.998
+    },
+    {
+      "text": "GRAND TOTAL",
+      "confidence": 0.9693
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "CASH:",
+      "confidence": 0.9275
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "CHANGE:",
+      "confidence": 0.9492
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "23-01-2019 13:14:15 PMPRINTBY:r00t",
+      "confidence": 0.8999
+    },
+    {
+      "text": "TOKEN NO:OSTATION ID:A1PID:POS",
+      "confidence": 0.9149
+    },
+    {
+      "text": "INVOICENO:22497",
+      "confidence": 0.9447
+    },
+    {
+      "text": "Thanks Your Support",
+      "confidence": 0.9572
+    }
+  ]
+}

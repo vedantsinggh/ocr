@@ -1,0 +1,443 @@
+{
+  "source": "images/3.jpg",
+  "line_count": 109,
+  "avg_confidence": 0.9147,
+  "lines": [
+    {
+      "text": "Walmart '",
+      "confidence": 0.8881
+    },
+    {
+      "text": "2.96",
+      "confidence": 0.9897
+    },
+    {
+      "text": "SNACK BARS",
+      "confidence": 0.9487
+    },
+    {
+      "text": "2.680",
+      "confidence": 0.9104
+    },
+    {
+      "text": "HRI CL CHS",
+      "confidence": 0.9241
+    },
+    {
+      "text": "002190848816F",
+      "confidence": 0.9907
+    },
+    {
+      "text": "4.98",
+      "confidence": 0.8895
+    },
+    {
+      "text": "T",
+      "confidence": 0.9715
+    },
+    {
+      "text": "003120506000",
+      "confidence": 0.9895
+    },
+    {
+      "text": "F",
+      "confidence": 0.5396
+    },
+    {
+      "text": "5.88",
+      "confidence": 0.9841
+    },
+    {
+      "text": "HRI CL CHS",
+      "confidence": 0.9148
+    },
+    {
+      "text": "0",
+      "confidence": 0.7383
+    },
+    {
+      "text": "VOIDED ENTRY",
+      "confidence": 0.9586
+    },
+    {
+      "text": "003120506000F",
+      "confidence": 0.9698
+    },
+    {
+      "text": "6.880",
+      "confidence": 0.8965
+    },
+    {
+      "text": "F",
+      "confidence": 0.9323
+    },
+    {
+      "text": "5.88-0",
+      "confidence": 0.9661
+    },
+    {
+      "text": "HRI CL PEP",
+      "confidence": 0.9138
+    },
+    {
+      "text": "5.88",
+      "confidence": 0.9662
+    },
+    {
+      "text": "0",
+      "confidence": 0.6403
+    },
+    {
+      "text": "EARBUDS",
+      "confidence": 0.9928
+    },
+    {
+      "text": "003120507000",
+      "confidence": 0.9935
+    },
+    {
+      "text": "F",
+      "confidence": 0.8124
+    },
+    {
+      "text": "5.88",
+      "confidence": 0.9821
+    },
+    {
+      "text": "SC BCN CHDDR 007874202906",
+      "confidence": 0.9281
+    },
+    {
+      "text": "068113100946",
+      "confidence": 0.9945
+    },
+    {
+      "text": "88",
+      "confidence": 0.8339
+    },
+    {
+      "text": "X",
+      "confidence": 0.8542
+    },
+    {
+      "text": "ABF THINBRST 022451710972",
+      "confidence": 0.9442
+    },
+    {
+      "text": "6.98",
+      "confidence": 0.9954
+    },
+    {
+      "text": "-",
+      "confidence": 0.667
+    },
+    {
+      "text": "HARD/PR0V/DC 007874219410",
+      "confidence": 0.9649
+    },
+    {
+      "text": "9.",
+      "confidence": 0.9717
+    },
+    {
+      "text": ".72",
+      "confidence": 0.8936
+    },
+    {
+      "text": "DVRSE 0ILH001111101220",
+      "confidence": 0.9201
+    },
+    {
+      "text": "2.",
+      "confidence": 0.9863
+    },
+    {
+      "text": "68",
+      "confidence": 0.9895
+    },
+    {
+      "text": "94",
+      "confidence": 0.9692
+    },
+    {
+      "text": "-",
+      "confidence": 0.6326
+    },
+    {
+      "text": "APPLE3BAG 084747300184",
+      "confidence": 0.9635
+    },
+    {
+      "text": "5.",
+      "confidence": 0.8742
+    },
+    {
+      "text": "X",
+      "confidence": 0.6224
+    },
+    {
+      "text": "STOK LT SWT 004127102774",
+      "confidence": 0.9244
+    },
+    {
+      "text": "6.",
+      "confidence": 0.9303
+    },
+    {
+      "text": "47",
+      "confidence": 0.8821
+    },
+    {
+      "text": "PEANUT BUTTR 005150025499",
+      "confidence": 0.92
+    },
+    {
+      "text": "42",
+      "confidence": 0.8239
+    },
+    {
+      "text": "-",
+      "confidence": 0.78
+    },
+    {
+      "text": "AVO VERDE",
+      "confidence": 0.9495
+    },
+    {
+      "text": "41",
+      "confidence": 0.7899
+    },
+    {
+      "text": "061611206143",
+      "confidence": 0.9918
+    },
+    {
+      "text": "-",
+      "confidence": 0.9401
+    },
+    {
+      "text": "ROLLS",
+      "confidence": 0.9971
+    },
+    {
+      "text": "98",
+      "confidence": 0.9975
+    },
+    {
+      "text": "007874219415",
+      "confidence": 0.9573
+    },
+    {
+      "text": "BTSDRY BLON501072452746",
+      "confidence": 0.9177
+    },
+    {
+      "text": "1.",
+      "confidence": 0.9643
+    },
+    {
+      "text": "X",
+      "confidence": 0.6745
+    },
+    {
+      "text": "GALE",
+      "confidence": 0.9964
+    },
+    {
+      "text": "000000000003K",
+      "confidence": 0.9287
+    },
+    {
+      "text": "32.00",
+      "confidence": 0.9971
+    },
+    {
+      "text": "TR HS FRM 4",
+      "confidence": 0.8644
+    },
+    {
+      "text": "002240062190",
+      "confidence": 0.9981
+    },
+    {
+      "text": "2.74",
+      "confidence": 0.9421
+    },
+    {
+      "text": "BAGELS",
+      "confidence": 0.9644
+    },
+    {
+      "text": "001376402801",
+      "confidence": 0.9979
+    },
+    {
+      "text": "4.66",
+      "confidence": 0.8308
+    },
+    {
+      "text": "X",
+      "confidence": 0.7659
+    },
+    {
+      "text": "GV SLIDERS",
+      "confidence": 0.9414
+    },
+    {
+      "text": "007874201525",
+      "confidence": 0.9629
+    },
+    {
+      "text": "0",
+      "confidence": 0.7584
+    },
+    {
+      "text": "2.98",
+      "confidence": 0.991
+    },
+    {
+      "text": "ACCESSORY",
+      "confidence": 0.9971
+    },
+    {
+      "text": "007515161216",
+      "confidence": 0.9458
+    },
+    {
+      "text": "X",
+      "confidence": 0.7943
+    },
+    {
+      "text": "0.97",
+      "confidence": 0.9939
+    },
+    {
+      "text": "002410053523 F",
+      "confidence": 0.9444
+    },
+    {
+      "text": "X",
+      "confidence": 0.7903
+    },
+    {
+      "text": "CHEEZE IT",
+      "confidence": 0.9539
+    },
+    {
+      "text": "D000",
+      "confidence": 0.6639
+    },
+    {
+      "text": "WAS 4.54 YOU SAVED 0.64",
+      "confidence": 0.8744
+    },
+    {
+      "text": "RITZ",
+      "confidence": 0.9952
+    },
+    {
+      "text": "004400088210 F",
+      "confidence": 0.9578
+    },
+    {
+      "text": "2.78",
+      "confidence": 0.9936
+    },
+    {
+      "text": "RUFFLES",
+      "confidence": 0.9954
+    },
+    {
+      "text": "002810020942",
+      "confidence": 0.9836
+    },
+    {
+      "text": "N",
+      "confidence": 0.9875
+    },
+    {
+      "text": "2.50",
+      "confidence": 0.9357
+    },
+    {
+      "text": "GV HNY GRMS",
+      "confidence": 0.9143
+    },
+    {
+      "text": "007874207253",
+      "confidence": 0.9635
+    },
+    {
+      "text": "1.28",
+      "confidence": 0.9858
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9938
+    },
+    {
+      "text": "N",
+      "confidence": 0.9929
+    },
+    {
+      "text": "139.44",
+      "confidence": 0.9093
+    },
+    {
+      "text": "TAX 1",
+      "confidence": 0.9076
+    },
+    {
+      "text": "7.000",
+      "confidence": 0.9956
+    },
+    {
+      "text": "4.68",
+      "confidence": 0.9129
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "114.02",
+      "confidence": 0.8408
+    },
+    {
+      "text": "CASH TEND",
+      "confidence": 0.9462
+    },
+    {
+      "text": "160.02",
+      "confidence": 0.9125
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9541
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "#ITEHS SOLD26",
+      "confidence": 0.8597
+    },
+    {
+      "text": "TC#0783 6080 4072 3416 24956",
+      "confidence": 0.878
+    },
+    {
+      "text": "04/27/19",
+      "confidence": 0.9965
+    },
+    {
+      "text": "12:59:46",
+      "confidence": 0.9042
+    },
+    {
+      "text": "Scan with Walmart app to save receipts",
+      "confidence": 0.946
+    }
+  ]
+}

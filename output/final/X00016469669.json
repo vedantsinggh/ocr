@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469669.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469669.txt",
+    "ocr_line_count": 32,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ABCHO TRADING",
+  "date": "2019-01-09",
+  "items": [
+    {
+      "name": "Plastic",
+      "qty": 2,
+      "price": "15.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "31.00",
+  "currency": "RM",
+  "payment_method": null
+}

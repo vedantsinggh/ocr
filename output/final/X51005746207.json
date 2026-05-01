@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746207.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746207.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUPER SEVEN CASH & CARRY",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "FRUIT (FP)",
+      "qty": null,
+      "price": "2.99"
+    },
+    {
+      "name": "NANGKA 1 PINGGAN",
+      "qty": null,
+      "price": "2.00"
+    },
+    {
+      "name": "KIMBALL TOMATO PUREE 430G",
+      "qty": null,
+      "price": "3.80"
+    },
+    {
+      "name": "URO MUSHROOM 425G",
+      "qty": null,
+      "price": "2.80"
+    },
+    {
+      "name": "YOUNG CORN 425G (MS)",
+      "qty": null,
+      "price": "2.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "12.54",
+  "total": "18.30",
+  "currency": "RM",
+  "payment_method": "MASTER CARD"
+}

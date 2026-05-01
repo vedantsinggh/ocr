@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442378.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442378.txt",
+    "ocr_line_count": 34,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "myNEWS",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "JALANJALAN(MGjaiah)",
+      "qty": 2,
+      "price": "10.00ZRL"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "1000",
+  "currency": "MYR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,235 @@
+{
+  "source": "images/X51005663293.jpg",
+  "line_count": 57,
+  "avg_confidence": 0.9717,
+  "lines": [
+    {
+      "text": "31802013",
+      "confidence": 0.9772
+    },
+    {
+      "text": "SWEET FOREST CAFE",
+      "confidence": 0.9678
+    },
+    {
+      "text": "NO 21,JLN BUNGA KANTAN",
+      "confidence": 0.978
+    },
+    {
+      "text": "TAMAN P.RAMLEE SETAPAK",
+      "confidence": 0.9793
+    },
+    {
+      "text": "53000 KUALA LUMPUR.",
+      "confidence": 0.9799
+    },
+    {
+      "text": "(GST Reg. No : 000465809408)",
+      "confidence": 0.9359
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9949
+    },
+    {
+      "text": "Table 15",
+      "confidence": 0.9933
+    },
+    {
+      "text": "INV No.: 593101",
+      "confidence": 0.9756
+    },
+    {
+      "text": "Pax(s): 2",
+      "confidence": 0.9968
+    },
+    {
+      "text": "Date : 14-02-2018 13:02:42",
+      "confidence": 0.955
+    },
+    {
+      "text": "Cashier : SIM JIAN WAI",
+      "confidence": 0.9467
+    },
+    {
+      "text": "Descript ion",
+      "confidence": 0.998
+    },
+    {
+      "text": " Qty",
+      "confidence": 0.8806
+    },
+    {
+      "text": "U.price Total TAX",
+      "confidence": 0.9748
+    },
+    {
+      "text": "Smoked Duck Spaghett ie",
+      "confidence": 0.9451
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.9248
+    },
+    {
+      "text": "12.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "12.50 SR",
+      "confidence": 0.9534
+    },
+    {
+      "text": "Hot Green Tea",
+      "confidence": 0.9434
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.8777
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "3.00SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Coffee(H)",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.9144
+    },
+    {
+      "text": "4.90",
+      "confidence": 0.9992
+    },
+    {
+      "text": "4.90 SR",
+      "confidence": 0.9691
+    },
+    {
+      "text": " Rendang Chicken Rice",
+      "confidence": 0.9822
+    },
+    {
+      "text": "9.90",
+      "confidence": 0.9997
+    },
+    {
+      "text": "9.90SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "1 x",
+      "confidence": 0.8243
+    },
+    {
+      "text": "Total QTY: 4",
+      "confidence": 0.984
+    },
+    {
+      "text": "Total (Excluding GST):",
+      "confidence": 0.9763
+    },
+    {
+      "text": "28.58",
+      "confidence": 0.9994
+    },
+    {
+      "text": "GST payable (6%):",
+      "confidence": 0.9947
+    },
+    {
+      "text": "1.72",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total (Irclusive of GST):",
+      "confidence": 0.9249
+    },
+    {
+      "text": "30.30",
+      "confidence": 0.9994
+    },
+    {
+      "text": "TOTAL:",
+      "confidence": 0.9986
+    },
+    {
+      "text": "30.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Closed: 001",
+      "confidence": 0.9969
+    },
+    {
+      "text": "14-02-2018",
+      "confidence": 0.9989
+    },
+    {
+      "text": "13:50:58",
+      "confidence": 0.9568
+    },
+    {
+      "text": "Server: SIM JIAN WAI",
+      "confidence": 0.9928
+    },
+    {
+      "text": "14/2/18",
+      "confidence": 0.953
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9541
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "CHANGE :",
+      "confidence": 0.9506
+    },
+    {
+      "text": "30.30",
+      "confidence": 0.9356
+    },
+    {
+      "text": "19.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9513
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "(@ 6%)",
+      "confidence": 0.9768
+    },
+    {
+      "text": "28.58",
+      "confidence": 0.9996
+    },
+    {
+      "text": "1.72/",
+      "confidence": 0.9996
+    }
+  ]
+}

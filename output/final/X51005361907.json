@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361907.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361907.txt",
+    "ocr_line_count": 90,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TEO HENG STATIONERY & BOOKS",
+  "date": "2018-02-12",
+  "items": [
+    {
+      "name": "IK YELLOW 70GRAMS",
+      "qty": null,
+      "price": "105.66"
+    },
+    {
+      "name": "PAPYRUS DARK COLOUR PAPER",
+      "qty": null,
+      "price": "17.45"
+    },
+    {
+      "name": "ARTLINE 70",
+      "qty": null,
+      "price": "2.70"
+    },
+    {
+      "name": "FASTER CXSN BALL PEN",
+      "qty": null,
+      "price": "0.85"
+    },
+    {
+      "name": "CBE HANDYCUTTER",
+      "qty": null,
+      "price": "8.40"
+    },
+    {
+      "name": "CBE A4 SIZE 20 POCKETS REFILLABLE NEW CLEAR HOLDER",
+      "qty": null,
+      "price": "7.92"
+    },
+    {
+      "name": "EAGLE F4 120 NUMBERING FOOLSCAP BOOK",
+      "qty": null,
+      "price": "0.85"
+    }
+  ],
+  "subtotal": "144.68",
+  "tax": "8.68",
+  "total": "153.35",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230648.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230648.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CROSS CHANNEL NETWORK SDN.BHD",
+  "date": "2018-01-29",
+  "items": [
+    {
+      "name": "SCHNEIDER E15R13A SWITCH",
+      "qty": 1,
+      "price": "6.36"
+    },
+    {
+      "name": "SOCKET OUTLET@6.0000",
+      "price": "6.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.36",
+  "total": "6.35",
+  "currency": "RM",
+  "payment_method": null
+}

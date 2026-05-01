@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663297.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663297.txt",
+    "ocr_line_count": 148,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BEYOND BROTHERS HARDWARE",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "BATU CEMENT (A) 600PCS",
+      "qty": 150.0,
+      "price": "159.00"
+    },
+    {
+      "name": "PASIR HALUIS",
+      "qty": 2.0,
+      "price": "84.80"
+    },
+    {
+      "name": "YTL CEMENT 50KG (NEW PRICE)",
+      "qty": 16.0,
+      "price": "169.60"
+    },
+    {
+      "name": "KAPUR A1",
+      "qty": 3.0,
+      "price": "3.18"
+    },
+    {
+      "name": "SALUNG TANGAN GETAH (1PAIR)",
+      "qty": 2.0,
+      "price": "2.12"
+    },
+    {
+      "name": "BENANG NYLON #1B",
+      "qty": 16.0,
+      "price": "16.96"
+    },
+    {
+      "name": "GERMANY SUDU PLASTER",
+      "qty": 1.0,
+      "price": "7.31"
+    },
+    {
+      "name": "SUDU PLASTER KAYU (NORMAL)",
+      "qty": 1.0,
+      "price": "4.77"
+    },
+    {
+      "name": "PAPAN SIMEN (HITAM)",
+      "qty": 19.9,
+      "price": "21.09"
+    },
+    {
+      "name": "MiMAN RULE TIMBANG 18\"",
+      "qty": 100.0,
+      "price": "106.00"
+    },
+    {
+      "name": "KERETA TOLAK H/D (OREN)",
+      "qty": 1.2,
+      "price": "1.27"
+    },
+    {
+      "name": "PAKU KAYU 1\" (KECIL)",
+      "qty": 1.0,
+      "price": "0.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "33.93",
+  "total": "599.45",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

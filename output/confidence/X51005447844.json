@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005447844.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.9608,
+  "lines": [
+    {
+      "text": "RESTAURANT JIAWEI",
+      "confidence": 0.983
+    },
+    {
+      "text": "JIAWEI HOUSE",
+      "confidence": 0.9054
+    },
+    {
+      "text": "002693074-K",
+      "confidence": 0.9732
+    },
+    {
+      "text": "13.JLN IASIK UTAMA 8",
+      "confidence": 0.8943
+    },
+    {
+      "text": "MEDAN NIAGADAMAISG BESI",
+      "confidence": 0.9539
+    },
+    {
+      "text": "57000 KL",
+      "confidence": 0.969
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9944
+    },
+    {
+      "text": "Invoice :8884",
+      "confidence": 0.9087
+    },
+    {
+      "text": "Cashier:admin",
+      "confidence": 0.9742
+    },
+    {
+      "text": "POSNo:2",
+      "confidence": 0.9237
+    },
+    {
+      "text": "Date:23/2/201820:04:08",
+      "confidence": 0.9486
+    },
+    {
+      "text": "Table",
+      "confidence": 0.987
+    },
+    {
+      "text": "13",
+      "confidence": 1.0
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.991
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9907
+    },
+    {
+      "text": "U/PRM",
+      "confidence": 0.9795
+    },
+    {
+      "text": "D1SC%)",
+      "confidence": 0.8071
+    },
+    {
+      "text": "AmtRM",
+      "confidence": 0.9611
+    },
+    {
+      "text": "Red Cat Fish",
+      "confidence": 0.9646
+    },
+    {
+      "text": "1",
+      "confidence": 0.9953
+    },
+    {
+      "text": "42.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "42.1",
+      "confidence": 0.9338
+    },
+    {
+      "text": "Steamed",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Ginger Clams S)",
+      "confidence": 0.8997
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "1",
+      "confidence": 0.9901
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Beancurd W Dao GanS)",
+      "confidence": 0.9185
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1",
+      "confidence": 0.9982
+    },
+    {
+      "text": "G.Dragon ChivesS)",
+      "confidence": 0.9567
+    },
+    {
+      "text": "16.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1",
+      "confidence": 0.9963
+    },
+    {
+      "text": "STIR FRIED",
+      "confidence": 0.9544
+    },
+    {
+      "text": "Pu Er 1-3",
+      "confidence": 0.8905
+    },
+    {
+      "text": "1-3",
+      "confidence": 0.9619
+    },
+    {
+      "text": "1",
+      "confidence": 0.9959
+    },
+    {
+      "text": "5.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9935
+    },
+    {
+      "text": "5.0",
+      "confidence": 0.9977
+    },
+    {
+      "text": "HOT",
+      "confidence": 0.9978
+    },
+    {
+      "text": "RiceB",
+      "confidence": 0.9956
+    },
+    {
+      "text": ". 50",
+      "confidence": 0.8734
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "6",
+      "confidence": 0.9562
+    },
+    {
+      "text": "Rice Small",
+      "confidence": 0.9384
+    },
+    {
+      "text": "1 00",
+      "confidence": 0.9027
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "3.0",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Sub Total Bcrara'D scount",
+      "confidence": 0.7841
+    },
+    {
+      "text": "RM110.00",
+      "confidence": 0.9906
+    },
+    {
+      "text": "Service Char.",
+      "confidence": 0.9413
+    },
+    {
+      "text": "RM0.00",
+      "confidence": 0.9587
+    },
+    {
+      "text": "TotalSales",
+      "confidence": 0.9821
+    },
+    {
+      "text": "RM 110.00",
+      "confidence": 0.9401
+    },
+    {
+      "text": "Rounding Adjustment:",
+      "confidence": 0.9675
+    },
+    {
+      "text": "RM0.00",
+      "confidence": 0.9585
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9989
+    },
+    {
+      "text": "RM110.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "**************************************",
+      "confidence": 0.7801
+    }
+  ]
+}

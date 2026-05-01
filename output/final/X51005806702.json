@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005806702.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005806702.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+  "date": "2018-02-06",
+  "items": [
+    {
+      "name": "KITCHEN TOWEL",
+      "qty": 1,
+      "price": "13.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.76",
+  "total": "13.50",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

@@ -1,0 +1,54 @@
+TAX INYOICE
+BHPetrol Subang Airport
+Jalan Lapangan Terbang Subang
+47200 Subang
+Selangor
+D'Rosh Seryport
+CO. REG. NO: 000948487-V
+GST REG. NO: 000768122880
+18-01-2018 15:44:46
+Cashier: 888
+Invoice No: 1-916166
+Iten
+U\Price
+Qnty Amount
+16.32
+41.95 S
+in?init! 97 E4MP3 2.570
+TOTAL SALES
+RM
+41.95
+TOTAL AMOUNT PAYABLE
+RM
+41.95 r
+EDC MASTER
+RM
+41.95
+GST SUMMARY
+Amount RM
+Tax RM
+S: Standard 6%
+39.58
+2.37
+ECARD
+WONG TAI CHIN
+Card Number
+7897139011585960
+Merchant Number
+000001020138429
+Reference Number.
+199258579655
+AWARD
+Balance
+412
+Earned
+41
+New Balance
+453
+EPOINTS Expiry
+24
+31/10/2020
+136
+30/11/2020
+Thank You For Shopping At SHPetromart
+Custcmer Service 1-300-22-2828

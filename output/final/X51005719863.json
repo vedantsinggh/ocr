@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719863.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719863.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SEN LEE HEONG RESTAURANT",
+  "date": "2018-12-01",
+  "items": [
+    {
+      "name": "SR",
+      "qty": null,
+      "price": "67.00"
+    },
+    {
+      "name": "BIG RICE",
+      "qty": "b2",
+      "price": "1.50"
+    },
+    {
+      "name": "TEAPOT",
+      "qty": "3.00",
+      "price": "3.00"
+    }
+  ],
+  "subtotal": "73.00",
+  "tax": "4.38",
+  "total": "77.40",
+  "currency": "RM",
+  "payment_method": null
+}

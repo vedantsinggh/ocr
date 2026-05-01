@@ -1,0 +1,199 @@
+{
+  "source": "images/X51005441408.jpg",
+  "line_count": 48,
+  "avg_confidence": 0.9508,
+  "lines": [
+    {
+      "text": "32 PUB & BISTRO oWn by CNU TRADING",
+      "confidence": 0.903
+    },
+    {
+      "text": "78G,JALAN SS21/62",
+      "confidence": 0.9478
+    },
+    {
+      "text": "DAMANSARA UTAMA,",
+      "confidence": 0.9611
+    },
+    {
+      "text": "47400 PETALING JAYA.",
+      "confidence": 0.9575
+    },
+    {
+      "text": "GST Reg. No : 000416321536)",
+      "confidence": 0.922
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9697
+    },
+    {
+      "text": "Table 5",
+      "confidence": 0.9904
+    },
+    {
+      "text": "INV No.",
+      "confidence": 0.9436
+    },
+    {
+      "text": "504233",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Pax(s)0",
+      "confidence": 0.9286
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9897
+    },
+    {
+      "text": "10-03-201823:03:06",
+      "confidence": 0.9665
+    },
+    {
+      "text": "Cashier: CHEN",
+      "confidence": 0.9339
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9982
+    },
+    {
+      "text": "U.price",
+      "confidence": 0.9894
+    },
+    {
+      "text": "Total TAX",
+      "confidence": 0.9718
+    },
+    {
+      "text": "HEINEKEN(5BTL)",
+      "confidence": 0.9266
+    },
+    {
+      "text": "2x",
+      "confidence": 0.8045
+    },
+    {
+      "text": "95.00",
+      "confidence": 0.9981
+    },
+    {
+      "text": "190.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Total Excluding GST",
+      "confidence": 0.9186
+    },
+    {
+      "text": "179.25",
+      "confidence": 0.9913
+    },
+    {
+      "text": "GST Payable:",
+      "confidence": 0.9088
+    },
+    {
+      "text": "10.75",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total (Inclusive of GST:",
+      "confidence": 0.8923
+    },
+    {
+      "text": "19Q00",
+      "confidence": 0.9848
+    },
+    {
+      "text": "TOTAL :",
+      "confidence": 0.9841
+    },
+    {
+      "text": "190.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Closed:32",
+      "confidence": 0.9698
+    },
+    {
+      "text": "11-03-2018",
+      "confidence": 0.9935
+    },
+    {
+      "text": "00:32:02",
+      "confidence": 0.9487
+    },
+    {
+      "text": "Server: CHEN",
+      "confidence": 0.9605
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9956
+    },
+    {
+      "text": "200.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "CHANGE :",
+      "confidence": 0.9971
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9962
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9282
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9994
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9959
+    },
+    {
+      "text": "@6%",
+      "confidence": 0.9869
+    },
+    {
+      "text": "171.25",
+      "confidence": 0.8729
+    },
+    {
+      "text": "10.75",
+      "confidence": 0.9142
+    },
+    {
+      "text": "K",
+      "confidence": 0.6761
+    },
+    {
+      "text": "****ThankYou ****",
+      "confidence": 0.9445
+    },
+    {
+      "text": "Dlasrn famn Anain",
+      "confidence": 0.697
+    }
+  ]
+}

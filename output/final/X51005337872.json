@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005337872.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005337872.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYLROASTEDDELIGHTS SDN.BHD",
+  "date": "2018-03-06",
+  "items": [
+    {
+      "name": "BRAISEDPORK",
+      "qty": 20,
+      "price": "7.00",
+      "Amount": "14.00"
+    },
+    {
+      "name": "RICEWITHPEANUT",
+      "qty": 1.0,
+      "price": "1200",
+      "Amount": "1200"
+    },
+    {
+      "name": "VO2SOUR&SPICY",
+      "qty": 1.0,
+      "price": "12.00",
+      "Amount": "12.00"
+    },
+    {
+      "name": "MUSTARD (B03)JASMINEGREEN",
+      "qty": 2.0,
+      "price": "2.30",
+      "Amount": "4.60"
+    },
+    {
+      "name": "ROAST PORK + (R05)",
+      "qty": 1.0,
+      "price": "11.90",
+      "Amount": "11.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "308",
+  "total": "54.50",
+  "currency": "INR",
+  "payment_method": null
+}

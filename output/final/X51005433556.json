@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005433556.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005433556.txt",
+    "ocr_line_count": 76,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YHM Aeon Tebrau City",
+  "date": "2013-03-11",
+  "items": [
+    {
+      "name": "Green Tea",
+      "qty": 1,
+      "price": "1.50"
+    },
+    {
+      "name": "Yakiniku Bowl R",
+      "qty": 1,
+      "price": "12.80"
+    },
+    {
+      "name": "Negi Tama Beef Bow R",
+      "qty": 3,
+      "price": "15.80"
+    },
+    {
+      "name": "Miso/Wakame+Green Tea",
+      "qty": null,
+      "price": "0.00"
+    },
+    {
+      "name": "Miso Soup",
+      "qty": null,
+      "price": "0.00"
+    }
+  ],
+  "subtotal": "49.70",
+  "tax": "2.80",
+  "total": "49.70",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

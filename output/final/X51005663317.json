@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663317.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663317.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIM SENG THO HARDWARE TRADING",
+  "date": "2017-12-29",
+  "items": [
+    {
+      "name": "SIMEN(S)",
+      "qty": 3.0,
+      "price": "2.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.66",
+  "total": "600",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

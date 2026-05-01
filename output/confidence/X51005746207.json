@@ -1,0 +1,279 @@
+{
+  "source": "images/X51005746207.jpg",
+  "line_count": 68,
+  "avg_confidence": 0.9774,
+  "lines": [
+    {
+      "text": "SUPER SEVEN CASH & CARRY SDN BHD",
+      "confidence": 0.9835
+    },
+    {
+      "text": "(590150=A)",
+      "confidence": 0.9052
+    },
+    {
+      "text": "PASARAYA BORONG SUPER SEVEN",
+      "confidence": 0.9752
+    },
+    {
+      "text": "NO. 1 Ja1an Euro 1",
+      "confidence": 0.9624
+    },
+    {
+      "text": "Off Jalan Batu Tiga",
+      "confidence": 0.9747
+    },
+    {
+      "text": "Sungai Buloh Seksyen U3 Shah A1am,40150",
+      "confidence": 0.9643
+    },
+    {
+      "text": "http://www.super7.com.my",
+      "confidence": 0.996
+    },
+    {
+      "text": "TEL : 03-78590861",
+      "confidence": 0.9749
+    },
+    {
+      "text": "FAX : 03-78590864",
+      "confidence": 0.9658
+    },
+    {
+      "text": "GST ID : 000639090688",
+      "confidence": 0.9936
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Customer : [77853745]",
+      "confidence": 0.9917
+    },
+    {
+      "text": "Mrs. ONG GUAT CHYE",
+      "confidence": 0.9448
+    },
+    {
+      "text": "TAX INVOICE NO : 203225",
+      "confidence": 0.9889
+    },
+    {
+      "text": "COUNTER :002",
+      "confidence": 0.9809
+    },
+    {
+      "text": "OPERATOR : [SYED AHMAD FALLAH BI-CUSTOMER SERVICE",
+      "confidence": 0.9787
+    },
+    {
+      "text": "CLERK]",
+      "confidence": 0.9958
+    },
+    {
+      "text": "21-03-2018",
+      "confidence": 0.9976
+    },
+    {
+      "text": "11:25:07 AM",
+      "confidence": 0.9965
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9922
+    },
+    {
+      "text": "FRUIT (FP)",
+      "confidence": 0.9972
+    },
+    {
+      "text": "@2.99",
+      "confidence": 0.9992
+    },
+    {
+      "text": "41595",
+      "confidence": 1.0
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9958
+    },
+    {
+      "text": "2.99 ZR",
+      "confidence": 0.9943
+    },
+    {
+      "text": "NANGKA 1 PINGGAN @2.00",
+      "confidence": 0.9754
+    },
+    {
+      "text": "FM415000303",
+      "confidence": 0.9997
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9707
+    },
+    {
+      "text": "2.00 ZR",
+      "confidence": 0.9824
+    },
+    {
+      "text": "KIMBALL TOMATO PUREE 430G@3.80",
+      "confidence": 0.9697
+    },
+    {
+      "text": "9556191030230",
+      "confidence": 0.9996
+    },
+    {
+      "text": "3.80 SR",
+      "confidence": 0.9906
+    },
+    {
+      "text": "KIMBALL TOMATO PUREE 43OG@3.80",
+      "confidence": 0.9657
+    },
+    {
+      "text": "9556191030230",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3.80 SR",
+      "confidence": 0.9927
+    },
+    {
+      "text": "URO MUSHROOM 425G@2.80",
+      "confidence": 0.934
+    },
+    {
+      "text": "9555227500563",
+      "confidence": 0.9998
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9789
+    },
+    {
+      "text": "2.80 SR",
+      "confidence": 0.9993
+    },
+    {
+      "text": "YOUNG CORN 425G (MS)",
+      "confidence": 0.9643
+    },
+    {
+      "text": "@2.90",
+      "confidence": 0.9951
+    },
+    {
+      "text": " 9555654400313",
+      "confidence": 0.9682
+    },
+    {
+      "text": "2.90 SR",
+      "confidence": 0.9979
+    },
+    {
+      "text": "QUANTITY : 6 Units",
+      "confidence": 0.9547
+    },
+    {
+      "text": "Total Sales (Incl. GSt @6%)",
+      "confidence": 0.9796
+    },
+    {
+      "text": "RM18.29",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9978
+    },
+    {
+      "text": "RM0.01",
+      "confidence": 0.9152
+    },
+    {
+      "text": "Net Total",
+      "confidence": 0.9996
+    },
+    {
+      "text": "RM18.30",
+      "confidence": 0.9987
+    },
+    {
+      "text": "19.h0",
+      "confidence": 0.674
+    },
+    {
+      "text": "Payment Method",
+      "confidence": 0.9997
+    },
+    {
+      "text": "MASTER CARD",
+      "confidence": 0.9987
+    },
+    {
+      "text": "GST Sunmary",
+      "confidence": 0.9921
+    },
+    {
+      "text": "Sales Amt",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Tax Amt",
+      "confidence": 0.999
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.993
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9721
+    },
+    {
+      "text": "ZR (0%)",
+      "confidence": 0.9425
+    },
+    {
+      "text": "4.99",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.Q0",
+      "confidence": 0.9475
+    },
+    {
+      "text": "SR (E:)",
+      "confidence": 0.9009
+    },
+    {
+      "text": "12.54",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.76",
+      "confidence": 0.9998
+    },
+    {
+      "text": "PLEASE VERIFY YOUR RECEIPT",
+      "confidence": 0.9989
+    },
+    {
+      "text": "BEFORE LEAVING THE COUNTER.",
+      "confidence": 0.9771
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9932
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9971
+    }
+  ]
+}

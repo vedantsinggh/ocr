@@ -1,0 +1,41 @@
+Mr.Dakgalbi Solaris
+BRN Gst No. 000417619968 President: Kang
+No.J-G-02,Soho KISolaris Mont Kiera,50
+480KL
+GST No.
+TEL)03 6206 5567
+[Sa1es]2018-01-0522:55:25
+PosNo:86
+Description
+qty
+Price
+Fried Rice 3 Pax
+1
+71.00(S)
+1 Item (Inclusive of GST)
+71.00
+Round Amt
+0.00
+TOTAL
+71.00
+Cash
+71.00
+Cash Received
+101.00
+Change
+30.00
+GST @6%
+4.02
+GSTSummary
+Amount(RM)
+GST(RM)
+S=GST @6%:
+66.98
+4.02
+Z=GST @0%
+0.00
+0.00
+Receipt No: 18010500047
+Person
+: S-Admin
+Table No:[Ha11]-9

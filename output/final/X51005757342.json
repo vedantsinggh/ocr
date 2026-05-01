@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757342.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757342.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IOI PUCHONG",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "MESH SPONGE 4S",
+      "qty": 1,
+      "price": "1.80"
+    },
+    {
+      "name": "BROWN COCO BRUSH 6 V6N",
+      "qty": 2,
+      "price": "2.10"
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "qty": 1,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.35",
+  "total": "6.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

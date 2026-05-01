@@ -1,0 +1,459 @@
+{
+  "source": "images/X51005663324.jpg",
+  "line_count": 113,
+  "avg_confidence": 0.9794,
+  "lines": [
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.9734
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9458
+    },
+    {
+      "text": "NO 290,JALAN AIR PANAS",
+      "confidence": 0.933
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9917
+    },
+    {
+      "text": "53200, KUALA LUMPUR.",
+      "confidence": 0.9927
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9984
+    },
+    {
+      "text": "GST ID : 000750673920",
+      "confidence": 0.9952
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9946
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9966
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.9988
+    },
+    {
+      "text": ": CS00012440",
+      "confidence": 0.9531
+    },
+    {
+      "text": "Date: 28/12/2017",
+      "confidence": 0.9782
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9992
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9792
+    },
+    {
+      "text": "Time: 11:57:00",
+      "confidence": 0.9849
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9698
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.968
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9885
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9994
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.999
+    },
+    {
+      "text": "2623",
+      "confidence": 0.9996
+    },
+    {
+      "text": "2",
+      "confidence": 0.9977
+    },
+    {
+      "text": "2.12",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.24",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9957
+    },
+    {
+      "text": "NAIL (PER/PACK)-RM2",
+      "confidence": 0.9528
+    },
+    {
+      "text": "7.95",
+      "confidence": 1.0
+    },
+    {
+      "text": "7.95",
+      "confidence": 1.0
+    },
+    {
+      "text": "3483",
+      "confidence": 0.9994
+    },
+    {
+      "text": "1",
+      "confidence": 0.9945
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9663
+    },
+    {
+      "text": "1 1/2\" SANCORA PAINT BRUSH",
+      "confidence": 0.9586
+    },
+    {
+      "text": "1452",
+      "confidence": 0.9991
+    },
+    {
+      "text": "1",
+      "confidence": 0.9977
+    },
+    {
+      "text": "10.07",
+      "confidence": 0.9997
+    },
+    {
+      "text": "10.07",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9968
+    },
+    {
+      "text": "7\" PAINT ROLLER SET",
+      "confidence": 0.9775
+    },
+    {
+      "text": "1664",
+      "confidence": 0.9983
+    },
+    {
+      "text": "2",
+      "confidence": 0.9997
+    },
+    {
+      "text": "26.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "53.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "1LT BIG TREE HIGH GLOSS PAINT",
+      "confidence": 0.9917
+    },
+    {
+      "text": "1665",
+      "confidence": 0.9983
+    },
+    {
+      "text": "450",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.30",
+      "confidence": 0.9998
+    },
+    {
+      "text": "133.56",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9976
+    },
+    {
+      "text": "CEMENT BRICK",
+      "confidence": 0.9957
+    },
+    {
+      "text": "1041",
+      "confidence": 0.9991
+    },
+    {
+      "text": "3",
+      "confidence": 0.9996
+    },
+    {
+      "text": "15.90",
+      "confidence": 0.9998
+    },
+    {
+      "text": "47.70",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9824
+    },
+    {
+      "text": "6'X 35#CORRUGATED ROOFING SHEET",
+      "confidence": 0.9434
+    },
+    {
+      "text": "2430",
+      "confidence": 0.999
+    },
+    {
+      "text": "4",
+      "confidence": 0.9991
+    },
+    {
+      "text": "18.02",
+      "confidence": 0.9999
+    },
+    {
+      "text": "72.08",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "CEMENT (50KG)",
+      "confidence": 0.975
+    },
+    {
+      "text": "1812",
+      "confidence": 0.9994
+    },
+    {
+      "text": "2",
+      "confidence": 0.9993
+    },
+    {
+      "text": "16.96",
+      "confidence": 0.9998
+    },
+    {
+      "text": "33 92",
+      "confidence": 0.9467
+    },
+    {
+      "text": "SR",
+      "confidence": 0.986
+    },
+    {
+      "text": "10'2X3",
+      "confidence": 0.9445
+    },
+    {
+      "text": "V/",
+      "confidence": 0.5501
+    },
+    {
+      "text": "1792",
+      "confidence": 0.9999
+    },
+    {
+      "text": "3",
+      "confidence": 0.9997
+    },
+    {
+      "text": "7.42",
+      "confidence": 0.9999
+    },
+    {
+      "text": "22.26",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9972
+    },
+    {
+      "text": "10'1X2",
+      "confidence": 0.9251
+    },
+    {
+      "text": "1840",
+      "confidence": 0.9981
+    },
+    {
+      "text": "2",
+      "confidence": 0.9991
+    },
+    {
+      "text": "40.28",
+      "confidence": 0.9969
+    },
+    {
+      "text": "80.56",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9944
+    },
+    {
+      "text": "K10'1 X8",
+      "confidence": 0.9259
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9655
+    },
+    {
+      "text": " 470",
+      "confidence": 0.9466
+    },
+    {
+      "text": "465.34",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9578
+    },
+    {
+      "text": "439.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9924
+    },
+    {
+      "text": "0 00",
+      "confidence": 0.895
+    },
+    {
+      "text": "Total GSt :",
+      "confidence": 0.8981
+    },
+    {
+      "text": "26 34",
+      "confidence": 0.9709
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (Inclusive of Gst) :.",
+      "confidence": 0.9527
+    },
+    {
+      "text": "465.34",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.7537
+    },
+    {
+      "text": "465.34",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.8098
+    },
+    {
+      "text": "Iax Code",
+      "confidence": 0.9789
+    },
+    {
+      "text": "Iax(RM)",
+      "confidence": 0.9826
+    },
+    {
+      "text": "%",
+      "confidence": 0.9906
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9947
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9965
+    },
+    {
+      "text": "6",
+      "confidence": 0.9994
+    },
+    {
+      "text": "439.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "26.34",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.999
+    },
+    {
+      "text": "439.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "26.34",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+      "confidence": 0.9891
+    }
+  ]
+}

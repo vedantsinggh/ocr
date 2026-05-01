@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005447840.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9763,
+  "lines": [
+    {
+      "text": "PASARAYA BORONG PINTAR",
+      "confidence": 0.9683
+    },
+    {
+      "text": "SDN BHD",
+      "confidence": 0.9907
+    },
+    {
+      "text": "BR No.:(124525-H)",
+      "confidence": 0.984
+    },
+    {
+      "text": "NO 19-G&19-1&19-2JALANTASIKUTAMA 4",
+      "confidence": 0.9571
+    },
+    {
+      "text": "MEDAN NIAGA TASIK DAMAI",
+      "confidence": 0.945
+    },
+    {
+      "text": "016-5498845",
+      "confidence": 0.997
+    },
+    {
+      "text": "GST No. :",
+      "confidence": 0.9441
+    },
+    {
+      "text": "14/03/2018 5:57:07PM",
+      "confidence": 0.9947
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9741
+    },
+    {
+      "text": "TRN:CR0008964",
+      "confidence": 0.9656
+    },
+    {
+      "text": "COUNTER 3",
+      "confidence": 0.9776
+    },
+    {
+      "text": "CASHIER:1",
+      "confidence": 0.9756
+    },
+    {
+      "text": "QTY UOM",
+      "confidence": 0.9201
+    },
+    {
+      "text": "UNITAmt Exc. Amt Inc.GST",
+      "confidence": 0.9512
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9951
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9423
+    },
+    {
+      "text": "WALL'S TOPTEN CHOCOLATE 73ML",
+      "confidence": 0.953
+    },
+    {
+      "text": "1",
+      "confidence": 0.9854
+    },
+    {
+      "text": "SWALK",
+      "confidence": 0.86
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9933
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9962
+    },
+    {
+      "text": "1.60ZRL",
+      "confidence": 0.9902
+    },
+    {
+      "text": "WALL'S TOPTEN CHOCOLATE 73ML",
+      "confidence": 0.9526
+    },
+    {
+      "text": "1",
+      "confidence": 0.9707
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9553
+    },
+    {
+      "text": "160",
+      "confidence": 0.9987
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1.60 ZRL",
+      "confidence": 0.9827
+    },
+    {
+      "text": "MAGNUM ALMOND 9OML",
+      "confidence": 0.9386
+    },
+    {
+      "text": "1",
+      "confidence": 0.9871
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9792
+    },
+    {
+      "text": "4.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "4.50ZRL",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Cloud 9 plus 22g",
+      "confidence": 0.986
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9843
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.9995
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.50ZRL",
+      "confidence": 0.9987
+    },
+    {
+      "text": "*Total Qty: 4.00",
+      "confidence": 0.9939
+    },
+    {
+      "text": "8.20",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total Includes GsT 0%",
+      "confidence": 0.9525
+    },
+    {
+      "text": "8.20",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Customer's Payment",
+      "confidence": 0.9773
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9994
+    },
+    {
+      "text": "20.20",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9997
+    },
+    {
+      "text": "12.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9781
+    },
+    {
+      "text": "Tax (RM)",
+      "confidence": 0.9493
+    },
+    {
+      "text": "ZRL = 0 %",
+      "confidence": 0.9134
+    },
+    {
+      "text": "8.20",
+      "confidence": 0.993
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "*Goods sold are not returnable",
+      "confidence": 0.9826
+    },
+    {
+      "text": "Thank you for shopping at PASARAYA",
+      "confidence": 0.9653
+    },
+    {
+      "text": "BORONG PINTAR SDN BHD",
+      "confidence": 0.9364
+    }
+  ]
+}

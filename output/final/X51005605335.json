@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605335.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605335.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2018-01-12",
+  "items": [
+    {
+      "name": "70g P.Copy 450'S",
+      "qty": null,
+      "price": "13.69"
+    },
+    {
+      "name": "2pc",
+      "qty": null,
+      "price": "27.38"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.19",
+  "total": "21.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

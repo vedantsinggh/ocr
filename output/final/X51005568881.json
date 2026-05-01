@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568881.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568881.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HON HWA HARDWARE TRADING",
+  "date": "2017-09-21",
+  "items": [
+    {
+      "name": "ALUMINIUM ROD",
+      "qty": 6,
+      "price": "5.40SR"
+    },
+    {
+      "name": "PVC WALLPLUG (50PCS)",
+      "qty": 1,
+      "price": "5.00SR"
+    }
+  ],
+  "subtotal": null,
+  "tax": "9.81SR",
+  "total": "10.40SR",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

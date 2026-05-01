@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/9.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/9.txt",
+    "ocr_line_count": 93,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WinCo FOODS",
+  "date": "2014-08-09",
+  "items": [
+    {
+      "name": "CHICKEN WINGS",
+      "qty": null,
+      "price": "5.39FS"
+    },
+    {
+      "name": "PICSWEET BLEND",
+      "qty": null,
+      "price": "2.68FS"
+    },
+    {
+      "name": "DIETLN GRND B",
+      "qty": null,
+      "price": "10.87FS"
+    },
+    {
+      "name": "PORK L0IN CH0P",
+      "qty": null,
+      "price": "9.91FS"
+    },
+    {
+      "name": "DRUMSTICKS",
+      "qty": null,
+      "price": "8.39FS"
+    },
+    {
+      "name": "BEEF FOR STEW",
+      "qty": null,
+      "price": "8.12FS"
+    },
+    {
+      "name": "PORK 1/2 L0IN",
+      "qty": null,
+      "price": "1.00FS"
+    },
+    {
+      "name": "B/BESTS STEAK",
+      "qty": null,
+      "price": "3.99FS"
+    },
+    {
+      "name": "BAR SMEATFRNK",
+      "qty": null,
+      "price": "1.68FS"
+    },
+    {
+      "name": "WINCO NOODLES",
+      "qty": null,
+      "price": "20.84"
+    },
+    {
+      "name": "TNDRBRD CHIX BR",
+      "qty": null,
+      "price": "3.64FS"
+    },
+    {
+      "name": "KRFT DELUXE MAC",
+      "qty": null,
+      "price": "201.82"
+    },
+    {
+      "name": "EGGO WAFFLE",
+      "qty": null,
+      "price": "1.25FS"
+    },
+    {
+      "name": "L/D NUTTY BARS",
+      "qty": null,
+      "price": "2430004120"
+    },
+    {
+      "name": "L/D0ATMEAL CRM",
+      "qty": null,
+      "price": "5.78FS"
+    },
+    {
+      "name": "LINKS MILD",
+      "qty": null,
+      "price": "3010010055"
+    },
+    {
+      "name": "KEEB TOWNHOUSE",
+      "qty": null,
+      "price": ".88FS"
+    },
+    {
+      "name": "TURKEY FRANK",
+      "qty": null,
+      "price": ".98FS"
+    },
+    {
+      "name": "RESERS POT SLD",
+      "qty": null,
+      "price": ".71FS"
+    },
+    {
+      "name": "DM PNAPL CHNKY",
+      "qty": null,
+      "price": "2400000164"
+    },
+    {
+      "name": "SUNBEAN BUNS",
+      "qty": null,
+      "price": ".91FS"
+    },
+    {
+      "name": "WINCO HOMO MILK",
+      "qty": null,
+      "price": "7055240600"
+    },
+    {
+      "name": "EGGS",
+      "qty": null,
+      "price": "1.37FS"
+    }
+  ],
+  "subtotal": "121.92",
+  "tax": ".00",
+  "total": "121.92",
+  "currency": "INR",
+  "payment_method": null
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/4.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/4.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Walmart",
+  "date": "2015-12-08",
+  "items": [],
+  "subtotal": "6.94",
+  "tax": "0.49",
+  "total": "7.43",
+  "currency": "INR",
+  "payment_method": "DEBIT TEND"
+}

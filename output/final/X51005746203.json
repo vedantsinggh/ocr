@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746203.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746203.txt",
+    "ocr_line_count": 83,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SUPER SEVEN",
+  "date": "2018-03-01",
+  "items": [
+    {
+      "name": "TENDERLION",
+      "qty": null,
+      "price": "43.37"
+    },
+    {
+      "name": "TENDERLOIN",
+      "qty": 1,
+      "price": "49.42"
+    },
+    {
+      "name": "TENDERLOIN",
+      "qty": 1,
+      "price": "43.90"
+    },
+    {
+      "name": "TENDERLOIN",
+      "qty": 1,
+      "price": "49.66"
+    },
+    {
+      "name": "AYAMAS CHICKEN FRANKFURTER 340G",
+      "qty": null,
+      "price": "34.40"
+    },
+    {
+      "name": "BUTTERCUP LUXURY SPREAD 500G",
+      "qty": 1,
+      "price": "9.90"
+    },
+    {
+      "name": "CRAB NUGGET 500G MUSHROOM",
+      "qty": null,
+      "price": "164.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "12.57",
+  "total": "408.45",
+  "currency": "RM",
+  "payment_method": "MASTER CARD"
+}

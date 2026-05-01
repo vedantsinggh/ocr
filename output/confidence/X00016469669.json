@@ -1,0 +1,135 @@
+{
+  "source": "images/X00016469669.jpg",
+  "line_count": 32,
+  "avg_confidence": 0.977,
+  "lines": [
+    {
+      "text": "tan chay yee",
+      "confidence": 0.9992
+    },
+    {
+      "text": "ABCHO TRADING",
+      "confidence": 0.9539
+    },
+    {
+      "text": "No.2&4JALANHARMONI3/2",
+      "confidence": 0.9526
+    },
+    {
+      "text": "TAMAN DESAHARMONI.",
+      "confidence": 0.9538
+    },
+    {
+      "text": "81100JOHORBAHRU.JOHOR",
+      "confidence": 0.9241
+    },
+    {
+      "text": "07-3552616",
+      "confidence": 0.9846
+    },
+    {
+      "text": "CashBill01-143008",
+      "confidence": 0.9553
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9997
+    },
+    {
+      "text": "09/01/20198:01:11PM",
+      "confidence": 0.968
+    },
+    {
+      "text": "Cashier01",
+      "confidence": 0.9849
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9942
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9987
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9967
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Plastic",
+      "confidence": 0.9844
+    },
+    {
+      "text": "2",
+      "confidence": 0.9975
+    },
+    {
+      "text": "15.50",
+      "confidence": 0.9977
+    },
+    {
+      "text": "31.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9451
+    },
+    {
+      "text": "3100",
+      "confidence": 0.997
+    },
+    {
+      "text": "Total Amount:",
+      "confidence": 0.974
+    },
+    {
+      "text": "31.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "Cash Received",
+      "confidence": 0.9768
+    },
+    {
+      "text": "101.00",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9936
+    },
+    {
+      "text": "70.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Goods Sold are non-refundable",
+      "confidence": 0.9642
+    },
+    {
+      "text": "***Thank You***",
+      "confidence": 0.9789
+    },
+    {
+      "text": "3)-00",
+      "confidence": 0.9014
+    },
+    {
+      "text": "k**please Come Again***",
+      "confidence": 0.9062
+    }
+  ]
+}

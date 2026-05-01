@@ -1,0 +1,203 @@
+{
+  "source": "images/X51005337877.jpg",
+  "line_count": 49,
+  "avg_confidence": 0.9649,
+  "lines": [
+    {
+      "text": "UROKO JAPANESE CUISINE SDN BHD",
+      "confidence": 0.9766
+    },
+    {
+      "text": "22A-1,JALAN 17/54,",
+      "confidence": 0.9322
+    },
+    {
+      "text": "SECTION 17,",
+      "confidence": 0.873
+    },
+    {
+      "text": "46400 PETALING JAYA,",
+      "confidence": 0.9868
+    },
+    {
+      "text": "SELANGOR.",
+      "confidence": 0.9308
+    },
+    {
+      "text": "03-7932 1023/0191",
+      "confidence": 0.9863
+    },
+    {
+      "text": "GSTReqNo:001126838272",
+      "confidence": 0.9655
+    },
+    {
+      "text": "Bill No",
+      "confidence": 0.9425
+    },
+    {
+      "text": ":01H-25029",
+      "confidence": 0.9573
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9973
+    },
+    {
+      "text": ":20/03/20186:41:02PM",
+      "confidence": 0.9464
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9971
+    },
+    {
+      "text": " RESAN",
+      "confidence": 0.9502
+    },
+    {
+      "text": "Table No",
+      "confidence": 0.9516
+    },
+    {
+      "text": ":SO9",
+      "confidence": 0.8411
+    },
+    {
+      "text": "Qty Description",
+      "confidence": 0.9701
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.998
+    },
+    {
+      "text": "1 KONABE INANIWA",
+      "confidence": 0.9453
+    },
+    {
+      "text": "24.00 SR",
+      "confidence": 0.9962
+    },
+    {
+      "text": "UDON@24.00",
+      "confidence": 0.9725
+    },
+    {
+      "text": "1GREENTEA@1.00",
+      "confidence": 0.9355
+    },
+    {
+      "text": "1.00 SR",
+      "confidence": 0.9973
+    },
+    {
+      "text": "1 GYOZA 5pcs @15.00",
+      "confidence": 0.9762
+    },
+    {
+      "text": "15.00SR",
+      "confidence": 0.9959
+    },
+    {
+      "text": "1 GARLIC CHAHAN @",
+      "confidence": 0.9172
+    },
+    {
+      "text": "1]",
+      "confidence": 0.723
+    },
+    {
+      "text": "6.00 SR",
+      "confidence": 0.9986
+    },
+    {
+      "text": "A]",
+      "confidence": 0.9628
+    },
+    {
+      "text": "4",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9458
+    },
+    {
+      "text": "46.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9935
+    },
+    {
+      "text": "(.00)",
+      "confidence": 0.9984
+    },
+    {
+      "text": "ervice Chq 10.00%",
+      "confidence": 0.9203
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST :",
+      "confidence": 0.9553
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Grand Total :",
+      "confidence": 0.9905
+    },
+    {
+      "text": "53.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Net Total :",
+      "confidence": 0.9988
+    },
+    {
+      "text": "53.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.944
+    },
+    {
+      "text": "%",
+      "confidence": 0.9859
+    },
+    {
+      "text": "AmountRM",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Tax(RM) M",
+      "confidence": 0.9643
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9966
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9953
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9813
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9971
+    }
+  ]
+}

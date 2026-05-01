@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724611.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724611.txt",
+    "ocr_line_count": 68,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "BESIY 10CQ",
+      "qty": 8,
+      "price": "17.00"
+    }
+  ],
+  "subtotal": "136.00",
+  "tax": "8.16",
+  "total": "144.16",
+  "currency": "INR",
+  "payment_method": null
+}

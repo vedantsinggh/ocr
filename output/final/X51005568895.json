@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568895.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568895.txt",
+    "ocr_line_count": 61,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "VIVOPAC MARKETING SDN BHD",
+  "date": "2017-09-13",
+  "items": [
+    {
+      "name": "Stretch Film (100mmx120m)",
+      "qty": 1.0,
+      "price": "4.50"
+    },
+    {
+      "name": "PP-16x260.04mm",
+      "qty": 1.0,
+      "price": "15.00"
+    },
+    {
+      "name": "PP14x200.04mm",
+      "qty": 2.0,
+      "price": "15.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.97",
+  "total": "52.45",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

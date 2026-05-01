@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444044.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444044.txt",
+    "ocr_line_count": 26,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Speedmart",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "Sunquick Orange",
+      "qty": null,
+      "price": "5.35"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.55",
+  "total": "6.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

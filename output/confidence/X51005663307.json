@@ -1,0 +1,307 @@
+{
+  "source": "images/X51005663307.jpg",
+  "line_count": 75,
+  "avg_confidence": 0.9668,
+  "lines": [
+    {
+      "text": "Tax Invoice.",
+      "confidence": 0.9376
+    },
+    {
+      "text": "LA STATIONERY SDN BHD (640899-P)",
+      "confidence": 0.9639
+    },
+    {
+      "text": "NO.8,JALAN46/26,",
+      "confidence": 0.9439
+    },
+    {
+      "text": "TAMAN SRI RAMPAI,",
+      "confidence": 0.9881
+    },
+    {
+      "text": "53300 KUALA LUMPUR",
+      "confidence": 0.998
+    },
+    {
+      "text": "Tel No. :03 - 4023 0088",
+      "confidence": 0.9661
+    },
+    {
+      "text": "GST Reg. : 001542721536",
+      "confidence": 0.9856
+    },
+    {
+      "text": "Invoice No. :.",
+      "confidence": 0.9633
+    },
+    {
+      "text": "T01-006194",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9513
+    },
+    {
+      "text": "09/02/201809:21:19AM",
+      "confidence": 0.9777
+    },
+    {
+      "text": "Terminal:",
+      "confidence": 0.9819
+    },
+    {
+      "text": "TO1",
+      "confidence": 0.8326
+    },
+    {
+      "text": "Cashier:",
+      "confidence": 0.9677
+    },
+    {
+      "text": "VICKIE",
+      "confidence": 0.9984
+    },
+    {
+      "text": "DESC",
+      "confidence": 0.9955
+    },
+    {
+      "text": "U.PRICE",
+      "confidence": 0.991
+    },
+    {
+      "text": "Disc",
+      "confidence": 0.9897
+    },
+    {
+      "text": "AMOUNT TAX",
+      "confidence": 0.9597
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9969
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9952
+    },
+    {
+      "text": "RM CODE",
+      "confidence": 0.9971
+    },
+    {
+      "text": "GELPEN REFILL PILOT G2 0.5 BLACK",
+      "confidence": 0.9337
+    },
+    {
+      "text": "5 PCS",
+      "confidence": 0.9821
+    },
+    {
+      "text": "+",
+      "confidence": 0.5114
+    },
+    {
+      "text": "2.86",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "14.30 SR",
+      "confidence": 0.9889
+    },
+    {
+      "text": "GELPEN REFILL PILOT G2 O.5 BLUE",
+      "confidence": 0.9814
+    },
+    {
+      "text": "5 PCS",
+      "confidence": 0.9634
+    },
+    {
+      "text": "2.86",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "14.30 SR",
+      "confidence": 0.9683
+    },
+    {
+      "text": "GELPENREFILL PILOT G2 0.5 RED",
+      "confidence": 0.9265
+    },
+    {
+      "text": "2 PCS",
+      "confidence": 0.9807
+    },
+    {
+      "text": "2.86",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "5.72 SR",
+      "confidence": 0.9981
+    },
+    {
+      "text": "*",
+      "confidence": 0.5212
+    },
+    {
+      "text": "GLUE-CLEARGLUE100OML",
+      "confidence": 0.9247
+    },
+    {
+      "text": "1 BTL",
+      "confidence": 0.9792
+    },
+    {
+      "text": "7.42",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "7.42 SR",
+      "confidence": 0.999
+    },
+    {
+      "text": "LIQUID PAPER - PAPERMATE NP10 7ml.",
+      "confidence": 0.9808
+    },
+    {
+      "text": "2 PCS",
+      "confidence": 0.9139
+    },
+    {
+      "text": "3.71",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "7.42 SR",
+      "confidence": 0.9992
+    },
+    {
+      "text": "PERMANENT MARKER SHARPIE FINE BLACK 3O051",
+      "confidence": 0.9933
+    },
+    {
+      "text": "1 PCS",
+      "confidence": 0.9453
+    },
+    {
+      "text": "2.33",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.33 SR",
+      "confidence": 0.9925
+    },
+    {
+      "text": "BALLPEN PILOT FRIXION O.5 BLACK",
+      "confidence": 0.9756
+    },
+    {
+      "text": "1 PCS *",
+      "confidence": 0.9555
+    },
+    {
+      "text": "5.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "5.30 SR",
+      "confidence": 0.9504
+    },
+    {
+      "text": "Sub Total(Inclusive GsT) :",
+      "confidence": 0.9393
+    },
+    {
+      "text": "56.80",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding Adjustment :",
+      "confidence": 0.9994
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounded Total (RM):",
+      "confidence": 0.9891
+    },
+    {
+      "text": "56.80",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9994
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9973
+    },
+    {
+      "text": "43.20",
+      "confidence": 1.0
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9758
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9946
+    },
+    {
+      "text": "R@6%",
+      "confidence": 0.884
+    },
+    {
+      "text": "53.58",
+      "confidence": 0.997
+    },
+    {
+      "text": "3.21",
+      "confidence": 0.9935
+    }
+  ]
+}

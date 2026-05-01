@@ -1,0 +1,54 @@
+3-1708032
+wotsons.
+Watson's PersonaCare Stores Sdn Bho
+CompanyReg No.:289892y
+GST Reg No.000947339264
+USJ Summit, Subang (SS)
+22241
+WS CUT SCISSORS
+18.00
+S
+64542 QVS TEMPO TWEEZER
+17.90
+21434WSBABY WIPES FRAG
+7.90
+s
+PWP LESS 30% MAR 18
+2.37
+95448WATSONS BASKET
+0.00
+SUBTOTAL(QTY
+4)
+RM41.43
+ROUNDING
+RMO.02
+SUBTOTAL (QIY
+4)
+RM41.45
+CASH
+RM51.50
+CHANGE CASH
+RM10.05
+GST.SUMMARY
+Rate
+Net(RM)
+GST(RM)
+Total(RM)
+6.00%39.09
+2.34
+41.43
+*******************+********************
+STATEMENT
+***************************************
+Loyalty acc,number
+9926016**
+Description
+Total Points
+Opening Balance
+2264
+Earned Points
+43
+Closing Balance
+2307
+****************************************
+00440010036 25032018 13:11:54 0003 ika

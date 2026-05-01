@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442375.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442375.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "Vege",
+      "qty": null,
+      "price": "5.50"
+    },
+    {
+      "name": "Fried No0dle (L)",
+      "qty": 1,
+      "price": "3.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.48",
+  "total": "8.50",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

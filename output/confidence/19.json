@@ -1,0 +1,135 @@
+{
+  "source": "images/19.jpg",
+  "line_count": 32,
+  "avg_confidence": 0.9713,
+  "lines": [
+    {
+      "text": "Walmart",
+      "confidence": 0.9985
+    },
+    {
+      "text": "14.97X",
+      "confidence": 0.9376
+    },
+    {
+      "text": "12.94N",
+      "confidence": 0.9913
+    },
+    {
+      "text": " 000000004023KF",
+      "confidence": 0.9498
+    },
+    {
+      "text": "2.48N",
+      "confidence": 0.9813
+    },
+    {
+      "text": "RED GRAPE",
+      "confidence": 0.9517
+    },
+    {
+      "text": "2.511b@1lb/1.44",
+      "confidence": 0.9086
+    },
+    {
+      "text": "3.61N",
+      "confidence": 0.9922
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9966
+    },
+    {
+      "text": "7.000%",
+      "confidence": 0.9471
+    },
+    {
+      "text": "34.00",
+      "confidence": 0.997
+    },
+    {
+      "text": "TAX1",
+      "confidence": 0.9953
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1.05",
+      "confidence": 0.998
+    },
+    {
+      "text": "35.05",
+      "confidence": 0.9976
+    },
+    {
+      "text": "SHOPPING CARD_TEND",
+      "confidence": 0.9537
+    },
+    {
+      "text": "35.05",
+      "confidence": 0.9961
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9449
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9944
+    },
+    {
+      "text": "SHOP.CARD REDEMPTION",
+      "confidence": 0.9787
+    },
+    {
+      "text": "35.05",
+      "confidence": 0.9963
+    },
+    {
+      "text": "ACCOUNT************0246",
+      "confidence": 0.9411
+    },
+    {
+      "text": "Beg Bal",
+      "confidence": 0.9458
+    },
+    {
+      "text": "Tran Amt",
+      "confidence": 0.9326
+    },
+    {
+      "text": "End Bal",
+      "confidence": 0.9646
+    },
+    {
+      "text": "157.29",
+      "confidence": 0.9968
+    },
+    {
+      "text": "35.05",
+      "confidence": 0.9979
+    },
+    {
+      "text": "122.24",
+      "confidence": 0.9946
+    },
+    {
+      "text": "#ITEMS SOLD 4",
+      "confidence": 0.9454
+    },
+    {
+      "text": "TC# 6949 6652 6669 8007 1705",
+      "confidence": 0.9158
+    },
+    {
+      "text": "10/16/21",
+      "confidence": 0.9991
+    },
+    {
+      "text": "11:22:45",
+      "confidence": 0.9428
+    }
+  ]
+}

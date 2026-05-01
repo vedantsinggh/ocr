@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005719823.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.9507,
+  "lines": [
+    {
+      "text": "SIMPLIFIED TAXINVOICE",
+      "confidence": 0.962
+    },
+    {
+      "text": "AAPHARMACT",
+      "confidence": 0.986
+    },
+    {
+      "text": "1188096-W",
+      "confidence": 0.903
+    },
+    {
+      "text": "GST NO:001930047488",
+      "confidence": 0.9321
+    },
+    {
+      "text": "NO.47JALAN3/36",
+      "confidence": 0.9693
+    },
+    {
+      "text": "BUKIT'SRI BINTANG",
+      "confidence": 0.9423
+    },
+    {
+      "text": "KEPONG52100.KUALA LUMPUR",
+      "confidence": 0.9328
+    },
+    {
+      "text": "TEL:03-62638480FAX:03-62638480",
+      "confidence": 0.9409
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9957
+    },
+    {
+      "text": "RECEIPT#:CS00123688DATE:29/01/2018",
+      "confidence": 0.9506
+    },
+    {
+      "text": "SALESPERSONC2",
+      "confidence": 0.9925
+    },
+    {
+      "text": "TIME:12:09:00",
+      "confidence": 0.9223
+    },
+    {
+      "text": "CASHIERC2",
+      "confidence": 0.9909
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9947
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9081
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9491
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9928
+    },
+    {
+      "text": "4",
+      "confidence": 0.9838
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9154
+    },
+    {
+      "text": "930602",
+      "confidence": 0.9971
+    },
+    {
+      "text": "12.00Z",
+      "confidence": 0.9765
+    },
+    {
+      "text": "IBUPROFEN FILM COATEI TAB",
+      "confidence": 0.9036
+    },
+    {
+      "text": "9556492002837",
+      "confidence": 0.997
+    },
+    {
+      "text": "4",
+      "confidence": 0.646
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "12.00Z",
+      "confidence": 0.9755
+    },
+    {
+      "text": "FEBRICOL-RX10X10'S",
+      "confidence": 0.8865
+    },
+    {
+      "text": "940152",
+      "confidence": 0.9974
+    },
+    {
+      "text": "6",
+      "confidence": 0.7976
+    },
+    {
+      "text": "3.49",
+      "confidence": 0.9913
+    },
+    {
+      "text": "20.94S",
+      "confidence": 0.8947
+    },
+    {
+      "text": "NOFLUX TABLET",
+      "confidence": 0.9455
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9612
+    },
+    {
+      "text": "14",
+      "confidence": 0.9961
+    },
+    {
+      "text": "SUR-TOTAL",
+      "confidence": 0.9755
+    },
+    {
+      "text": "44.94",
+      "confidence": 0.9954
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9955
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.985
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9906
+    },
+    {
+      "text": "1.26",
+      "confidence": 0.9899
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9944
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9894
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "46-20",
+      "confidence": 0.9398
+    },
+    {
+      "text": "MASTER",
+      "confidence": 0.9576
+    },
+    {
+      "text": "46.20",
+      "confidence": 0.9822
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.831
+    },
+    {
+      "text": "GOODS SOLI ARE NOT RETURNARLE",
+      "confidence": 0.9201
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.8904
+    },
+    {
+      "text": "S=STANDARI RATEDZ=ZERO RATED",
+      "confidence": 0.9005
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9563
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9969
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9932
+    },
+    {
+      "text": "%",
+      "confidence": 0.8197
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9926
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9889
+    },
+    {
+      "text": "20.94",
+      "confidence": 0.9864
+    },
+    {
+      "text": "1.26",
+      "confidence": 0.984
+    },
+    {
+      "text": "ZRL",
+      "confidence": 0.9932
+    },
+    {
+      "text": "24.00",
+      "confidence": 0.9943
+    },
+    {
+      "text": "0",
+      "confidence": 0.7422
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.969
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9298
+    },
+    {
+      "text": "1.26",
+      "confidence": 0.9889
+    }
+  ]
+}

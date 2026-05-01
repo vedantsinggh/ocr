@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005453801.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005453801.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GL HANDICRAFT & TAILORING",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "SAFETYPINS BUTTERFLY-S",
+      "qty": 6,
+      "price": "17.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.77",
+  "total": "102.00",
+  "currency": "RM",
+  "payment_method": "102.00"
+}

@@ -1,0 +1,183 @@
+{
+  "source": "images/X51005453801.jpg",
+  "line_count": 44,
+  "avg_confidence": 0.9204,
+  "lines": [
+    {
+      "text": "3180303",
+      "confidence": 0.9301
+    },
+    {
+      "text": "GL HANDICRAFT &TAILORING",
+      "confidence": 0.9507
+    },
+    {
+      "text": "19,JALANKANCIL,",
+      "confidence": 0.8996
+    },
+    {
+      "text": "OFF JALANPUOU,",
+      "confidence": 0.8676
+    },
+    {
+      "text": "55100KUALA LUMPUR",
+      "confidence": 0.9232
+    },
+    {
+      "text": "MALAYSIA",
+      "confidence": 0.9961
+    },
+    {
+      "text": "CompanyRegNo.:75495-W",
+      "confidence": 0.9234
+    },
+    {
+      "text": "GSTRe0No.001948532736",
+      "confidence": 0.8962
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9544
+    },
+    {
+      "text": "invoice No.:",
+      "confidence": 0.8557
+    },
+    {
+      "text": "CS 10012",
+      "confidence": 0.8844
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9786
+    },
+    {
+      "text": "20/03/201813:01",
+      "confidence": 0.9515
+    },
+    {
+      "text": "Cashler:",
+      "confidence": 0.9046
+    },
+    {
+      "text": "01",
+      "confidence": 0.9828
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9885
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9954
+    },
+    {
+      "text": "SAFETYPINS BUTTERFLY-S",
+      "confidence": 0.9439
+    },
+    {
+      "text": "6.00809",
+      "confidence": 0.8228
+    },
+    {
+      "text": "17.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "102.00",
+      "confidence": 0.994
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9466
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.9496
+    },
+    {
+      "text": "102.00",
+      "confidence": 0.9957
+    },
+    {
+      "text": "Total Excl.of GST",
+      "confidence": 0.8349
+    },
+    {
+      "text": "96.23",
+      "confidence": 0.975
+    },
+    {
+      "text": "Total incl.or GST",
+      "confidence": 0.8533
+    },
+    {
+      "text": "102.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Total Ant Rounded",
+      "confidence": 0.9036
+    },
+    {
+      "text": "102.00",
+      "confidence": 0.9942
+    },
+    {
+      "text": "Paynent:",
+      "confidence": 0.9304
+    },
+    {
+      "text": "102.00",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Change Due:",
+      "confidence": 0.9062
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9782
+    },
+    {
+      "text": "Total ltems:6",
+      "confidence": 0.8209
+    },
+    {
+      "text": "GST Sunmary",
+      "confidence": 0.898
+    },
+    {
+      "text": "Arnount(FM)",
+      "confidence": 0.8694
+    },
+    {
+      "text": "TaxRM)",
+      "confidence": 0.8096
+    },
+    {
+      "text": "SR",
+      "confidence": 0.7827
+    },
+    {
+      "text": "6%",
+      "confidence": 0.7538
+    },
+    {
+      "text": "96.23",
+      "confidence": 0.9895
+    },
+    {
+      "text": "5.77",
+      "confidence": 0.9948
+    },
+    {
+      "text": "**THANKYOU*",
+      "confidence": 0.8003
+    },
+    {
+      "text": "*PLEASE COME AGAIN**",
+      "confidence": 0.8794
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "source": "images/X51005746203.jpg",
+  "line_count": 83,
+  "avg_confidence": 0.9705,
+  "lines": [
+    {
+      "text": "SLPER SEVEN CASH & CA",
+      "confidence": 0.9902
+    },
+    {
+      "text": "ON BH",
+      "confidence": 0.905
+    },
+    {
+      "text": ".(590150-A)",
+      "confidence": 0.9924
+    },
+    {
+      "text": "PASARAYA BORONG SUPER SEVEN",
+      "confidence": 0.9788
+    },
+    {
+      "text": "NO. 1 Jalan Euro 1",
+      "confidence": 0.9164
+    },
+    {
+      "text": "Off Jalan Batu Tiga",
+      "confidence": 0.9892
+    },
+    {
+      "text": "Sungai Buloh Seksyen U3 Shah Alam,40150",
+      "confidence": 0.9561
+    },
+    {
+      "text": "http://www.super7.com.my",
+      "confidence": 0.9928
+    },
+    {
+      "text": "TEL : 03-78590861",
+      "confidence": 0.969
+    },
+    {
+      "text": "FAX : 03-78590864",
+      "confidence": 0.9928
+    },
+    {
+      "text": "GST ID : 000639090688",
+      "confidence": 0.99
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9925
+    },
+    {
+      "text": "Customer : [77853745]",
+      "confidence": 0.997
+    },
+    {
+      "text": "Mrs. ONG GUAT CHYE",
+      "confidence": 0.9671
+    },
+    {
+      "text": "TAX INVOICE NO : 179509",
+      "confidence": 0.987
+    },
+    {
+      "text": "COUNTER :004",
+      "confidence": 0.9758
+    },
+    {
+      "text": "OPERATOR.: [NUR ATIQAH BINTI MUH-CASHIER]",
+      "confidence": 0.9465
+    },
+    {
+      "text": "01-03-2018",
+      "confidence": 0.9972
+    },
+    {
+      "text": "09:23:06 AM",
+      "confidence": 0.9829
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9964
+    },
+    {
+      "text": "TENDERLION",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1@43.37",
+      "confidence": 0.9516
+    },
+    {
+      "text": "40212",
+      "confidence": 0.9996
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9483
+    },
+    {
+      "text": "43.37 ZR",
+      "confidence": 0.9786
+    },
+    {
+      "text": "03.1 TENDERLOIN",
+      "confidence": 0.924
+    },
+    {
+      "text": "1 @49.42",
+      "confidence": 0.8532
+    },
+    {
+      "text": "40240 ",
+      "confidence": 0.9534
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9883
+    },
+    {
+      "text": "49.42 ZR",
+      "confidence": 0.9989
+    },
+    {
+      "text": "D31 TENDERLOIN@43.90",
+      "confidence": 0.9569
+    },
+    {
+      "text": "40240",
+      "confidence": 0.9998
+    },
+    {
+      "text": "*1",
+      "confidence": 0.914
+    },
+    {
+      "text": "43.90 ZR",
+      "confidence": 0.9892
+    },
+    {
+      "text": "D31TENDFRLOIN @49.66",
+      "confidence": 0.9706
+    },
+    {
+      "text": "40240",
+      "confidence": 0.9997
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9706
+    },
+    {
+      "text": "49.66 ZR",
+      "confidence": 0.998
+    },
+    {
+      "text": "AYAMAS CHICKEN FRANKFURTER 34OG@4.30",
+      "confidence": 0.9663
+    },
+    {
+      "text": "9556276020392",
+      "confidence": 0.9999
+    },
+    {
+      "text": "34.40 SR",
+      "confidence": 0.997
+    },
+    {
+      "text": "BUTTERCUP LUXURY SPREAD 5O0G",
+      "confidence": 0.9671
+    },
+    {
+      "text": "09.90",
+      "confidence": 0.9057
+    },
+    {
+      "text": "8888010995552",
+      "confidence": 0.9988
+    },
+    {
+      "text": "*1",
+      "confidence": 0.972
+    },
+    {
+      "text": "9.90 SR",
+      "confidence": 0.9572
+    },
+    {
+      "text": "BLTTERCUP LUXURY SPREAD 5O0G",
+      "confidence": 0.9625
+    },
+    {
+      "text": "@9.90",
+      "confidence": 0.9306
+    },
+    {
+      "text": "8888010995552",
+      "confidence": 0.9988
+    },
+    {
+      "text": "*1",
+      "confidence": 0.9136
+    },
+    {
+      "text": "9.90 SR",
+      "confidence": 0.9968
+    },
+    {
+      "text": "QY CINCAU 2KG@3.90",
+      "confidence": 0.98
+    },
+    {
+      "text": "9554100149455",
+      "confidence": 0.9999
+    },
+    {
+      "text": "*1",
+      "confidence": 0.8347
+    },
+    {
+      "text": "3.90 SR",
+      "confidence": 0.9969
+    },
+    {
+      "text": "CRAB NUGGET 5OOG MUSHROOM",
+      "confidence": 0.9784
+    },
+    {
+      "text": "08.20",
+      "confidence": 0.9775
+    },
+    {
+      "text": "9557240160502*20",
+      "confidence": 0.992
+    },
+    {
+      "text": "164.00 SR",
+      "confidence": 0.9625
+    },
+    {
+      "text": "QUANTITY : 35 Units",
+      "confidence": 0.9657
+    },
+    {
+      "text": "Tctal Sales (Incl. GST @6%)",
+      "confidence": 0.94
+    },
+    {
+      "text": " RM408.45",
+      "confidence": 0.9638
+    },
+    {
+      "text": "Raunding Adjustment",
+      "confidence": 0.98
+    },
+    {
+      "text": "RMO.00",
+      "confidence": 0.9486
+    },
+    {
+      "text": "Net Jotal",
+      "confidence": 0.9612
+    },
+    {
+      "text": "RM408.45",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Payment Method",
+      "confidence": 0.9696
+    },
+    {
+      "text": "MASTER CARD",
+      "confidence": 0.9928
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9942
+    },
+    {
+      "text": "Sales Amt",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Tax Amt",
+      "confidence": 0.9887
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9214
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9942
+    },
+    {
+      "text": "ZR (0%)",
+      "confidence": 0.9245
+    },
+    {
+      "text": "186.35",
+      "confidence": 0.9522
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "SR (6%)",
+      "confidence": 0.9453
+    },
+    {
+      "text": "209.53",
+      "confidence": 0.9998
+    },
+    {
+      "text": "12.57",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Pl.EASE VERIFY YOUR RECEIPT",
+      "confidence": 0.9724
+    },
+    {
+      "text": "BEFORE LEAVING THE COUNTER.",
+      "confidence": 0.983
+    },
+    {
+      "text": "GCODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.9725
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9839
+    }
+  ]
+}

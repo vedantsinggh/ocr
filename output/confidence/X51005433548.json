@@ -1,0 +1,199 @@
+{
+  "source": "images/X51005433548.jpg",
+  "line_count": 48,
+  "avg_confidence": 0.9364,
+  "lines": [
+    {
+      "text": "PASAR MINI JIN SENG",
+      "confidence": 0.9475
+    },
+    {
+      "text": "379,JALAN PERMAS SATU,",
+      "confidence": 0.9253
+    },
+    {
+      "text": "BANDAR BARU PERMAS JAYA",
+      "confidence": 0.9208
+    },
+    {
+      "text": "61750 PLENTONGJOHOR.",
+      "confidence": 0.9236
+    },
+    {
+      "text": "TEL:07-3874904",
+      "confidence": 0.9568
+    },
+    {
+      "text": "CO.NO.JM0195368-D",
+      "confidence": 0.928
+    },
+    {
+      "text": "GST NO.000150511616",
+      "confidence": 0.9417
+    },
+    {
+      "text": "TAXINV:001-1541798",
+      "confidence": 0.9482
+    },
+    {
+      "text": "03/03/18",
+      "confidence": 0.9653
+    },
+    {
+      "text": "ashier :CASHIER",
+      "confidence": 0.9359
+    },
+    {
+      "text": "VEGETABLES",
+      "confidence": 0.9943
+    },
+    {
+      "text": "16.00ZRL",
+      "confidence": 0.9628
+    },
+    {
+      "text": "TELUR / TELUR MASIN",
+      "confidence": 0.8893
+    },
+    {
+      "text": "2.40ZRL",
+      "confidence": 0.9042
+    },
+    {
+      "text": "VEGETABLES",
+      "confidence": 0.9916
+    },
+    {
+      "text": "1.80ZRL",
+      "confidence": 0.8942
+    },
+    {
+      "text": "GL STEWED PORK 256G",
+      "confidence": 0.9444
+    },
+    {
+      "text": "6.80SR",
+      "confidence": 0.975
+    },
+    {
+      "text": "BOTAN IKAN SARDIN 425G",
+      "confidence": 0.9397
+    },
+    {
+      "text": "6.80SR",
+      "confidence": 0.9518
+    },
+    {
+      "text": "Iten Count",
+      "confidence": 0.9242
+    },
+    {
+      "text": "5",
+      "confidence": 0.9967
+    },
+    {
+      "text": "SUBTOTAL:",
+      "confidence": 0.9317
+    },
+    {
+      "text": "33.80",
+      "confidence": 0.9819
+    },
+    {
+      "text": "TL:RM",
+      "confidence": 0.9282
+    },
+    {
+      "text": "33.80",
+      "confidence": 0.9965
+    },
+    {
+      "text": "6%GST",
+      "confidence": 0.8379
+    },
+    {
+      "text": "0.77",
+      "confidence": 0.9871
+    },
+    {
+      "text": "Payment Details",
+      "confidence": 0.9598
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9532
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9849
+    },
+    {
+      "text": "CASH CHANGE",
+      "confidence": 0.957
+    },
+    {
+      "text": "16.20",
+      "confidence": 0.9554
+    },
+    {
+      "text": "03/03/1810:18#001-1541798#",
+      "confidence": 0.9581
+    },
+    {
+      "text": "CASSER",
+      "confidence": 0.7272
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9343
+    },
+    {
+      "text": "TaxRM",
+      "confidence": 0.9032
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9893
+    },
+    {
+      "text": "@6%",
+      "confidence": 0.7819
+    },
+    {
+      "text": "13.60",
+      "confidence": 0.9955
+    },
+    {
+      "text": "0.77",
+      "confidence": 0.9882
+    },
+    {
+      "text": "ZRI.",
+      "confidence": 0.8558
+    },
+    {
+      "text": "00%",
+      "confidence": 0.7683
+    },
+    {
+      "text": "20.20",
+      "confidence": 0.9933
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Thank you",
+      "confidence": 0.9599
+    },
+    {
+      "text": "Please come again",
+      "confidence": 0.9143
+    },
+    {
+      "text": "GOODS SOLD ARE NOT REFUNDABLE",
+      "confidence": 0.9477
+    }
+  ]
+}

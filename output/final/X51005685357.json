@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005685357.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005685357.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Farmasi Maluri",
+  "date": "2018-03-02",
+  "items": [
+    {
+      "name": "BMS MILK THISTLE",
+      "qty": 1,
+      "price": "11.30"
+    },
+    {
+      "name": "TRIL0N-ECRM",
+      "qty": 1,
+      "price": "7.00"
+    }
+  ],
+  "subtotal": "72.35",
+  "tax": "4.10",
+  "total": "79.35",
+  "currency": "INR",
+  "payment_method": null
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568827.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568827.txt",
+    "ocr_line_count": 49,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Banh Mi Cafe",
+  "date": "2017-10-29",
+  "items": [
+    {
+      "name": "205 Sweet & Sour Pork Ribs",
+      "qty": null,
+      "price": "9.90"
+    },
+    {
+      "name": "Stuff Meat Tau Fu",
+      "qty": null,
+      "price": "9.90"
+    },
+    {
+      "name": "Vietnamese Iced Tea",
+      "qty": null,
+      "price": "1.50"
+    }
+  ],
+  "subtotal": "21.30",
+  "tax": "2.62",
+  "total": "23.25",
+  "currency": "RM",
+  "payment_method": null
+}

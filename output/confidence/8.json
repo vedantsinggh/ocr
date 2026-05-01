@@ -1,0 +1,231 @@
+{
+  "source": "images/8.jpg",
+  "line_count": 56,
+  "avg_confidence": 0.9464,
+  "lines": [
+    {
+      "text": "costco",
+      "confidence": 0.754
+    },
+    {
+      "text": "WHOESALE",
+      "confidence": 0.8453
+    },
+    {
+      "text": "Thornton #629",
+      "confidence": 0.9761
+    },
+    {
+      "text": "16375 N. Washington St.",
+      "confidence": 0.9237
+    },
+    {
+      "text": "Thornton,CO 80023",
+      "confidence": 0.9297
+    },
+    {
+      "text": "2X Member 111826278335",
+      "confidence": 0.9474
+    },
+    {
+      "text": "23.99 E",
+      "confidence": 0.9305
+    },
+    {
+      "text": "E",
+      "confidence": 0.9796
+    },
+    {
+      "text": "673919 FF BS BREAST",
+      "confidence": 0.9288
+    },
+    {
+      "text": "6.49 E",
+      "confidence": 0.9965
+    },
+    {
+      "text": "E",
+      "confidence": 0.9888
+    },
+    {
+      "text": "633561 KSDICED TOM",
+      "confidence": 0.9364
+    },
+    {
+      "text": "2.97 E",
+      "confidence": 0.9286
+    },
+    {
+      "text": "E",
+      "confidence": 0.7983
+    },
+    {
+      "text": "967596JACK0RGSALSA",
+      "confidence": 0.9749
+    },
+    {
+      "text": "304.29",
+      "confidence": 0.894
+    },
+    {
+      "text": "12.87 E",
+      "confidence": 0.9246
+    },
+    {
+      "text": "E",
+      "confidence": 0.9248
+    },
+    {
+      "text": "878137 18CT EGGS",
+      "confidence": 0.9415
+    },
+    {
+      "text": "6.29 E",
+      "confidence": 0.9045
+    },
+    {
+      "text": "E",
+      "confidence": 0.9009
+    },
+    {
+      "text": "77053 GRAPE TOMATO",
+      "confidence": 0.9447
+    },
+    {
+      "text": "6.49 A",
+      "confidence": 0.9413
+    },
+    {
+      "text": "404609 EC0HALF PAN",
+      "confidence": 0.9415
+    },
+    {
+      "text": "18.47E",
+      "confidence": 0.994
+    },
+    {
+      "text": "E",
+      "confidence": 0.9606
+    },
+    {
+      "text": "55992 GRND TURKEY",
+      "confidence": 0.9481
+    },
+    {
+      "text": "3.59E",
+      "confidence": 0.9844
+    },
+    {
+      "text": "E",
+      "confidence": 0.9593
+    },
+    {
+      "text": "263423 CHPD ONION",
+      "confidence": 0.9392
+    },
+    {
+      "text": "22101 MONT JACK 2#",
+      "confidence": 0.9079
+    },
+    {
+      "text": "4.45E",
+      "confidence": 0.9834
+    },
+    {
+      "text": "E",
+      "confidence": 0.9265
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9974
+    },
+    {
+      "text": "85.61",
+      "confidence": 0.9972
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.8394
+    },
+    {
+      "text": "3.52",
+      "confidence": 0.9985
+    },
+    {
+      "text": "****TOTAL",
+      "confidence": 0.7956
+    },
+    {
+      "text": "89.3",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Check/Member Prntd",
+      "confidence": 0.9841
+    },
+    {
+      "text": "89.13",
+      "confidence": 0.9977
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9984
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "A8.50%TAX",
+      "confidence": 0.9841
+    },
+    {
+      "text": "0.55",
+      "confidence": 0.9973
+    },
+    {
+      "text": "E 3.75%TAX",
+      "confidence": 0.9923
+    },
+    {
+      "text": "2.97",
+      "confidence": 0.9991
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9831
+    },
+    {
+      "text": "3.52",
+      "confidence": 0.9984
+    },
+    {
+      "text": "TOTAL NUMBER OF ITEMS SOLD-",
+      "confidence": 0.9493
+    },
+    {
+      "text": "11",
+      "confidence": 0.997
+    },
+    {
+      "text": "04720/201615:006294 172 14",
+      "confidence": 0.9136
+    },
+    {
+      "text": "OP#14 NamePEPPER",
+      "confidence": 0.9581
+    },
+    {
+      "text": "ThankYou!",
+      "confidence": 0.9938
+    },
+    {
+      "text": "PleaseCome Again",
+      "confidence": 0.9701
+    },
+    {
+      "text": "Whse:629 Trm:4 Trn:1720P:14",
+      "confidence": 0.9017
+    }
+  ]
+}

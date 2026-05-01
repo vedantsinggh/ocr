@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005763999.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.9602,
+  "lines": [
+    {
+      "text": "Segi Cash & Carry Sdn. Rhd/317041-W)",
+      "confidence": 0.929
+    },
+    {
+      "text": "Pt17920 Sek U9, Shah Alam",
+      "confidence": 0.9677
+    },
+    {
+      "text": "GST Reg No : 001951645696",
+      "confidence": 0.9832
+    },
+    {
+      "text": "Invoice No : 62513",
+      "confidence": 0.9373
+    },
+    {
+      "text": "Iate",
+      "confidence": 0.909
+    },
+    {
+      "text": ": 06 Jan 2018 05:21pm",
+      "confidence": 0.9195
+    },
+    {
+      "text": "Counter",
+      "confidence": 0.9985
+    },
+    {
+      "text": ": 02",
+      "confidence": 0.9928
+    },
+    {
+      "text": "MIGHTY MARK IISHWASH 11L",
+      "confidence": 0.9455
+    },
+    {
+      "text": "06'6 x Z",
+      "confidence": 0.8755
+    },
+    {
+      "text": "19.80 s",
+      "confidence": 0.9104
+    },
+    {
+      "text": "CROWN'S POWER PWD DETERGENT SKG",
+      "confidence": 0.9603
+    },
+    {
+      "text": "1 x 11.50 (0isc: 1.60)",
+      "confidence": 0.9505
+    },
+    {
+      "text": "9.90 S",
+      "confidence": 0.9461
+    },
+    {
+      "text": "UDANG XL",
+      "confidence": 0.9927
+    },
+    {
+      "text": "3.18 x 39.90",
+      "confidence": 0.9794
+    },
+    {
+      "text": "126.88 Z",
+      "confidence": 0.9916
+    },
+    {
+      "text": "UDANG XL",
+      "confidence": 0.9945
+    },
+    {
+      "text": "3.15 x 39.90",
+      "confidence": 0.9825
+    },
+    {
+      "text": "125.69 Z",
+      "confidence": 0.9377
+    },
+    {
+      "text": "WIN CENDOL (GROSS 1.5KG,NET 1KG)",
+      "confidence": 0.9441
+    },
+    {
+      "text": "2 x 4.51",
+      "confidence": 0.9013
+    },
+    {
+      "text": "9.02 s",
+      "confidence": 0.9433
+    },
+    {
+      "text": "IKAN BILIS C TIMBANG",
+      "confidence": 0.9806
+    },
+    {
+      "text": "1.36 x 55.00",
+      "confidence": 0.9954
+    },
+    {
+      "text": "74.80 Z",
+      "confidence": 0.9973
+    },
+    {
+      "text": "AJINOMOTO 20X1KG",
+      "confidence": 0.9398
+    },
+    {
+      "text": "1x210.00",
+      "confidence": 0.9859
+    },
+    {
+      "text": "210.00 S",
+      "confidence": 0.9244
+    },
+    {
+      "text": "SEGI/LEMBU EMAS OIL 17KG+-",
+      "confidence": 0.97
+    },
+    {
+      "text": "1x69.90",
+      "confidence": 0.9408
+    },
+    {
+      "text": "69.90 Z",
+      "confidence": 0.9953
+    },
+    {
+      "text": "ARC TEPUNG UBI 1Ox1KG",
+      "confidence": 0.9473
+    },
+    {
+      "text": "1 x 28.00",
+      "confidence": 0.9973
+    },
+    {
+      "text": "28.00 Z",
+      "confidence": 0.9521
+    },
+    {
+      "text": "No of itens: 11",
+      "confidence": 0.8997
+    },
+    {
+      "text": "Subtotal Incl. GST:RM",
+      "confidence": 0.9535
+    },
+    {
+      "text": "673.99",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Rounding:RM",
+      "confidence": 0.962
+    },
+    {
+      "text": "0.01",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Total Incl. GST:RM",
+      "confidence": 0.9632
+    },
+    {
+      "text": "674.00",
+      "confidence": 0.9962
+    },
+    {
+      "text": "VISA xxxxxxxxxxxx7118:",
+      "confidence": 0.8974
+    },
+    {
+      "text": "674.00",
+      "confidence": 0.9931
+    },
+    {
+      "text": "Change:RM",
+      "confidence": 0.9911
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Savings:RM",
+      "confidence": 0.995
+    },
+    {
+      "text": "1.60",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Missed Foint Today: 659",
+      "confidence": 0.9678
+    },
+    {
+      "text": "Served by KALAVATHI A/P AYAVOQ",
+      "confidence": 0.9537
+    },
+    {
+      "text": "************** Gs+ Summary *************",
+      "confidence": 0.9364
+    },
+    {
+      "text": "GST Code",
+      "confidence": 0.9897
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9556
+    },
+    {
+      "text": "TaxRM",
+      "confidence": 0.8798
+    },
+    {
+      "text": "S @6.0%",
+      "confidence": 0.9607
+    },
+    {
+      "text": "234.63",
+      "confidence": 0.9985
+    },
+    {
+      "text": "14.09 ",
+      "confidence": 0.9615
+    },
+    {
+      "text": "7 @0.0%",
+      "confidence": 0.9245
+    },
+    {
+      "text": "425.27",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9932
+    },
+    {
+      "text": "***x************************************",
+      "confidence": 0.8711
+    },
+    {
+      "text": "Ref No: 00600666580062513",
+      "confidence": 0.9734
+    },
+    {
+      "text": "Goods Sold Are Not Returnable. TQ",
+      "confidence": 0.96
+    }
+  ]
+}

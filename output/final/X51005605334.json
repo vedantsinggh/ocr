@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605334.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605334.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR-BOOK CO.(M) SDN BHD",
+  "date": "2018-03-29",
+  "items": [
+    {
+      "name": "PB SHT/P 11H A4 10'S C/O.",
+      "qty": null,
+      "price": "7.00"
+    },
+    {
+      "name": "R RING 500's",
+      "qty": null,
+      "price": "2.65"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.55",
+  "total": "9.65",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

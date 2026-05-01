@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005675914.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005675914.txt",
+    "ocr_line_count": 94,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BEYOND BROTHERS HARDWARE",
+  "date": "2017-10-31",
+  "items": [
+    {
+      "name": "PENTENS PUTTY FILLER 500G",
+      "qty": 5.0,
+      "price": "5.30"
+    },
+    {
+      "name": "PAPAN CAT",
+      "qty": 2.0,
+      "price": "2.18"
+    },
+    {
+      "name": "TUPAI ROLLER 7\" SET",
+      "qty": 8.0,
+      "price": "39.22"
+    },
+    {
+      "name": "MAXILITE 7L",
+      "qty": null,
+      "price": "8.48"
+    },
+    {
+      "name": "ARROW TALI TAPE: 7 SM",
+      "qty": 4.0,
+      "price": "4.24"
+    }
+  ],
+  "subtotal": "64.00",
+  "tax": "3.84",
+  "total": "67.85",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005453729.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005453729.txt",
+    "ocr_line_count": 46,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LANHING STATIONERYSDNBHD",
+  "date": "2018-03-27",
+  "items": [
+    {
+      "name": "Dursfile H399110x95mm",
+      "qty": 100,
+      "price": "SR58.30"
+    },
+    {
+      "name": "Name Badge H0.5500",
+      "qty": 80,
+      "price": "SR21.20"
+    },
+    {
+      "name": "Metal Name Badge Clip",
+      "qty": null,
+      "price": "SR21.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.50",
+  "total": "79.50",
+  "currency": "SR",
+  "payment_method": null
+}

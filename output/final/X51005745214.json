@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745214.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745214.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "99 SPEED MART",
+  "date": "2018-02-07",
+  "items": [
+    {
+      "name": "LYCHEES IN SYRUP",
+      "qty": null,
+      "price": "RM10.14"
+    },
+    {
+      "name": "CSR GULA",
+      "qty": "12*1K6",
+      "price": "RM35.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM9.57",
+  "total": "RM45.35",
+  "currency": "MYR",
+  "payment_method": null
+}

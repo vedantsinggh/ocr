@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/20.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/20.txt",
+    "ocr_line_count": 122,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "DOLLAR TREE",
+  "date": "2022-09-17",
+  "items": [
+    {
+      "name": "BANBOO CHARCOAL TOOTHBRUSH",
+      "qty": 1,
+      "price": "1.00"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "qty": 1,
+      "price": "1.00"
+    },
+    {
+      "name": "SP STICK ACTIVE DEO 1.8Z",
+      "qty": 1,
+      "price": "1.00"
+    },
+    {
+      "name": "SPEED STCK A/P ULT SPRT 1.82",
+      "qty": 1,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": "$24.00",
+  "tax": "$1.44",
+  "total": "$25.44",
+  "currency": "INR",
+  "payment_method": null
+}

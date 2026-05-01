@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663300.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663300.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "LIM SENG THO HARDWARE TRADING",
+  "date": "2018-02-02",
+  "items": [
+    {
+      "name": "X70",
+      "qty": 10,
+      "price": "7.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.40",
+  "total": "7.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

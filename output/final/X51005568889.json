@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568889.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568889.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HON HWA HARDWARE TRADING",
+  "date": "2017-02-11",
+  "items": [
+    {
+      "name": "ALUMINIUMROD",
+      "qty": null,
+      "price": "5.80"
+    }
+  ],
+  "subtotal": "19.60",
+  "tax": "1.11",
+  "total": "19.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

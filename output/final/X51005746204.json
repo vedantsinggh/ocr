@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746204.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746204.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PRINSTIN WOPL FISH OIL",
+  "date": "2018-31-03",
+  "items": [
+    {
+      "name": "PRI$TIN WOPL FISH OIL",
+      "qty": null,
+      "price": "143.70"
+    },
+    {
+      "name": "ALPHA LIPID LIFE UINE",
+      "qty": 2,
+      "price": "165.00"
+    }
+  ],
+  "subtotal": "308.70",
+  "tax": "17.47",
+  "total": "308.70",
+  "currency": "MYR",
+  "payment_method": null
+}

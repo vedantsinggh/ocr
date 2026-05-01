@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605332.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605332.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2018-03-14",
+  "items": [
+    {
+      "name": "CBE Rubber Band200gn",
+      "qty": null,
+      "price": "7.95"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.45",
+  "total": "-10.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

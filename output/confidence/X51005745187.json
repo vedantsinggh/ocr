@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005745187.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.919,
+  "lines": [
+    {
+      "text": "GOODS SOXDARE NOT RETURNABLE.THANA YOU",
+      "confidence": 0.8623
+    },
+    {
+      "text": "SLf cAsh & caRry",
+      "confidence": 0.6894
+    },
+    {
+      "text": "002107265-V",
+      "confidence": 0.928
+    },
+    {
+      "text": "NO.15.JI.N TSJ2,TMN SUBANG JASA",
+      "confidence": 0.9249
+    },
+    {
+      "text": "OFF JI.N BT 3 SUJBANG,",
+      "confidence": 0.9441
+    },
+    {
+      "text": "40000 SHAH AI AM,SEL.",
+      "confidence": 0.877
+    },
+    {
+      "text": "TEL03-77343662",
+      "confidence": 0.9377
+    },
+    {
+      "text": "FAX : TAX INVOICE",
+      "confidence": 0.8592
+    },
+    {
+      "text": "GST 1D. 001169362944",
+      "confidence": 0.9468
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9869
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Doc No",
+      "confidence": 0.998
+    },
+    {
+      "text": "CS0241999",
+      "confidence": 0.934
+    },
+    {
+      "text": "Cate",
+      "confidence": 0.9023
+    },
+    {
+      "text": "03/02018",
+      "confidence": 0.9874
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9988
+    },
+    {
+      "text": ":WOON",
+      "confidence": 0.9676
+    },
+    {
+      "text": "Time",
+      "confidence": 0.8761
+    },
+    {
+      "text": "08:37:00",
+      "confidence": 0.8858
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9838
+    },
+    {
+      "text": "Ret:",
+      "confidence": 0.948
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9507
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9093
+    },
+    {
+      "text": "S/Prce",
+      "confidence": 0.9292
+    },
+    {
+      "text": "Ainount",
+      "confidence": 0.8802
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.6293
+    },
+    {
+      "text": "9557316100208",
+      "confidence": 0.9747
+    },
+    {
+      "text": "1",
+      "confidence": 0.8176
+    },
+    {
+      "text": "2120",
+      "confidence": 0.9958
+    },
+    {
+      "text": "2120",
+      "confidence": 0.9978
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "CRISPO MINYAK SAPI 800G",
+      "confidence": 0.9093
+    },
+    {
+      "text": "Toral Qty",
+      "confidence": 0.874
+    },
+    {
+      "text": "1",
+      "confidence": 0.9836
+    },
+    {
+      "text": "21.20",
+      "confidence": 0.9094
+    },
+    {
+      "text": "Total Sales(Ecluding GST).",
+      "confidence": 0.8968
+    },
+    {
+      "text": "20 00",
+      "confidence": 0.9156
+    },
+    {
+      "text": "Discount:",
+      "confidence": 0.9722
+    },
+    {
+      "text": "0 00",
+      "confidence": 0.9951
+    },
+    {
+      "text": "Total GST",
+      "confidence": 0.9128
+    },
+    {
+      "text": "1 20",
+      "confidence": 0.9887
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9925
+    },
+    {
+      "text": "0 00",
+      "confidence": 0.9636
+    },
+    {
+      "text": "Total Sales :",
+      "confidence": 0.9587
+    },
+    {
+      "text": "21.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "K",
+      "confidence": 0.8696
+    },
+    {
+      "text": "(Inclusive of GsT)",
+      "confidence": 0.9447
+    },
+    {
+      "text": "CAsh :",
+      "confidence": 0.715
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9687
+    },
+    {
+      "text": "78.80",
+      "confidence": 0.9996
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9362
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9438
+    },
+    {
+      "text": "1u",
+      "confidence": 0.5626
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.8398
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.7243
+    },
+    {
+      "text": "SR",
+      "confidence": 0.988
+    },
+    {
+      "text": "6",
+      "confidence": 0.8551
+    },
+    {
+      "text": "00 07",
+      "confidence": 0.8576
+    },
+    {
+      "text": "1 20",
+      "confidence": 0.9057
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9971
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9999
+    }
+  ]
+}

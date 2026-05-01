@@ -1,0 +1,203 @@
+{
+  "source": "images/X51005806685.jpg",
+  "line_count": 49,
+  "avg_confidence": 0.975,
+  "lines": [
+    {
+      "text": "ADVANCO COMPANY",
+      "confidence": 0.981
+    },
+    {
+      "text": "Company Reg. No. : 725186-V",
+      "confidence": 0.9753
+    },
+    {
+      "text": "NO 1&3, Jalan Wangsa Delima 12.",
+      "confidence": 0.961
+    },
+    {
+      "text": "Wangsa Link, Wangsa Maju.",
+      "confidence": 0.9781
+    },
+    {
+      "text": "53300 Kuala Lumpur",
+      "confidence": 0.9976
+    },
+    {
+      "text": "03-41318972",
+      "confidence": 0.9996
+    },
+    {
+      "text": "GST Reg: 001658445824",
+      "confidence": 0.9993
+    },
+    {
+      "text": "TAx InVOICE",
+      "confidence": 0.6471
+    },
+    {
+      "text": "CB#: 389772",
+      "confidence": 0.9981
+    },
+    {
+      "text": "17/01/2018 8.08:53",
+      "confidence": 0.9668
+    },
+    {
+      "text": "M#: M1-0",
+      "confidence": 0.9664
+    },
+    {
+      "text": "Cashier: c1000-",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Qty Description",
+      "confidence": 0.9796
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Totai",
+      "confidence": 0.966
+    },
+    {
+      "text": "CANON PG-47BKE400 BLACK FINE( SR",
+      "confidence": 0.9323
+    },
+    {
+      "text": "1 27736",
+      "confidence": 0.9951
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1Type:",
+      "confidence": 0.9007
+    },
+    {
+      "text": "1",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9954
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding Adj",
+      "confidence": 0.9951
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9488
+    },
+    {
+      "text": "Total Inclusive GST:",
+      "confidence": 0.9618
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.8241
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9996
+    },
+    {
+      "text": "21.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9785
+    },
+    {
+      "text": "Coue",
+      "confidence": 0.9265
+    },
+    {
+      "text": "%",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Net Amt",
+      "confidence": 0.9968
+    },
+    {
+      "text": "GST",
+      "confidence": 0.973
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9966
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9725
+    },
+    {
+      "text": "6%",
+      "confidence": 0.9985
+    },
+    {
+      "text": "27.36",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.64",
+      "confidence": 0.9999
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9993
+    },
+    {
+      "text": "27.36",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.64",
+      "confidence": 0.9998
+    },
+    {
+      "text": "29.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Thank you & Please come again..",
+      "confidence": 0.9958
+    },
+    {
+      "text": "Goods soid are not returnable for refund or",
+      "confidence": 0.9926
+    },
+    {
+      "text": "exchange !!",
+      "confidence": 0.9889
+    }
+  ]
+}

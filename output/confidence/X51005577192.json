@@ -1,0 +1,211 @@
+{
+  "source": "images/X51005577192.jpg",
+  "line_count": 51,
+  "avg_confidence": 0.9502,
+  "lines": [
+    {
+      "text": "FTEAGLEENTERPRISE",
+      "confidence": 0.9157
+    },
+    {
+      "text": "002065464-X",
+      "confidence": 0.9461
+    },
+    {
+      "text": "NO.42.JALAN PBS 14/11.",
+      "confidence": 0.8882
+    },
+    {
+      "text": "TAMAN PERINDUSTRIAN BUKIT SERDANG,",
+      "confidence": 0.948
+    },
+    {
+      "text": "43300 SERI KEMBANGAN,",
+      "confidence": 0.9294
+    },
+    {
+      "text": "SELANGOR",
+      "confidence": 0.977
+    },
+    {
+      "text": "TEL: 03-09433143 FAX:03-894331430",
+      "confidence": 0.8904
+    },
+    {
+      "text": "GST N0: 001663156224",
+      "confidence": 0.9089
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9678
+    },
+    {
+      "text": "RECEIPT #s C500031180 IATEs 04/12/2017",
+      "confidence": 0.9368
+    },
+    {
+      "text": "SALESPERSON :",
+      "confidence": 0.951
+    },
+    {
+      "text": "TIME: 15:14:00",
+      "confidence": 0.8964
+    },
+    {
+      "text": "CASHIER : USER",
+      "confidence": 0.8841
+    },
+    {
+      "text": "1311",
+      "confidence": 0.7547
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9408
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9889
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9568
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9737
+    },
+    {
+      "text": "12089",
+      "confidence": 0.9889
+    },
+    {
+      "text": "2",
+      "confidence": 0.9756
+    },
+    {
+      "text": "3.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "SReTAPE OFP 48MMX8OY CLEAR(B.PY)-ECS)",
+      "confidence": 0.9114
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9844
+    },
+    {
+      "text": "SUR-TOTAL",
+      "confidence": 0.9545
+    },
+    {
+      "text": "6.60",
+      "confidence": 0.9848
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9665
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9963
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9184
+    },
+    {
+      "text": "0.40",
+      "confidence": 0.983
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9955
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9978
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.8015
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9887
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9588
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9795
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.907
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9748
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9896
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9946
+    },
+    {
+      "text": "%",
+      "confidence": 0.9998
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9768
+    },
+    {
+      "text": "6.60",
+      "confidence": 0.9797
+    },
+    {
+      "text": "6",
+      "confidence": 0.6698
+    },
+    {
+      "text": "0.40",
+      "confidence": 0.9992
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9907
+    },
+    {
+      "text": "0.40",
+      "confidence": 0.9983
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9593
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9838
+    }
+  ]
+}

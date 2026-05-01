@@ -1,0 +1,231 @@
+{
+  "source": "images/X51005447841.jpg",
+  "line_count": 56,
+  "avg_confidence": 0.9717,
+  "lines": [
+    {
+      "text": "PASARAYA BORONG PINTAR",
+      "confidence": 0.9728
+    },
+    {
+      "text": "SDN BHD",
+      "confidence": 0.9882
+    },
+    {
+      "text": "BRNo.124525-H",
+      "confidence": 0.968
+    },
+    {
+      "text": "NO 19-G&19-1&19-2JALAN TASIK UTAMA4",
+      "confidence": 0.9538
+    },
+    {
+      "text": "MEDAN NIAGA TASIK DAMAI",
+      "confidence": 0.9526
+    },
+    {
+      "text": "016-5498845,",
+      "confidence": 0.9934
+    },
+    {
+      "text": "GST No. :",
+      "confidence": 0.9557
+    },
+    {
+      "text": "09/03/2018 4:21:23PM",
+      "confidence": 0.9367
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9533
+    },
+    {
+      "text": "TRN:CR0008252",
+      "confidence": 0.9702
+    },
+    {
+      "text": "COUNTER3",
+      "confidence": 0.9948
+    },
+    {
+      "text": "CASHIER:2",
+      "confidence": 0.9611
+    },
+    {
+      "text": "QTYUOM",
+      "confidence": 0.9921
+    },
+    {
+      "text": "UNITAmt Exc.Amt Inc.GST",
+      "confidence": 0.9514
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9957
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9444
+    },
+    {
+      "text": "A&M SARSAP 330ML",
+      "confidence": 0.9416
+    },
+    {
+      "text": "1WALK",
+      "confidence": 0.9711
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "1.20ZRL",
+      "confidence": 0.9992
+    },
+    {
+      "text": "100PLUS REGULAR 500ML",
+      "confidence": 0.9608
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9734
+    },
+    {
+      "text": "1.90",
+      "confidence": 0.9962
+    },
+    {
+      "text": "1.90",
+      "confidence": 0.9961
+    },
+    {
+      "text": "1.90ZRL",
+      "confidence": 0.996
+    },
+    {
+      "text": "Loacker wafer milk 45g",
+      "confidence": 0.9565
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9668
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9911
+    },
+    {
+      "text": "2.70",
+      "confidence": 0.9969
+    },
+    {
+      "text": "2.70ZRL",
+      "confidence": 0.9967
+    },
+    {
+      "text": "fishermans.f s/free lemon 25g",
+      "confidence": 0.9761
+    },
+    {
+      "text": "10",
+      "confidence": 0.7752
+    },
+    {
+      "text": "WALK",
+      "confidence": 0.9849
+    },
+    {
+      "text": "4.60",
+      "confidence": 0.9947
+    },
+    {
+      "text": "4.60",
+      "confidence": 0.9997
+    },
+    {
+      "text": "4.60ZRL",
+      "confidence": 0.9956
+    },
+    {
+      "text": "*Total Qty:4.00",
+      "confidence": 0.9142
+    },
+    {
+      "text": "10.40",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Total Includes GST 0%",
+      "confidence": 0.9408
+    },
+    {
+      "text": "10.40",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Customer's Payment",
+      "confidence": 0.9739
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9975
+    },
+    {
+      "text": "10.50",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.10",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9457
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9708
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9187
+    },
+    {
+      "text": "ZRL=0%",
+      "confidence": 0.9763
+    },
+    {
+      "text": "10.40",
+      "confidence": 0.9953
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Goods sold are not returnable",
+      "confidence": 0.9449
+    },
+    {
+      "text": "Thank you for shopping at PASARAYA",
+      "confidence": 0.9681
+    },
+    {
+      "text": "BORONG PINTAR SDN BHD",
+      "confidence": 0.9265
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676537.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676537.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-03",
+  "items": [
+    {
+      "name": "BIG TREE HIGH GLOSS PAINT",
+      "qty": 1,
+      "price": "90.10"
+    },
+    {
+      "name": "THINNER BOTTLE",
+      "qty": 1,
+      "price": "4.24"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.34",
+  "total": "94.34",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

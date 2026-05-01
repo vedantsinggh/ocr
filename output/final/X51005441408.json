@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005441408.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005441408.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "32 PUB & BISTRO",
+  "date": "2018-03-10",
+  "items": [
+    {
+      "name": "HEINEKEN(5BTL)",
+      "qty": 2,
+      "price": "95.00"
+    }
+  ],
+  "subtotal": "179.25",
+  "tax": "10.75",
+  "total": "190.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

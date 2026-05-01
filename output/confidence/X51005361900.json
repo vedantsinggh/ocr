@@ -1,0 +1,251 @@
+{
+  "source": "images/X51005361900.jpg",
+  "line_count": 61,
+  "avg_confidence": 0.9566,
+  "lines": [
+    {
+      "text": "TEO HENG STATIONERY & BOOKS",
+      "confidence": 0.9313
+    },
+    {
+      "text": "001451637-M",
+      "confidence": 0.954
+    },
+    {
+      "text": "NO.53JALAN BESAR45600 BATANG BERJUNTAI",
+      "confidence": 0.9103
+    },
+    {
+      "text": "SELANGOR DARUL EHSAN",
+      "confidence": 0.9696
+    },
+    {
+      "text": "TEL03-3271 9872FAX03-32719481",
+      "confidence": 0.9255
+    },
+    {
+      "text": "GSTNo.:000689913856",
+      "confidence": 0.9675
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.967
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Receipt No.:",
+      "confidence": 0.9286
+    },
+    {
+      "text": "CS1801/27037",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Date:23/01/2018",
+      "confidence": 0.9967
+    },
+    {
+      "text": "AAUUNT",
+      "confidence": 0.5975
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9983
+    },
+    {
+      "text": "OTY",
+      "confidence": 0.8572
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9529
+    },
+    {
+      "text": "DISC%",
+      "confidence": 0.9959
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9693
+    },
+    {
+      "text": "5",
+      "confidence": 0.998
+    },
+    {
+      "text": "1.32",
+      "confidence": 0.9921
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "6.60 ",
+      "confidence": 0.9734
+    },
+    {
+      "text": "TP-24",
+      "confidence": 0.99
+    },
+    {
+      "text": "-DOUBLE SIDED TISSUE TAPE 18MM",
+      "confidence": 0.9627
+    },
+    {
+      "text": "10.38 *",
+      "confidence": 0.9669
+    },
+    {
+      "text": "9557546631393",
+      "confidence": 0.9989
+    },
+    {
+      "text": "2.08",
+      "confidence": 0.9972
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "5",
+      "confidence": 0.9933
+    },
+    {
+      "text": "- G SOFT 6ML QUICK DRY CORRECTION PEN",
+      "confidence": 0.9467
+    },
+    {
+      "text": "Total Qty. :",
+      "confidence": 0.9924
+    },
+    {
+      "text": "16.98",
+      "confidence": 0.9979
+    },
+    {
+      "text": "AI",
+      "confidence": 0.7128
+    },
+    {
+      "text": " SUB-TOTAL (EX) ",
+      "confidence": 0.9633
+    },
+    {
+      "text": "16.98",
+      "confidence": 0.999
+    },
+    {
+      "text": "TOTAL TAX",
+      "confidence": 0.9992
+    },
+    {
+      "text": "1.02",
+      "confidence": 0.9959
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9962
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9975
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9977
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9982
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.988
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.998
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.5788
+    },
+    {
+      "text": "TAX CODE",
+      "confidence": 0.945
+    },
+    {
+      "text": "%",
+      "confidence": 0.9792
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9436
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9954
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9963
+    },
+    {
+      "text": "16.98",
+      "confidence": 0.9995
+    },
+    {
+      "text": "1.02",
+      "confidence": 0.9975
+    },
+    {
+      "text": ":TVLOL",
+      "confidence": 0.7455
+    },
+    {
+      "text": "16.98",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.02",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Note: (*) Indicated The Item Sold Has Been Related",
+      "confidence": 0.9892
+    },
+    {
+      "text": "To GST (Goods & Services Tax).",
+      "confidence": 0.8981
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9545
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9674
+    }
+  ]
+}

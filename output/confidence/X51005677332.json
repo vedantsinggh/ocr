@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005677332.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9517,
+  "lines": [
+    {
+      "text": "318",
+      "confidence": 0.8694
+    },
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.9809
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9978
+    },
+    {
+      "text": "NO 290. JALAN AIR PANAS,",
+      "confidence": 0.9635
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9938
+    },
+    {
+      "text": "53200. KUALA LUMPUR.",
+      "confidence": 0.9504
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9809
+    },
+    {
+      "text": "GST ID:000750673920",
+      "confidence": 0.9717
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9956
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.997
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.883
+    },
+    {
+      "text": ": CS00012693",
+      "confidence": 0.94
+    },
+    {
+      "text": "Date: 12/01/2018",
+      "confidence": 0.9941
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9985
+    },
+    {
+      "text": ":USER",
+      "confidence": 0.9118
+    },
+    {
+      "text": "Time: 13:02:00",
+      "confidence": 0.9912
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.97
+    },
+    {
+      "text": "Ret. :",
+      "confidence": 0.8935
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9991
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.999
+    },
+    {
+      "text": "3483",
+      "confidence": 0.9931
+    },
+    {
+      "text": "7 95",
+      "confidence": 0.9499
+    },
+    {
+      "text": "7.95",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9957
+    },
+    {
+      "text": "1",
+      "confidence": 0.9938
+    },
+    {
+      "text": "1 1/2\"SANCORA PAINT BRUSH",
+      "confidence": 0.9481
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9742
+    },
+    {
+      "text": "1",
+      "confidence": 0.9971
+    },
+    {
+      "text": "7.95",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Totai Sales (Excluding GST:",
+      "confidence": 0.9069
+    },
+    {
+      "text": "7.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9951
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9696
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9678
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (lnclusive of GsT) ",
+      "confidence": 0.906
+    },
+    {
+      "text": "7.95",
+      "confidence": 0.9988
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.8973
+    },
+    {
+      "text": "7.95",
+      "confidence": 0.9987
+    },
+    {
+      "text": "C.UC",
+      "confidence": 0.6092
+    },
+    {
+      "text": "G",
+      "confidence": 0.9195
+    },
+    {
+      "text": "SUMMARY",
+      "confidence": 0.9702
+    },
+    {
+      "text": "%",
+      "confidence": 0.6901
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.8878
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9122
+    },
+    {
+      "text": "S-",
+      "confidence": 0.6199
+    },
+    {
+      "text": "6",
+      "confidence": 0.9703
+    },
+    {
+      "text": "7.50",
+      "confidence": 0.9997
+    },
+    {
+      "text": "045",
+      "confidence": 0.999
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9439
+    },
+    {
+      "text": "7.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.9975
+    },
+    {
+      "text": "GCJDS SOLDAPENOT RETURNABLE THANKYOU",
+      "confidence": 0.9121
+    }
+  ]
+}

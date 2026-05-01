@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005587254.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005587254.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MYDIN MART SRI MUDA",
+  "date": "2017-03-13",
+  "items": [
+    {
+      "name": "ROHINI",
+      "qty": null,
+      "price": "5.00"
+    },
+    {
+      "name": "EVEREADY 8AT H/D 1O15 SW4 AA",
+      "qty": 2,
+      "price": "2.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.28",
+  "total": "5.00",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

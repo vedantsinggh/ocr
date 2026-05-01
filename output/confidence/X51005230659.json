@@ -1,0 +1,147 @@
+{
+  "source": "images/X51005230659.jpg",
+  "line_count": 35,
+  "avg_confidence": 0.9563,
+  "lines": [
+    {
+      "text": "SWC ENTERPRISE SDN BHD",
+      "confidence": 0.9251
+    },
+    {
+      "text": "(1125830-V)",
+      "confidence": 0.8776
+    },
+    {
+      "text": "No. 5-7Jalan Mahagoni 7/1,",
+      "confidence": 0.9
+    },
+    {
+      "text": "Sekysen 4Bandar Utama44300",
+      "confidence": 0.9561
+    },
+    {
+      "text": "Batang Kali, Selangor.",
+      "confidence": 0.9201
+    },
+    {
+      "text": "Te1:03-60571377",
+      "confidence": 0.9565
+    },
+    {
+      "text": "TAXINOICE",
+      "confidence": 0.9683
+    },
+    {
+      "text": "GSTIDNo.002017808384",
+      "confidence": 0.9492
+    },
+    {
+      "text": "08/01/2018",
+      "confidence": 0.9944
+    },
+    {
+      "text": "Cashier:123",
+      "confidence": 0.9661
+    },
+    {
+      "text": "11:07:06",
+      "confidence": 0.9412
+    },
+    {
+      "text": "No:0100080332",
+      "confidence": 0.9778
+    },
+    {
+      "text": "Item/Desc.",
+      "confidence": 0.98
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9944
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9963
+    },
+    {
+      "text": "Amt.",
+      "confidence": 0.9651
+    },
+    {
+      "text": "20X30BEG 1KG91X30",
+      "confidence": 0.9217
+    },
+    {
+      "text": "20X301KG",
+      "confidence": 0.9791
+    },
+    {
+      "text": "1",
+      "confidence": 0.9881
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9955
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9952
+    },
+    {
+      "text": "Total Qty :",
+      "confidence": 0.8899
+    },
+    {
+      "text": "1",
+      "confidence": 0.9969
+    },
+    {
+      "text": "TOTAL AMOUNT",
+      "confidence": 0.9324
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9892
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9969
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9987
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9905
+    },
+    {
+      "text": "G",
+      "confidence": 0.9231
+    },
+    {
+      "text": "% Inciuded In Totel",
+      "confidence": 0.8385
+    },
+    {
+      "text": "0.45",
+      "confidence": 0.9975
+    },
+    {
+      "text": "Thank You  Please Cone Again",
+      "confidence": 0.9168
+    },
+    {
+      "text": "Goods Sold Only Exchangable",
+      "confidence": 0.9303
+    },
+    {
+      "text": "Within 3 Days!",
+      "confidence": 0.9235
+    }
+  ]
+}

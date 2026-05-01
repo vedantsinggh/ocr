@@ -1,0 +1,59 @@
+YHM Aeon Tebrau City
+S117,Second Floor
+Aeon Tebrau City
+1,Jalan Desa Tebrau
+Taman Desa Tebrau,
+81100 Johor Bahru, Johor.
+002105827328
+* TAX INVOICE *
+Order No.
+100021911/03/201806:20PM
+Receipt No.003-1220615
+Pax
+Cashier
+Cashier
+Eat In
+Iten
+Qty
+U.Price
+Amount Tax
+FG-A00019
+1.50
+1.50
+SR
+Green Tea
+FG-H00001
+8.60
+8.80SR
+Kake Udan R
+FG-H00100
+2.80
+2.80SR
+Enok1 Tempura
+SubTeta
+13.10
+Total
+:
+13.10
+TOTAL :MYR
+13.10
+Total Excluded Tax
+.
+12.36
+--
+0.74
+Payment Details
+Cash
+20.10
+Cash Change
+7.00
+Tax Summary
+Tax Code %
+AmountMYR)
+Tax(MYR
+SR
+6
+1^36
+0.74
+***nnn ****
+Please Come Again

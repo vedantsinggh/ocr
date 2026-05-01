@@ -1,0 +1,37 @@
+IKANO HANDEL SDN BHD
+(1074617K)
+IKEA Cheras
+No 2A Jalan Cochrane
+Taman Maluri
+55100 KUALA LUMPUR
+GST No.: 000115154944
+TAX INVOICE
+S1ip: 0000000011000136498
+Date:27/07/17
+Time:1:12
+Trans:311136194
+Staff:
+95837
+Description
+Amount TX
+50346155 B0STRAK WRD 80X50X18
+2 pc @269.00
+538.00SRS
+Tota1 RM Including GST 6%
+538.00
+Rounding Adj
+0.00
+Tota1 Rounded
+538.00
+Visa
+-538.00
+GST SR
+6%
+538.00
+30.45
+Amt.Exc1.GST
+507.55
+No. of Items
+2
+Thank you. Please come again.
+*T3620000011000136498*

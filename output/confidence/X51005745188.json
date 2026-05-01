@@ -1,0 +1,203 @@
+{
+  "source": "images/X51005745188.jpg",
+  "line_count": 49,
+  "avg_confidence": 0.974,
+  "lines": [
+    {
+      "text": "SLF CASH & CARRY",
+      "confidence": 0.9698
+    },
+    {
+      "text": "NO.15,JLN TSJ2,TMN SUBANG JASA",
+      "confidence": 0.9536
+    },
+    {
+      "text": "OFF JLN BT 3 SURANG,",
+      "confidence": 0.8724
+    },
+    {
+      "text": "40000 SHAH ALAM,SEL",
+      "confidence": 0.9054
+    },
+    {
+      "text": "GST N0: 001169332944",
+      "confidence": 0.9575
+    },
+    {
+      "text": "TEL: 03-77343662 FAX:TAX INV0ICE",
+      "confidence": 0.939
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9989
+    },
+    {
+      "text": "RECEIPT #CS00241867IATE:02/02/2018",
+      "confidence": 0.9659
+    },
+    {
+      "text": "SALESPERSON :",
+      "confidence": 0.9966
+    },
+    {
+      "text": "TIME: 08:31:00",
+      "confidence": 0.9698
+    },
+    {
+      "text": "CASHIER : KELLY",
+      "confidence": 0.9653
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9338
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9935
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9807
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.997
+    },
+    {
+      "text": "6194020100124",
+      "confidence": 0.9987
+    },
+    {
+      "text": "4",
+      "confidence": 0.9996
+    },
+    {
+      "text": "11.32",
+      "confidence": 0.9998
+    },
+    {
+      "text": "45.28 S",
+      "confidence": 0.9668
+    },
+    {
+      "text": "(UNIT) ROYAL BAKING POWDER 45OG",
+      "confidence": 0.955
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9597
+    },
+    {
+      "text": "4",
+      "confidence": 0.9987
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9936
+    },
+    {
+      "text": "45.28",
+      "confidence": 0.9988
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9906
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9976
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9944
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.925
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9964
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9537
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9987
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9615
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9663
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNAPLE,",
+      "confidence": 0.9502
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9943
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9953
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9948
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9968
+    },
+    {
+      "text": "%",
+      "confidence": 0.8599
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9965
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9958
+    },
+    {
+      "text": "45.28",
+      "confidence": 0.9997
+    },
+    {
+      "text": "6",
+      "confidence": 0.8933
+    },
+    {
+      "text": "2.72",
+      "confidence": 0.9994
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9989
+    },
+    {
+      "text": "2.72",
+      "confidence": 0.9999
+    }
+  ]
+}

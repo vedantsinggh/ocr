@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005621482.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005621482.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PREMIO",
+  "date": "2018-03-20",
+  "items": [
+    {
+      "name": "SR ENERGIZER BATTERYAA4'S",
+      "qty": 1,
+      "price": "13.40"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.00%",
+  "total": "13.40",
+  "currency": "INR",
+  "payment_method": null
+}

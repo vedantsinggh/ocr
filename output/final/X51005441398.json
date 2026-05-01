@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005441398.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005441398.txt",
+    "ocr_line_count": 51,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BreweryTAFAutivo Plaza",
+  "date": "2018-03-30",
+  "items": [
+    {
+      "name": "Tiger Bucket-HH",
+      "qty": 2,
+      "price": "95.00"
+    },
+    {
+      "name": "Chicken wings",
+      "qty": null,
+      "price": "22.00"
+    },
+    {
+      "name": "French Fries",
+      "qty": null,
+      "price": "12.00"
+    },
+    {
+      "name": "Tiger Bucket-HH",
+      "qty": null,
+      "price": "50.00"
+    }
+  ],
+  "subtotal": "179.00",
+  "tax": "10.74",
+  "total": "189.75",
+  "currency": "SR",
+  "payment_method": null
+}

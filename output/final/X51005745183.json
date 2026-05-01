@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745183.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745183.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Six Enterprise",
+  "date": "2018-02-22",
+  "items": [
+    {
+      "name": "TG7 7\" HIPS PLATE (50PCS) JP",
+      "qty": null,
+      "price": "5.80"
+    }
+  ],
+  "subtotal": "63.80",
+  "tax": "83.80",
+  "total": "83.80",
+  "currency": "RM",
+  "payment_method": "Master Card"
+}

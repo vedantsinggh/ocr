@@ -1,0 +1,70 @@
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID:000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+: CS00012664
+Date: 11/01/2018
+Cashier
+: USER
+Time: 11:42:00
+Salesperson :
+Ref. :
+Item
+Qty
+S/Price
+Amount
+Tax
+1627
+1
+4.45
+4.45
+SR
+WALL SCRAPER 3"
+2167
+2
+50.88
+101.76
+SR
+4.5KG RENDEROC PLUG
+1735
+1
+10.07
+10.07
+SR
+5" SCRAPER (ADAMARK)
+Total Qty:
+4
+116.28
+Total Sales (Excluding GST) :
+109.70
+Discount :
+0.00
+Total GSt :
+6.58
+Rounding :
+0.00
+Totai Sales (Inclusive of GsT) :
+116.28
+cash :
+116.28
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt(RM)
+Tax(RM)
+SR
+6
+109.70
+6.58
+Total :
+109.70
+6.58
+GOODS SOLD ARE NOT RETURNABLE,THANK YOU

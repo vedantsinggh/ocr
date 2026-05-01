@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005742110.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005742110.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YONG CEN ENTERPRISE",
+  "date": "2018-01-06",
+  "items": [
+    {
+      "name": "SR:CHAMPIGNONS MUSHROOMS 425G",
+      "qty": 24,
+      "price": "2.58"
+    }
+  ],
+  "subtotal": "61.99",
+  "tax": "3.72",
+  "total": "65.70",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

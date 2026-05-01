@@ -1,0 +1,183 @@
+{
+  "source": "images/X51005663300.jpg",
+  "line_count": 44,
+  "avg_confidence": 0.9466,
+  "lines": [
+    {
+      "text": "3",
+      "confidence": 0.996
+    },
+    {
+      "text": "18",
+      "confidence": 0.9262
+    },
+    {
+      "text": "LIM SENG THO HARDWARE TRADING",
+      "confidence": 0.9485
+    },
+    {
+      "text": "No 7.Simpang Off Batu Village",
+      "confidence": 0.9722
+    },
+    {
+      "text": "Jalan lpoh Batu 5,51200 Kuala Lumpur",
+      "confidence": 0.9253
+    },
+    {
+      "text": "MALAYSIA",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Tel&FaxNo03-62587191",
+      "confidence": 0.9761
+    },
+    {
+      "text": "03-62587191",
+      "confidence": 0.9958
+    },
+    {
+      "text": "CopanReg No.(002231061-T)",
+      "confidence": 0.8826
+    },
+    {
+      "text": "GSTRegNo..001269C75968",
+      "confidence": 0.8766
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9829
+    },
+    {
+      "text": "InvoiceNS",
+      "confidence": 0.894
+    },
+    {
+      "text": "CS24146",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.9139
+    },
+    {
+      "text": "02/02/20181006",
+      "confidence": 0.993
+    },
+    {
+      "text": "Cashier#",
+      "confidence": 0.8968
+    },
+    {
+      "text": "LST",
+      "confidence": 0.9958
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9972
+    },
+    {
+      "text": "eode",
+      "confidence": 0.542
+    },
+    {
+      "text": "BEGGUNI",
+      "confidence": 0.9913
+    },
+    {
+      "text": "10.00NOS",
+      "confidence": 0.9817
+    },
+    {
+      "text": "X",
+      "confidence": 0.6887
+    },
+    {
+      "text": "070",
+      "confidence": 0.9993
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.9844
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Total Incl. of GST",
+      "confidence": 0.934
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Payment:",
+      "confidence": 0.994
+    },
+    {
+      "text": "7 00",
+      "confidence": 0.9864
+    },
+    {
+      "text": "Change Due :",
+      "confidence": 0.9193
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total Item(s) : 10",
+      "confidence": 0.9404
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9493
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9913
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9847
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9938
+    },
+    {
+      "text": "@6%",
+      "confidence": 0.8382
+    },
+    {
+      "text": "6.60",
+      "confidence": 0.9995
+    },
+    {
+      "text": "040",
+      "confidence": 0.9879
+    },
+    {
+      "text": "THANK YOU*",
+      "confidence": 0.9039
+    },
+    {
+      "text": "***PLEASE COME AGAIN***",
+      "confidence": 0.9379
+    },
+    {
+      "text": "*GOODS SOLDARE NOT RETURNABLE",
+      "confidence": 0.9468
+    }
+  ]
+}

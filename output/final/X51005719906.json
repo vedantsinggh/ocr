@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719906.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719906.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Zen and coffee",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "Saba shioyaki wazen (20mins)",
+      "qty": null,
+      "price": "26.00"
+    },
+    {
+      "name": "Unagi don",
+      "qty": null,
+      "price": "28.00"
+    },
+    {
+      "name": "Spicy ASARI Pasta",
+      "qty": null,
+      "price": "19.00"
+    },
+    {
+      "name": "Ebi Mentai Pasta",
+      "qty": null,
+      "price": "22.00"
+    },
+    {
+      "name": "Jasmine Green Tea",
+      "qty": null,
+      "price": "10.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.95",
+  "total": "105.00",
+  "currency": "S",
+  "payment_method": "Cash"
+}

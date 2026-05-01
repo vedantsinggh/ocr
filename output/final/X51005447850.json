@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447850.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447850.txt",
+    "ocr_line_count": 41,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "2018-03-04",
+  "items": [
+    {
+      "name": "POKKA COFFEE VANILLA MILK COFFEE",
+      "qty": 1,
+      "price": "3.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.00",
+  "total": "3.20",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

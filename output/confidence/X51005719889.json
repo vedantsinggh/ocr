@@ -1,0 +1,231 @@
+{
+  "source": "images/X51005719889.jpg",
+  "line_count": 56,
+  "avg_confidence": 0.9679,
+  "lines": [
+    {
+      "text": "HENG KEE DEI.IGHTS BAK KUT TEH.",
+      "confidence": 0.9346
+    },
+    {
+      "text": "NO31, JALAN 3/62A,",
+      "confidence": 0.9699
+    },
+    {
+      "text": "BANDAR MENJALARA",
+      "confidence": 0.9755
+    },
+    {
+      "text": "KEPONG.521.00KUALA LUMPUR",
+      "confidence": 0.9354
+    },
+    {
+      "text": "GSTNO:000403890176",
+      "confidence": 0.9594
+    },
+    {
+      "text": "H/P : 016-6555553",
+      "confidence": 0.9238
+    },
+    {
+      "text": "TAX INVOICE :TBO11530",
+      "confidence": 0.9428
+    },
+    {
+      "text": "TABLE:TAKE AWAY",
+      "confidence": 0.9543
+    },
+    {
+      "text": "DATE:04/01/20187:42:10 AM",
+      "confidence": 0.9475
+    },
+    {
+      "text": "Transaotion By:adnin",
+      "confidence": 0.9599
+    },
+    {
+      "text": "EMS Reference:",
+      "confidence": 0.9254
+    },
+    {
+      "text": "180104074210 TB011530 djf8537854+23",
+      "confidence": 0.9844
+    },
+    {
+      "text": "DESCRIPTION",
+      "confidence": 0.9968
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9865
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.9987
+    },
+    {
+      "text": "2.00X17.00",
+      "confidence": 0.9639
+    },
+    {
+      "text": "34.00",
+      "confidence": 0.9974
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9932
+    },
+    {
+      "text": "Bak Kut Teh Soup.",
+      "confidence": 0.9554
+    },
+    {
+      "text": "2.00x1.50",
+      "confidence": 0.9314
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9945
+    },
+    {
+      "text": "White Rice B)",
+      "confidence": 0.9218
+    },
+    {
+      "text": "1.00X4.00",
+      "confidence": 0.962
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9952
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Tofu (B)",
+      "confidence": 0.864
+    },
+    {
+      "text": "2.00X0.50",
+      "confidence": 0.9731
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9933
+    },
+    {
+      "text": "Chinese Tea/ Water",
+      "confidence": 0.9579
+    },
+    {
+      "text": "Subtotal (GsT Incl)",
+      "confidence": 0.9267
+    },
+    {
+      "text": "42.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Voucher Discount.",
+      "confidence": 0.9418
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Redeem Point Discount",
+      "confidence": 0.9796
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Deposit",
+      "confidence": 0.9989
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9994
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9994
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9967
+    },
+    {
+      "text": "42.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "--Payment Summary--",
+      "confidence": 0.9544
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9976
+    },
+    {
+      "text": "42.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9984
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9978
+    },
+    {
+      "text": "--GsT Summary-",
+      "confidence": 0.9147
+    },
+    {
+      "text": "Amount(SR)",
+      "confidence": 0.8755
+    },
+    {
+      "text": "39.62",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Tax(SR)",
+      "confidence": 0.8174
+    },
+    {
+      "text": "2.38",
+      "confidence": 0.9922
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9797
+    },
+    {
+      "text": "PLEASE COME AGAIN",
+      "confidence": 0.9515
+    }
+  ]
+}

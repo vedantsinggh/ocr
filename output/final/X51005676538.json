@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676538.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676538.txt",
+    "ocr_line_count": 76,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-04",
+  "items": [
+    {
+      "name": "SR 25MM GI NIPPLE",
+      "qty": 1,
+      "price": "3.71"
+    },
+    {
+      "name": "SEAL TAPE",
+      "qty": 1,
+      "price": "5.83"
+    },
+    {
+      "name": "32MM POLY SOCKET",
+      "qty": 1,
+      "price": "33.92"
+    },
+    {
+      "name": "1\" BALL VALVE",
+      "qty": null,
+      "price": "42.20"
+    }
+  ],
+  "subtotal": "42.20",
+  "tax": "2.53",
+  "total": "44.73",
+  "currency": "SR",
+  "payment_method": "cash"
+}

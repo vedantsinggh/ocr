@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724623.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724623.txt",
+    "ocr_line_count": 74,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SOCOMAX",
+  "date": "2018-03-08",
+  "items": [
+    {
+      "name": "SIMEN",
+      "qty": 2,
+      "price": "65.00"
+    },
+    {
+      "name": "PASIR HALUS (D)",
+      "qty": 10,
+      "price": "1050.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "17.70",
+  "total": "312.70",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

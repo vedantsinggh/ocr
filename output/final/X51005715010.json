@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005715010.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005715010.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Watson's PersonaCare Stores Sdn Bho",
+  "date": "2023-03-25",
+  "items": [
+    {
+      "name": "WS CUT SCISSORS",
+      "qty": null,
+      "price": "18.00"
+    },
+    {
+      "name": "QVS TEMPO TWEEZER",
+      "qty": 64542,
+      "price": "0.27"
+    },
+    {
+      "name": "WATSONS BASKET",
+      "qty": null,
+      "price": "0.00"
+    }
+  ],
+  "subtotal": "41.43",
+  "tax": "2.34",
+  "total": "41.45",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

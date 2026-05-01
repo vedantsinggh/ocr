@@ -1,0 +1,195 @@
+{
+  "source": "images/X51005675099.jpg",
+  "line_count": 47,
+  "avg_confidence": 0.9647,
+  "lines": [
+    {
+      "text": "Super Terminal Sdn Bhd",
+      "confidence": 0.9548
+    },
+    {
+      "text": "(1150024-H)",
+      "confidence": 0.9391
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9669
+    },
+    {
+      "text": "No.18 &19,Taman City,Jalan Kuching",
+      "confidence": 0.9216
+    },
+    {
+      "text": "52100 Kuala Lumpur",
+      "confidence": 0.9477
+    },
+    {
+      "text": "TEL:+603-62512293",
+      "confidence": 0.9675
+    },
+    {
+      "text": "GSTIDNo:000180269056",
+      "confidence": 0.9547
+    },
+    {
+      "text": "PLATE NO.:",
+      "confidence": 0.9211
+    },
+    {
+      "text": "1.LED11SIGNAL",
+      "confidence": 0.9868
+    },
+    {
+      "text": "1X55.00",
+      "confidence": 0.9606
+    },
+    {
+      "text": "58.30",
+      "confidence": 0.9986
+    },
+    {
+      "text": "SR",
+      "confidence": 0.996
+    },
+    {
+      "text": "2.KZ SIGNALCONDENSOR KOZI)12V",
+      "confidence": 0.9455
+    },
+    {
+      "text": "(MODEL:SC1201)(MT)",
+      "confidence": 0.9637
+    },
+    {
+      "text": "1 X18.00",
+      "confidence": 0.9131
+    },
+    {
+      "text": "19.08",
+      "confidence": 0.997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9947
+    },
+    {
+      "text": "3.YAMLUBE (SEMI)MOTOR OIL",
+      "confidence": 0.9216
+    },
+    {
+      "text": "1X30.00",
+      "confidence": 0.8765
+    },
+    {
+      "text": "31.80",
+      "confidence": 0.9977
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9964
+    },
+    {
+      "text": "4.OILFILTERLC135",
+      "confidence": 0.98
+    },
+    {
+      "text": "1X13.00",
+      "confidence": 0.977
+    },
+    {
+      "text": "13.78",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9968
+    },
+    {
+      "text": "5.BULBSIGNAL 12V8 RXZG18.5",
+      "confidence": 0.9451
+    },
+    {
+      "text": "1X3.00",
+      "confidence": 0.9886
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9962
+    },
+    {
+      "text": "6.NUMBER PLASTIC",
+      "confidence": 0.9608
+    },
+    {
+      "text": "6 X 1.00",
+      "confidence": 0.9092
+    },
+    {
+      "text": "6.36",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9958
+    },
+    {
+      "text": "TotaSalesInclusive GST @6%",
+      "confidence": 0.9122
+    },
+    {
+      "text": "132.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9984
+    },
+    {
+      "text": "132.50",
+      "confidence": 0.9977
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9976
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9531
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9441
+    },
+    {
+      "text": "SR@6%",
+      "confidence": 0.9102
+    },
+    {
+      "text": "125.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "7.50",
+      "confidence": 1.0
+    },
+    {
+      "text": "F.50",
+      "confidence": 0.802
+    },
+    {
+      "text": "INV NO: CS-1801-00883Date:20/01/2018",
+      "confidence": 0.9619
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442388.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442388.txt",
+    "ocr_line_count": 28,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "CONTENTOJM",
+  "date": "2018-03-20",
+  "items": [
+    {
+      "name": "Bubble Tea",
+      "qty": 2,
+      "price": "5.90"
+    },
+    {
+      "name": "Yam",
+      "qty": 1,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.90",
+  "total": "21.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

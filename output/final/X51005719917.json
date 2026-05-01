@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719917.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719917.txt",
+    "ocr_line_count": 74,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "DOMINO'S PIZZA SEGAMBUT",
+  "date": "2018-03-26",
+  "items": [
+    {
+      "name": "9\"HT",
+      "qty": 1,
+      "price": "30.30"
+    },
+    {
+      "name": "9\"NYC",
+      "qty": 2,
+      "price": "27.60"
+    }
+  ],
+  "subtotal": "60.60",
+  "tax": null,
+  "total": "33.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

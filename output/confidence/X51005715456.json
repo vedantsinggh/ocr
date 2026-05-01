@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005715456.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.955,
+  "lines": [
+    {
+      "text": "3-1708032",
+      "confidence": 0.9996
+    },
+    {
+      "text": "KHE ELECTRICAL TRADING",
+      "confidence": 0.7458
+    },
+    {
+      "text": "(001465242-V)",
+      "confidence": 0.9964
+    },
+    {
+      "text": "33-G JALAN MAJU 3/1",
+      "confidence": 0.9843
+    },
+    {
+      "text": "TAMAN LEMBAH MAJU",
+      "confidence": 0.9933
+    },
+    {
+      "text": "CHERAS, 56100 KL",
+      "confidence": 0.9819
+    },
+    {
+      "text": "TEL:03-4296 0133FAX:03-42968869",
+      "confidence": 0.9461
+    },
+    {
+      "text": "KHE33G@HOTMAIL.COM",
+      "confidence": 0.9914
+    },
+    {
+      "text": "GST ID : 000143474688",
+      "confidence": 0.9185
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.8251
+    },
+    {
+      "text": "Bill'to:",
+      "confidence": 0.9682
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.98
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.8238
+    },
+    {
+      "text": ": C500058953",
+      "confidence": 0.9145
+    },
+    {
+      "text": "Date: 22/03/2013",
+      "confidence": 0.9452
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9981
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.8429
+    },
+    {
+      "text": "Time: 10:18:00",
+      "confidence": 0.9598
+    },
+    {
+      "text": "Salesperson : 002",
+      "confidence": 0.9685
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.9743
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9233
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.7614
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9849
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9564
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9848
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9768
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9916
+    },
+    {
+      "text": "1113",
+      "confidence": 0.9971
+    },
+    {
+      "text": "2",
+      "confidence": 0.8741
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "50.88",
+      "confidence": 0.9665
+    },
+    {
+      "text": "101.76",
+      "confidence": 0.9996
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9861
+    },
+    {
+      "text": "105W E27 PLCE TU8E",
+      "confidence": 0.9793
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9376
+    },
+    {
+      "text": "2",
+      "confidence": 0.9917
+    },
+    {
+      "text": "101.76",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total Sales (Excluding GsT):",
+      "confidence": 0.9511
+    },
+    {
+      "text": "96.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9746
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Totai Gst :",
+      "confidence": 0.9144
+    },
+    {
+      "text": "5.76",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9988
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.996
+    },
+    {
+      "text": "Total Sales (Inclusive of Gst) :.",
+      "confidence": 0.9365
+    },
+    {
+      "text": "101.75",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9892
+    },
+    {
+      "text": "101.75",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9463
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9699
+    },
+    {
+      "text": "Iax Code",
+      "confidence": 0.9886
+    },
+    {
+      "text": "%",
+      "confidence": 0.8718
+    },
+    {
+      "text": "Amt(RM)",
+      "confidence": 0.9017
+    },
+    {
+      "text": "Iax(RM)",
+      "confidence": 0.8073
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9734
+    },
+    {
+      "text": "6",
+      "confidence": 0.9966
+    },
+    {
+      "text": "96.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "5.76",
+      "confidence": 0.967
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9957
+    },
+    {
+      "text": "96.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "5.76",
+      "confidence": 0.9992
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK yOU.",
+      "confidence": 0.8407
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "source": "images/X51005741929.jpg",
+  "line_count": 44,
+  "avg_confidence": 0.9581,
+  "lines": [
+    {
+      "text": "MyMydin Subang Bestari 2300",
+      "confidence": 0.9974
+    },
+    {
+      "text": "MY MYDIN SDN BHD (257229-K)",
+      "confidence": 0.989
+    },
+    {
+      "text": "No 13, 15, 17 & 19 Jalan Nova Q U5/Q.",
+      "confidence": 0.9627
+    },
+    {
+      "text": "Selangor Darul Ehsan",
+      "confidence": 0.9876
+    },
+    {
+      "text": "Tel: 03- 78322935",
+      "confidence": 0.9458
+    },
+    {
+      "text": "GST ID : 001400971264",
+      "confidence": 0.9778
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 0.9987
+    },
+    {
+      "text": "TERMINAL.",
+      "confidence": 0.9272
+    },
+    {
+      "text": ": 1670",
+      "confidence": 0.9911
+    },
+    {
+      "text": "INVOICE NO.",
+      "confidence": 0.9878
+    },
+    {
+      "text": ": 1670327566",
+      "confidence": 0.9882
+    },
+    {
+      "text": "DATE",
+      "confidence": 0.8922
+    },
+    {
+      "text": ": 15/01/2018 10:59:13",
+      "confidence": 0.9907
+    },
+    {
+      "text": "CASHIER",
+      "confidence": 0.9967
+    },
+    {
+      "text": ": Azhar - 928374",
+      "confidence": 0.9598
+    },
+    {
+      "text": "EVEREADY BAT S/H/D 1212BP4 AAAFA",
+      "confidence": 0.9371
+    },
+    {
+      "text": ".s",
+      "confidence": 0.8258
+    },
+    {
+      "text": "9556500903668",
+      "confidence": 0.99
+    },
+    {
+      "text": "1 * 5.50",
+      "confidence": 0.9857
+    },
+    {
+      "text": "5.50",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Iten Count",
+      "confidence": 0.9667
+    },
+    {
+      "text": "1",
+      "confidence": 0.9127
+    },
+    {
+      "text": "Total",
+      "confidence": 0.952
+    },
+    {
+      "text": "5.50 ",
+      "confidence": 0.9118
+    },
+    {
+      "text": "Rounding Adjustment",
+      "confidence": 0.9942
+    },
+    {
+      "text": "0.10",
+      "confidence": 0.9954
+    },
+    {
+      "text": "Total After Rounding",
+      "confidence": 0.9794
+    },
+    {
+      "text": "5.50",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9948
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9994
+    },
+    {
+      "text": "Change CASH",
+      "confidence": 0.9977
+    },
+    {
+      "text": "94.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST Rate",
+      "confidence": 0.9857
+    },
+    {
+      "text": "Amt Exc1 GST(RM)",
+      "confidence": 0.9801
+    },
+    {
+      "text": "Tax(R4)",
+      "confidence": 0.9838
+    },
+    {
+      "text": "%9 = S",
+      "confidence": 0.8511
+    },
+    {
+      "text": "5.19",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.31",
+      "confidence": 0.9983
+    },
+    {
+      "text": "L",
+      "confidence": 0.5761
+    },
+    {
+      "text": "Points earned in this trans. : 0",
+      "confidence": 0.9511
+    },
+    {
+      "text": "Rec3ipt. No: 1670327566",
+      "confidence": 0.9465
+    },
+    {
+      "text": "Pr int Date: 15/01/2018 10:59:23",
+      "confidence": 0.9519
+    },
+    {
+      "text": "Thank You",
+      "confidence": 0.9553
+    },
+    {
+      "text": "Please Come Again.",
+      "confidence": 0.9416
+    }
+  ]
+}

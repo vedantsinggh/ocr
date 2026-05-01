@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719898.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719898.txt",
+    "ocr_line_count": 34,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO MENJALARA KEPONG, HQ",
+  "date": "2018-03-19",
+  "items": [
+    {
+      "name": "CUSHION 45*45CM PLAIN",
+      "qty": 1,
+      "price": "11.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.67",
+  "total": "22.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568829.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568829.txt",
+    "ocr_line_count": 81,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "THAI DELICIOUS RESTAURANT",
+  "date": "2017-02-02",
+  "items": [
+    {
+      "name": "BRAISED PORK LEG SMALL",
+      "qty": 1,
+      "price": "20.00"
+    },
+    {
+      "name": "PHRANAKON",
+      "qty": 32,
+      "price": "28.00"
+    },
+    {
+      "name": "SALTED EGG SQUID",
+      "qty": null,
+      "price": "51.00"
+    },
+    {
+      "name": "GARLIC FRIED KAILAN",
+      "qty": 4,
+      "price": "13.00"
+    },
+    {
+      "name": "THAI STYLE KERABUT OF FUN",
+      "qty": null,
+      "price": "130.00"
+    },
+    {
+      "name": "PLAIN RICE",
+      "qty": 4,
+      "price": "1.80"
+    },
+    {
+      "name": "COCONUT",
+      "qty": 1,
+      "price": "6.50"
+    },
+    {
+      "name": "DISTILLED WATER",
+      "qty": 1,
+      "price": "0.60"
+    },
+    {
+      "name": "BCOLD",
+      "qty": 1,
+      "price": "2.50"
+    },
+    {
+      "name": "PANDAN GINGER TEA",
+      "qty": null,
+      "price": "0.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "92.80",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444046.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444046.txt",
+    "ocr_line_count": 62,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "STARGROCERSDNBHD",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "CARROT S/M 500GM CHPKT",
+      "qty": null,
+      "price": "1.59"
+    },
+    {
+      "name": "JAMBU BATU (GUAVA SEEDLESS/MUTIARA) KG",
+      "qty": null,
+      "price": "1.48"
+    },
+    {
+      "name": "MANGO HONEY (SUSU)KG",
+      "qty": null,
+      "price": "2.59"
+    },
+    {
+      "name": "PINEAPPLE LOCAL IS",
+      "qty": 2,
+      "price": "8.60"
+    },
+    {
+      "name": "TIMUN JEPUN (JAPANESE CUCUMBER) KG",
+      "qty": 0.837,
+      "price": "1.29"
+    },
+    {
+      "name": "US GREEN APPLE175)10S",
+      "qty": 1,
+      "price": "7.50"
+    },
+    {
+      "name": "VALENCIA SA1058",
+      "qty": 4,
+      "price": "5.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "66.17",
+  "total": "66.15",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

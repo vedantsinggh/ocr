@@ -1,0 +1,195 @@
+{
+  "source": "images/X51005719906.jpg",
+  "line_count": 47,
+  "avg_confidence": 0.9465,
+  "lines": [
+    {
+      "text": "Zen and coffee 28 S/B",
+      "confidence": 0.9139
+    },
+    {
+      "text": "No 53,Jalan 3/62A,",
+      "confidence": 0.941
+    },
+    {
+      "text": "Bandar menjalara,",
+      "confidence": 0.9876
+    },
+    {
+      "text": "52200 Kuala Lumpur.",
+      "confidence": 0.9658
+    },
+    {
+      "text": "(GSTNumber:001363259392)",
+      "confidence": 0.9575
+    },
+    {
+      "text": "Date: 25 Mar 2018 9:27PM",
+      "confidence": 0.9078
+    },
+    {
+      "text": "Receipt No: 57269",
+      "confidence": 0.9675
+    },
+    {
+      "text": "Served By: Cashier",
+      "confidence": 0.9626
+    },
+    {
+      "text": "Pax: 2",
+      "confidence": 0.9039
+    },
+    {
+      "text": "Table: L2",
+      "confidence": 0.9918
+    },
+    {
+      "text": "1 Saba shioyaki wazen (20mins)",
+      "confidence": 0.955
+    },
+    {
+      "text": "26.00 S",
+      "confidence": 0.9517
+    },
+    {
+      "text": "1 Unagi don",
+      "confidence": 0.9991
+    },
+    {
+      "text": "28.00 S",
+      "confidence": 0.9084
+    },
+    {
+      "text": "1 Spicy ASARI Pasta",
+      "confidence": 0.9408
+    },
+    {
+      "text": "19.00 S",
+      "confidence": 0.9213
+    },
+    {
+      "text": "1 Ebi Mentai Pasta",
+      "confidence": 0.9682
+    },
+    {
+      "text": "22.00 S",
+      "confidence": 0.9647
+    },
+    {
+      "text": "1 Jasmine Green Tea",
+      "confidence": 0.9566
+    },
+    {
+      "text": "10.00 S",
+      "confidence": 0.9575
+    },
+    {
+      "text": "* Extra 1 Tea Cup",
+      "confidence": 0.9547
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 0.9998
+    },
+    {
+      "text": "105.00",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9999
+    },
+    {
+      "text": "105.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cash:",
+      "confidence": 0.9995
+    },
+    {
+      "text": "105.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Change:",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0
+    },
+    {
+      "text": "k*",
+      "confidence": 0.5208
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9983
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9969
+    },
+    {
+      "text": "S @6%",
+      "confidence": 0.803
+    },
+    {
+      "text": "99.05",
+      "confidence": 0.9988
+    },
+    {
+      "text": "5.95",
+      "confidence": 0.9997
+    },
+    {
+      "text": "****",
+      "confidence": 0.5847
+    },
+    {
+      "text": "Business Hour :",
+      "confidence": 0.9972
+    },
+    {
+      "text": "MON-FRI 11:30am-10:00pm",
+      "confidence": 0.9508
+    },
+    {
+      "text": "SAT-SUN 11:00am-10:00pm",
+      "confidence": 0.9436
+    },
+    {
+      "text": "Tel: 03-62619337",
+      "confidence": 0.9753
+    },
+    {
+      "text": "Email: zenandcoffee88@gmail.com",
+      "confidence": 0.9761
+    },
+    {
+      "text": "Facebook: zenandcoffee",
+      "confidence": 0.9837
+    },
+    {
+      "text": "Instagram: ZenAndCoffee",
+      "confidence": 0.9529
+    },
+    {
+      "text": "Wifi Password:zenandcoffee",
+      "confidence": 0.9603
+    },
+    {
+      "text": "Thank You, Please come again..",
+      "confidence": 0.9442
+    },
+    {
+      "text": "Pawered byARMs F&B www.arms-fnb.com",
+      "confidence": 0.9306
+    }
+  ]
+}

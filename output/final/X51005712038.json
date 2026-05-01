@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005712038.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005712038.txt",
+    "ocr_line_count": 57,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SWC ENTERPRISE",
+  "date": "2018-03-28",
+  "items": [
+    {
+      "name": "0025679 U",
+      "qty": 3,
+      "price": "8.00"
+    },
+    {
+      "name": "0025679 U",
+      "qty": 1,
+      "price": "7.00"
+    },
+    {
+      "name": "0020323PKT",
+      "qty": 1,
+      "price": "1.00"
+    },
+    {
+      "name": "0020324PKT",
+      "qty": 1,
+      "price": "1.80"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.70",
+  "total": "30.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

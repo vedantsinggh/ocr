@@ -1,0 +1,239 @@
+{
+  "source": "images/X51005663276.jpg",
+  "line_count": 58,
+  "avg_confidence": 0.9713,
+  "lines": [
+    {
+      "text": "31812012",
+      "confidence": 0.9126
+    },
+    {
+      "text": "SYARIKAT PERNIAGAAN GIN KEE",
+      "confidence": 0.7805
+    },
+    {
+      "text": "(81109-A)",
+      "confidence": 0.9981
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS",
+      "confidence": 0.9951
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9916
+    },
+    {
+      "text": "53200. KUALA LUMPUR.",
+      "confidence": 0.9693
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9991
+    },
+    {
+      "text": "GST ID : 000750673920",
+      "confidence": 0.9629
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9968
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.996
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9986
+    },
+    {
+      "text": " CS00011955",
+      "confidence": 0.9819
+    },
+    {
+      "text": "Date: 02/12/2017",
+      "confidence": 0.9918
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9987
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9893
+    },
+    {
+      "text": "Time:17 21:00",
+      "confidence": 0.9782
+    },
+    {
+      "text": "Salesperson",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9299
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9757
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.989
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9607
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9956
+    },
+    {
+      "text": "1587",
+      "confidence": 0.9995
+    },
+    {
+      "text": "1",
+      "confidence": 0.9946
+    },
+    {
+      "text": "7.42",
+      "confidence": 0.9999
+    },
+    {
+      "text": "7.42",
+      "confidence": 0.9744
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9969
+    },
+    {
+      "text": "SPRAY PAINT",
+      "confidence": 0.9801
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9959
+    },
+    {
+      "text": "1",
+      "confidence": 0.9926
+    },
+    {
+      "text": "7 42",
+      "confidence": 0.9562
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9793
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.994
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total GSt :",
+      "confidence": 0.8327
+    },
+    {
+      "text": "0.42",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9391
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Sales (Inclusive of GST) :",
+      "confidence": 0.9845
+    },
+    {
+      "text": "7.42",
+      "confidence": 0.9998
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9944
+    },
+    {
+      "text": "7.42",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.971
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.996
+    },
+    {
+      "text": "%",
+      "confidence": 0.5782
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9826
+    },
+    {
+      "text": "Iax(RM)",
+      "confidence": 0.9751
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9971
+    },
+    {
+      "text": "6",
+      "confidence": 0.9983
+    },
+    {
+      "text": "7 00",
+      "confidence": 0.9787
+    },
+    {
+      "text": "0 42",
+      "confidence": 0.9767
+    },
+    {
+      "text": "Totel:",
+      "confidence": 0.8817
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.42",
+      "confidence": 0.9997
+    }
+  ]
+}

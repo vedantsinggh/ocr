@@ -1,0 +1,287 @@
+{
+  "source": "images/X51005303661.jpg",
+  "line_count": 70,
+  "avg_confidence": 0.9651,
+  "lines": [
+    {
+      "text": "LIGHTROOM GALLERY SDN BHD",
+      "confidence": 0.9846
+    },
+    {
+      "text": "No: 28, JALAN ASTANA 1C,",
+      "confidence": 0.9446
+    },
+    {
+      "text": "BANDAR BUKIT RAJA, 41050",
+      "confidence": 0.9479
+    },
+    {
+      "text": "KLANG SELANGOR D.E, MALAYSIA",
+      "confidence": 0.9737
+    },
+    {
+      "text": "ROC No.: (1072825-A)",
+      "confidence": 0.9275
+    },
+    {
+      "text": "GST No. : 000584089600",
+      "confidence": 0.9622
+    },
+    {
+      "text": "Tel:03-3362 4395 Fax:03-3362 4395",
+      "confidence": 0.9724
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Station: CASHIER",
+      "confidence": 0.9414
+    },
+    {
+      "text": "Bill No: LCS03908",
+      "confidence": 0.9836
+    },
+    {
+      "text": "Cas  r: ANGELA",
+      "confidence": 0.9656
+    },
+    {
+      "text": "Cover : 1",
+      "confidence": 0.9678
+    },
+    {
+      "text": "Bill Date : 20/12/2017",
+      "confidence": 0.9592
+    },
+    {
+      "text": "Bil1 Start: 20/12/2017 07:10:35 PM",
+      "confidence": 0.9763
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9681
+    },
+    {
+      "text": ": 300-C0001",
+      "confidence": 0.9602
+    },
+    {
+      "text": " Name",
+      "confidence": 0.9374
+    },
+    {
+      "text": ": CASH",
+      "confidence": 0.9947
+    },
+    {
+      "text": "Address",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GST No.",
+      "confidence": 0.8826
+    },
+    {
+      "text": "CH50514",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9846
+    },
+    {
+      "text": "T5 JOINT 2PIN 2PCS",
+      "confidence": 0.9845
+    },
+    {
+      "text": "1*RM2.83UNI",
+      "confidence": 0.9734
+    },
+    {
+      "text": "A",
+      "confidence": 0.8317
+    },
+    {
+      "text": "0.17)=RM",
+      "confidence": 0.9875
+    },
+    {
+      "text": "2.83",
+      "confidence": 0.9996
+    },
+    {
+      "text": "YT51874",
+      "confidence": 0.9987
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9848
+    },
+    {
+      "text": "YE3O BK 7W WW LED TRACK LIGHT",
+      "confidence": 0.9441
+    },
+    {
+      "text": "2*RM33.02UNI",
+      "confidence": 0.9415
+    },
+    {
+      "text": "3.96)=RM",
+      "confidence": 0.9947
+    },
+    {
+      "text": "66.04",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9987
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9972
+    },
+    {
+      "text": "68. 87",
+      "confidence": 0.9456
+    },
+    {
+      "text": ".",
+      "confidence": 0.6932
+    },
+    {
+      "text": "Service Charge",
+      "confidence": 0.9809
+    },
+    {
+      "text": "RM",
+      "confidence": 0.997
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST/TAX 6%",
+      "confidence": 0.9791
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9978
+    },
+    {
+      "text": "4.13",
+      "confidence": 0.9997
+    },
+    {
+      "text": "TOTA, :",
+      "confidence": 0.8215
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9959
+    },
+    {
+      "text": "73.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CA.",
+      "confidence": 0.9067
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9977
+    },
+    {
+      "text": "73.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": ":",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CHANGE:",
+      "confidence": 0.999
+    },
+    {
+      "text": " RM",
+      "confidence": 0.86
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Item Count: 2",
+      "confidence": 0.9477
+    },
+    {
+      "text": "Qty Count : 3.0",
+      "confidence": 0.9351
+    },
+    {
+      "text": "Closed Bi11: 20/12/2017 07:10:51 PM",
+      "confidence": 0.9804
+    },
+    {
+      "text": "Thank You, Please come again.",
+      "confidence": 0.9839
+    },
+    {
+      "text": "Goods Sold are not refundable, returnable",
+      "confidence": 0.9976
+    },
+    {
+      "text": "BANK ACC MBB 5128 4851 2118",
+      "confidence": 0.9578
+    },
+    {
+      "text": "BANK ACC MBB 5626 4732 1744",
+      "confidence": 0.9657
+    },
+    {
+      "text": "BANK ACC AMBANK 888 100 123 3706",
+      "confidence": 0.9413
+    },
+    {
+      "text": "GST Sunmary",
+      "confidence": 0.923
+    },
+    {
+      "text": "Amount (RM)",
+      "confidence": 0.9541
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9993
+    },
+    {
+      "text": "SR @ 6%",
+      "confidence": 0.9577
+    },
+    {
+      "text": "68.87",
+      "confidence": 0.9999
+    },
+    {
+      "text": "4.13",
+      "confidence": 0.9997
+    },
+    {
+      "text": "ZR/OS/EZ",
+      "confidence": 0.9743
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9995
+    }
+  ]
+}

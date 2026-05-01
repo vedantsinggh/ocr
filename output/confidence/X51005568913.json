@@ -1,0 +1,155 @@
+{
+  "source": "images/X51005568913.jpg",
+  "line_count": 37,
+  "avg_confidence": 0.97,
+  "lines": [
+    {
+      "text": "IKANO HANDEL SDN BHD",
+      "confidence": 0.946
+    },
+    {
+      "text": "(1074617K)",
+      "confidence": 0.9805
+    },
+    {
+      "text": "IKEA Cheras",
+      "confidence": 0.986
+    },
+    {
+      "text": "No 2A Jalan Cochrane",
+      "confidence": 0.953
+    },
+    {
+      "text": "Taman Maluri",
+      "confidence": 0.9846
+    },
+    {
+      "text": "55100 KUALA LUMPUR",
+      "confidence": 0.9454
+    },
+    {
+      "text": "GST No.: 000115154944",
+      "confidence": 0.9388
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9655
+    },
+    {
+      "text": "S1ip: 0000000011000136498",
+      "confidence": 0.9362
+    },
+    {
+      "text": "Date:27/07/17",
+      "confidence": 0.9769
+    },
+    {
+      "text": "Time:1:12",
+      "confidence": 0.9496
+    },
+    {
+      "text": "Trans:311136194",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Staff:",
+      "confidence": 0.9899
+    },
+    {
+      "text": "95837",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Description",
+      "confidence": 0.996
+    },
+    {
+      "text": "Amount TX",
+      "confidence": 0.975
+    },
+    {
+      "text": "50346155 B0STRAK WRD 80X50X18",
+      "confidence": 0.9343
+    },
+    {
+      "text": "2 pc @269.00",
+      "confidence": 0.9383
+    },
+    {
+      "text": "538.00SRS",
+      "confidence": 0.986
+    },
+    {
+      "text": "Tota1 RM Including GST 6%",
+      "confidence": 0.9172
+    },
+    {
+      "text": "538.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Rounding Adj",
+      "confidence": 0.9807
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Tota1 Rounded",
+      "confidence": 0.9589
+    },
+    {
+      "text": "538.00",
+      "confidence": 0.9891
+    },
+    {
+      "text": "Visa",
+      "confidence": 0.9965
+    },
+    {
+      "text": "-538.00",
+      "confidence": 0.9685
+    },
+    {
+      "text": "GST SR",
+      "confidence": 0.9458
+    },
+    {
+      "text": "6%",
+      "confidence": 0.9972
+    },
+    {
+      "text": "538.00",
+      "confidence": 0.9958
+    },
+    {
+      "text": "30.45",
+      "confidence": 0.9926
+    },
+    {
+      "text": "Amt.Exc1.GST",
+      "confidence": 0.9342
+    },
+    {
+      "text": "507.55",
+      "confidence": 0.9788
+    },
+    {
+      "text": "No. of Items",
+      "confidence": 0.9259
+    },
+    {
+      "text": "2",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Thank you. Please come again.",
+      "confidence": 0.958
+    },
+    {
+      "text": "*T3620000011000136498*",
+      "confidence": 0.9968
+    }
+  ]
+}

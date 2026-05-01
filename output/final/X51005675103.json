@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005675103.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005675103.txt",
+    "ocr_line_count": 72,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-04",
+  "items": [
+    {
+      "name": "K10'1 X 8",
+      "qty": null,
+      "price": "40.28"
+    },
+    {
+      "name": "BIG TREE HIGH GLOSS PAINT",
+      "qty": 1,
+      "price": "6.89"
+    },
+    {
+      "name": "7\" ROLLERREFILL",
+      "qty": null,
+      "price": "6.89"
+    }
+  ],
+  "subtotal": "94.50",
+  "tax": "5.67",
+  "total": "100.17",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

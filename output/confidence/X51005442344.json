@@ -1,0 +1,279 @@
+{
+  "source": "images/X51005442344.jpg",
+  "line_count": 68,
+  "avg_confidence": 0.9298,
+  "lines": [
+    {
+      "text": "YONG TAT HARDWARE TRADING",
+      "confidence": 0.9526
+    },
+    {
+      "text": "JM0292487-D",
+      "confidence": 0.9518
+    },
+    {
+      "text": "NO4,JALAN PERJIRANAN 10,",
+      "confidence": 0.9399
+    },
+    {
+      "text": "TAMAN AIR BIRU,",
+      "confidence": 0.9181
+    },
+    {
+      "text": "81700PASIRGUDANG",
+      "confidence": 0.924
+    },
+    {
+      "text": "JOHOR.",
+      "confidence": 0.992
+    },
+    {
+      "text": "TEL07-2614733FAX:07-2514733",
+      "confidence": 0.9684
+    },
+    {
+      "text": "YONGTAT99@YAHOO.COM.MY",
+      "confidence": 0.9293
+    },
+    {
+      "text": "GSD001570349056",
+      "confidence": 0.9785
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9377
+    },
+    {
+      "text": "DOC No.",
+      "confidence": 0.7346
+    },
+    {
+      "text": "CS00035863",
+      "confidence": 0.9763
+    },
+    {
+      "text": "Date:13/03/2018",
+      "confidence": 0.9562
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9951
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9848
+    },
+    {
+      "text": "Time12:49:00",
+      "confidence": 0.9443
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9582
+    },
+    {
+      "text": "Ret:",
+      "confidence": 0.8241
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9339
+    },
+    {
+      "text": "{GST",
+      "confidence": 0.8896
+    },
+    {
+      "text": "fen",
+      "confidence": 0.5666
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9832
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9122
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9552
+    },
+    {
+      "text": "Amoumt",
+      "confidence": 0.912
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9944
+    },
+    {
+      "text": "2597",
+      "confidence": 0.8761
+    },
+    {
+      "text": "1.00PCS",
+      "confidence": 0.9704
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9923
+    },
+    {
+      "text": "50.88",
+      "confidence": 0.9837
+    },
+    {
+      "text": "50.06",
+      "confidence": 0.9098
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9654
+    },
+    {
+      "text": "10WING COMPASS ",
+      "confidence": 0.8816
+    },
+    {
+      "text": "5736",
+      "confidence": 0.8581
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9872
+    },
+    {
+      "text": "47.17",
+      "confidence": 0.945
+    },
+    {
+      "text": "60.00",
+      "confidence": 0.9435
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "1/8-3/412PCS HOLLOW PUNCH SET",
+      "confidence": 0.8979
+    },
+    {
+      "text": "68",
+      "confidence": 0.5461
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.935
+    },
+    {
+      "text": "100.88",
+      "confidence": 0.9875
+    },
+    {
+      "text": "Total SalesExcluding GsT",
+      "confidence": 0.9197
+    },
+    {
+      "text": "95.17",
+      "confidence": 0.9904
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9739
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9742
+    },
+    {
+      "text": "Tota GST",
+      "confidence": 0.8626
+    },
+    {
+      "text": "5.71",
+      "confidence": 0.9449
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.96
+    },
+    {
+      "text": "0.02",
+      "confidence": 0.9931
+    },
+    {
+      "text": "Total Sales (Inclusive of GST",
+      "confidence": 0.8629
+    },
+    {
+      "text": "100.90",
+      "confidence": 0.9604
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9897
+    },
+    {
+      "text": "101.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "Change:",
+      "confidence": 0.9666
+    },
+    {
+      "text": "0.10",
+      "confidence": 0.9937
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9519
+    },
+    {
+      "text": "Iax Coda",
+      "confidence": 0.9001
+    },
+    {
+      "text": "%",
+      "confidence": 0.9067
+    },
+    {
+      "text": "Amt(RM",
+      "confidence": 0.8395
+    },
+    {
+      "text": "Tax(RM",
+      "confidence": 0.8389
+    },
+    {
+      "text": "SR",
+      "confidence": 0.948
+    },
+    {
+      "text": "95.17",
+      "confidence": 0.9774
+    },
+    {
+      "text": "571",
+      "confidence": 0.9861
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9206
+    },
+    {
+      "text": "95.17",
+      "confidence": 0.9949
+    },
+    {
+      "text": "5.71",
+      "confidence": 0.9942
+    },
+    {
+      "text": "GOODS SOLI ARE NOT RETURNABLE.THANK YOU",
+      "confidence": 0.8946
+    }
+  ]
+}

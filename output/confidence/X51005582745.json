@@ -1,0 +1,219 @@
+{
+  "source": "images/X51005582745.jpg",
+  "line_count": 53,
+  "avg_confidence": 0.9553,
+  "lines": [
+    {
+      "text": "MODERNDEPOTSDNBHD",
+      "confidence": 0.953
+    },
+    {
+      "text": "950345-7",
+      "confidence": 0.9258
+    },
+    {
+      "text": "NO.19PT18685JALANJAMBU MELAKA 2",
+      "confidence": 0.9465
+    },
+    {
+      "text": "JINJANG SELATANKEPONG.",
+      "confidence": 0.9713
+    },
+    {
+      "text": "TEL:+603-62428076FAX:+603-62428176",
+      "confidence": 0.9401
+    },
+    {
+      "text": "GST NO:002098102272",
+      "confidence": 0.9388
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9979
+    },
+    {
+      "text": "RECEIPTCS00090733DATE04/12/2016",
+      "confidence": 0.9725
+    },
+    {
+      "text": "SALESPERSON:",
+      "confidence": 0.9874
+    },
+    {
+      "text": "TIME:09:58:00",
+      "confidence": 0.9001
+    },
+    {
+      "text": "CASHIERTHYE",
+      "confidence": 0.9906
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.9811
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9275
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.9829
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9944
+    },
+    {
+      "text": "CLSTEL670",
+      "confidence": 0.957
+    },
+    {
+      "text": "1",
+      "confidence": 0.9884
+    },
+    {
+      "text": "141.51",
+      "confidence": 0.992
+    },
+    {
+      "text": "141.51",
+      "confidence": 0.9941
+    },
+    {
+      "text": "SRSTEL670 HEATGUN 2000WSTANLEY",
+      "confidence": 0.9305
+    },
+    {
+      "text": "S/N:031274",
+      "confidence": 0.9552
+    },
+    {
+      "text": "TOTALQUANTITY",
+      "confidence": 0.9629
+    },
+    {
+      "text": "1",
+      "confidence": 0.9753
+    },
+    {
+      "text": "SUB-TOTAL",
+      "confidence": 0.9865
+    },
+    {
+      "text": "141.51",
+      "confidence": 0.9958
+    },
+    {
+      "text": "3SIE",
+      "confidence": 0.5059
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "TOTAL.GST",
+      "confidence": 0.9505
+    },
+    {
+      "text": "8.49",
+      "confidence": 0.9922
+    },
+    {
+      "text": "TAX",
+      "confidence": 0.995
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9915
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9959
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9967
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.971
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9961
+    },
+    {
+      "text": "150.00",
+      "confidence": 0.9584
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9981
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.8964
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9449
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9843
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9907
+    },
+    {
+      "text": "%",
+      "confidence": 0.8896
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9938
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9866
+    },
+    {
+      "text": "141.51",
+      "confidence": 0.9941
+    },
+    {
+      "text": "6",
+      "confidence": 0.776
+    },
+    {
+      "text": "8.49",
+      "confidence": 0.9881
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9202
+    },
+    {
+      "text": "8.49",
+      "confidence": 0.9915
+    },
+    {
+      "text": "GOONS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.899
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9455
+    },
+    {
+      "text": "#GST6%INCLUDEDIN TOTAL",
+      "confidence": 0.9421
+    }
+  ]
+}

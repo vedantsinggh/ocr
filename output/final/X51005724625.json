@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724625.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724625.txt",
+    "ocr_line_count": 83,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PAPAN YEW CHUAN",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "SR PASIR KASAR(D)",
+      "qty": 60,
+      "price": "63.60"
+    },
+    {
+      "name": "SR BATU 3/4 (D)",
+      "qty": 1,
+      "price": "68.90"
+    },
+    {
+      "name": "SIMEN",
+      "qty": 5,
+      "price": "17.49"
+    }
+  ],
+  "subtotal": "267.50",
+  "tax": "16.05",
+  "total": "283.55",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005337867.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005337867.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "OLDTOWN WHITE COFFEE",
+  "date": "2018-03-22",
+  "items": [
+    {
+      "name": "LIZA",
+      "qty": null,
+      "price": "13.87"
+    },
+    {
+      "name": "Stm Ginger R",
+      "qty": null,
+      "price": "5"
+    },
+    {
+      "name": "Teh Tarik",
+      "qty": null,
+      "price": "12.07"
+    },
+    {
+      "name": "Curry Mee",
+      "qty": null,
+      "price": "4"
+    },
+    {
+      "name": "Lemon T",
+      "qty": null,
+      "price": "7"
+    }
+  ],
+  "subtotal": "25.94",
+  "tax": "1.71",
+  "total": "30.24",
+  "currency": "RM",
+  "payment_method": null
+}

@@ -1,0 +1,195 @@
+{
+  "source": "images/X51005568887.jpg",
+  "line_count": 47,
+  "avg_confidence": 0.9392,
+  "lines": [
+    {
+      "text": "HON HWA HARDWARETRADING",
+      "confidence": 0.9486
+    },
+    {
+      "text": "CompanyReg.No.:001055194X",
+      "confidence": 0.8779
+    },
+    {
+      "text": "NO37JALAN MANIS7.TAMANSEGAR",
+      "confidence": 0.9448
+    },
+    {
+      "text": "561O0CHERAS.KUALALUMPUR",
+      "confidence": 0.9089
+    },
+    {
+      "text": "+603-91302672",
+      "confidence": 0.9706
+    },
+    {
+      "text": "GSTReg:001125220352",
+      "confidence": 0.9541
+    },
+    {
+      "text": "TAXNVOICE",
+      "confidence": 0.9647
+    },
+    {
+      "text": "CB#75588",
+      "confidence": 0.9199
+    },
+    {
+      "text": "20/04/201711:01:30A",
+      "confidence": 0.8828
+    },
+    {
+      "text": "M#C2-0",
+      "confidence": 0.8235
+    },
+    {
+      "text": "Cashier:cash1",
+      "confidence": 0.9368
+    },
+    {
+      "text": "Qty Description",
+      "confidence": 0.9501
+    },
+    {
+      "text": "Price",
+      "confidence": 0.9914
+    },
+    {
+      "text": "TotalRM,",
+      "confidence": 0.8187
+    },
+    {
+      "text": "1.234ALUMNUMROD",
+      "confidence": 0.8581
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9822
+    },
+    {
+      "text": "7.20SR",
+      "confidence": 0.9718
+    },
+    {
+      "text": "Item Dscount",
+      "confidence": 0.905
+    },
+    {
+      "text": "000",
+      "confidence": 0.9684
+    },
+    {
+      "text": "1.2 Type: 1",
+      "confidence": 0.9807
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9737
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9893
+    },
+    {
+      "text": "Jiscount:",
+      "confidence": 0.9221
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9835
+    },
+    {
+      "text": "Rounding Adj",
+      "confidence": 0.9417
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9865
+    },
+    {
+      "text": "Total Inclusive GST",
+      "confidence": 0.8826
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9994
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9978
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9989
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9438
+    },
+    {
+      "text": "Code",
+      "confidence": 0.9962
+    },
+    {
+      "text": "%",
+      "confidence": 0.9918
+    },
+    {
+      "text": "Nel Amt",
+      "confidence": 0.829
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9113
+    },
+    {
+      "text": "Fotal(RM)",
+      "confidence": 0.8125
+    },
+    {
+      "text": "SR",
+      "confidence": 0.99
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9894
+    },
+    {
+      "text": "6.79",
+      "confidence": 0.9776
+    },
+    {
+      "text": "041",
+      "confidence": 0.9843
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9078
+    },
+    {
+      "text": "Totel",
+      "confidence": 0.9417
+    },
+    {
+      "text": "6.79",
+      "confidence": 0.9327
+    },
+    {
+      "text": "0.41",
+      "confidence": 0.9886
+    },
+    {
+      "text": "7.20",
+      "confidence": 0.9607
+    },
+    {
+      "text": "Thank you!&Please come again!!",
+      "confidence": 0.9074
+    },
+    {
+      "text": "Goods sold are noi retnable tor relund or exchange i",
+      "confidence": 0.8419
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source": "images/X51005444045.jpg",
+  "line_count": 25,
+  "avg_confidence": 0.9271,
+  "lines": [
+    {
+      "text": "99SPEEDMART5/B519537-X",
+      "confidence": 0.9143
+    },
+    {
+      "text": "LOTP.T.2811JALAN ANG5A",
+      "confidence": 0.8747
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9479
+    },
+    {
+      "text": "41150 KLANGSELANGOR",
+      "confidence": 0.9535
+    },
+    {
+      "text": "1245-DESA SRI HARTAMAS",
+      "confidence": 0.8953
+    },
+    {
+      "text": "GSTID.NO000181747712",
+      "confidence": 0.9476
+    },
+    {
+      "text": "INV0ICEN018341/103/T0138",
+      "confidence": 0.9422
+    },
+    {
+      "text": "09:06PM",
+      "confidence": 0.9058
+    },
+    {
+      "text": "569547",
+      "confidence": 0.9865
+    },
+    {
+      "text": "19-03-18",
+      "confidence": 0.9805
+    },
+    {
+      "text": "RM11.405",
+      "confidence": 0.8075
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.8847
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9915
+    },
+    {
+      "text": "CASHRM",
+      "confidence": 0.9832
+    },
+    {
+      "text": "11.40",
+      "confidence": 0.9969
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9372
+    },
+    {
+      "text": ".00",
+      "confidence": 0.9884
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9358
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.8125
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9117
+    },
+    {
+      "text": "s=6.",
+      "confidence": 0.7849
+    },
+    {
+      "text": "10.75",
+      "confidence": 0.9963
+    },
+    {
+      "text": ".65",
+      "confidence": 0.9561
+    },
+    {
+      "text": "Thank You. Please come again",
+      "confidence": 0.9082
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9347
+    }
+  ]
+}

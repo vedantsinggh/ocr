@@ -1,0 +1,255 @@
+{
+  "source": "images/X51005444046.jpg",
+  "line_count": 62,
+  "avg_confidence": 0.965,
+  "lines": [
+    {
+      "text": "STARGROCERSDNBHD (1171881-W)",
+      "confidence": 0.9361
+    },
+    {
+      "text": "No 4, Desa Pandan,Off kampong Pandan,",
+      "confidence": 0.9059
+    },
+    {
+      "text": "55100 Kuala Lumpur",
+      "confidence": 0.9593
+    },
+    {
+      "text": "GSTREGNO:000915943424",
+      "confidence": 0.9691
+    },
+    {
+      "text": "TaxInvoices",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Tax Inv0ice: DSP05201803250022",
+      "confidence": 0.9294
+    },
+    {
+      "text": "25/03/18",
+      "confidence": 0.9976
+    },
+    {
+      "text": "Cashier: Raja Nur",
+      "confidence": 0.9607
+    },
+    {
+      "text": "13:43:11",
+      "confidence": 0.9272
+    },
+    {
+      "text": "CARROT S/M 5OOGM CHPKT)",
+      "confidence": 0.8964
+    },
+    {
+      "text": "1800001501",
+      "confidence": 0.9981
+    },
+    {
+      "text": "1.59*8",
+      "confidence": 0.9777
+    },
+    {
+      "text": "1272Z",
+      "confidence": 0.9003
+    },
+    {
+      "text": "JAMBU BATU (GUAVA SEEDLESS/MUTIARA) KG",
+      "confidence": 0.9476
+    },
+    {
+      "text": "200033100148002149",
+      "confidence": 0.9964
+    },
+    {
+      "text": "6.92-0.214",
+      "confidence": 0.9235
+    },
+    {
+      "text": "1.48Z",
+      "confidence": 0.9277
+    },
+    {
+      "text": "MANGO HONEY (SUSU)KG)",
+      "confidence": 0.9024
+    },
+    {
+      "text": "200010800259005280",
+      "confidence": 0.9896
+    },
+    {
+      "text": "4.91*0.528",
+      "confidence": 0.99
+    },
+    {
+      "text": "2.59 Z",
+      "confidence": 0.9799
+    },
+    {
+      "text": "PINEAPPLELOCAL1S",
+      "confidence": 0.9873
+    },
+    {
+      "text": "1810064501",
+      "confidence": 0.9899
+    },
+    {
+      "text": "8.60*2",
+      "confidence": 0.9829
+    },
+    {
+      "text": "17.20Z",
+      "confidence": 0.9847
+    },
+    {
+      "text": "TIMUN JEPUN (JAPANESE CUCUMBER) KG",
+      "confidence": 0.934
+    },
+    {
+      "text": "200017100108008367",
+      "confidence": 0.9982
+    },
+    {
+      "text": "1.29*0.837",
+      "confidence": 0.983
+    },
+    {
+      "text": "1.08Z",
+      "confidence": 0.9661
+    },
+    {
+      "text": "US GREEN APPLE175)10S",
+      "confidence": 0.9259
+    },
+    {
+      "text": "1810078202",
+      "confidence": 0.999
+    },
+    {
+      "text": "7.50*1",
+      "confidence": 0.9632
+    },
+    {
+      "text": "7.50Z",
+      "confidence": 0.9536
+    },
+    {
+      "text": "VALENCIASA1058",
+      "confidence": 0.9454
+    },
+    {
+      "text": "1810061602",
+      "confidence": 0.9976
+    },
+    {
+      "text": "5.90*4",
+      "confidence": 0.9749
+    },
+    {
+      "text": "23.60 Z",
+      "confidence": 0.8966
+    },
+    {
+      "text": "Item 7",
+      "confidence": 0.9596
+    },
+    {
+      "text": "Total with GST@%",
+      "confidence": 0.8679
+    },
+    {
+      "text": "66.17",
+      "confidence": 0.9925
+    },
+    {
+      "text": "Qty 18",
+      "confidence": 0.9749
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9991
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.9762
+    },
+    {
+      "text": "Total Saving",
+      "confidence": 0.9706
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9955
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9939
+    },
+    {
+      "text": "66.15",
+      "confidence": 0.9717
+    },
+    {
+      "text": "Tender",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Cash",
+      "confidence": 0.9983
+    },
+    {
+      "text": "6700",
+      "confidence": 0.9851
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9996
+    },
+    {
+      "text": "0.85",
+      "confidence": 0.9941
+    },
+    {
+      "text": "GST Analysis",
+      "confidence": 0.966
+    },
+    {
+      "text": "Goods",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Tax Amount",
+      "confidence": 0.9815
+    },
+    {
+      "text": "S=6%",
+      "confidence": 0.8487
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9966
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9931
+    },
+    {
+      "text": "Z=0%",
+      "confidence": 0.9507
+    },
+    {
+      "text": "66.17",
+      "confidence": 0.9988
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Consider PTS:66",
+      "confidence": 0.9315
+    }
+  ]
+}

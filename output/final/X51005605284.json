@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605284.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605284.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ADVANCO COMPANY",
+  "date": "2018-03-23",
+  "items": [
+    {
+      "name": "FUJI XEROX EVERYDAY A4 70GSM E SR",
+      "qty": 5,
+      "price": "11.00"
+    },
+    {
+      "name": "CANON PG-47BK E400 BLACK FINE( SR",
+      "qty": 1,
+      "price": "29.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.70",
+  "total": "83.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

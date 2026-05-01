@@ -1,0 +1,267 @@
+{
+  "source": "images/X51005676543.jpg",
+  "line_count": 65,
+  "avg_confidence": 0.977,
+  "lines": [
+    {
+      "text": "E10",
+      "confidence": 0.9832
+    },
+    {
+      "text": "SYArIKAt PERNIAGAAn gIn KEE",
+      "confidence": 0.6899
+    },
+    {
+      "text": "81109-A",
+      "confidence": 0.9886
+    },
+    {
+      "text": "NO 290, JALAN AIR PANAS",
+      "confidence": 0.9289
+    },
+    {
+      "text": "SETAPAK,",
+      "confidence": 0.9569
+    },
+    {
+      "text": "53200. KUALA LUMPUR",
+      "confidence": 0.9541
+    },
+    {
+      "text": "TEL : 03-40210276",
+      "confidence": 0.9618
+    },
+    {
+      "text": "GST ID : 000750673920",
+      "confidence": 0.9759
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9963
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9952
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9849
+    },
+    {
+      "text": ": CS00012493",
+      "confidence": 0.9465
+    },
+    {
+      "text": "Date:02/01/2018",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9993
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9693
+    },
+    {
+      "text": "Time: 09:28:00",
+      "confidence": 0.9853
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9559
+    },
+    {
+      "text": "Ref. :",
+      "confidence": 0.9363
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9889
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9985
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9825
+    },
+    {
+      "text": "Armount",
+      "confidence": 0.8884
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.9979
+    },
+    {
+      "text": "1720",
+      "confidence": 0.9993
+    },
+    {
+      "text": "1",
+      "confidence": 0.9991
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9994
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9971
+    },
+    {
+      "text": "SPONGE SCRUB W-PLASTIC HANDLE",
+      "confidence": 0.9905
+    },
+    {
+      "text": "1604",
+      "confidence": 0.9985
+    },
+    {
+      "text": "1",
+      "confidence": 0.9993
+    },
+    {
+      "text": "10.07",
+      "confidence": 0.9999
+    },
+    {
+      "text": "10.07",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9898
+    },
+    {
+      "text": "4 1/2\" PLASTERING TROWEL",
+      "confidence": 0.9828
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2",
+      "confidence": 0.9987
+    },
+    {
+      "text": "13.25",
+      "confidence": 0.999
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9879
+    },
+    {
+      "text": "12.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9504
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total Gst :",
+      "confidence": 0.9362
+    },
+    {
+      "text": "0.75",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9569
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT) :",
+      "confidence": 0.9812
+    },
+    {
+      "text": "13.25",
+      "confidence": 0.9999
+    },
+    {
+      "text": "cash :",
+      "confidence": 0.8914
+    },
+    {
+      "text": "13.25",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9915
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9503
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9957
+    },
+    {
+      "text": "%",
+      "confidence": 0.9856
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.9763
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9816
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9843
+    },
+    {
+      "text": "6",
+      "confidence": 0.9988
+    },
+    {
+      "text": "12.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "0.75",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.999
+    },
+    {
+      "text": "12.50",
+      "confidence": 0.9984
+    },
+    {
+      "text": "0.75",
+      "confidence": 0.9999
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,THANK YOU",
+      "confidence": 0.9255
+    }
+  ]
+}

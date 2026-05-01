@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005722668.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005722668.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MY HAPPY PHARMACY PLT",
+  "date": "2018-02-01",
+  "items": [
+    {
+      "name": "FLANIL ANALGESIC CR 60G",
+      "qty": 1,
+      "price": "20.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.16",
+  "total": "20.50",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

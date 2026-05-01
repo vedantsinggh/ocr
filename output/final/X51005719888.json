@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719888.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719888.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POTTERS GARDEN SDN BHD",
+  "date": "2018-01-04",
+  "items": [
+    {
+      "name": "CHINA POT",
+      "qty": 2,
+      "price": "7.90"
+    },
+    {
+      "name": "PLANT",
+      "qty": null,
+      "price": "16.00"
+    },
+    {
+      "name": "PLANT",
+      "qty": null,
+      "price": "7.00"
+    }
+  ],
+  "subtotal": "39.80",
+  "tax": "2.26",
+  "total": "40.00",
+  "currency": "SR",
+  "payment_method": "Cash"
+}

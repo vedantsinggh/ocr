@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757294.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757294.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IOI PUCHONG",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "CARBON FIBER CARTRIDGE CTO-98#10 CC22-52-62 - 25",
+      "qty": 2,
+      "price": "10.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.60",
+  "total": "10.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

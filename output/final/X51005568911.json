@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568911.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568911.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO EXTRA KAJANG",
+  "date": "2017-03-08",
+  "items": [
+    {
+      "name": "BOOSTER CABLE XH-500A",
+      "qty": null,
+      "price": "29.90"
+    },
+    {
+      "name": "MOTH BALLS 150G",
+      "qty": null,
+      "price": "2.10"
+    },
+    {
+      "name": "DIY GOLD TWIST DRILL 3MM",
+      "qty": 1,
+      "price": "2.50"
+    },
+    {
+      "name": "HSS TWIST DRILL6*160MM",
+      "qty": 1,
+      "price": "3.30"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.14",
+  "total": "37.80",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

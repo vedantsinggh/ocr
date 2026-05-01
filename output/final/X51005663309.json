@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663309.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663309.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KOH SENG HARDWARE",
+  "date": "2018-02-01",
+  "items": [
+    {
+      "name": "SR:SUGA BAG",
+      "qty": 10,
+      "price": "5.30"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.30",
+  "total": "20.50",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

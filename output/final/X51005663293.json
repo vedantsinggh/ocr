@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663293.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663293.txt",
+    "ocr_line_count": 57,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SWEET FOREST CAFE",
+  "date": "2018-02-14",
+  "items": [
+    {
+      "name": "Smoked Duck Spaghetti",
+      "qty": 1,
+      "price": "12.50"
+    },
+    {
+      "name": "Hot Green Tea",
+      "qty": 1,
+      "price": "3.00"
+    },
+    {
+      "name": "Coffee(H)",
+      "qty": 1,
+      "price": "4.90"
+    },
+    {
+      "name": "Rendang Chicken Rice",
+      "qty": 1,
+      "price": "9.90"
+    }
+  ],
+  "subtotal": "28.58",
+  "tax": "1.72",
+  "total": "30.30",
+  "currency": "SR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005361923.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005361923.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SWC ENTERPRISE SDN'BHD",
+  "date": "2018-01-02",
+  "items": [
+    {
+      "name": "Ant.",
+      "qty": null,
+      "price": "4.20"
+    }
+  ],
+  "subtotal": "4.20",
+  "tax": "0.24",
+  "total": "50.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

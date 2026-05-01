@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757349.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757349.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GOLOEN KEY MAKER",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "NORMAL KEY",
+      "qty": 3,
+      "price": "4.00"
+    },
+    {
+      "name": "NORMAL KEY LONG",
+      "qty": 1,
+      "price": "5.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "21.00",
+  "currency": "INR",
+  "payment_method": null
+}

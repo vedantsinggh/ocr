@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005757351.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005757351.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MR.D.I.Y.MSDNBHD",
+  "date": "2018-03-24",
+  "items": [
+    {
+      "name": "MULTIPURPOSE BROOM 737P W/4FT",
+      "qty": 2,
+      "price": "6.50"
+    },
+    {
+      "name": "HOSE PUMP C88351#",
+      "qty": 1,
+      "price": "1.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.84",
+  "total": "14.90",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

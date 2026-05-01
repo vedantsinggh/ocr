@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447853.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447853.txt",
+    "ocr_line_count": 30,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SPEEDMART",
+  "date": "2018-03-05",
+  "items": [
+    {
+      "name": "YONCCHUN LOKAM MNDRN",
+      "qty": 5,
+      "price": "RM12.50"
+    },
+    {
+      "name": "YCNSCHUN LOKAK MNDRN",
+      "qty": 5,
+      "price": "RM15.80"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.00",
+  "total": "RM141.50",
+  "currency": "RM",
+  "payment_method": "CASH RM150.00"
+}

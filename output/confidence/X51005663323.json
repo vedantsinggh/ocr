@@ -1,0 +1,199 @@
+{
+  "source": "images/X51005663323.jpg",
+  "line_count": 48,
+  "avg_confidence": 0.9655,
+  "lines": [
+    {
+      "text": "KOH.SENG HARDWARE",
+      "confidence": 0.9405
+    },
+    {
+      "text": "1502665-P",
+      "confidence": 0.9312
+    },
+    {
+      "text": "NO.939,BATU LIMA,",
+      "confidence": 0.9028
+    },
+    {
+      "text": "JALAN IPOH,",
+      "confidence": 0.8751
+    },
+    {
+      "text": "51200 KUALALUMPUR",
+      "confidence": 0.9567
+    },
+    {
+      "text": "TEL:03-62504769FAX:03-62504769",
+      "confidence": 0.9528
+    },
+    {
+      "text": "GST NO:001117650944",
+      "confidence": 0.9341
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9477
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9978
+    },
+    {
+      "text": "RECEIPT#:CS00042153DATE:04/12/2017",
+      "confidence": 0.9551
+    },
+    {
+      "text": "CASHIER:USER",
+      "confidence": 0.9541
+    },
+    {
+      "text": "ITEM",
+      "confidence": 0.8837
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9947
+    },
+    {
+      "text": "U/P",
+      "confidence": 0.8543
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9921
+    },
+    {
+      "text": "3751",
+      "confidence": 0.9994
+    },
+    {
+      "text": "2",
+      "confidence": 0.9944
+    },
+    {
+      "text": "424.00",
+      "confidence": 0.9925
+    },
+    {
+      "text": "848.00S",
+      "confidence": 0.9217
+    },
+    {
+      "text": "SREXTENSION LADDER12X12",
+      "confidence": 0.9732
+    },
+    {
+      "text": "TOTAL QUANTITY",
+      "confidence": 0.9661
+    },
+    {
+      "text": "2",
+      "confidence": 0.997
+    },
+    {
+      "text": "DISC",
+      "confidence": 0.9702
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9951
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9945
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9963
+    },
+    {
+      "text": "ROUNDING",
+      "confidence": 0.9638
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9943
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.998
+    },
+    {
+      "text": "848.00",
+      "confidence": 0.9209
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9897
+    },
+    {
+      "text": "848.00",
+      "confidence": 0.9916
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9984
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9408
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9607
+    },
+    {
+      "text": "CODE",
+      "confidence": 0.9945
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 0.9918
+    },
+    {
+      "text": "%",
+      "confidence": 0.9588
+    },
+    {
+      "text": "TAX/AMT",
+      "confidence": 0.9886
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9903
+    },
+    {
+      "text": "800.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "6",
+      "confidence": 0.9875
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9949
+    },
+    {
+      "text": "TAX TOTAL:",
+      "confidence": 0.9521
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9934
+    },
+    {
+      "text": "48.00",
+      "confidence": 0.9958
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9291
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9377
+    }
+  ]
+}

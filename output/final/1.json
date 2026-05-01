@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/1.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/1.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TRADER JOE'S",
+  "date": "2014-06-28",
+  "items": [
+    {
+      "name": "R-CARROTS SHREDDED 10 OZ",
+      "qty": null,
+      "price": "1.29"
+    },
+    {
+      "name": "R-CUCUMBERS PERSIAN 1 LB",
+      "qty": null,
+      "price": "1.99"
+    },
+    {
+      "name": "TOMATOES CRUSHED NO SALT",
+      "qty": null,
+      "price": "1.59"
+    },
+    {
+      "name": "TOMATOES WHOLE NO SALT W/BASIL",
+      "qty": null,
+      "price": "1.59"
+    },
+    {
+      "name": "ORGANIC OLD FASHIONED OATMEAL",
+      "qty": null,
+      "price": "2.69"
+    },
+    {
+      "name": "MINI-PEARL TOMATOES",
+      "qty": null,
+      "price": "2.49"
+    },
+    {
+      "name": "PKG SHREDDED MOZZARELLA LITE T",
+      "qty": null,
+      "price": "3.99"
+    },
+    {
+      "name": "EGGS 1 DOZ ORGANIC BROWN",
+      "qty": null,
+      "price": "3.79"
+    },
+    {
+      "name": "BEANS GARBANZO",
+      "qty": null,
+      "price": "0.89"
+    },
+    {
+      "name": "SPROUTED CA STYLE",
+      "qty": null,
+      "price": "2.99"
+    },
+    {
+      "name": "A-AVOCADOS HASS BAG 4CT",
+      "qty": null,
+      "price": "3.99"
+    },
+    {
+      "name": "A-APPLE BAG JAZZ 2 LB",
+      "qty": null,
+      "price": "2.99"
+    },
+    {
+      "name": "A-PEPPER BELL EACH XL RED",
+      "qty": null,
+      "price": "0.99"
+    }
+  ],
+  "subtotal": "$38.68",
+  "tax": null,
+  "total": "$38.68",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

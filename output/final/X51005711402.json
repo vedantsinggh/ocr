@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711402.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711402.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "RESTORAN WAN SHENG",
+  "date": "2018-03-17",
+  "items": [
+    {
+      "name": "Kopi (B)",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "Teh(B)",
+      "qty": 2,
+      "price": "2.20"
+    },
+    {
+      "name": "Cham (B)",
+      "qty": 1,
+      "price": "2.20"
+    },
+    {
+      "name": "Take Away",
+      "qty": 4,
+      "price": "0.20"
+    }
+  ],
+  "subtotal": "9.07",
+  "tax": "0.53",
+  "total": "9.60",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

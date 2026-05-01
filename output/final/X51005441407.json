@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005441407.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005441407.txt",
+    "ocr_line_count": 55,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Geoventure",
+  "date": "2018-03-05",
+  "items": [
+    {
+      "name": "S Tiger Bucket GTG02",
+      "qty": 1,
+      "price": "55.00"
+    },
+    {
+      "name": "Service ChrgIncI GST 6%",
+      "qty": null,
+      "price": "5830"
+    }
+  ],
+  "subtotal": null,
+  "tax": "60.50",
+  "total": "64.15",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

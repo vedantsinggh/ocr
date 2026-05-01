@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230605.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230605.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ALSERKAM ENTERPRISE",
+  "date": "2018-02-01",
+  "items": [
+    {
+      "name": "A 2 double mint te",
+      "qty": 3.0,
+      "price": "RM3.00"
+    },
+    {
+      "name": "A1 sandwich vanil",
+      "qty": 1.0,
+      "price": "RM1.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.28",
+  "total": "RM4.90",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

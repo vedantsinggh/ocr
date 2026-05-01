@@ -1,0 +1,231 @@
+{
+  "source": "images/X51005268400.jpg",
+  "line_count": 56,
+  "avg_confidence": 0.9543,
+  "lines": [
+    {
+      "text": "RESTORAN HASSANBISTRO",
+      "confidence": 0.9751
+    },
+    {
+      "text": "NO.2-1-1 JALAN FTIA PRIMA Q",
+      "confidence": 0.9258
+    },
+    {
+      "text": "U 13/Q SET1AI AM 4O170",
+      "confidence": 0.8323
+    },
+    {
+      "text": "SHAAM",
+      "confidence": 0.9841
+    },
+    {
+      "text": "SELANGOR",
+      "confidence": 0.891
+    },
+    {
+      "text": "**x****",
+      "confidence": 0.7735
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9905
+    },
+    {
+      "text": "TERMINAL :C1",
+      "confidence": 0.9544
+    },
+    {
+      "text": "CASHIER : HASSAN",
+      "confidence": 0.9643
+    },
+    {
+      "text": "BILL NO :C1-0170778",
+      "confidence": 0.9267
+    },
+    {
+      "text": "DATE",
+      "confidence": 0.9979
+    },
+    {
+      "text": ": 12/28/2017 10:17:32 PM",
+      "confidence": 0.9827
+    },
+    {
+      "text": "TOKEN",
+      "confidence": 0.9958
+    },
+    {
+      "text": ": CT1",
+      "confidence": 0.9769
+    },
+    {
+      "text": "TABLE",
+      "confidence": 0.9969
+    },
+    {
+      "text": ": CT1",
+      "confidence": 0.8488
+    },
+    {
+      "text": "Qty U.Pr ice",
+      "confidence": 0.8521
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Total",
+      "confidence": 0.9963
+    },
+    {
+      "text": "MAKANAN",
+      "confidence": 0.9932
+    },
+    {
+      "text": "1",
+      "confidence": 0.9483
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9931
+    },
+    {
+      "text": "0",
+      "confidence": 0.6411
+    },
+    {
+      "text": "15.00 ZR",
+      "confidence": 0.9971
+    },
+    {
+      "text": "Total Items",
+      "confidence": 0.9549
+    },
+    {
+      "text": ":",
+      "confidence": 0.8176
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9763
+    },
+    {
+      "text": ":",
+      "confidence": 0.9101
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9922
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9966
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "Discount",
+      "confidence": 0.99
+    },
+    {
+      "text": "RM",
+      "confidence": 0.996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.999
+    },
+    {
+      "text": "Total Excl.63 GST",
+      "confidence": 0.9098
+    },
+    {
+      "text": "RM",
+      "confidence": 0.995
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9983
+    },
+    {
+      "text": "GST63",
+      "confidence": 0.9695
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9968
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9941
+    },
+    {
+      "text": "Total Incl.63 GST",
+      "confidence": 0.9023
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9963
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9979
+    },
+    {
+      "text": "Rounding",
+      "confidence": 0.9982
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9802
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9982
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9974
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9776
+    },
+    {
+      "text": "15.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 0.9871
+    },
+    {
+      "text": "RH",
+      "confidence": 0.7448
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9984
+    },
+    {
+      "text": "Thank You.Cone Again",
+      "confidence": 0.9729
+    },
+    {
+      "text": "2017-12-28 22:17PM",
+      "confidence": 0.9586
+    }
+  ]
+}

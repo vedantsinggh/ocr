@@ -1,0 +1,331 @@
+{
+  "source": "images/X51005724626.jpg",
+  "line_count": 81,
+  "avg_confidence": 0.9785,
+  "lines": [
+    {
+      "text": "R",
+      "confidence": 0.9826
+    },
+    {
+      "text": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.9959
+    },
+    {
+      "text": "(0005583085-K)",
+      "confidence": 0.9988
+    },
+    {
+      "text": "LOT 276 JALAN BANTING",
+      "confidence": 0.9783
+    },
+    {
+      "text": "43800 DENGKIL, SELANGOR",
+      "confidence": 0.9942
+    },
+    {
+      "text": "TEL:03-87686092",
+      "confidence": 0.9734
+    },
+    {
+      "text": "FAX : 03-87686092",
+      "confidence": 0.9746
+    },
+    {
+      "text": "GST ID:000781500416",
+      "confidence": 0.9784
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9107
+    },
+    {
+      "text": "Bill To:",
+      "confidence": 0.8332
+    },
+    {
+      "text": "SUCIALAM JAYA TRANSPORT",
+      "confidence": 0.9874
+    },
+    {
+      "text": "NO1JALAN AMAN 2",
+      "confidence": 0.9497
+    },
+    {
+      "text": "TAMAN DESA 43800",
+      "confidence": 0.9452
+    },
+    {
+      "text": "DENGKIL SELANGOR",
+      "confidence": 0.9732
+    },
+    {
+      "text": "017-6057770",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.996
+    },
+    {
+      "text": ": CS00011384",
+      "confidence": 0.9724
+    },
+    {
+      "text": "Date: 02/04/2018",
+      "confidence": 0.9807
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.998
+    },
+    {
+      "text": ": USER",
+      "confidence": 0.9922
+    },
+    {
+      "text": "Time: 08:42:00",
+      "confidence": 0.9754
+    },
+    {
+      "text": "Salesperson :",
+      "confidence": 0.9702
+    },
+    {
+      "text": "Ref.:",
+      "confidence": 0.9806
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9922
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9945
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9622
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9921
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9818
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9905
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9989
+    },
+    {
+      "text": "Tax",
+      "confidence": 0.7481
+    },
+    {
+      "text": "101785",
+      "confidence": 0.9978
+    },
+    {
+      "text": "13",
+      "confidence": 0.9998
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9972
+    },
+    {
+      "text": "19.08",
+      "confidence": 0.9864
+    },
+    {
+      "text": "24804",
+      "confidence": 0.9941
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9931
+    },
+    {
+      "text": "PYE 921 PLASTER",
+      "confidence": 0.9489
+    },
+    {
+      "text": "100160",
+      "confidence": 0.9989
+    },
+    {
+      "text": "5",
+      "confidence": 0.999
+    },
+    {
+      "text": "3.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "3.18",
+      "confidence": 0.9842
+    },
+    {
+      "text": "15.90",
+      "confidence": 0.9988
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9909
+    },
+    {
+      "text": "KAPUR AIR (A1)",
+      "confidence": 0.9844
+    },
+    {
+      "text": "101275",
+      "confidence": 0.9998
+    },
+    {
+      "text": "3",
+      "confidence": 0.9972
+    },
+    {
+      "text": "2.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "2.12",
+      "confidence": 0.9962
+    },
+    {
+      "text": "6.36",
+      "confidence": 0.9978
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9929
+    },
+    {
+      "text": "SPAN HANDLE",
+      "confidence": 0.9938
+    },
+    {
+      "text": "Total Qty:",
+      "confidence": 0.9973
+    },
+    {
+      "text": "21",
+      "confidence": 0.9997
+    },
+    {
+      "text": "270.30",
+      "confidence": 0.9862
+    },
+    {
+      "text": "Total Sales (Excluding GST) :",
+      "confidence": 0.9857
+    },
+    {
+      "text": "255.00",
+      "confidence": 0.9961
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9935
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9248
+    },
+    {
+      "text": "15.30",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9822
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total Sales (Inclusive of GsT) :",
+      "confidence": 0.9599
+    },
+    {
+      "text": "270.30",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.7654
+    },
+    {
+      "text": "270.30",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9993
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9615
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9987
+    },
+    {
+      "text": "%",
+      "confidence": 0.9735
+    },
+    {
+      "text": "Amt (RM)",
+      "confidence": 0.982
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.9608
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9921
+    },
+    {
+      "text": "255.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "15.30",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.996
+    },
+    {
+      "text": "255.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "15.30",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+      "confidence": 0.9592
+    }
+  ]
+}

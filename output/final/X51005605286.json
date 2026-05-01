@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005605286.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005605286.txt",
+    "ocr_line_count": 40,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AEON CO.(M) BHD",
+  "date": "2018-02-09",
+  "items": [
+    {
+      "name": "STERILE FILTRAT",
+      "qty": null,
+      "price": "5.90"
+    }
+  ],
+  "subtotal": "5.90",
+  "tax": "0.33",
+  "total": "6.23",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

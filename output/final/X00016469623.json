@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469623.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469623.txt",
+    "ocr_line_count": 54,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO PUTRA NILAI",
+  "date": "2018-11-13",
+  "items": [
+    {
+      "name": "AUTO FCO WASH & SHINE ES1OOO IL",
+      "qty": 3,
+      "price": "11"
+    },
+    {
+      "name": "KILATECO AUTQ WASH &WAX EW-1OOO-1L",
+      "qty": 4,
+      "price": "4.62"
+    },
+    {
+      "name": "WD40",
+      "qty": 1,
+      "price": "11.23"
+    },
+    {
+      "name": "KLEENSO AJAIB 99 SERAI WANYI 9OOG",
+      "qty": 1,
+      "price": "7.45"
+    },
+    {
+      "name": "HANDKFRCHIEF 71386#2PCS",
+      "qty": null,
+      "price": "4.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "30.9",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

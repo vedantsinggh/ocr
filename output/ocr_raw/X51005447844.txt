@@ -1,0 +1,63 @@
+RESTAURANT JIAWEI
+JIAWEI HOUSE
+002693074-K
+13.JLN IASIK UTAMA 8
+MEDAN NIAGADAMAISG BESI
+57000 KL
+INVOICE
+Invoice :8884
+Cashier:admin
+POSNo:2
+Date:23/2/201820:04:08
+Table
+13
+ITEM
+QTY
+U/PRM
+D1SC%)
+AmtRM
+Red Cat Fish
+1
+42.00
+0.00
+42.1
+Steamed
+Ginger Clams S)
+20.00
+1
+0.00
+Beancurd W Dao GanS)
+18.00
+0.00
+1
+G.Dragon ChivesS)
+16.00
+0.00
+1
+STIR FRIED
+Pu Er 1-3
+1-3
+1
+5.00
+0.00
+5.0
+HOT
+RiceB
+. 50
+0.00
+6
+Rice Small
+1 00
+0.00
+3.0
+Sub Total Bcrara'D scount
+RM110.00
+Service Char.
+RM0.00
+TotalSales
+RM 110.00
+Rounding Adjustment:
+RM0.00
+TOTAL
+RM110.00
+**************************************

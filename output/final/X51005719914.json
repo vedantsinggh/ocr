@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719914.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719914.txt",
+    "ocr_line_count": 80,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "TESCO MENJALARA KEPONG, HQ",
+  "date": "2016-03-18",
+  "items": [
+    {
+      "name": "EPOXY PUTTY+2 X 50GM",
+      "qty": null,
+      "price": "8.50"
+    },
+    {
+      "name": "CORD TIE",
+      "qty": "3PCS",
+      "price": "2.70"
+    },
+    {
+      "name": "PAPER CLIP",
+      "qty": "8PCS",
+      "price": "2.50"
+    },
+    {
+      "name": "HOOK HY-0021",
+      "qty": null,
+      "price": "2.50"
+    },
+    {
+      "name": "DOOR GUARD ECO08",
+      "qty": "3X",
+      "price": "4.50"
+    },
+    {
+      "name": "MULTI FAN BLADE 16'FB1688",
+      "qty": null,
+      "price": "6.30"
+    },
+    {
+      "name": "KEY HOLDER (GRID)",
+      "qty": null,
+      "price": "7.50"
+    },
+    {
+      "name": "DOOR GUARD FOOT AW-D48",
+      "qty": "2X",
+      "price": "4.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "3.02",
+  "total": "53.30",
+  "currency": "RM",
+  "payment_method": null
+}

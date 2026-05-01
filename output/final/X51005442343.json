@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005442343.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005442343.txt",
+    "ocr_line_count": 60,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "items": [
+    {
+      "name": "SRMM X 50X 50AR RED GASKET",
+      "qty": 72,
+      "price": "67.92"
+    }
+  ],
+  "subtotal": null,
+  "tax": "4.08",
+  "total": "72.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230617.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230617.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's",
+  "date": "2018-01-18",
+  "items": [
+    {
+      "name": "ChicMcMuffin",
+      "qty": 2,
+      "price": "11.00"
+    },
+    {
+      "name": "M Porridge",
+      "qty": 1,
+      "price": "5.60"
+    },
+    {
+      "name": "BM 2HotCakes",
+      "qty": 1,
+      "price": "10.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.51",
+  "total": "26.60",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

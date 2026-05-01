@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719899.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719899.txt",
+    "ocr_line_count": 36,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "NYONYA COLORS",
+  "date": "2018-03-18",
+  "items": [
+    {
+      "name": "KUIH KETAYAP",
+      "qty": null,
+      "price": "RM2.70"
+    },
+    {
+      "name": "ONDEH ONDEH",
+      "qty": null,
+      "price": "RM2.95"
+    },
+    {
+      "name": "YELLOW LAKSA",
+      "qty": null,
+      "price": "RM11.60"
+    },
+    {
+      "name": "YELLOW LAKSA",
+      "qty": null,
+      "price": "RM11.60"
+    },
+    {
+      "name": "YELLOW LAKSA",
+      "qty": null,
+      "price": "RM11.60"
+    },
+    {
+      "name": "AIR SEJUK",
+      "qty": null,
+      "price": "RM1.65"
+    },
+    {
+      "name": "CENDOL",
+      "qty": null,
+      "price": "RM5.30"
+    },
+    {
+      "name": "CHEE CHEONG FUN (SOS)",
+      "qty": null,
+      "price": "RM7.20"
+    }
+  ],
+  "subtotal": "RM53.60",
+  "tax": "RM3.03",
+  "total": "RM56.63",
+  "currency": "MYR",
+  "payment_method": "CASH"
+}

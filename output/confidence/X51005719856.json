@@ -1,0 +1,207 @@
+{
+  "source": "images/X51005719856.jpg",
+  "line_count": 50,
+  "avg_confidence": 0.9622,
+  "lines": [
+    {
+      "text": "baskinBRrobbiNs",
+      "confidence": 0.895
+    },
+    {
+      "text": "Desa Park City",
+      "confidence": 0.9644
+    },
+    {
+      "text": "Golden Scoop Sdn Bhd 169609-A)",
+      "confidence": 0.8966
+    },
+    {
+      "text": "A-16-1,Tower A,Northpoint OfficeMid Valley",
+      "confidence": 0.9383
+    },
+    {
+      "text": "CityNo1,Medan Syed Putra Utara Kuala",
+      "confidence": 0.9437
+    },
+    {
+      "text": "Lumpur",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Malaysia",
+      "confidence": 0.9965
+    },
+    {
+      "text": "GSTID:001513148416",
+      "confidence": 0.9566
+    },
+    {
+      "text": "Outlet Tel:603)62807131",
+      "confidence": 0.9348
+    },
+    {
+      "text": "Tax Invoice",
+      "confidence": 0.9561
+    },
+    {
+      "text": "Invoice No",
+      "confidence": 0.9068
+    },
+    {
+      "text": "DPC1153409-001-0006",
+      "confidence": 0.9801
+    },
+    {
+      "text": "POSNo",
+      "confidence": 0.9505
+    },
+    {
+      "text": "DPC11",
+      "confidence": 0.96
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.99
+    },
+    {
+      "text": "DPC1PT1",
+      "confidence": 0.986
+    },
+    {
+      "text": "Date & time",
+      "confidence": 0.91
+    },
+    {
+      "text": "15/02/2018 12:04:58",
+      "confidence": 0.9116
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9955
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9998
+    },
+    {
+      "text": "U.Price",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Total(RM)",
+      "confidence": 0.9622
+    },
+    {
+      "text": "Double Rg.Cup",
+      "confidence": 0.968
+    },
+    {
+      "text": "1",
+      "confidence": 0.9457
+    },
+    {
+      "text": "20.00",
+      "confidence": 0.9656
+    },
+    {
+      "text": "20.00SR",
+      "confidence": 0.9903
+    },
+    {
+      "text": "Colour Rice",
+      "confidence": 0.9722
+    },
+    {
+      "text": "1",
+      "confidence": 0.9794
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9919
+    },
+    {
+      "text": "1.50SR",
+      "confidence": 0.9686
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9515
+    },
+    {
+      "text": "21.50",
+      "confidence": 0.991
+    },
+    {
+      "text": "Rounding adj",
+      "confidence": 0.9907
+    },
+    {
+      "text": "0",
+      "confidence": 0.8795
+    },
+    {
+      "text": "Total (Incl.GST)",
+      "confidence": 0.8787
+    },
+    {
+      "text": "21.50",
+      "confidence": 0.9909
+    },
+    {
+      "text": "Cash (MYR)",
+      "confidence": 0.9618
+    },
+    {
+      "text": "22.00",
+      "confidence": 0.9986
+    },
+    {
+      "text": "Cash Change",
+      "confidence": 0.9604
+    },
+    {
+      "text": "0.50",
+      "confidence": 0.994
+    },
+    {
+      "text": "GST",
+      "confidence": 0.9948
+    },
+    {
+      "text": "Tax Rate Sale RM Tax (RM",
+      "confidence": 0.875
+    },
+    {
+      "text": "Summary",
+      "confidence": 0.9965
+    },
+    {
+      "text": "6.0%",
+      "confidence": 0.9245
+    },
+    {
+      "text": "20.28",
+      "confidence": 0.9962
+    },
+    {
+      "text": "1.22",
+      "confidence": 0.9997
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Thank you! Please come again!",
+      "confidence": 0.9407
+    },
+    {
+      "text": "www.baskinrobbins.com.my",
+      "confidence": 0.982
+    },
+    {
+      "text": "ding",
+      "confidence": 0.9989
+    }
+  ]
+}

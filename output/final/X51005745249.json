@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745249.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745249.txt",
+    "ocr_line_count": 42,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Subway",
+  "date": "2018-02-27",
+  "items": [
+    {
+      "name": "Bay Fee",
+      "qty": null,
+      "price": "RM0.20"
+    },
+    {
+      "name": "(MY) EDV Mea1",
+      "qty": null,
+      "price": "RM11.90"
+    },
+    {
+      "name": "6\"-Meatball Sub",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "-16oz Fountain Drink",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "-1 Cookies",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "(MY) EDV Mea1",
+      "qty": null,
+      "price": "RM11.90"
+    },
+    {
+      "name": "6\"-BBQ Chicken Strips Sub",
+      "qty": null,
+      "price": "RM11.90"
+    },
+    {
+      "name": "-16oz Fountain Drink",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "-1 Cookies",
+      "qty": null,
+      "price": "-RM11.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM2.35",
+  "total": "RM24.00",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

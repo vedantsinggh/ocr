@@ -1,0 +1,215 @@
+{
+  "source": "images/2.jpg",
+  "line_count": 52,
+  "avg_confidence": 0.958,
+  "lines": [
+    {
+      "text": "Give us feedback @ survey.walmart.com",
+      "confidence": 0.9657
+    },
+    {
+      "text": "Thank you! ID #:7PB65JWCFZ2",
+      "confidence": 0.934
+    },
+    {
+      "text": "Walmart ",
+      "confidence": 0.9455
+    },
+    {
+      "text": "949-498-6669 Mgr:MICHAEL",
+      "confidence": 0.952
+    },
+    {
+      "text": "951 AVENIDA PICO",
+      "confidence": 0.9535
+    },
+    {
+      "text": "SAN CLEMENTE CA 92673",
+      "confidence": 0.9364
+    },
+    {
+      "text": "ST#02527OP#009045 TE# 45 TR#06193",
+      "confidence": 0.933
+    },
+    {
+      "text": "GV OATMEAL",
+      "confidence": 0.9501
+    },
+    {
+      "text": "007874243408F",
+      "confidence": 0.9953
+    },
+    {
+      "text": "1.760",
+      "confidence": 0.9932
+    },
+    {
+      "text": "OT 200Z TUM",
+      "confidence": 0.9071
+    },
+    {
+      "text": "081236803115",
+      "confidence": 0.9931
+    },
+    {
+      "text": "6.74X",
+      "confidence": 0.8965
+    },
+    {
+      "text": "M ATHLETICS",
+      "confidence": 0.9595
+    },
+    {
+      "text": "019104567781",
+      "confidence": 0.9979
+    },
+    {
+      "text": "24.97X",
+      "confidence": 0.9443
+    },
+    {
+      "text": "DEXAS 15X20",
+      "confidence": 0.9554
+    },
+    {
+      "text": "008429710921",
+      "confidence": 0.999
+    },
+    {
+      "text": "12.97X",
+      "confidence": 0.947
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.9966
+    },
+    {
+      "text": "46.44",
+      "confidence": 0.9987
+    },
+    {
+      "text": "TAX1",
+      "confidence": 0.9713
+    },
+    {
+      "text": "7.750%",
+      "confidence": 0.938
+    },
+    {
+      "text": "3.46",
+      "confidence": 0.996
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9981
+    },
+    {
+      "text": "49.90",
+      "confidence": 0.9967
+    },
+    {
+      "text": "DEBIT TEND",
+      "confidence": 0.9493
+    },
+    {
+      "text": "49.90",
+      "confidence": 0.9969
+    },
+    {
+      "text": "CHANGE DUE",
+      "confidence": 0.9509
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9854
+    },
+    {
+      "text": "EFT DEBIT",
+      "confidence": 0.9485
+    },
+    {
+      "text": "PAY FROM PRIMARY",
+      "confidence": 0.953
+    },
+    {
+      "text": "49.90",
+      "confidence": 0.9979
+    },
+    {
+      "text": "TOTAL PURCHASE",
+      "confidence": 0.973
+    },
+    {
+      "text": "US DEBIT",
+      "confidence": 0.933
+    },
+    {
+      "text": "**********96890",
+      "confidence": 0.7005
+    },
+    {
+      "text": "REF#029200639128",
+      "confidence": 0.9936
+    },
+    {
+      "text": "NETW0RK ID.0056 APPR C0DE 461500",
+      "confidence": 0.9218
+    },
+    {
+      "text": "US DEBIT",
+      "confidence": 0.9445
+    },
+    {
+      "text": "AID A0000000980840",
+      "confidence": 0.9704
+    },
+    {
+      "text": "AAC 7756F4EB82B54EED",
+      "confidence": 0.9562
+    },
+    {
+      "text": "TERMINAL#SC011004",
+      "confidence": 0.9864
+    },
+    {
+      "text": "10/18/20",
+      "confidence": 0.9986
+    },
+    {
+      "text": "11:30:42",
+      "confidence": 0.9439
+    },
+    {
+      "text": "#ITEMS SOLD4",
+      "confidence": 0.9527
+    },
+    {
+      "text": "TC#240047764305 88471471",
+      "confidence": 0.9721
+    },
+    {
+      "text": "W+",
+      "confidence": 0.9405
+    },
+    {
+      "text": "Introducing Walmart+",
+      "confidence": 0.9927
+    },
+    {
+      "text": "Join today al walmarL.com/plus",
+      "confidence": 0.9145
+    },
+    {
+      "text": "Low Prices You Can Trust. Every Day",
+      "confidence": 0.9418
+    },
+    {
+      "text": "10/18/20",
+      "confidence": 0.9989
+    },
+    {
+      "text": "11:30:46",
+      "confidence": 0.9426
+    }
+  ]
+}

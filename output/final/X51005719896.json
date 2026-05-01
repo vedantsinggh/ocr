@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719896.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719896.txt",
+    "ocr_line_count": 45,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "THE STORE",
+  "date": "2018-01-14",
+  "items": [
+    {
+      "name": "UNI WORKER'S CARD",
+      "qty": null,
+      "price": "3.10"
+    },
+    {
+      "name": "A6 NOTE BOOK",
+      "qty": null,
+      "price": "23.40"
+    }
+  ],
+  "subtotal": null,
+  "tax": "35.82",
+  "total": "5.80",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

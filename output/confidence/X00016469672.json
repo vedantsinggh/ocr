@@ -1,0 +1,375 @@
+{
+  "source": "images/X00016469672.jpg",
+  "line_count": 92,
+  "avg_confidence": 0.9708,
+  "lines": [
+    {
+      "text": "tan chay yee",
+      "confidence": 0.9615
+    },
+    {
+      "text": "SOON HUAT MACHINERY ENTERPRISE",
+      "confidence": 0.9564
+    },
+    {
+      "text": "(JM0352019-K)",
+      "confidence": 0.9281
+    },
+    {
+      "text": "NO.53JALAN PUTRA 1,",
+      "confidence": 0.928
+    },
+    {
+      "text": "TAMAN SRIPUTRA.",
+      "confidence": 0.9445
+    },
+    {
+      "text": "81200 JOHORBAHRU",
+      "confidence": 0.9603
+    },
+    {
+      "text": "JOHOR",
+      "confidence": 0.9987
+    },
+    {
+      "text": "TEL07-5547360/016-7993391",
+      "confidence": 0.9882
+    },
+    {
+      "text": "FAX07-5624059",
+      "confidence": 0.9853
+    },
+    {
+      "text": "SOONHUAT2000@HOTMAIL.COM",
+      "confidence": 0.9778
+    },
+    {
+      "text": "GSTID002116837376",
+      "confidence": 0.9902
+    },
+    {
+      "text": "CASH SALES",
+      "confidence": 0.9472
+    },
+    {
+      "text": "Doc No.",
+      "confidence": 0.9153
+    },
+    {
+      "text": "CS00004040",
+      "confidence": 0.9822
+    },
+    {
+      "text": "Date11/01/2019",
+      "confidence": 0.9956
+    },
+    {
+      "text": "Cashier",
+      "confidence": 0.9969
+    },
+    {
+      "text": "USER",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Time:09:44:00",
+      "confidence": 0.9246
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9622
+    },
+    {
+      "text": "Ret.:",
+      "confidence": 0.7909
+    },
+    {
+      "text": "Item",
+      "confidence": 0.9928
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9929
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9924
+    },
+    {
+      "text": "S/Price",
+      "confidence": 0.9949
+    },
+    {
+      "text": "Amount Tax",
+      "confidence": 0.9714
+    },
+    {
+      "text": "1072",
+      "confidence": 0.9983
+    },
+    {
+      "text": "1",
+      "confidence": 0.9857
+    },
+    {
+      "text": "80.00",
+      "confidence": 0.9921
+    },
+    {
+      "text": "80.00",
+      "confidence": 0.9834
+    },
+    {
+      "text": "80.00",
+      "confidence": 0.9919
+    },
+    {
+      "text": "REPAIR ENGINE POWER SPRAYER (1UNIT",
+      "confidence": 0.9526
+    },
+    {
+      "text": "workmanship &service",
+      "confidence": 0.9694
+    },
+    {
+      "text": "70549",
+      "confidence": 0.9928
+    },
+    {
+      "text": "1",
+      "confidence": 0.9822
+    },
+    {
+      "text": "160.00",
+      "confidence": 0.9954
+    },
+    {
+      "text": "160.00",
+      "confidence": 0.995
+    },
+    {
+      "text": "160.00",
+      "confidence": 0.9947
+    },
+    {
+      "text": "GIANT 606 OVERFLOWASSY",
+      "confidence": 0.9569
+    },
+    {
+      "text": "1071",
+      "confidence": 0.9984
+    },
+    {
+      "text": "1",
+      "confidence": 0.9324
+    },
+    {
+      "text": "17.00",
+      "confidence": 0.9839
+    },
+    {
+      "text": "17.00",
+      "confidence": 0.994
+    },
+    {
+      "text": "17.00",
+      "confidence": 0.9933
+    },
+    {
+      "text": "ENGINE OIL",
+      "confidence": 0.9607
+    },
+    {
+      "text": "70791",
+      "confidence": 0.9977
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9546
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "GREASE FOR TOOLS4OML (AKODA)",
+      "confidence": 0.9233
+    },
+    {
+      "text": "70637",
+      "confidence": 0.9947
+    },
+    {
+      "text": "1",
+      "confidence": 0.9245
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9924
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9563
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9725
+    },
+    {
+      "text": "EY20PLUG CHAMPION",
+      "confidence": 0.9694
+    },
+    {
+      "text": "1643",
+      "confidence": 0.997
+    },
+    {
+      "text": "1",
+      "confidence": 0.9949
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9801
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9926
+    },
+    {
+      "text": "8.00",
+      "confidence": 0.9939
+    },
+    {
+      "text": "STARTER TALI",
+      "confidence": 0.9565
+    },
+    {
+      "text": "70197",
+      "confidence": 0.999
+    },
+    {
+      "text": "1",
+      "confidence": 0.778
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9939
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9929
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.996
+    },
+    {
+      "text": "EY20 STARTER HANDLE",
+      "confidence": 0.9539
+    },
+    {
+      "text": "70561",
+      "confidence": 0.9984
+    },
+    {
+      "text": "2",
+      "confidence": 0.9981
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9943
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9954
+    },
+    {
+      "text": "36.00",
+      "confidence": 0.995
+    },
+    {
+      "text": "HD401LCOTIN",
+      "confidence": 0.9756
+    },
+    {
+      "text": "Total Qty",
+      "confidence": 0.9485
+    },
+    {
+      "text": "9",
+      "confidence": 0.992
+    },
+    {
+      "text": "32700",
+      "confidence": 0.9918
+    },
+    {
+      "text": "Total Sales ",
+      "confidence": 0.9194
+    },
+    {
+      "text": "327.00",
+      "confidence": 0.9953
+    },
+    {
+      "text": "Discount:",
+      "confidence": 0.959
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9932
+    },
+    {
+      "text": "327.00",
+      "confidence": 0.9615
+    },
+    {
+      "text": "Total:",
+      "confidence": 0.9166
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Rounding:",
+      "confidence": 0.9464
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.995
+    },
+    {
+      "text": "Total Sales ",
+      "confidence": 0.9074
+    },
+    {
+      "text": "327.00",
+      "confidence": 0.997
+    },
+    {
+      "text": "CASH",
+      "confidence": 0.9919
+    },
+    {
+      "text": "327.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9044
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE THANK YOU.",
+      "confidence": 0.9199
+    }
+  ]
+}

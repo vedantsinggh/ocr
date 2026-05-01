@@ -1,0 +1,259 @@
+{
+  "source": "images/X51005705729.jpg",
+  "line_count": 63,
+  "avg_confidence": 0.9594,
+  "lines": [
+    {
+      "text": "ASO eLECtrICAL TrADING SDn BhD",
+      "confidence": 0.6832
+    },
+    {
+      "text": "1000131-K",
+      "confidence": 0.9994
+    },
+    {
+      "text": "NO 31G, JALAN SEPADU C 25/C.",
+      "confidence": 0.9747
+    },
+    {
+      "text": "SECTION 25, TAMAN INDUSTRIES,",
+      "confidence": 0.9864
+    },
+    {
+      "text": "AXIS 40400 SHAH ALAM, SELANGOR.",
+      "confidence": 0.9882
+    },
+    {
+      "text": "TEL : 03-51221701, 51313091 FAX: 03-51215716",
+      "confidence": 0.9696
+    },
+    {
+      "text": "GST NO : 000683900928",
+      "confidence": 0.9971
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.7571
+    },
+    {
+      "text": "Bill To:",
+      "confidence": 0.9811
+    },
+    {
+      "text": "Receipt#: CS00088810",
+      "confidence": 0.9788
+    },
+    {
+      "text": "Date: 13/10/2017",
+      "confidence": 0.9909
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9985
+    },
+    {
+      "text": "Time: 11:37:00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Cashier: USER",
+      "confidence": 0.9881
+    },
+    {
+      "text": "(GST)",
+      "confidence": 0.9257
+    },
+    {
+      "text": "(gST)",
+      "confidence": 0.8124
+    },
+    {
+      "text": " Item",
+      "confidence": 0.9524
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9935
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9962
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9959
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9993
+    },
+    {
+      "text": "101861",
+      "confidence": 0.9998
+    },
+    {
+      "text": "10",
+      "confidence": 0.9986
+    },
+    {
+      "text": "1.43",
+      "confidence": 0.9999
+    },
+    {
+      "text": "1.51",
+      "confidence": 0.9088
+    },
+    {
+      "text": "15.12?",
+      "confidence": 0.8689
+    },
+    {
+      "text": "SR: CABLE LUG 50MM(M10)",
+      "confidence": 0.9914
+    },
+    {
+      "text": "107645",
+      "confidence": 0.9762
+    },
+    {
+      "text": "1.",
+      "confidence": 0.7512
+    },
+    {
+      "text": "75.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "79.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "79.50",
+      "confidence": 0.9999
+    },
+    {
+      "text": "SR: CRIMPING TOOL, HS-38, 5.5MM - 38MM",
+      "confidence": 0.9816
+    },
+    {
+      "text": "94.62",
+      "confidence": 0.9562
+    },
+    {
+      "text": "tOt qty:11",
+      "confidence": 0.7885
+    },
+    {
+      "text": "(Excluded GST) Sub Total :",
+      "confidence": 0.9715
+    },
+    {
+      "text": "89.26",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9706
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Total GST :",
+      "confidence": 0.9904
+    },
+    {
+      "text": "5.36",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9974
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.9988
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9746
+    },
+    {
+      "text": "94.60",
+      "confidence": 0.9933
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9834
+    },
+    {
+      "text": "100.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9511
+    },
+    {
+      "text": "5.40",
+      "confidence": 0.9991
+    },
+    {
+      "text": "GSt SUMMARY",
+      "confidence": 0.7517
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9993
+    },
+    {
+      "text": "%",
+      "confidence": 0.9987
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9948
+    },
+    {
+      "text": "GST",
+      "confidence": 0.8095
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9789
+    },
+    {
+      "text": "6",
+      "confidence": 0.9904
+    },
+    {
+      "text": "89.26",
+      "confidence": 0.9979
+    },
+    {
+      "text": "5.35",
+      "confidence": 0.9864
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9884
+    },
+    {
+      "text": "89.26",
+      "confidence": 0.9999
+    },
+    {
+      "text": "5.36",
+      "confidence": 0.9997
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE",
+      "confidence": 0.978
+    },
+    {
+      "text": " THANK YOU.",
+      "confidence": 0.9533
+    }
+  ]
+}

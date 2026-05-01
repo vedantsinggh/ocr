@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005746206.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005746206.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PANAJAYA ENTERPRISE",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "9928 2B IN BASI",
+      "qty": 1,
+      "price": "35.00"
+    },
+    {
+      "name": "TG WFD32 PP BOWL CTN",
+      "qty": 1,
+      "price": "70.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.94",
+  "total": "105.00",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

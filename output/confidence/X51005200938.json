@@ -1,0 +1,319 @@
+{
+  "source": "images/X51005200938.jpg",
+  "line_count": 78,
+  "avg_confidence": 0.9299,
+  "lines": [
+    {
+      "text": "PERNIAGAAN ZHENG HUI",
+      "confidence": 0.9675
+    },
+    {
+      "text": "JM0325955-V",
+      "confidence": 0.9214
+    },
+    {
+      "text": " NO.59 JALAN PERMAS 9/5",
+      "confidence": 0.9818
+    },
+    {
+      "text": " BANDAR BARU PERMAS JAYA",
+      "confidence": 0.9557
+    },
+    {
+      "text": "81760JOHOR BAHRU",
+      "confidence": 0.9533
+    },
+    {
+      "text": "TEL07-3867524FAX:07-3863793",
+      "confidence": 0.9704
+    },
+    {
+      "text": "GST NO : 000800589824",
+      "confidence": 0.9249
+    },
+    {
+      "text": "SIMPLIFIED TAX INVOICE",
+      "confidence": 0.9834
+    },
+    {
+      "text": "GOGIANT ENGINEERING (M) SDN BHD",
+      "confidence": 0.8976
+    },
+    {
+      "text": "Rectlpt#: Cs00082552",
+      "confidence": 0.894
+    },
+    {
+      "text": "Salesporson:",
+      "confidence": 0.8721
+    },
+    {
+      "text": "Date: 12/02/2018",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Casltier: USER",
+      "confidence": 0.9505
+    },
+    {
+      "text": "Tme8:3000",
+      "confidence": 0.8831
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.9681
+    },
+    {
+      "text": "(RM)",
+      "confidence": 0.724
+    },
+    {
+      "text": "Item",
+      "confidence": 0.8652
+    },
+    {
+      "text": "Cty",
+      "confidence": 0.7092
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9851
+    },
+    {
+      "text": "Ainount",
+      "confidence": 0.8758
+    },
+    {
+      "text": "8239",
+      "confidence": 0.9911
+    },
+    {
+      "text": "9",
+      "confidence": 0.5778
+    },
+    {
+      "text": "1",
+      "confidence": 0.9882
+    },
+    {
+      "text": "16.00",
+      "confidence": 0.9975
+    },
+    {
+      "text": "15.0C",
+      "confidence": 0.8768
+    },
+    {
+      "text": "SR:11 PROWESS H/DUTY SILICONE GUNG-D",
+      "confidence": 0.9199
+    },
+    {
+      "text": "9555075109147",
+      "confidence": 0.959
+    },
+    {
+      "text": "GA",
+      "confidence": 0.5691
+    },
+    {
+      "text": "3",
+      "confidence": 0.9988
+    },
+    {
+      "text": "7.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "21.00",
+      "confidence": 0.9105
+    },
+    {
+      "text": "SR: XTRASEAL. R IV ACETIC SILICONE SA-107",
+      "confidence": 0.9513
+    },
+    {
+      "text": "9744",
+      "confidence": 0.9942
+    },
+    {
+      "text": "GE",
+      "confidence": 0.6676
+    },
+    {
+      "text": "1",
+      "confidence": 0.8459
+    },
+    {
+      "text": "18.00",
+      "confidence": 0.9988
+    },
+    {
+      "text": "18.0",
+      "confidence": 0.994
+    },
+    {
+      "text": "5R: CENTRAL PUNCH SET 3PCS - 1/4\",5/32\".1/4\"",
+      "confidence": 0.9283
+    },
+    {
+      "text": "12525",
+      "confidence": 0.9776
+    },
+    {
+      "text": "1",
+      "confidence": 0.9775
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "50.0C",
+      "confidence": 0.8331
+    },
+    {
+      "text": "SR. 24\" MARKSMAN PIPE WRENCH",
+      "confidence": 0.9541
+    },
+    {
+      "text": "2016",
+      "confidence": 0.9989
+    },
+    {
+      "text": "0.70",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2.10",
+      "confidence": 0.9287
+    },
+    {
+      "text": "SR: PVC WIRE TAPE 1PC X 7YD",
+      "confidence": 0.9708
+    },
+    {
+      "text": "Tot Qty:",
+      "confidence": 0.7802
+    },
+    {
+      "text": "6",
+      "confidence": 0.8664
+    },
+    {
+      "text": "706.1C",
+      "confidence": 0.8507
+    },
+    {
+      "text": "(Excluded GST) Sub Total (RM) :",
+      "confidence": 0.9387
+    },
+    {
+      "text": "106.10",
+      "confidence": 0.936
+    },
+    {
+      "text": "Discount (RM) :",
+      "confidence": 0.9669
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Total GST (RM) :",
+      "confidence": 0.9319
+    },
+    {
+      "text": "6.37",
+      "confidence": 0.9945
+    },
+    {
+      "text": "RoundIng(RM) :",
+      "confidence": 0.9681
+    },
+    {
+      "text": "-0.02",
+      "confidence": 0.9595
+    },
+    {
+      "text": "Total (RM:",
+      "confidence": 0.8952
+    },
+    {
+      "text": "112.46",
+      "confidence": 0.9322
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.9857
+    },
+    {
+      "text": "112.4",
+      "confidence": 0.9732
+    },
+    {
+      "text": "Change (RM) :",
+      "confidence": 0.9955
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "GST SUMMARY",
+      "confidence": 0.9614
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9756
+    },
+    {
+      "text": "%",
+      "confidence": 0.9397
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9846
+    },
+    {
+      "text": "GST",
+      "confidence": 0.8891
+    },
+    {
+      "text": "SR",
+      "confidence": 0.9579
+    },
+    {
+      "text": "g",
+      "confidence": 0.8784
+    },
+    {
+      "text": "106.10",
+      "confidence": 0.9955
+    },
+    {
+      "text": "6.37",
+      "confidence": 0.9759
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9849
+    },
+    {
+      "text": "106.10",
+      "confidence": 0.998
+    },
+    {
+      "text": "6.37",
+      "confidence": 0.9828
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE.",
+      "confidence": 0.9677
+    },
+    {
+      "text": "THANK YOU",
+      "confidence": 0.9888
+    }
+  ]
+}

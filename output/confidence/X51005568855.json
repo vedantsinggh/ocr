@@ -1,0 +1,343 @@
+{
+  "source": "images/X51005568855.jpg",
+  "line_count": 84,
+  "avg_confidence": 0.965,
+  "lines": [
+    {
+      "text": "POPULAR BOOK",
+      "confidence": 0.9948
+    },
+    {
+      "text": "CO. (M) SDN BHD",
+      "confidence": 0.9792
+    },
+    {
+      "text": "Co.No.113825-W)",
+      "confidence": 0.9416
+    },
+    {
+      "text": "(GST Reg No. 001492992000)",
+      "confidence": 0.9308
+    },
+    {
+      "text": " No 8, Jalan 7/ll8B, Desa Tun Razak",
+      "confidence": 0.9462
+    },
+    {
+      "text": " 56000 Kuala Lumpur, Malaysia",
+      "confidence": 0.9866
+    },
+    {
+      "text": "CHERAS LEISURE MALL",
+      "confidence": 0.9874
+    },
+    {
+      "text": "Tel :03-91322435/437.4",
+      "confidence": 0.9059
+    },
+    {
+      "text": "23/12/17 15:53  S1ip No.: 9050338975",
+      "confidence": 0.9696
+    },
+    {
+      "text": "ainaa",
+      "confidence": 0.9968
+    },
+    {
+      "text": " Trans: 309782",
+      "confidence": 0.9712
+    },
+    {
+      "text": "Member Card No: 2002008363210",
+      "confidence": 0.9331
+    },
+    {
+      "text": "GardExpiry:31/08/20/",
+      "confidence": 0.9402
+    },
+    {
+      "text": "Description",
+      "confidence": 0.9869
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Shoe White SW1l01*2S",
+      "confidence": 0.9323
+    },
+    {
+      "text": "4.29 T",
+      "confidence": 0.997
+    },
+    {
+      "text": "MR C.TAPE REF WH624R-",
+      "confidence": 0.9491
+    },
+    {
+      "text": "31.99T",
+      "confidence": 0.9912
+    },
+    {
+      "text": "KIT KAT 2F (PM 17G",
+      "confidence": 0.8898
+    },
+    {
+      "text": "1.35 T",
+      "confidence": 0.9753
+    },
+    {
+      "text": "Oxford-Coin Box",
+      "confidence": 0.9969
+    },
+    {
+      "text": "BTS RM10 Voucher Issu",
+      "confidence": 0.9563
+    },
+    {
+      "text": "FC GRIP BPO.5 BLK PK",
+      "confidence": 0.9112
+    },
+    {
+      "text": "4.20 T",
+      "confidence": 0.9834
+    },
+    {
+      "text": "Member Discount",
+      "confidence": 0.9988
+    },
+    {
+      "text": "-0.42",
+      "confidence": 0.9951
+    },
+    {
+      "text": "FC GRIP BPO.5 BLU PK",
+      "confidence": 0.9589
+    },
+    {
+      "text": "4.20 T",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Member Discount.",
+      "confidence": 0.9357
+    },
+    {
+      "text": "-0.42",
+      "confidence": 0.9825
+    },
+    {
+      "text": "3M GlueStick 7gm 4's",
+      "confidence": 0.9603
+    },
+    {
+      "text": "10.59 T",
+      "confidence": 0.9965
+    },
+    {
+      "text": "STAT-PROMO SPECIAL",
+      "confidence": 0.9851
+    },
+    {
+      "text": "-3.69",
+      "confidence": 0.9687
+    },
+    {
+      "text": "PU F/C B/L A4 450's",
+      "confidence": 0.9686
+    },
+    {
+      "text": "16.99 T",
+      "confidence": 0.9336
+    },
+    {
+      "text": "STAT-PROMO SPECIAL",
+      "confidence": 0.9973
+    },
+    {
+      "text": "-2.99",
+      "confidence": 0.9761
+    },
+    {
+      "text": "PLUS stapler set 010E",
+      "confidence": 0.9592
+    },
+    {
+      "text": "8.89 T",
+      "confidence": 0.959
+    },
+    {
+      "text": "STAT-PROMO SPECIAL",
+      "confidence": 0.9749
+    },
+    {
+      "text": "-3.89",
+      "confidence": 0.9755
+    },
+    {
+      "text": "FC EXM.ERS 4S 187016",
+      "confidence": 0.9483
+    },
+    {
+      "text": "3.90 T",
+      "confidence": 0.9777
+    },
+    {
+      "text": "STAT-PROMO SPECIAL",
+      "confidence": 0.9805
+    },
+    {
+      "text": "-0.91",
+      "confidence": 0.9893
+    },
+    {
+      "text": "S4 SUPER S M AKT SPM [BK]",
+      "confidence": 0.9272
+    },
+    {
+      "text": "9.90 Z",
+      "confidence": 0.9878
+    },
+    {
+      "text": "Rev-BTS Promotion",
+      "confidence": 0.9818
+    },
+    {
+      "text": "-1.49",
+      "confidence": 0.9951
+    },
+    {
+      "text": "SUCCESS SPM ADD MATHS [BK]",
+      "confidence": 0.9569
+    },
+    {
+      "text": "37.00 Z",
+      "confidence": 0.981
+    },
+    {
+      "text": "Rev-BTS Promotion",
+      "confidence": 0.9972
+    },
+    {
+      "text": "-7.40",
+      "confidence": 0.9898
+    },
+    {
+      "text": "SUCCESS SPM SCI ",
+      "confidence": 0.9481
+    },
+    {
+      "text": "[BK]",
+      "confidence": 0.9212
+    },
+    {
+      "text": "35.70 Z",
+      "confidence": 0.9282
+    },
+    {
+      "text": "Rev-BTS Promotion",
+      "confidence": 0.9666
+    },
+    {
+      "text": "-7.14",
+      "confidence": 0.9973
+    },
+    {
+      "text": "Total RM Incl. of GST",
+      "confidence": 0.9555
+    },
+    {
+      "text": "140.65",
+      "confidence": 0.9998
+    },
+    {
+      "text": "Mastercard",
+      "confidence": 0.9983
+    },
+    {
+      "text": "-140.65",
+      "confidence": 0.9813
+    },
+    {
+      "text": "Item Count",
+      "confidence": 0.9976
+    },
+    {
+      "text": "14",
+      "confidence": 0.9974
+    },
+    {
+      "text": "GST Summary PAmount (RM)",
+      "confidence": 0.9253
+    },
+    {
+      "text": "TaxRM)",
+      "confidence": 0.9279
+    },
+    {
+      "text": "T @ 6%",
+      "confidence": 0.9874
+    },
+    {
+      "text": "69.90",
+      "confidence": 0.9935
+    },
+    {
+      "text": "4.18",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Z @ 0%",
+      "confidence": 0.9492
+    },
+    {
+      "text": "C",
+      "confidence": 0.5564
+    },
+    {
+      "text": "66.57",
+      "confidence": 0.9985
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Total Savings",
+      "confidence": 0.9743
+    },
+    {
+      "text": "-28.35",
+      "confidence": 0.9955
+    },
+    {
+      "text": "BE A POPULAR CARD MEMBER",
+      "confidence": 0.9413
+    },
+    {
+      "text": "AND ENJOY SPECIAL DISCOUNTS",
+      "confidence": 0.9738
+    },
+    {
+      "text": "THANK YOU. PLEASE COME AGAIN.",
+      "confidence": 0.9558
+    },
+    {
+      "text": "www.popular.com.my",
+      "confidence": 0.962
+    },
+    {
+      "text": "Buy Chinese books online",
+      "confidence": 0.9963
+    },
+    {
+      "text": "www. popularonl ine. com. my",
+      "confidence": 0.983
+    },
+    {
+      "text": "ninese Books",
+      "confidence": 0.9689
+    }
+  ]
+}

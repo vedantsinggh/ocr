@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447833.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447833.txt",
+    "ocr_line_count": 39,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "FuelSave",
+  "date": "2018-02-21",
+  "items": [
+    {
+      "name": "Pump #07 FuelSave 95",
+      "qty": null,
+      "price": "RM 88.17 per litre"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "RM 88.17",
+  "currency": "MYR",
+  "payment_method": "Visa"
+}

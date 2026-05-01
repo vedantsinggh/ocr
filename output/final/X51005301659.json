@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005301659.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005301659.txt",
+    "ocr_line_count": 44,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HOME MASTER HARDWARE & ELECTRICAL",
+  "date": "2017-12-22",
+  "items": [
+    {
+      "name": "24MMx7Y M.QNE TAPE",
+      "qty": 1.0,
+      "price": "15.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.00",
+  "total": "15.90",
+  "currency": "RM",
+  "payment_method": null
+}

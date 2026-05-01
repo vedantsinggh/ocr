@@ -1,0 +1,207 @@
+{
+  "source": "images/X51005663272.jpg",
+  "line_count": 50,
+  "avg_confidence": 0.9635,
+  "lines": [
+    {
+      "text": "3812012",
+      "confidence": 0.8779
+    },
+    {
+      "text": "WAHIN HARDWARE SDN BHD",
+      "confidence": 0.9429
+    },
+    {
+      "text": "148481-U",
+      "confidence": 0.9942
+    },
+    {
+      "text": "425, JALAN PAHANG,",
+      "confidence": 0.9329
+    },
+    {
+      "text": "SETAPAK, 5300O KUALA LUMPUR.",
+      "confidence": 0.9321
+    },
+    {
+      "text": "TEL: 603-40232487, 40238191, 40218976,",
+      "confidence": 0.9672
+    },
+    {
+      "text": "STORE: 40225409 FAX  603-40217507.",
+      "confidence": 0.9438
+    },
+    {
+      "text": "GST Number : 000048898048",
+      "confidence": 0.9645
+    },
+    {
+      "text": "TAX INVOICE",
+      "confidence": 0.9981
+    },
+    {
+      "text": "Invoice No.: CS0013132",
+      "confidence": 0.9545
+    },
+    {
+      "text": "Date",
+      "confidence": 0.9203
+    },
+    {
+      "text": " 04/12/17 5:06 PM",
+      "confidence": 0.9027
+    },
+    {
+      "text": "Cashier   WAHIN",
+      "confidence": 0.9182
+    },
+    {
+      "text": "ItemDescription",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Quantity Price (GST Inc.) Amount",
+      "confidence": 0.9495
+    },
+    {
+      "text": "14\" MINI ROLLER REFILL",
+      "confidence": 0.947
+    },
+    {
+      "text": "2.6500",
+      "confidence": 0.994
+    },
+    {
+      "text": "5.30 SR",
+      "confidence": 0.9409
+    },
+    {
+      "text": "24\"X18\" ROLLERPAINT HANDLE",
+      "confidence": 0.9482
+    },
+    {
+      "text": "2",
+      "confidence": 0.9971
+    },
+    {
+      "text": "3.1800",
+      "confidence": 0.9996
+    },
+    {
+      "text": "6.36 SR",
+      "confidence": 0.9322
+    },
+    {
+      "text": "33.5LRT BLACK OXIDE PAINT",
+      "confidence": 0.9803
+    },
+    {
+      "text": "1",
+      "confidence": 0.9942
+    },
+    {
+      "text": "30.7400",
+      "confidence": 0.9998
+    },
+    {
+      "text": "30.74 SR",
+      "confidence": 0.9972
+    },
+    {
+      "text": "Gross Amount :",
+      "confidence": 0.9435
+    },
+    {
+      "text": "40.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Total GST Ant :",
+      "confidence": 0.886
+    },
+    {
+      "text": "2.40",
+      "confidence": 0.9809
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9829
+    },
+    {
+      "text": ":",
+      "confidence": 0.9909
+    },
+    {
+      "text": "42.40",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Rounding Adj.",
+      "confidence": 0.977
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Total (RM)",
+      "confidence": 0.8965
+    },
+    {
+      "text": "42.40",
+      "confidence": 0.9978
+    },
+    {
+      "text": "Amount Paid8",
+      "confidence": 0.9413
+    },
+    {
+      "text": "42.40",
+      "confidence": 0.9943
+    },
+    {
+      "text": "Amount Change :",
+      "confidence": 0.9074
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Quantity Count:",
+      "confidence": 0.9748
+    },
+    {
+      "text": "5",
+      "confidence": 0.9977
+    },
+    {
+      "text": "Total Item Sold:",
+      "confidence": 0.9701
+    },
+    {
+      "text": "3",
+      "confidence": 0.9981
+    },
+    {
+      "text": "GST SummaryAmount(RM) GST Amount(RM)",
+      "confidence": 0.9564
+    },
+    {
+      "text": "SR@6%",
+      "confidence": 0.9848
+    },
+    {
+      "text": "40.00",
+      "confidence": 0.9995
+    },
+    {
+      "text": "2.40/",
+      "confidence": 0.9754
+    },
+    {
+      "text": "THANK YOU !",
+      "confidence": 0.8975
+    }
+  ]
+}

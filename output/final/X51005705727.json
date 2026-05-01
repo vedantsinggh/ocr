@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705727.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705727.txt",
+    "ocr_line_count": 64,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI BUKU NEW ACHEIVERS",
+  "date": "2017-12-28",
+  "items": [
+    {
+      "name": "CRE ASTAR LAMINATING FILM A4 100STS",
+      "qty": null,
+      "price": "42.16"
+    }
+  ],
+  "subtotal": "42.40",
+  "tax": "2.16",
+  "total": "38.15",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

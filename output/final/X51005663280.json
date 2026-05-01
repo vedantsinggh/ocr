@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663280.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663280.txt",
+    "ocr_line_count": 55,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Chili's Grill & Bar KLCC",
+  "date": "2017-12-30",
+  "items": [
+    {
+      "name": "PINEAPPLE JUICE",
+      "qty": null,
+      "price": "12.95"
+    },
+    {
+      "name": "TOSTADA CHIPS",
+      "qty": null,
+      "price": "16.95"
+    },
+    {
+      "name": "CHP_BWL CK",
+      "qty": null,
+      "price": "29.95"
+    },
+    {
+      "name": "MARG CK",
+      "qty": null,
+      "price": "27.95"
+    }
+  ],
+  "subtotal": "87.80",
+  "tax": "6.61",
+  "total": "102.40",
+  "currency": "RM",
+  "payment_method": null
+}

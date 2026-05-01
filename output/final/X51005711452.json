@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005711452.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005711452.txt",
+    "ocr_line_count": 38,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's Shell Mahkota Cheras",
+  "date": "2018-03-21",
+  "items": [
+    {
+      "name": "M McChicken",
+      "qty": 1,
+      "price": "9.50"
+    },
+    {
+      "name": "Fries",
+      "qty": 1,
+      "price": "5.00"
+    },
+    {
+      "name": "Nuggets",
+      "qty": 1,
+      "price": "10.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.44",
+  "total": "25.40",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

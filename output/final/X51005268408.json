@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005268408.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005268408.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "PEE0MART",
+  "date": "2017-11-20",
+  "items": [
+    {
+      "name": "PEDIASURE COMPLETE SAS",
+      "qty": null,
+      "price": "RM17.90"
+    },
+    {
+      "name": "MILO 2KG",
+      "qty": 69,
+      "price": "RM34.90"
+    },
+    {
+      "name": "ZING HEING OAT WHEAT",
+      "qty": 7709,
+      "price": "RM4.10"
+    },
+    {
+      "name": "DISNEY DS112 HIDE NECK",
+      "qty": 7893,
+      "price": "RM5.89"
+    },
+    {
+      "name": "JOHNS0N'S PH5.5 2IN1",
+      "qty": 4385,
+      "price": "RM6.99"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM9.41",
+  "total": "RM169.78",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

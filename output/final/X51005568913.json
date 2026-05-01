@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568913.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568913.txt",
+    "ocr_line_count": 37,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "IKEA Cheras",
+  "date": "2017-07-27",
+  "items": [
+    {
+      "name": "B0STRAK WRD 80X50X18",
+      "qty": 2,
+      "price": "269.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "30.45",
+  "total": "538.00",
+  "currency": "RM",
+  "payment_method": "Visa"
+}

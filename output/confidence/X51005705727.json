@@ -1,0 +1,263 @@
+{
+  "source": "images/X51005705727.jpg",
+  "line_count": 64,
+  "avg_confidence": 0.9556,
+  "lines": [
+    {
+      "text": "KEDAI BUKU NEW ACHEIVERS",
+      "confidence": 0.9782
+    },
+    {
+      "text": "(CO NO. SA0345444-K)",
+      "confidence": 0.9992
+    },
+    {
+      "text": " NO. 12 & 14, JALAN JINJANG 27/54",
+      "confidence": 0.9699
+    },
+    {
+      "text": "TAMAN ALAM MEGAH, SEKSYEN 27",
+      "confidence": 0.9991
+    },
+    {
+      "text": " 40400 SHAH ALAM, SELANGOR D. E.",
+      "confidence": 0.996
+    },
+    {
+      "text": "TEL : 603-51910643 FAX : 603-51910643",
+      "confidence": 0.9578
+    },
+    {
+      "text": "GST NO : 001729572864",
+      "confidence": 0.9799
+    },
+    {
+      "text": "FULL TAX INVOICE",
+      "confidence": 0.9562
+    },
+    {
+      "text": " Bill To :",
+      "confidence": 0.9367
+    },
+    {
+      "text": "Receipt #: Cs00310146",
+      "confidence": 0.9449
+    },
+    {
+      "text": "10",
+      "confidence": 0.8079
+    },
+    {
+      "text": "Salesperson:",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Date: 28/12/2017",
+      "confidence": 0.9997
+    },
+    {
+      "text": "Cashier: USER",
+      "confidence": 0.9556
+    },
+    {
+      "text": "Time: 10:50:00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "16",
+      "confidence": 0.9642
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.847
+    },
+    {
+      "text": "(gst)",
+      "confidence": 0.9516
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9805
+    },
+    {
+      "text": " Item",
+      "confidence": 0.959
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9877
+    },
+    {
+      "text": "RSP",
+      "confidence": 0.9818
+    },
+    {
+      "text": " Amount",
+      "confidence": 0.9401
+    },
+    {
+      "text": "0",
+      "confidence": 0.5355
+    },
+    {
+      "text": "9555078912508",
+      "confidence": 0.9998
+    },
+    {
+      "text": "40.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "42.16",
+      "confidence": 0.9998
+    },
+    {
+      "text": "42.40",
+      "confidence": 0.9999
+    },
+    {
+      "text": "L",
+      "confidence": 0.7649
+    },
+    {
+      "text": "SR: CRE ASTAR LAMINATING FILM A4 100STS",
+      "confidence": 0.9872
+    },
+    {
+      "text": "0",
+      "confidence": 0.9914
+    },
+    {
+      "text": "Tot qty:",
+      "confidence": 0.9364
+    },
+    {
+      "text": "1",
+      "confidence": 0.9845
+    },
+    {
+      "text": "42.16",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6",
+      "confidence": 0.9983
+    },
+    {
+      "text": "40.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "(Excluded GST) Sub Total :",
+      "confidence": 0.9653
+    },
+    {
+      "text": "Discount :",
+      "confidence": 0.9983
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9996
+    },
+    {
+      "text": "Total gst :",
+      "confidence": 0.9391
+    },
+    {
+      "text": "2.16",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Rounding :",
+      "confidence": 0.9635
+    },
+    {
+      "text": "-0.01",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9935
+    },
+    {
+      "text": "38.15",
+      "confidence": 0.9999
+    },
+    {
+      "text": "CASH :",
+      "confidence": 0.903
+    },
+    {
+      "text": "50.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Change :",
+      "confidence": 0.9998
+    },
+    {
+      "text": "11.85",
+      "confidence": 0.9999
+    },
+    {
+      "text": "6",
+      "confidence": 0.9857
+    },
+    {
+      "text": "GSt SUMMARy",
+      "confidence": 0.6557
+    },
+    {
+      "text": "Tax Code",
+      "confidence": 0.9899
+    },
+    {
+      "text": "%",
+      "confidence": 0.9992
+    },
+    {
+      "text": "Amount",
+      "confidence": 0.9998
+    },
+    {
+      "text": "gst",
+      "confidence": 0.6024
+    },
+    {
+      "text": " SR",
+      "confidence": 0.92
+    },
+    {
+      "text": "6",
+      "confidence": 0.9975
+    },
+    {
+      "text": "36.00",
+      "confidence": 0.9998
+    },
+    {
+      "text": "2.16",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Total :",
+      "confidence": 0.9937
+    },
+    {
+      "text": "36.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "2.16",
+      "confidence": 0.9998
+    },
+    {
+      "text": "GOODS SOLD ARE NOT RETURNABLE,",
+      "confidence": 0.9699
+    },
+    {
+      "text": "THANK YOU.",
+      "confidence": 0.9922
+    }
+  ]
+}

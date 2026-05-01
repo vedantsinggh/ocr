@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469612.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469612.txt",
+    "ocr_line_count": 43,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "BOOKTA KTAMANDAYASDN BHD",
+  "date": "2018-12-25",
+  "items": [
+    {
+      "name": "KFMODELLING CLAYKIDDYFISH",
+      "qty": 1,
+      "price": "9.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "9.00",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

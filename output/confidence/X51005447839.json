@@ -1,0 +1,223 @@
+{
+  "source": "images/X51005447839.jpg",
+  "line_count": 54,
+  "avg_confidence": 0.9586,
+  "lines": [
+    {
+      "text": "RESTAURANT JIAWEI",
+      "confidence": 0.9257
+    },
+    {
+      "text": "JIAWEI HOUSE",
+      "confidence": 0.9458
+    },
+    {
+      "text": "002693074-K",
+      "confidence": 0.9909
+    },
+    {
+      "text": "13,JLN TASIKUTAMA8",
+      "confidence": 0.947
+    },
+    {
+      "text": "MEDAN NIAGA DAMAI SG BESI",
+      "confidence": 0.929
+    },
+    {
+      "text": "57000 KL",
+      "confidence": 0.945
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9928
+    },
+    {
+      "text": "Invoice :9820",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Cashier:admin",
+      "confidence": 0.9913
+    },
+    {
+      "text": "POS No:1",
+      "confidence": 0.8922
+    },
+    {
+      "text": "Date :9/3/2018 20:54:50",
+      "confidence": 0.941
+    },
+    {
+      "text": "Table",
+      "confidence": 0.9847
+    },
+    {
+      "text": "16",
+      "confidence": 0.9997
+    },
+    {
+      "text": ".",
+      "confidence": 0.6494
+    },
+    {
+      "text": "ITEN",
+      "confidence": 0.964
+    },
+    {
+      "text": "QTY",
+      "confidence": 0.9922
+    },
+    {
+      "text": "U/PRM)",
+      "confidence": 0.9099
+    },
+    {
+      "text": "D1SC%)",
+      "confidence": 0.8471
+    },
+    {
+      "text": "AntRM",
+      "confidence": 0.9885
+    },
+    {
+      "text": "B.Bean Bitterground Fish Head",
+      "confidence": 0.9673
+    },
+    {
+      "text": "(S)",
+      "confidence": 0.8639
+    },
+    {
+      "text": "1",
+      "confidence": 0.9976
+    },
+    {
+      "text": "35.00",
+      "confidence": 0.9967
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9956
+    },
+    {
+      "text": "F.Hong Kong Sauteed S)",
+      "confidence": 0.9313
+    },
+    {
+      "text": "1",
+      "confidence": 0.9986
+    },
+    {
+      "text": "16.00",
+      "confidence": 0.9064
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Steamed Egg(S)",
+      "confidence": 0.9772
+    },
+    {
+      "text": "1",
+      "confidence": 0.9996
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.996
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9936
+    },
+    {
+      "text": "Chinese Tea",
+      "confidence": 0.9763
+    },
+    {
+      "text": "2",
+      "confidence": 0.9966
+    },
+    {
+      "text": "0.60",
+      "confidence": 0.9971
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9997
+    },
+    {
+      "text": "1.20",
+      "confidence": 0.9998
+    },
+    {
+      "text": "COLD",
+      "confidence": 0.998
+    },
+    {
+      "text": "Rice (B)",
+      "confidence": 0.8992
+    },
+    {
+      "text": "2",
+      "confidence": 0.9978
+    },
+    {
+      "text": "1.50",
+      "confidence": 0.9986
+    },
+    {
+      "text": "0.00",
+      "confidence": 0.9969
+    },
+    {
+      "text": "3",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Sub Total Before Discount",
+      "confidence": 0.9533
+    },
+    {
+      "text": "RM65.20",
+      "confidence": 0.9946
+    },
+    {
+      "text": "Service Charge",
+      "confidence": 0.9791
+    },
+    {
+      "text": "RM0.00",
+      "confidence": 0.9426
+    },
+    {
+      "text": "Total Sales",
+      "confidence": 0.945
+    },
+    {
+      "text": "RM65.20",
+      "confidence": 0.993
+    },
+    {
+      "text": "Rounding Ad justment:",
+      "confidence": 0.9511
+    },
+    {
+      "text": "RM0.00",
+      "confidence": 0.9615
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9907
+    },
+    {
+      "text": "RM 65.20",
+      "confidence": 0.989
+    },
+    {
+      "text": "***************************************",
+      "confidence": 0.7631
+    }
+  ]
+}

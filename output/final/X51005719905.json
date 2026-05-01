@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719905.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719905.txt",
+    "ocr_line_count": 77,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SAINT HeART PASTRY",
+  "date": "2018-03-25",
+  "items": [
+    {
+      "name": "JUMBOSAUSAGE CHEESE",
+      "qty": 1,
+      "price": "3.10"
+    },
+    {
+      "name": "GARLIC CHEESE",
+      "qty": 1,
+      "price": "2.00"
+    }
+  ],
+  "subtotal": "7.74",
+  "tax": "0.46",
+  "total": "8.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

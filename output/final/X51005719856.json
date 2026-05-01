@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719856.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719856.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "baskinBRrobbiNs",
+  "date": "2018-02-15",
+  "items": [
+    {
+      "name": "Double Rg.Cup",
+      "qty": 1,
+      "price": "20.00SR"
+    },
+    {
+      "name": "Colour Rice",
+      "qty": 1,
+      "price": "1.50SR"
+    }
+  ],
+  "subtotal": "21.50",
+  "tax": "1.22RM",
+  "total": "21.50",
+  "currency": "RM",
+  "payment_method": null
+}

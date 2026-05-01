@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005444033.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005444033.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "B.I.G. BENS INDEPENDENT GROCER",
+  "date": "2018-03-12",
+  "items": [
+    {
+      "name": "Dole Pineapple Pcs",
+      "qty": null,
+      "price": "23.70"
+    },
+    {
+      "name": "Evian Mineral water 6x1.25L",
+      "qty": null,
+      "price": "53.50"
+    }
+  ],
+  "subtotal": null,
+  "tax": "53.47",
+  "total": "77.20",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

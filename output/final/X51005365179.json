@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005365179.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005365179.txt",
+    "ocr_line_count": 48,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "C W KHOO HARDWARE SDN BHD",
+  "date": "2018-03-01",
+  "items": [
+    {
+      "name": "AIR ADAPTOR",
+      "qty": 5,
+      "price": "4.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.20",
+  "total": "21.20",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}

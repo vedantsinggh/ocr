@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568866.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568866.txt",
+    "ocr_line_count": 52,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "POPULAR BOOK CO.",
+  "date": "2017-08-20",
+  "items": [
+    {
+      "name": "H'MAN GLASS PAPER",
+      "qty": null,
+      "price": "5.60"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.29",
+  "total": "5.05",
+  "currency": "RM",
+  "payment_method": "Cash"
+}

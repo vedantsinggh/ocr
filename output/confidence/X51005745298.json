@@ -1,0 +1,135 @@
+{
+  "source": "images/X51005745298.jpg",
+  "line_count": 32,
+  "avg_confidence": 0.9354,
+  "lines": [
+    {
+      "text": "99SPEEDMARTS/B519537-X",
+      "confidence": 0.9757
+    },
+    {
+      "text": "LOT P.T.2811JALAN ANG5A",
+      "confidence": 0.9165
+    },
+    {
+      "text": "TAMAN BERKELEY",
+      "confidence": 0.9621
+    },
+    {
+      "text": "41150KLANG,SELANGOR",
+      "confidence": 0.9656
+    },
+    {
+      "text": "1317-TRILLIUM SGBESI",
+      "confidence": 0.9486
+    },
+    {
+      "text": "GST ID.NO000181747712",
+      "confidence": 0.9493
+    },
+    {
+      "text": "INVOICENO18353/102/T0311",
+      "confidence": 0.9597
+    },
+    {
+      "text": "04:06PM",
+      "confidence": 0.9115
+    },
+    {
+      "text": "570842",
+      "confidence": 0.998
+    },
+    {
+      "text": "31-03-18",
+      "confidence": 0.9906
+    },
+    {
+      "text": "503 100 PLUS CAN325MLICE",
+      "confidence": 0.9207
+    },
+    {
+      "text": "RM1.49s",
+      "confidence": 0.9316
+    },
+    {
+      "text": "501 MALTA CAN320ML (ICE",
+      "confidence": 0.9071
+    },
+    {
+      "text": "RM2.50s",
+      "confidence": 0.9191
+    },
+    {
+      "text": "Total Sales (Inclusive GsT) RM",
+      "confidence": 0.8709
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.9937
+    },
+    {
+      "text": "Rounaing Hdjustment RM",
+      "confidence": 0.8631
+    },
+    {
+      "text": ".01",
+      "confidence": 0.977
+    },
+    {
+      "text": "Rounding RM",
+      "confidence": 0.9627
+    },
+    {
+      "text": "4.00",
+      "confidence": 0.9941
+    },
+    {
+      "text": "CASHRM",
+      "confidence": 0.9871
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9965
+    },
+    {
+      "text": "CHANGE RM",
+      "confidence": 0.9595
+    },
+    {
+      "text": "6.00",
+      "confidence": 0.9973
+    },
+    {
+      "text": "GST Summary",
+      "confidence": 0.9564
+    },
+    {
+      "text": "Amount(RM)",
+      "confidence": 0.8804
+    },
+    {
+      "text": "Tax(RM)",
+      "confidence": 0.8652
+    },
+    {
+      "text": "5=6/.",
+      "confidence": 0.6036
+    },
+    {
+      "text": "3.77",
+      "confidence": 0.9979
+    },
+    {
+      "text": ".22",
+      "confidence": 0.8922
+    },
+    {
+      "text": "Thank You. Please come aqain",
+      "confidence": 0.9242
+    },
+    {
+      "text": "Keep the invoice for applicable returns",
+      "confidence": 0.9537
+    }
+  ]
+}

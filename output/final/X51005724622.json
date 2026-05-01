@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005724622.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005724622.txt",
+    "ocr_line_count": 75,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-07",
+  "items": [
+    {
+      "name": "SR PASIR HALUS(D)",
+      "qty": 1,
+      "price": "65.00"
+    },
+    {
+      "name": "SR KAPUR AIR(A1)",
+      "qty": 7,
+      "price": "3.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.16",
+  "total": "91.16",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005582745.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005582745.txt",
+    "ocr_line_count": 53,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "MODERNDEPOTSDNBHD",
+  "date": "2016-12-04",
+  "items": [
+    {
+      "name": "CLSTEL670",
+      "qty": 1,
+      "price": "141.51"
+    },
+    {
+      "name": "SRSTEL670 HEATGUN 2000WSTANLEY S/N:031274",
+      "qty": null,
+      "price": "8.49"
+    }
+  ],
+  "subtotal": "141.51",
+  "tax": "8.49",
+  "total": "150.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

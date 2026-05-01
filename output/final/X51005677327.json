@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677327.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677327.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-02-01",
+  "items": [
+    {
+      "name": "SR CEMENT (50KG)",
+      "qty": 2,
+      "price": "18.02"
+    }
+  ],
+  "subtotal": "34.00",
+  "tax": "2.04",
+  "total": "36.04",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

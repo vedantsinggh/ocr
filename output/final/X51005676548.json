@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676548.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676548.txt",
+    "ocr_line_count": 66,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2018-01-15",
+  "items": [
+    {
+      "name": "HOES PIN",
+      "qty": null,
+      "price": "7.95"
+    },
+    {
+      "name": "4' HOES HANDLE",
+      "qty": null,
+      "price": "3.18"
+    }
+  ],
+  "subtotal": "10.50",
+  "tax": "0.63",
+  "total": "11.13",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

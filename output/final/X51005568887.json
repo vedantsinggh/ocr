@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568887.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568887.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HON HWA HARDWARE TRADING",
+  "date": "2017-04-20",
+  "items": [
+    {
+      "name": "ALUMNUMROD",
+      "qty": 6,
+      "price": "7.20"
+    }
+  ],
+  "subtotal": null,
+  "tax": "6.79",
+  "total": "7.20",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

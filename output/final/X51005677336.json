@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005677336.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005677336.txt",
+    "ocr_line_count": 59,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-27",
+  "items": [
+    {
+      "name": "GUNI BAG",
+      "qty": 30,
+      "price": "0.74"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.26",
+  "total": "22.26",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

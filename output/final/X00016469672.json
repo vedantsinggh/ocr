@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469672.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469672.txt",
+    "ocr_line_count": 92,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SOON HUAT MACHINERY ENTERPRISE",
+  "date": "2019-01-11",
+  "items": [
+    {
+      "name": "REPAIR ENGINE POWER SPRAYER (1UNIT workmanship &service)",
+      "qty": 1,
+      "price": "80.00"
+    },
+    {
+      "name": "GIANT 606 OVERFLOWASSY",
+      "qty": 1,
+      "price": "160.00"
+    },
+    {
+      "name": "ENGINE OIL",
+      "qty": 1,
+      "price": "17.00"
+    },
+    {
+      "name": "GREASE FOR TOOLS4OML (AKODA)",
+      "qty": 1,
+      "price": "6.00"
+    },
+    {
+      "name": "EY20PLUG CHAMPION",
+      "qty": 1,
+      "price": "8.00"
+    },
+    {
+      "name": "STARTER TALI",
+      "qty": 1,
+      "price": "10.00"
+    },
+    {
+      "name": "EY20 STARTER HANDLE",
+      "qty": 1,
+      "price": "18.00"
+    },
+    {
+      "name": "HD401LCOTIN",
+      "qty": 2,
+      "price": "18.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": "327.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

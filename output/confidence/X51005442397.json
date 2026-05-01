@@ -1,0 +1,115 @@
+{
+  "source": "images/X51005442397.jpg",
+  "line_count": 27,
+  "avg_confidence": 0.9501,
+  "lines": [
+    {
+      "text": "Triple Six Point Enterprise 666",
+      "confidence": 0.9352
+    },
+    {
+      "text": "No 14&16Jalan Permas 4/3 Bandar Baru Pemas Jay",
+      "confidence": 0.9259
+    },
+    {
+      "text": "Tel:016-7574666",
+      "confidence": 0.9481
+    },
+    {
+      "text": "Receipt no:REC-0015016",
+      "confidence": 0.8544
+    },
+    {
+      "text": "Date:25-03-201809:42:19AM",
+      "confidence": 0.9111
+    },
+    {
+      "text": "Payment Type:Cash",
+      "confidence": 0.953
+    },
+    {
+      "text": "Receipt",
+      "confidence": 0.9965
+    },
+    {
+      "text": "Recpt No.REC0015016",
+      "confidence": 0.8893
+    },
+    {
+      "text": "QTY ITEM",
+      "confidence": 0.8986
+    },
+    {
+      "text": "PRICE",
+      "confidence": 0.9782
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 0.9975
+    },
+    {
+      "text": "RM",
+      "confidence": 0.9714
+    },
+    {
+      "text": "(RM",
+      "confidence": 0.7962
+    },
+    {
+      "text": "2x Hey Song",
+      "confidence": 0.8834
+    },
+    {
+      "text": "4.30",
+      "confidence": 0.993
+    },
+    {
+      "text": "7.60",
+      "confidence": 0.9896
+    },
+    {
+      "text": "Camellia green",
+      "confidence": 0.9672
+    },
+    {
+      "text": "tea580ml",
+      "confidence": 0.9519
+    },
+    {
+      "text": "Disc:1.0000",
+      "confidence": 0.9212
+    },
+    {
+      "text": "Discount",
+      "confidence": 0.9927
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9991
+    },
+    {
+      "text": "Total Amount",
+      "confidence": 0.9145
+    },
+    {
+      "text": "7.60",
+      "confidence": 0.9982
+    },
+    {
+      "text": "Tendered",
+      "confidence": 0.9975
+    },
+    {
+      "text": "10.00",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Change",
+      "confidence": 0.9985
+    },
+    {
+      "text": "2.40",
+      "confidence": 0.9916
+    }
+  ]
+}

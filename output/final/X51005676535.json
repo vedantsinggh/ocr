@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005676535.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005676535.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "GIN KEE",
+  "date": "2017-12-30",
+  "items": [
+    {
+      "name": "CEMENT(50KG)",
+      "qty": 2,
+      "price": "18.02"
+    },
+    {
+      "name": "PASIR KAR (BAG)",
+      "qty": 10,
+      "price": "5.30"
+    }
+  ],
+  "subtotal": null,
+  "tax": "5.04",
+  "total": "89.04",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

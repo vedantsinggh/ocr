@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005719823.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005719823.txt",
+    "ocr_line_count": 65,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "AAPHARMACT",
+  "date": "2018-01-29",
+  "items": [
+    {
+      "name": "IBUPROFEN FILM COATEI TAB",
+      "qty": 4,
+      "price": "12.00Z"
+    },
+    {
+      "name": "FEBRICOL-RX10X10'S",
+      "qty": 6,
+      "price": "3.49"
+    },
+    {
+      "name": "NOFLUX TABLET",
+      "qty": null,
+      "price": "20.94S"
+    }
+  ],
+  "subtotal": "44.94",
+  "tax": "1.26",
+  "total": "46.20",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

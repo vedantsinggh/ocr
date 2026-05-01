@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005568890.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005568890.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "HONHWA HARDWARETRADING",
+  "date": "2017-01-05",
+  "items": [
+    {
+      "name": "PVCWALLPLUG",
+      "qty": 1,
+      "price": "5.00SR"
+    }
+  ],
+  "subtotal": null,
+  "tax": "0.28RM",
+  "total": "5.00RM",
+  "currency": "RM",
+  "payment_method": "CASH"
+}

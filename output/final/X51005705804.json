@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005705804.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005705804.txt",
+    "ocr_line_count": 62,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "ASO ELECTRICAL TRADING SDN BHD",
+  "date": "2017-12-04",
+  "items": [
+    {
+      "name": "SR: FUJI CONTACTOR, SC-03, 240VAC",
+      "qty": 1,
+      "price": "47.06"
+    },
+    {
+      "name": "SR: ANLY FLOATLESS RELAY 240V. AFS-",
+      "qty": 1,
+      "price": "51.94"
+    }
+  ],
+  "subtotal": "93.40",
+  "tax": "5.60",
+  "total": "99.00",
+  "currency": "INR",
+  "payment_method": null
+}

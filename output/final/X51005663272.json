@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663272.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663272.txt",
+    "ocr_line_count": 50,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "WAHIN HARDWARE SDN BHD",
+  "date": "2017-12-04",
+  "items": [
+    {
+      "name": "14\" MINI ROLLER REFILL",
+      "qty": null,
+      "price": "5.30"
+    },
+    {
+      "name": "24\"X18\" ROLLERPAINT HANDLE",
+      "qty": 2,
+      "price": "3.1800"
+    },
+    {
+      "name": "33.5LRT BLACK OXIDE PAINT",
+      "qty": 1,
+      "price": "30.7400"
+    }
+  ],
+  "subtotal": "42.40",
+  "tax": "2.40",
+  "total": "42.40",
+  "currency": "SR",
+  "payment_method": null
+}

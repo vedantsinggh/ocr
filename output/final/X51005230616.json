@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005230616.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005230616.txt",
+    "ocr_line_count": 47,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "McDonald's",
+  "date": "2018-01-19",
+  "items": [
+    {
+      "name": "M SpicyDeluxe",
+      "qty": 2,
+      "price": "25.40"
+    },
+    {
+      "name": "M GrilledChicBgr",
+      "qty": 1,
+      "price": "12.50"
+    },
+    {
+      "name": "Small Cone",
+      "qty": 1,
+      "price": "1.00"
+    }
+  ],
+  "subtotal": null,
+  "tax": "2.20",
+  "total": "38.90",
+  "currency": "INR",
+  "payment_method": "Cash"
+}

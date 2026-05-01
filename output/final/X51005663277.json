@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005663277.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005663277.txt",
+    "ocr_line_count": 58,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-02",
+  "items": [
+    {
+      "name": "W33) 105MM/4' CUTTING DISC",
+      "qty": 1,
+      "price": "29.68"
+    }
+  ],
+  "subtotal": null,
+  "tax": "1.68",
+  "total": "29.68",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005447844.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005447844.txt",
+    "ocr_line_count": 63,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "JIAWEI HOUSE",
+  "date": "2018-02-23",
+  "items": [
+    {
+      "name": "Red Cat Fish",
+      "qty": 1,
+      "price": "42.1"
+    },
+    {
+      "name": "Steamed Ginger Clams",
+      "qty": 20.0,
+      "price": "0.0"
+    },
+    {
+      "name": "Beancurd W Dao Gan",
+      "qty": 18.0,
+      "price": "0.0"
+    },
+    {
+      "name": "G.Dragon Chives",
+      "qty": 16.0,
+      "price": "0.0"
+    },
+    {
+      "name": "STIR FRIED Pu Er 1-3",
+      "qty": 1,
+      "price": "5.0"
+    },
+    {
+      "name": "HOT RiceB",
+      "qty": 6,
+      "price": "0.0"
+    },
+    {
+      "name": "Rice Small",
+      "qty": 3.0,
+      "price": "0.0"
+    }
+  ],
+  "subtotal": "110.00",
+  "tax": null,
+  "total": "110.00",
+  "currency": "RM",
+  "payment_method": null
+}

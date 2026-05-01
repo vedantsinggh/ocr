@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X00016469676.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X00016469676.txt",
+    "ocr_line_count": 28,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "S.H.H.MOTOR SUNGAI RENGITI SDN.BHDE",
+  "date": "2019-01-23",
+  "items": [
+    {
+      "name": "CROCS300X17 TUBES",
+      "qty": null,
+      "price": "20.00"
+    }
+  ],
+  "subtotal": "20.00",
+  "tax": null,
+  "total": "20.00",
+  "currency": "INR",
+  "payment_method": "CASH"
+}

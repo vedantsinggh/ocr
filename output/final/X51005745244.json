@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "source": "out/ocr_raw/X51005745244.txt",
+    "preprocessed_path": null,
+    "ocr_raw_path": "out/ocr_raw/X51005745244.txt",
+    "ocr_line_count": 31,
+    "elapsed_ocr_s": 0.0
+  },
+  "store": "Subway",
+  "date": "2018-02-14",
+  "items": [
+    {
+      "name": "MY EDV Mea1",
+      "qty": 1,
+      "price": "RM11.90"
+    },
+    {
+      "name": "6\" -Meatball Sub",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "16oz Fountain Drink.",
+      "qty": null,
+      "price": "-RM11.90"
+    },
+    {
+      "name": "1 Cookies",
+      "qty": null,
+      "price": "-RM11.90"
+    }
+  ],
+  "subtotal": null,
+  "tax": "RM0.67",
+  "total": "RM11.23",
+  "currency": "MYR",
+  "payment_method": "Cash"
+}
