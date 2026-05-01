@@ -1,85 +1,80 @@
+import logging
+
 import cv2
 import numpy as np
-from PIL import Image
+
+logger = logging.getLogger(__name__)
 
 
-def load_image(path: str) -> np.ndarray:
+def preprocess(path: str, enhance: bool = True) -> np.ndarray:
+    img = _load(path)
+    img = _upscale_if_small(img)
+    img = _deskew(img)
+    img = _denoise(img)
+    if enhance:
+        img = _enhance_contrast(img)
+        img = _sharpen(img)
+    return img
+
+
+def _load(path: str) -> np.ndarray:
     img = cv2.imread(path)
     if img is None:
         raise FileNotFoundError(f"Cannot load image: {path}")
     return img
 
 
-def deskew(image: np.ndarray) -> np.ndarray:
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+def _upscale_if_small(img: np.ndarray, min_height: int = 1000) -> np.ndarray:
+    h, w = img.shape[:2]
+    if h < min_height:
+        scale = min_height / h
+        img = cv2.resize(img, (int(w * scale), int(h * scale)), interpolation=cv2.INTER_CUBIC)
+        logger.debug("Upscaled %dx%d → %dx%d", h, w, *img.shape[:2][::-1])
+    return img
+
+
+def _deskew(img: np.ndarray) -> np.ndarray:
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     edges = cv2.Canny(gray, 50, 150, apertureSize=3)
     lines = cv2.HoughLinesP(edges, 1, np.pi / 180, threshold=100,
-                             minLineLength=100, maxLineGap=10)
+                            minLineLength=100, maxLineGap=10)
     if lines is None:
-        return image
+        return img
 
     angles = []
     for line in lines:
         x1, y1, x2, y2 = line[0]
-        if x2 - x1 != 0:
-            angle = np.degrees(np.arctan2(y2 - y1, x2 - x1))
-            if -45 < angle < 45:
-                angles.append(angle)
+        if x2 != x1:
+            a = np.degrees(np.arctan2(y2 - y1, x2 - x1))
+            if -45 < a < 45:
+                angles.append(a)
 
     if not angles:
-        return image
+        return img
 
-    median_angle = np.median(angles)
-    if abs(median_angle) < 0.5:
-        return image
+    angle = float(np.median(angles))
+    if abs(angle) < 0.5:
+        return img
 
-    h, w = image.shape[:2]
-    center = (w // 2, h // 2)
-    M = cv2.getRotationMatrix2D(center, median_angle, 1.0)
-    rotated = cv2.warpAffine(image, M, (w, h),
-                              flags=cv2.INTER_CUBIC,
-                              borderMode=cv2.BORDER_REPLICATE)
-    return rotated
+    logger.debug("Deskewing by %.2f°", angle)
+    h, w = img.shape[:2]
+    M = cv2.getRotationMatrix2D((w // 2, h // 2), angle, 1.0)
+    return cv2.warpAffine(img, M, (w, h),
+                          flags=cv2.INTER_CUBIC,
+                          borderMode=cv2.BORDER_REPLICATE)
 
 
-def enhance_contrast(image: np.ndarray) -> np.ndarray:
-    lab = cv2.cvtColor(image, cv2.COLOR_BGR2LAB)
+def _denoise(img: np.ndarray) -> np.ndarray:
+    return cv2.bilateralFilter(img, d=9, sigmaColor=75, sigmaSpace=75)
+
+
+def _enhance_contrast(img: np.ndarray, clip_limit: float = 2.5) -> np.ndarray:
+    lab = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)
     l, a, b = cv2.split(lab)
-    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
-    l_enhanced = clahe.apply(l)
-    enhanced = cv2.merge([l_enhanced, a, b])
-    return cv2.cvtColor(enhanced, cv2.COLOR_LAB2BGR)
+    clahe = cv2.createCLAHE(clipLimit=clip_limit, tileGridSize=(8, 8))
+    return cv2.cvtColor(cv2.merge([clahe.apply(l), a, b]), cv2.COLOR_LAB2BGR)
 
 
-def remove_noise(image: np.ndarray) -> np.ndarray:
-    return cv2.bilateralFilter(image, d=9, sigmaColor=75, sigmaSpace=75)
-
-
-def binarize(image: np.ndarray) -> np.ndarray:
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    binary = cv2.adaptiveThreshold(
-        gray, 255,
-        cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
-        cv2.THRESH_BINARY,
-        blockSize=31,
-        C=10
-    )
-    return binary
-
-
-def upscale_if_small(image: np.ndarray, min_height: int = 1000) -> np.ndarray:
-    h, w = image.shape[:2]
-    if h < min_height:
-        scale = min_height / h
-        new_w, new_h = int(w * scale), int(h * scale)
-        image = cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_CUBIC)
-    return image
-
-
-def preprocess(path: str) -> np.ndarray:
-    img = load_image(path)
-    img = upscale_if_small(img)
-    img = deskew(img)
-    img = remove_noise(img)
-    #img = enhance_contrast(img) #TODO imrpove this shit
-    return img
+def _sharpen(img: np.ndarray) -> np.ndarray:
+    blurred = cv2.GaussianBlur(img, (0, 0), 3)
+    return cv2.addWeighted(img, 1.5, blurred, -0.5, 0)

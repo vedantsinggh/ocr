@@ -3,6 +3,10 @@ output/
 outputs/
 log/
 logs/
+out/
+outs/
+output_v2/
+outputs_v2/
 images/
 image/
 __pycache__/
