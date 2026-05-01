@@ -36,6 +36,10 @@ def _ocr_worker(args):
     ocr_raw_dir.mkdir(parents=True, exist_ok=True)
     ocr_raw_path = ocr_raw_dir / f"{image_path.stem}.txt"
 
+    conf_dir = output_dir / "confidence"
+    conf_dir.mkdir(parents=True, exist_ok=True)
+    conf_path = conf_dir / f"{image_path.stem}.json"
+
     t0 = time.perf_counter()
     try:
         img_array = preprocess(str(image_path), enhance=enhance)
@@ -46,19 +50,43 @@ def _ocr_worker(args):
         result = ocr.ocr(str(pre_path), cls=True)
 
         lines = []
+        confidence_records = []
         if result and result[0]:
-            lines = [ln[1][0] for ln in result[0] if ln[1][0].strip()]
+            for ln in result[0]:
+                text, score = ln[1][0], ln[1][1]
+                if text.strip():
+                    lines.append(text)
+                    confidence_records.append({
+                        "text":       text,
+                        "confidence": round(float(score), 4),
+                    })
 
-        # Always persist raw OCR lines so they can be reused with --from-ocr
+        # Persist raw OCR lines so they can be reused with --from-ocr
         ocr_raw_path.write_text("\n".join(lines), encoding="utf-8")
 
+        # Persist per-line confidence scores to confidence/<stem>.json
+        conf_payload = {
+            "source":    str(image_path),
+            "line_count": len(confidence_records),
+            "avg_confidence": round(
+                sum(r["confidence"] for r in confidence_records) / len(confidence_records), 4
+            ) if confidence_records else None,
+            "lines": confidence_records,
+        }
+        conf_path.write_text(json.dumps(conf_payload, indent=2, ensure_ascii=False))
+
         elapsed = round(time.perf_counter() - t0, 2)
-        print(f"  [OCR] {image_path.name:<40}  {len(lines):>3} lines  {elapsed}s",
-              flush=True)
+        avg_conf = conf_payload["avg_confidence"]
+        print(
+            f"  [OCR] {image_path.name:<40}  {len(lines):>3} lines"
+            f"  avg_conf={avg_conf if avg_conf is not None else 'N/A'}  {elapsed}s",
+            flush=True,
+        )
         return {
             "source":            str(image_path),
             "preprocessed_path": str(pre_path),
             "ocr_raw_path":      str(ocr_raw_path),
+            "confidence_path":   str(conf_path),
             "ocr_lines":         lines,
             "elapsed_ocr_s":     elapsed,
         }
@@ -70,6 +98,7 @@ def _ocr_worker(args):
             "source":            str(image_path),
             "preprocessed_path": None,
             "ocr_raw_path":      None,
+            "confidence_path":   None,
             "ocr_lines":         [],
             "elapsed_ocr_s":     elapsed,
             "error":             str(exc),
@@ -90,6 +119,7 @@ def _load_ocr_raw(ocr_raw_dir: Path) -> dict:
             "source":            key,
             "preprocessed_path": None,   # not available in this mode
             "ocr_raw_path":      key,
+            "confidence_path":   None,   # not available in this mode
             "ocr_lines":         lines,
             "elapsed_ocr_s":     0.0,
             "stem":              txt_path.stem,
@@ -182,6 +212,7 @@ def run(input_path, output_dir, ocr_workers=2, llm_workers=2, enhance=True,
                     "source":            ocr.get("source", src),
                     "preprocessed_path": ocr.get("preprocessed_path"),
                     "ocr_raw_path":      ocr.get("ocr_raw_path"),
+                    "confidence_path":   ocr.get("confidence_path"),
                     "ocr_line_count":    len(ocr.get("ocr_lines", [])),
                     "elapsed_ocr_s":     ocr.get("elapsed_ocr_s"),
                 },

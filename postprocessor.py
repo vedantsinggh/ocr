@@ -1,4 +1,3 @@
-
 import json
 import logging
 import re
@@ -10,14 +9,19 @@ import requests
 
 logger = logging.getLogger(__name__)
 
+# ── Config ────────────────────────────────────────────────────────────────────
+
 OLLAMA_URL  = "http://localhost:11434/api/generate"
-MODEL       = "llama3:8b"
+MODEL       = "qwen2.5:7b"
 TEMPERATURE = 0.05
 TIMEOUT_S   = 180      # longer timeout to cover multi-receipt batches
 MAX_RETRIES = 3
 BATCH_SIZE  = 8        # receipts per LLM call; tune down if responses truncate
 NUM_PREDICT = 4096     # must fit BATCH_SIZE full receipt JSONs
 
+# ── Prompts ───────────────────────────────────────────────────────────────────
+
+# Single-receipt system prompt (used as fallback / retry)
 _SYSTEM_SINGLE = """\
 You extract structured data from receipt OCR text.
 Return ONLY a single valid JSON object — no prose, no markdown fences, no trailing commas.
@@ -83,6 +87,7 @@ Rules:
 - Use null for genuinely missing fields — never invent data"""
 
 
+# ── Public API ────────────────────────────────────────────────────────────────
 
 def postprocess(lines: list[str]) -> dict[str, Any]:
     """
@@ -218,6 +223,8 @@ def postprocess_batch(
     return results
 
 
+# ── Internal helpers ──────────────────────────────────────────────────────────
+
 def _solo_fallback(key: str, lines: list[str]) -> tuple[str, dict]:
     """Retry a single receipt with the single-receipt prompt."""
     try:
@@ -257,6 +264,17 @@ def _call_ollama(prompt: str, system: str) -> str:
 
 
 def _repair_json(text: str) -> str:
+    """
+    Fix the most common JSON mistakes LLMs make:
+      1. Trailing commas before } or ]
+      2. Single-quoted keys or string values
+      3. Bare Python-style None / True / False
+      4. Truncated output — find the last complete } and cut there
+
+    This is intentionally conservative: it only removes/replaces characters
+    rather than inserting them, so it cannot introduce wrong data.
+    """
+    # Strip markdown fences
     text = re.sub(r"```(?:json)?", "", text).strip().rstrip("`").strip()
 
     # Bare None/True/False (Python repr leaking through)
@@ -264,12 +282,13 @@ def _repair_json(text: str) -> str:
     text = re.sub(r'\bTrue\b',  'true',  text)
     text = re.sub(r'\bFalse\b', 'false', text)
 
-    # Single-quoted strings → double-quoted
-    # Only replace 'value' patterns not inside already-double-quoted strings.
-    # Simple heuristic: replace 'text' when preceded by : or , or [ or {
-    text = re.sub(r"(?<=[:{,\[]\s*)'([^']*)'", r'"\1"', text)
+    # Single-quoted strings → double-quoted.
+    # Use a capturing group for the preceding delimiter instead of a look-behind;
+    # Python's re module requires look-behinds to be fixed-width, and \s* is not.
+    text = re.sub(r"([:{,\[]\s*)'([^']*)'", r'\1"\2"', text)
+    # Keys: 'key':
+    text = re.sub(r"'([^']+)'(\s*:)", r'"\1"\2', text)
     # Also handle keys: 'key':
-    text = re.sub(r"'([^']+)'(?=\s*:)", r'"\1"', text)
 
     # Trailing commas before closing brace/bracket
     text = re.sub(r',\s*([}\]])', r'\1', text)
@@ -286,43 +305,110 @@ def _repair_json(text: str) -> str:
     return text
 
 
+def _extract_json_object(text: str) -> str:
+    """
+    Return the substring spanning the outermost { ... } in text.
+    This handles models that emit prose before or after the JSON block,
+    e.g. "Here is the data:\n```json\n{...}\n```".
+    Returns the original text unchanged if no braces are found.
+    """
+    start = text.find("{")
+    if start == -1:
+        return text
+    # Walk forward counting depth to find the matching closing brace
+    depth = 0
+    for i, ch in enumerate(text[start:], start):
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+    # Unbalanced — return from first { to last } as best effort
+    end = text.rfind("}") + 1
+    return text[start:end] if end > start else text
+
+
 def _parse_json_single(text: str) -> dict[str, Any]:
-    text = text.strip()
+    """
+    Parse a JSON object from LLM output, applying repair steps on failure.
 
+    Attempt order:
+      1. Raw output as-is (fast path for well-behaved models)
+      2. Strip markdown fences, then extract outermost { } block — this
+         handles models that emit prose before/after the JSON, e.g.
+         "Here is the data:" or trailing commentary
+      3. Full repair pass (trailing commas, single quotes, bare None/True/False)
+         applied to the extracted block, then parse again
+
+    Raises ValueError if all three attempts fail.
+    """
+    original = text.strip()
+
+    # Attempt 1: parse as-is
     try:
-        return json.loads(text)
+        return json.loads(original)
     except json.JSONDecodeError:
         pass
 
-    cleaned = re.sub(r"```(?:json)?", "", text).strip().rstrip("`").strip()
+    # Strip markdown fences, then isolate the outermost { } block.
+    # Doing both together means prose preambles like
+    # "Here is the extracted receipt data in JSON format:" are removed
+    # before we try to parse, instead of causing a parse error.
+    cleaned = re.sub(r"```(?:json)?", "", original).strip().rstrip("`").strip()
+    extracted = _extract_json_object(cleaned)
+
+    # Attempt 2: extracted block before any repair
     try:
-        return json.loads(cleaned)
+        return json.loads(extracted)
     except json.JSONDecodeError:
         pass
 
-    start, end = cleaned.find("{"), cleaned.rfind("}") + 1
-    if start != -1 and end > 0:
-        try:
-            return json.loads(cleaned[start:end])
-        except json.JSONDecodeError:
-            pass
-
-    repaired = _repair_json(cleaned)
+    # Attempt 3: repair pass on the extracted block
+    repaired = _repair_json(extracted)
     try:
         return json.loads(repaired)
     except json.JSONDecodeError as final_exc:
         raise ValueError(
             f"JSON unparseable after repair.\n"
             f"Error: {final_exc}\n"
-            f"Raw output (first 400 chars):\n{text[:400]}"
+            f"Raw output (first 400 chars):\n{original[:400]}"
         ) from final_exc
 
 
+def _clean_price(value) -> str | None:
+    """
+    Normalise a price string returned by the LLM.
+    - Strips trailing tax-code letters that OCR picks up, e.g. "17.99 A" -> "17.99"
+    - Strips stray whitespace
+    - Returns None if nothing numeric remains
+    """
+    if value is None:
+        return None
+    s = str(value).strip()
+    # Remove trailing uppercase letter(s) that are tax-code annotations
+    s = re.sub(r"\s+[A-Z]+$", "", s).strip()
+    # Must contain at least one digit to be a valid price
+    return s if re.search(r"\d", s) else None
+
+
 def _validate(data: dict) -> dict:
+    """Ensure all schema keys exist, clean prices, and drop items without a price."""
     for key in ("store", "date", "subtotal", "tax", "total", "currency", "payment_method"):
         data.setdefault(key, None)
     data.setdefault("items", [])
     data["currency"] = data["currency"] or "INR"
+
+    # Clean prices on line items
+    for item in data["items"]:
+        item["price"] = _clean_price(item.get("price"))
+
+    # Clean top-level monetary fields
+    for field in ("subtotal", "tax", "total"):
+        if data[field] is not None:
+            data[field] = _clean_price(data[field])
+
+    # Drop items that ended up with no valid price after cleaning
     data["items"] = [
         i for i in data["items"]
         if i.get("price") not in (None, "", "null")
